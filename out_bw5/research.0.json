@@ -1,0 +1,65 @@
+{
+ "evidence": [
+  {
+   "id": "E01",
+   "fact": "In a report published in July 2026, the World Bank acknowledged that industrial policy has returned 'with a vengeance,' finding that 183 of the world's 195 countries actively target at least one industry.",
+   "as_of": "2026-07-07",
+   "source": "Forbes / World Bank",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaDdkw2GxfKyVF6ds2nXLSzXBTnu1AE3arzPpwzzk0jo20ccIXOGH5jZrQhrDybU5rBXwPh4N8NYixP_TvMjTRKsDv0yj0o2QKJeM95Jor_aSLzWt8bejs5t0Jpa7RfYadMQsUu61hTD2Bw3J0GmjgB10DXV0jeTovAdDq9z_1i4IN59uqrSEcbsARVcAqgThf-IrxCe6xk8eGHwr335035aypA_cY"
+  },
+  {
+   "id": "E02",
+   "fact": "On January 13, 2026, the US Department of Commerce's Bureau of Industry and Security (BIS) released a final rule modifying the license review stance for commercially available NVIDIA H200 and AMD MI325X equivalent chips to a case-by-case review policy.",
+   "as_of": "2026-01-16",
+   "source": "Mayer Brown / US BIS",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1qEgm5UepLBxJEGM-JrC3nSB1XPjnDrHXVJtteRdfqSu5VW31dX3l8F-p8CVdcwzkpTO_zpb46r-JtJKvGkP_9rbWb8anp2xtpEIb5BoT-g-OSXdPtdjZza9FP2eUnuNVB5So31WvTZRNEzRHxLyh0QfXLOb4yHbM7pDutqJ5ZpjkxNy9zQjRUWgPjhSDsraw38d0jZSNA2sb12QPU0E79JBppynLFA=="
+  },
+  {
+   "id": "E03",
+   "fact": "In June 2026, OpenAI closed submissions for its 'Industrial Policy for the Intelligence Age' initiative after receiving over 400 policy responses and establishing a pilot program featuring research grants up to $100,000 and up to $1 million in API credits.",
+   "as_of": "2026-06-09",
+   "source": "OpenAI Global Affairs",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHEFNAYZq2yz1aoGnusql9Z2qbwpVqJ8CzD3IWTjU5llavQ_kN4gqzCpba0Llti4XmpVYcevC1LyjyilkpVR8wUNU2EVHdXYzhcehcqdXZhWHH76VuLZId7xdUk6rWWSRSSAHAs61itP-hIUnDO6GqYD2Dp2KaiRNOjA=="
+  },
+  {
+   "id": "E04",
+   "fact": "Draft U.S. export control regulations reported in March 2026 outline tiered frameworks where shipments of up to 1,000 Nvidia GB300 GPUs undergo simple reviews, whereas exports exceeding 200,000 units require host-country governmental agreements and matching local investments in American AI.",
+   "as_of": "2026-03-13",
+   "source": "Global Trade & Sanctions Law / Media Reports",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF86rRg7NPnoftX-t_qddSCq99GMfYOvTk6-zh6Bz5d9PKgjQuX2upwzMyKFa9XIN7RSkClGlynA2vNUcnp9SF8MBqE9Sf4xeZeHI7mtcs_3qI0smChthqxRPIQwJTJiu-qU3ndu1-nzZkvCsaPUCDBfkU3b1JVW81CT98afwzbrX9wL-4cUIWLKPBKKXSPw9OBa6gUScb0VVdp9bb15bujuVe0O-TS9KF8"
+  },
+  {
+   "id": "E05",
+   "fact": "Over the past decade leading up to August 2026, global venture investment in artificial intelligence grew over thirty-fold, expanding from $8.3 billion to $259 billion.",
+   "as_of": "2026-08-06",
+   "source": "Analytics / Financial Insights",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyATQic_NTv-6T-0iCA9Xe3yLPSYKHdT8WPK3V3Dqf6ncKuPq5baO-jLNrm8uAq9HPFUy0z3kzUvhpu0FZr18yPtgIfH0mC0aDd1tVrFZwSGYieoZw1B0xJs8IbWZfOgQM7pmK9haFGeTpIjpglpeLo7fI0kTce8_-QIXY5AskKOXIaSVMFv9EpMTcL9vWOQusmNyRUAXYh01Axv3zcQ0KKUUfQKKHm-k0h-3xFA=="
+  },
+  {
+   "id": "E06",
+   "fact": "In an executive action framework pursuing federal AI preemption released in December 2025, the U.S. administration explicitly targeted fragmented state-level regulations to consolidate a unified national policy framework for artificial intelligence.",
+   "as_of": "2026-02-04",
+   "source": "ML Strategies / Executive Branch",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGSbXdoxv7d13xy8MCUxBR7wI2ITvFKNby_kwa3EFSDkWZJECNOQopk_ToFYxL4iozPX8vRFgM7GrNJAXHD4EUZHZyap6k3O0XYvbQNRg4htqJJB3yYsSbCVYZnc1vvHdFtcH1i3fLlsIgGLlCNiNKCu6Uen-m0zmkFrS4Xy0q0Q8IcQ2jlZxJv0H7uGHgiXuwfOSQhVsldGvkxHlMQkgyv7uGtTvLd2V596tjaMDYpl1qKg=="
+  },
+  {
+   "id": "E07",
+   "fact": "In April 2026 commentaries on resource constraints, institutional analysts at Bridgewater Associates highlighted that modern mercantilism and AI infrastructure demands have accelerated acute supply-demand mismatches and resource grabs in critical physical commodities.",
+   "as_of": "2026-04-27",
+   "source": "Bridgewater Associates CIO Insights",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUrPYp09NuBwsZFiXebs0EaaIY9TX4erMkBu7BDuxObldVihjKGL9I99nMAc5Wm9bmbHarsdw8j6JAgRG-XCDBcl5U7V9Pp2y4UWyKAWk2IAapkcsnmmrdnoEuk93MwaINz5vmkkke_kPv2x3hQaM5yYDttgf0dbXjoakd9xlXe2rgpsaPN9--D241afHdvKc-lLTwqbaqU-uXjtnyzNa-ixzk4dcp7uioH4ErzYm6WVTejIww-xTu"
+  },
+  {
+   "id": "E08",
+   "fact": "As of mid-2026, legislative proposals such as the Chip Security Act and the STRIDE Act are moving through the U.S. Congress to tighten verification requirements for authorized semiconductor locations and enhance multilateral coordination of technology export controls.",
+   "as_of": "2026-04-29",
+   "source": "Chatham House / US Congress Legislative Tracking",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd9IA2MCMV5P7aCREQzc3yPw6Wd6zBXalziHaZRUyMVu3HtBkUmT_ckVD5LK43KsPR8A4Vvn2FHq6eugmTt1ohaGwFSEvDOXDCRazCQ_675vnGzo1dyW-GGbIQp992-7sjag01duoZ8I0YD-3lpQgKZgifks-XKWSdS7_j4K4nRraRJGO-j-5_Vfc="
+  }
+ ],
+ "unknowns": [
+  "Exact proprietary text and operational enforcement metrics of unreleased draft semiconductor regulations under interagency review.",
+  "Full compliance data and quantitative tracking of private capital crowded out by state-led industrial policy interventions globally.",
+  "Specific allocation results and recipients of OpenAI's industrial policy fellowship and grant program."
+ ]
+}

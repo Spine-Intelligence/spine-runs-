@@ -1,0 +1,68 @@
+{
+ "F01": {
+  "reasoning": "Evidence E01, stating that 183 out of 195 countries actively target industries, directly supports the idea of governments increasingly leveraging industrial policy. Forecast F09 predicts a massive growth in AI venture investment driven by state-directed funding, which aligns with the premise of governments directing capital. The dynamic D5 indicates that the trend is growing, which is supported by the increasing global engagement in industrial policy. If evidence emerged that venture capital was increasingly independent of government directives or that industrial policies shifted away from investment direction, this forecast's probability would decrease. The existence of OpenAI's initiative (E03), which offers research grants and API credits, suggests a model for government-backed support, though not direct VC direction.",
+  "evidence": [
+   "E01: In a report published in July 2026, the World Bank acknowledged that industrial policy has returned 'with a vengeance,' finding that 183 of the world's 195 countries actively target at least one industry.",
+   "E09: There is a 78% chance that the massive growth in AI venture investment will continue, reaching over $600 billion globally by August 2031, largely driven by state-directed funding.",
+   "E03: In June 2026, OpenAI closed submissions for its 'Industrial Policy for the Intelligence Age' initiative after receiving over 400 policy responses and establishing a pilot program featuring research grants up to $100,000 and up to $1 million in API credits."
+  ]
+ },
+ "F02": {
+  "reasoning": "Evidence E06 directly supports this forecast, stating that the U.S. administration explicitly targeted fragmented state-level regulations in December 2025 to consolidate a unified national policy framework for artificial intelligence. This indicates a clear intention and action towards federal oversight of AI. The dynamic D2 suggests an ongoing process of consolidation. If states were to successfully assert greater autonomy over AI regulation, or if federal efforts to preempt state laws were consistently struck down, the probability of this forecast would decrease. The prompt resolution metric, focusing on new federal regulations and preemption laws, directly measures the progress of this consolidation.",
+  "evidence": [
+   "E06: In an executive action framework pursuing federal AI preemption released in December 2025, the U.S. administration explicitly targeted fragmented state-level regulations to consolidate a unified national policy framework for artificial intelligence."
+  ]
+ },
+ "F03": {
+  "reasoning": "Evidence E02 describes the US implementing case-by-case reviews for certain AI chips, and E08 notes legislative proposals moving through Congress to tighten verification requirements and enhance multilateral coordination on export controls. This directly supports the evolution of AI chip export controls towards stricter verification and multilateral action. The dynamic D6 signifies a trend towards increased control and cooperation. A decline in geopolitical tensions or a shift towards open technological exchange would lower this probability. The resolution metric, counting new multilateral agreements, directly measures the enhancement of coordination.",
+  "evidence": [
+   "E02: On January 13, 2026, the US Department of Commerce's Bureau of Industry and Security (BIS) released a final rule modifying the license review stance for commercially available NVIDIA H200 and AMD MI325X equivalent chips to a case-by-case review policy.",
+   "E08: As of mid-2026, legislative proposals such as the Chip Security Act and the STRIDE Act are moving through the U.S. Congress to tighten verification requirements for authorized semiconductor locations and enhance multilateral coordination of technology export controls."
+  ]
+ },
+ "F04": {
+  "reasoning": "Evidence E07 highlights that modern mercantilism and AI infrastructure demands have accelerated acute supply-demand mismatches and resource grabs in critical physical commodities. This directly supports the premise of continued acute supply-demand mismatches and resource grabs for AI infrastructure commodities. The dynamic D4 indicates a persistent issue. If global supply chains for these commodities significantly improved, or if AI development shifted to rely on less resource-intensive materials, this forecast's probability would decrease. The resolution metric, focusing on price volatility, is a strong indicator of supply-demand imbalances.",
+  "evidence": [
+   "E07: In April 2026 commentaries on resource constraints, institutional analysts at Bridgewater Associates highlighted that modern mercantilism and AI infrastructure demands have accelerated acute supply-demand mismatches and resource grabs in critical physical commodities."
+  ]
+ },
+ "F05": {
+  "reasoning": "Evidence E04 outlines draft U.S. export control regulations from March 2026 that include requirements for host-country governmental agreements and matching local investments for large AI hardware exports. This directly supports the idea of 'quid pro quo' conditions like mandatory local investments. The dynamic D3 suggests this is an evolving trend. A significant shift towards free trade agreements or a global consensus against such protectionist measures would lower this probability. The resolution metric, counting countries implementing such requirements, directly measures the adoption of these conditions.",
+  "evidence": [
+   "E04: Draft U.S. export control regulations reported in March 2026 outline tiered frameworks where shipments of up to 1,000 Nvidia GB300 GPUs undergo simple reviews, whereas exports exceeding 200,000 units require host-country governmental agreements and matching local investments in American AI."
+  ]
+ },
+ "F06": {
+  "reasoning": "Evidence E01 from July 2026 states that 183 of the world's 195 countries actively target at least one industry. This directly confirms the pervasiveness of industrial policy targeting. The number 183 is very close to the resolution threshold of 'over 185'. The dynamic D1 indicates a continuing trend. If there were a significant global policy shift away from industrial targeting or a marked decrease in active participation by nations, this forecast's probability would be affected. The resolution metric, counting UN member states actively targeting industries, precisely measures this trend.",
+  "evidence": [
+   "E01: In a report published in July 2026, the World Bank acknowledged that industrial policy has returned 'with a vengeance,' finding that 183 of the world's 195 countries actively target at least one industry."
+  ]
+ },
+ "F07": {
+  "reasoning": "Evidence E02 indicates that the US has moved to a case-by-case review policy for certain high-end AI chips. Evidence E04 mentions draft regulations for tiered reviews of AI hardware exports, implying a mechanism for selective scrutiny. The dynamic D3 suggests this practice is evolving. If these case-by-case reviews were consistently applied without leading to geopolitical concessions, or if there was a strong international pushback against using chip access as leverage, this forecast's probability would decrease. The resolution metric, counting instances where case-by-case reviews led to significant geopolitical concessions, directly assesses the leverage aspect.",
+  "evidence": [
+   "E02: On January 13, 2026, the US Department of Commerce's Bureau of Industry and Security (BIS) released a final rule modifying the license review stance for commercially available NVIDIA H200 and AMD MI325X equivalent chips to a case-by-case review policy.",
+   "E04: Draft U.S. export control regulations reported in March 2026 outline tiered frameworks where shipments of up to 1,000 Nvidia GB300 GPUs undergo simple reviews, whereas exports exceeding 200,000 units require host-country governmental agreements and matching local investments in American AI."
+  ]
+ },
+ "F08": {
+  "reasoning": "Evidence E03 details OpenAI's 'Industrial Policy for the Intelligence Age' initiative, which received over 400 policy responses and established a pilot program. This directly supports the idea that such initiatives by leading tech companies with governmental engagement are becoming more common. The dynamic D1 indicates a continuing trend. If this initiative proved to be an isolated case or if similar programs failed to materialize or gain traction, this forecast's probability would be lower. The resolution metric, counting AI policy development initiatives launched by leading tech companies with governmental engagement, directly measures the adoption of such programs.",
+  "evidence": [
+   "E03: In June 2026, OpenAI closed submissions for its 'Industrial Policy for the Intelligence Age' initiative after receiving over 400 policy responses and establishing a pilot program featuring research grants up to $100,000 and up to $1 million in API credits."
+  ]
+ },
+ "F09": {
+  "reasoning": "Evidence E05 shows a massive increase in AI venture investment over the past decade leading up to August 2026, from $8.3 billion to $259 billion. This indicates a strong growth trend. Forecast F01 suggests governments will increasingly direct venture capital investment towards strategically important sectors, aligning with the premise of state-directed funding driving this growth. The dynamic D5 indicates this trend is growing. If the growth in AI venture investment were to stagnate or if state direction of capital significantly declined, this forecast's probability would be lower. The resolution metric, total global venture capital investment in AI, directly measures this growth.",
+  "evidence": [
+   "E05: Over the past decade leading up to August 2026, global venture investment in artificial intelligence grew over thirty-fold, expanding from $8.3 billion to $259 billion.",
+   "E01: In a report published in July 2026, the World Bank acknowledged that industrial policy has returned 'with a vengeance,' finding that 183 of the world's 195 countries actively target at least one industry."
+  ]
+ },
+ "F10": {
+  "reasoning": "Evidence E08 mentions legislative proposals aimed at coordinating technology export controls, and E04 discusses tiered export control frameworks for AI hardware. While these suggest strategic competition, they do not directly quantify the emergence of distinct AI technology ecosystems. The dynamic D6 indicates a trend towards increased fragmentation or consolidation of technological blocs. The low probability reflects the uncertainty in predicting the precise number of competing ecosystems. If there were clear evidence of dominant, isolated platforms or a move towards open standards and interoperability, this forecast's probability would shift. The resolution metric, number of distinct AI technology ecosystems with significant market share, is a direct measure.",
+  "evidence": [
+   "E08: As of mid-2026, legislative proposals such as the Chip Security Act and the STRIDE Act are moving through the U.S. Congress to tighten verification requirements for authorized semiconductor locations and enhance multilateral coordination of technology export controls.",
+   "E04: Draft U.S. export control regulations reported in March 2026 outline tiered frameworks where shipments of up to 1,000 Nvidia GB300 GPUs undergo simple reviews, whereas exports exceeding 200,000 units require host-country governmental agreements and matching local investments in American AI."
+  ]
+ }
+}

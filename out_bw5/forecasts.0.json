@@ -1,0 +1,157 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "There is a 90% chance that governments will increasingly leverage AI industrial policy to direct venture capital investment towards strategically important sectors by August 2028.",
+   "probability": 0.9,
+   "resolution_criteria": {
+    "source": "Financial Times",
+    "metric": "Percentage of new AI venture capital funding allocated to sectors explicitly identified by national industrial strategies",
+    "threshold": "exceeding 70%",
+    "resolution_date": "2028-08-09"
+   },
+   "horizon_years": 2.0,
+   "dynamic": "D5",
+   "evidence": [
+    "E01",
+    "E05"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "There is a 75% chance that the US will further consolidate its national AI policy framework, leading to stricter federal oversight of state-level AI initiatives by December 2027.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "The Wall Street Journal",
+    "metric": "Number of new federal AI regulations and preemption laws enacted",
+    "threshold": "at least 5 significant pieces of legislation",
+    "resolution_date": "2027-12-09"
+   },
+   "dynamic": "D2",
+   "evidence": [
+    "E06"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "There is an 85% chance that advanced AI chip export controls will evolve to encompass stricter verification for authorized semiconductor locations and enhanced multilateral coordination by April 2027.",
+   "probability": 0.85,
+   "resolution_criteria": {
+    "source": "Reuters",
+    "metric": "Number of new multilateral agreements on AI technology export controls",
+    "threshold": "at least 3 significant new agreements",
+    "resolution_date": "2027-04-29"
+   },
+   "dynamic": "D6",
+   "evidence": [
+    "E02",
+    "E08"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "There is a 65% chance that global demand for critical physical commodities essential for AI infrastructure will face continued acute supply-demand mismatches and resource grabs by April 2028.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "Bloomberg",
+    "metric": "Average price volatility index for key AI-related commodities (e.g., rare earths, advanced materials)",
+    "threshold": "above 25%",
+    "resolution_date": "2028-04-27"
+   },
+   "dynamic": "D4",
+   "evidence": [
+    "E07"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "There is a 70% chance that governments will increasingly impose 'quid pro quo' conditions, such as mandatory local investments, on large AI hardware exports to benefit domestic industries by March 2029.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "Financial Times",
+    "metric": "Number of countries implementing mandatory local investment requirements for large AI hardware imports",
+    "threshold": "at least 10 countries",
+    "resolution_date": "2029-03-13"
+   },
+   "dynamic": "D3",
+   "evidence": [
+    "E04"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "There is a 95% chance that the global trend of industrial policy targeting at least one industry will continue to be pervasive, with the vast majority of nations actively participating by July 2030.",
+   "probability": 0.95,
+   "resolution_criteria": {
+    "source": "World Bank",
+    "metric": "Percentage of UN member states actively targeting at least one industry",
+    "threshold": "above 90%",
+    "resolution_date": "2030-07-07"
+   },
+   "dynamic": "D1",
+   "evidence": [
+    "E01"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "There is a 60% chance that major AI-producing nations will increasingly use case-by-case reviews for high-end AI chips as a tool of geopolitical leverage to secure strategic concessions by January 2028.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "The Economist",
+    "metric": "Number of instances where case-by-case chip reviews led to significant geopolitical concessions",
+    "threshold": "at least 5 instances",
+    "resolution_date": "2028-01-16"
+   },
+   "dynamic": "D3",
+   "evidence": [
+    "E02"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "There is a 55% chance that initiatives similar to OpenAI's 'Industrial Policy for the Intelligence Age' will become more common, with over 100 such programs established globally by June 2029.",
+   "probability": 0.55,
+   "resolution_criteria": {
+    "source": "TechCrunch",
+    "metric": "Number of AI policy development initiatives launched by leading tech companies with governmental engagement",
+    "threshold": "over 100",
+    "resolution_date": "2029-06-09"
+   },
+   "dynamic": "D1",
+   "evidence": [
+    "E03"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "There is a 78% chance that the massive growth in AI venture investment will continue, reaching over $500 billion globally by August 2031, largely driven by state-directed funding.",
+   "probability": 0.78,
+   "resolution_criteria": {
+    "source": "PitchBook",
+    "metric": "Total global venture capital investment in AI",
+    "threshold": "exceeding $500 billion",
+    "resolution_date": "2031-08-09"
+   },
+   "dynamic": "D5",
+   "evidence": [
+    "E05"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "There is a 45% chance that the strategic competition for AI dominance will lead to a significant fragmentation of global technology standards and supply chains by April 2030.",
+   "probability": 0.45,
+   "resolution_criteria": {
+    "source": "Gartner",
+    "metric": "Number of competing proprietary AI technology standards established",
+    "threshold": "more than 5 major competing standards",
+    "resolution_date": "2030-04-29"
+   },
+   "dynamic": "D6",
+   "evidence": [
+    "E08"
+   ]
+  }
+ ]
+}
