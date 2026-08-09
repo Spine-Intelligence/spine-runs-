@@ -1,0 +1,72 @@
+{
+ "F01": {
+  "reasoning": "The current US share of global AI compute at 75% (E05) significantly exceeds the forecast threshold of 65% for August 2027. The US's stated policy of expanding domestic capacity and exporting a full-stack AI technology package (E10) further supports this dominance. China's current share is 15% (E05), well below the 20% forecast limit. While China is actively developing its AI capabilities, the US's lead in hardware, investment, and export control policies (E01, E06) makes maintaining its significant lead highly probable. A significant shift would require a substantial acceleration in China's domestic production and a loosening of US export controls.",
+  "evidence": [
+   "E05",
+   "E10"
+  ]
+ },
+ "F02": {
+  "reasoning": "The Presidential Proclamation imposing a 25% tariff on advanced AI chips not intended for the domestic US supply chain (E02) provides a direct mechanism for generating tariff revenue. Given the significant global market for AI chips, even with restrictions, a cumulative $50 billion in revenue by the end of 2027 is plausible, especially considering the ongoing US efforts to curb Chinese access (E07). The probability is moderate because the actual revenue will depend on the volume of targeted chips that flow through these trade channels and the effectiveness of enforcement. A decline in global AI chip demand or a significant circumvention of these tariffs by China would lower this probability.",
+  "evidence": [
+   "E02",
+   "E07"
+  ]
+ },
+ "F03": {
+  "reasoning": "China's Ministry of Commerce has already demonstrated a willingness to implement export controls on rare earth elements (E04) and has asserted regulatory authority over foreign-made products containing Chinese-sourced materials. This precedent, combined with the ongoing global competition for strategic resources, makes it highly likely that China will announce further restrictions on specific rare earth element applications by mid-2028. The dynamic (D4) suggests a responsive action to geopolitical pressures. A lower probability would be influenced by a significant de-escalation in US-China trade tensions or a breakthrough in alternative material sourcing by global manufacturers.",
+  "evidence": [
+   "E04",
+   "E11"
+  ]
+ },
+ "F04": {
+  "reasoning": "The accelerating trend of state-led industrial policy interventions, originating around 2020 and expanding through initiatives like the US CHIPS Act and IRA (E06), is projected to continue. The focus on national security and supply security objectives (E06) further fuels this trend. The dynamic (D6) indicates a continued expansion of these interventions globally. The forecast of a 15% increase from 2025 levels by the end of 2027 aligns with this trajectory. A lower probability would arise if geopolitical tensions de-escalated significantly, leading to a reduction in national security-driven industrial policies.",
+  "evidence": [
+   "E06",
+   "E09"
+  ]
+ },
+ "F05": {
+  "reasoning": "The evidence indicates that Beijing has restricted exports from a Dutch-owned chipmaker whose subsidiary supplies micro-transistors to European automotive manufacturers (E11). This exemplifies how Chinese industrial policy and trade retaliation can intersect with global supply chains. Coupled with concurrent US trade policies (implied by E08 and E12), which are described as 'modern mercantilism' and deficit reduction targets, it is plausible that European automotive manufacturers will face cost increases for critical components. The dynamic (D4) suggests a response to trade policies. A lower probability would be if trade policies were significantly relaxed or if European manufacturers found readily available, cost-competitive alternative suppliers outside of these geopolitical pressures.",
+  "evidence": [
+   "E11",
+   "E08"
+  ]
+ },
+ "F06": {
+  "reasoning": "The US Bureau of Industry and Security (BIS) has already implemented measures restricting exports of advanced AI chips to China (E01), shifting from a 'presumption of denial' to 'case-by-case review' which still implies significant control. Further export control legislation is also advancing (E07). The US's stated sovereign AI framework (E10) and efforts to curb technology diversion (E07) suggest a continued focus on restricting China's access to advanced semiconductor manufacturing equipment. The dynamic (D2) suggests a sustained, restrictive policy. A lower probability would occur if the US significantly softened its stance on technology exports to China due to economic pressures or diplomatic breakthroughs.",
+  "evidence": [
+   "E01",
+   "E07"
+  ]
+ },
+ "F07": {
+  "reasoning": "The confluence of 'modern mercantilism' and 'AI infrastructure investment' is highlighted as driving higher-than-target nominal GDP growth (E08), while 'resource and commodity constraints' are noted as limitations. The forecast of 4.5% annual growth between mid-2026 and mid-2029 reflects this dynamic. However, the relatively low probability of 0.4 suggests that the balancing act between these growth drivers and constraints is delicate. Significant global economic shocks, unforeseen resource scarcities, or a sharp downturn in AI investment could push growth below this average, thereby lowering the probability. Conversely, a more integrated and less constrained global supply chain could boost this probability.",
+  "evidence": [
+   "E08",
+   "E06"
+  ]
+ },
+ "F08": {
+  "reasoning": "Malaysia's establishment of a National Artificial Intelligence Office (NAIO) (E09) serves as a model for other emerging economies seeking to structure their AI strategies. The dynamic (D5) implies a growing trend in national AI governance. Given the global focus on AI development and the desire of emerging economies to participate in and benefit from this technological wave, it is plausible that at least three new national AI offices, mirroring Malaysia's structure, will be established by the end of 2029. A lower probability would be influenced by a global economic downturn impacting these nations' ability to fund such initiatives or a shift in focus away from AI at the national policy level.",
+  "evidence": [
+   "E09",
+   "E12"
+  ]
+ },
+ "F09": {
+  "reasoning": "The US implemented a 'case-by-case review' policy for advanced AI chips to China on January 13, 2026 (E01), which represents a significant, albeit not absolute, restriction. The evidence points to a sustained US focus on controlling advanced AI chip exports to adversaries (E07), aligning with the dynamic (D2) of ongoing regulatory restrictions. Given the geopolitical landscape and the strategic importance of AI, it is highly probable that this policy will remain in effect for at least three full years. A significant change would likely be driven by a fundamental shift in US-China relations or a major technological breakthrough that alters the strategic calculus.",
+  "evidence": [
+   "E01",
+   "E03"
+  ]
+ },
+ "F10": {
+  "reasoning": "The forecast suggests China will not produce a competitive alternative to the NVIDIA H200 chip by August 2031, indicated by fewer than 50 new foundational patent filings for comparable architecture. This is strongly supported by the existing US export controls (E01, E03) that limit China's access to cutting-edge chips and manufacturing equipment (E06). The dynamic (D2) emphasizes the ongoing restrictive US policies. China's current share of global AI compute (15% in E05) and the restrictions on H200 chip volume (E03) suggest a significant lag. A higher probability would require a dramatic acceleration in China's domestic chip innovation and manufacturing capabilities, overcoming current technological and policy hurdles.",
+  "evidence": [
+   "E03",
+   "E05"
+  ]
+ }
+}

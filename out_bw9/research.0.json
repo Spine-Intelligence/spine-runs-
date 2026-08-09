@@ -1,0 +1,93 @@
+{
+ "evidence": [
+  {
+   "id": "E01",
+   "fact": "On January 13, 2026, the U.S. Department of Commerce's Bureau of Industry and Security (BIS) issued a final rule shifting license review requirements for commercial equivalents such as the NVIDIA H200 and AMD MI325X chips destined for China from a 'presumption of denial' to 'case-by-case review'.",
+   "as_of": "2026-01-16",
+   "source": "Mayer Brown / U.S. Department of Commerce BIS",
+   "url": "https://www.mayerbrown.com/en/insights/publications/2026/01/administration-policies-on-advanced-ai-chips-codified-with-reverberations-across-ai-ecosystem"
+  },
+  {
+   "id": "E02",
+   "fact": "In January 2026, a U.S. Presidential Proclamation imposed a 25% tariff on imported advanced AI chips that are not intended for the domestic United States technology supply chain.",
+   "as_of": "2026-01-16",
+   "source": "Mayer Brown / White House Proclamation",
+   "url": "https://www.mayerbrown.com/en/insights/publications/2026/01/administration-policies-on-advanced-ai-chips-codified-with-reverberations-across-ai-ecosystem"
+  },
+  {
+   "id": "E03",
+   "fact": "Under the conditional export framework implemented in early 2026, Chinese customers are restricted from receiving more than 50% of the total NVIDIA H200 chip volume sold to American customers, and shipments require independent third-party testing.",
+   "as_of": "2026-03-15",
+   "source": "Oplexa / U.S. Federal Regulatory Update",
+   "url": "https://oplexa.com/us-china-chip-war-2026-export-impact-on-semiconductors/"
+  },
+  {
+   "id": "E04",
+   "fact": "On October 9, 2025, China's Ministry of Commerce added five additional rare earth elements to its export control list and asserted regulatory authority over foreign-made products containing Chinese-sourced materials globally.",
+   "as_of": "2026-08-07",
+   "source": "Modern Diplomacy / China Ministry of Commerce",
+   "url": "https://moderndiplomacy.eu/2026/08/07/chinas-export-controls-are-supposed-to-target-america-why-do-they-keep-hitting-europe/"
+  },
+  {
+   "id": "E05",
+   "fact": "As of August 2026, the United States controls approximately 75% of global AI compute, whereas China accounts for roughly 15%, leaving other regions caught in bilateral technological dependencies.",
+   "as_of": "2026-08-04",
+   "source": "Center for Security and Emerging Technology (CSET)",
+   "url": "https://cset.georgetown.edu/article/assessing-sovereign-ai-a-two-pronged-framework/"
+  },
+  {
+   "id": "E06",
+   "fact": "Analysis of the New Industrial Policy Observatory (NIPO) data indicates that the structural expansion of state-led industrial policy interventions\u2014originated around 2020 and expanded via frameworks like the U.S. CHIPS Act and IRA\u2014accelerated further through 2025 toward national security and supply security objectives.",
+   "as_of": "2025-12-16",
+   "source": "Global Trade Alert",
+   "url": "https://www.globaltradealert.org/posts/security-first-how-industrial-policy-changed-in-2025"
+  },
+  {
+   "id": "E07",
+   "fact": "In late April 2026, the U.S. House Foreign Affairs Committee advanced further export control legislation, including the Chip Security Act, aimed at curbing illegal diversions of AI semiconductors to foreign adversaries.",
+   "as_of": "2026-04-29",
+   "source": "Chatham House",
+   "url": "https://www.chathamhouse.org/2026/04/ai-export-controls-are-not-best-bargaining-chip"
+  },
+  {
+   "id": "E08",
+   "fact": "In their mid-2026 economic updates, institutional market analysts highlighted that modern mercantilism and AI infrastructure investment have combined to create sustained higher-than-target nominal GDP growth alongside acute resource and commodity constraints.",
+   "as_of": "2026-07-27",
+   "source": "Bridgewater Associates CIO Insights",
+   "url": "https://www.bridgewater.com/research-and-insights/from-our-cios-taking-stock-of-the-new-paradigm"
+  },
+  {
+   "id": "E09",
+   "fact": "Malaysia's National Artificial Intelligence Office (NAIO), established in late 2024, actively drives its AI agenda and oversees the implementation framework for the national AI technology action plan spanning 2026\u20132030.",
+   "as_of": "2025-05-21",
+   "source": "HaidarDarus / AI.gov.my",
+   "url": "https://medium.com/@HaidarDarus/forecasting-the-future-modern-mercantilism-and-the-next-global-era-3246d65476aa"
+  },
+  {
+   "id": "E10",
+   "fact": "The U.S. 2025 AI Action Plan formalizes a two-pronged sovereign AI framework focused on expanding domestic semiconductor manufacturing, data center capacity, and energy infrastructure while exporting a full-stack American AI technology package internationally.",
+   "as_of": "2026-08-04",
+   "source": "Center for Security and Emerging Technology (CSET)",
+   "url": "https://cset.georgetown.edu/article/assessing-sovereign-ai-a-two-pronged-framework/"
+  },
+  {
+   "id": "E11",
+   "fact": "In early October 2025, Beijing restricted exports from a Dutch-owned chipmaker whose Chinese subsidiary supplies micro-transistors to European automotive manufacturers, exemplifying the cross-border intersection of industrial policy and trade retaliation.",
+   "as_of": "2026-08-07",
+   "source": "Modern Diplomacy",
+   "url": "https://moderndiplomacy.eu/2026/08/07/chinas-export-controls-are-supposed-to-target-america-why-do-they-keep-hitting-europe/"
+  },
+  {
+   "id": "E12",
+   "fact": "The shift in U.S. trade strategy under the secondary Trump administration breaks from historical Most Favored Nation (MFN) frameworks, utilizing systematic mercantilist tariffs and trade deficit reduction targets as core levers of statecraft.",
+   "as_of": "2026-05-01",
+   "source": "Columbia University Blogs / International Political Economy",
+   "url": "https://blogs.cuit.columbia.edu/columbiablogs/2026/05/01/the-new-political-economy-of-u-s-trade/"
+  }
+ ],
+ "unknowns": [
+  "Exact proprietary volumetric compliance data on gray-market diversion channels for restricted AI accelerators flowing into Tier-2 and Tier-3 nations.",
+  "Comprehensive proprietary state balance-sheet costs absorbed by European industrial actors complying with concurrent U.S. secondary sanctions and Chinese rare earth restrictions.",
+  "The precise internal performance benchmarks and yield rates of domestic Chinese chip fabrication nodes compensating for restricted access to extreme ultraviolet (EUV) lithography equipment."
+ ]
+}

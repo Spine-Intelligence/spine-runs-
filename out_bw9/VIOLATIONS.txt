@@ -1,0 +1,6 @@
+[P1_CONVENTION] F01: counting_convention missing/thin -- define the unit, in-force vs announced, the window, and what does NOT count
+[P1_CONVENTION] F03: counting_convention missing/thin -- define the unit, in-force vs announced, the window, and what does NOT count
+[P1_CONVENTION] F05: counting_convention missing/thin -- define the unit, in-force vs announced, the window, and what does NOT count
+[P1_CONVENTION] F06: counting_convention missing/thin -- define the unit, in-force vs announced, the window, and what does NOT count
+[P1_SENTENCE] F07: statement must be exactly one sentence (<=420 chars)
+[P1_CONTRARIAN] only 1 forecasts at p<=0.35 -- an all-momentum book has ONE correlated failure mode; take >=2 contrarian positions
