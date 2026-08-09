@@ -1,0 +1,664 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "There is a 30% chance that JPMorgan Chase & Co. (JPM) will report year-over-year quarterly revenue growth below +15% for Q3 2026.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 15.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "+27.7%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E02",
+    "E03"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "There is a 65% chance that Bank of America (BAC) will report year-over-year quarterly revenue growth of at least -1.0% for Q3 2026.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": -1.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "-3.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D2",
+   "evidence": [
+    "E05",
+    "E06"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "There is a 60% chance that Wells Fargo & Company (WFC) will report year-over-year quarterly revenue growth below +5.0% for Q3 2026.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 5.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "+9.2%",
+     "as_of": "2026-07-28"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E08",
+    "E09"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "There is a 25% chance that Citigroup Inc. (C) will report year-over-year quarterly revenue growth of at least +2.0% for Q3 2026.",
+   "probability": 0.25,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 2.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "+0.6%",
+     "as_of": "2025-11-06"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D5",
+   "evidence": [
+    "E11",
+    "E12"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "There is a 60% chance that US Bancorp (USB) will report year-over-year quarterly revenue growth below +8.0% for Q3 2026.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 8.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "+10.1%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E14",
+    "E15"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "There is a 30% chance that KeyCorp (KEY) will report year-over-year quarterly revenue growth of at least -1.0% for Q3 2026.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": -1.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "-2.3%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D2",
+   "evidence": [
+    "E17",
+    "E18"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "There is a 35% chance that Fifth Third Bancorp (FITB) will report year-over-year quarterly revenue growth below +25.0% for Q3 2026.",
+   "probability": 0.35,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 25.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "+35.7%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E20",
+    "E21"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "There is a 65% chance that Regions Financial Corporation (RF) will report year-over-year quarterly revenue growth of at least -3.0% for Q3 2026.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": -3.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "-2.0%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D2",
+   "evidence": [
+    "E23",
+    "E24"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "There is a 40% chance that The Bank of New York Mellon (BK) will report year-over-year quarterly revenue growth of at least -5.0% for Q3 2026.",
+   "probability": 0.4,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": -5.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "-10.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D4",
+   "evidence": [
+    "E26",
+    "E27"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "There is a 70% chance that Morgan Stanley (MS) will report year-over-year quarterly revenue growth below +15.0% for Q3 2026.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 15.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "+27.1%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E29",
+    "E30"
+   ]
+  },
+  {
+   "id": "F11",
+   "statement": "There is a 30% chance that JPMorgan Chase & Co. (JPM) will report year-over-year quarterly revenue growth below +10% for Q4 2026.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 10.0,
+    "resolution_date": "2027-01-29",
+    "baseline": {
+     "value": "+27.7%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.51,
+   "dynamic": "D1",
+   "evidence": [
+    "E02",
+    "E03"
+   ]
+  },
+  {
+   "id": "F12",
+   "statement": "There is a 70% chance that Bank of America (BAC) will report year-over-year quarterly revenue growth of at least -2.0% for Q4 2026.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": -2.0,
+    "resolution_date": "2027-01-29",
+    "baseline": {
+     "value": "-3.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.51,
+   "dynamic": "D2",
+   "evidence": [
+    "E05",
+    "E06"
+   ]
+  },
+  {
+   "id": "F13",
+   "statement": "There is a 65% chance that Wells Fargo & Company (WFC) will report year-over-year quarterly revenue growth below +8.0% for Q4 2026.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 8.0,
+    "resolution_date": "2027-01-29",
+    "baseline": {
+     "value": "+9.2%",
+     "as_of": "2026-07-28"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.51,
+   "dynamic": "D1",
+   "evidence": [
+    "E08",
+    "E09"
+   ]
+  },
+  {
+   "id": "F14",
+   "statement": "There is a 20% chance that Citigroup Inc. (C) will report year-over-year quarterly revenue growth of at least +3.0% for Q4 2026.",
+   "probability": 0.2,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 3.0,
+    "resolution_date": "2027-01-29",
+    "baseline": {
+     "value": "+0.6%",
+     "as_of": "2025-11-06"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.51,
+   "dynamic": "D5",
+   "evidence": [
+    "E11",
+    "E12"
+   ]
+  },
+  {
+   "id": "F15",
+   "statement": "There is a 25% chance that US Bancorp (USB) will report year-over-year quarterly revenue growth below +8.0% for Q4 2026.",
+   "probability": 0.25,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 8.0,
+    "resolution_date": "2027-01-29",
+    "baseline": {
+     "value": "+10.1%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.51,
+   "dynamic": "D1",
+   "evidence": [
+    "E14",
+    "E15"
+   ]
+  },
+  {
+   "id": "F16",
+   "statement": "There is a 75% chance that KeyCorp (KEY) will report year-over-year quarterly revenue growth below -1.0% for Q4 2026.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": -1.0,
+    "resolution_date": "2027-01-29",
+    "baseline": {
+     "value": "-2.3%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.51,
+   "dynamic": "D2",
+   "evidence": [
+    "E17",
+    "E18"
+   ]
+  },
+  {
+   "id": "F17",
+   "statement": "There is a 25% chance that Fifth Third Bancorp (FITB) will report year-over-year quarterly revenue growth below +25.0% for Q4 2026.",
+   "probability": 0.25,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 25.0,
+    "resolution_date": "2027-01-29",
+    "baseline": {
+     "value": "+35.7%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.51,
+   "dynamic": "D1",
+   "evidence": [
+    "E20",
+    "E21"
+   ]
+  },
+  {
+   "id": "F18",
+   "statement": "There is a 75% chance that Regions Financial Corporation (RF) will report year-over-year quarterly revenue growth below -1.0% for Q4 2026.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": -1.0,
+    "resolution_date": "2027-01-29",
+    "baseline": {
+     "value": "-2.0%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.51,
+   "dynamic": "D2",
+   "evidence": [
+    "E23",
+    "E24"
+   ]
+  },
+  {
+   "id": "F19",
+   "statement": "There is a 30% chance that The Bank of New York Mellon (BK) will report year-over-year quarterly revenue growth of at least -5.0% for Q4 2026.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": -5.0,
+    "resolution_date": "2027-01-29",
+    "baseline": {
+     "value": "-10.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.51,
+   "dynamic": "D4",
+   "evidence": [
+    "E26",
+    "E27"
+   ]
+  },
+  {
+   "id": "F20",
+   "statement": "There is a 70% chance that Morgan Stanley (MS) will report year-over-year quarterly revenue growth below +15.0% for Q4 2026.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 15.0,
+    "resolution_date": "2027-01-29",
+    "baseline": {
+     "value": "+27.1%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.51,
+   "dynamic": "D1",
+   "evidence": [
+    "E29",
+    "E30"
+   ]
+  },
+  {
+   "id": "F21",
+   "statement": "There is a 15% chance that JPMorgan Chase & Co. (JPM) will report year-over-year quarterly revenue growth below +5% for Q1 2027.",
+   "probability": 0.15,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 5.0,
+    "resolution_date": "2027-04-29",
+    "baseline": {
+     "value": "+27.7%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.73,
+   "dynamic": "D1",
+   "evidence": [
+    "E02",
+    "E03"
+   ]
+  },
+  {
+   "id": "F22",
+   "statement": "There is a 65% chance that Bank of America (BAC) will report year-over-year quarterly revenue growth of at least -1.0% for Q1 2027.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": -1.0,
+    "resolution_date": "2027-04-29",
+    "baseline": {
+     "value": "-3.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.73,
+   "dynamic": "D2",
+   "evidence": [
+    "E05",
+    "E06"
+   ]
+  },
+  {
+   "id": "F23",
+   "statement": "There is a 30% chance that Fifth Third Bancorp (FITB) will report year-over-year quarterly revenue growth below +20.0% for Q1 2027.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 20.0,
+    "resolution_date": "2027-04-29",
+    "baseline": {
+     "value": "+35.7%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.73,
+   "dynamic": "D1",
+   "evidence": [
+    "E20",
+    "E21"
+   ]
+  },
+  {
+   "id": "F24",
+   "statement": "There is a 25% chance that The Bank of New York Mellon (BK) will report year-over-year quarterly revenue growth of at least -5.0% for Q1 2027.",
+   "probability": 0.25,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": -5.0,
+    "resolution_date": "2027-04-29",
+    "baseline": {
+     "value": "-10.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.73,
+   "dynamic": "D4",
+   "evidence": [
+    "E26",
+    "E27"
+   ]
+  },
+  {
+   "id": "F25",
+   "statement": "There is a 15% chance that JPMorgan Chase & Co. (JPM) will report year-over-year quarterly revenue growth below +2.0% for Q2 2027.",
+   "probability": 0.15,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 2.0,
+    "resolution_date": "2027-07-29",
+    "baseline": {
+     "value": "+27.7%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.97,
+   "dynamic": "D1",
+   "evidence": [
+    "E02",
+    "E03"
+   ]
+  },
+  {
+   "id": "F26",
+   "statement": "There is a 70% chance that Bank of America (BAC) will report year-over-year quarterly revenue growth of at least -0.5% for Q2 2027.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": -0.5,
+    "resolution_date": "2027-07-29",
+    "baseline": {
+     "value": "-3.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.97,
+   "dynamic": "D2",
+   "evidence": [
+    "E05",
+    "E06"
+   ]
+  },
+  {
+   "id": "F27",
+   "statement": "There is a 75% chance that Fifth Third Bancorp (FITB) will report year-over-year quarterly revenue growth below +15.0% for Q2 2027.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 15.0,
+    "resolution_date": "2027-07-29",
+    "baseline": {
+     "value": "+35.7%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.97,
+   "dynamic": "D1",
+   "evidence": [
+    "E20",
+    "E21"
+   ]
+  },
+  {
+   "id": "F28",
+   "statement": "There is a 25% chance that The Bank of New York Mellon (BK) will report year-over-year quarterly revenue growth of at least -3.0% for Q2 2027.",
+   "probability": 0.25,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": -3.0,
+    "resolution_date": "2027-07-29",
+    "baseline": {
+     "value": "-10.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.97,
+   "dynamic": "D4",
+   "evidence": [
+    "E26",
+    "E27"
+   ]
+  },
+  {
+   "id": "F29",
+   "statement": "There is a 5% chance that JPMorgan Chase & Co. (JPM) will report year-over-year quarterly revenue growth below +0.0% for Q3 2027.",
+   "probability": 0.05,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 0.0,
+    "resolution_date": "2027-10-29",
+    "baseline": {
+     "value": "+27.7%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 1.2,
+   "dynamic": "D1",
+   "evidence": [
+    "E02",
+    "E03"
+   ]
+  },
+  {
+   "id": "F30",
+   "statement": "There is a 30% chance that Bank of America (BAC) will report year-over-year quarterly revenue growth of at least +1.0% for Q3 2027.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 1.0,
+    "resolution_date": "2027-10-29",
+    "baseline": {
+     "value": "-3.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 1.2,
+   "dynamic": "D2",
+   "evidence": [
+    "E05",
+    "E06"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2 @@
+[P1_LONG] no long-horizon forecast (>= 0.75y)
+[P1_SPREAD] all forecasts resolve at nearly the same date; spread the timeframes

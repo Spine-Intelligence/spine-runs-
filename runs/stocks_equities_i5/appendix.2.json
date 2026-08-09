@@ -1,0 +1,72 @@
+{
+ "F01": {
+  "reasoning": "Evidence E02 indicates JPMorgan Chase & Co. (JPM) reported a year-over-year quarterly revenue growth of +27.7% for the quarter ending June 30, 2026. Evidence E03 shows historical revenue trends that suggest significant growth in recent quarters. Given this strong historical performance and the reported growth rate for the most recent reported quarter, there is a low probability (30%) that JPM will report growth below +15% for Q3 2026. To change my mind, I would need to see a significant deceleration in revenue growth in the immediate preceding quarters or forward-looking guidance that points to a sharp decline.",
+  "evidence": [
+   "E02",
+   "E03"
+  ]
+ },
+ "F02": {
+  "reasoning": "Evidence E05 shows Bank of America (BAC) experienced a year-over-year quarterly revenue growth of -3.0% for the quarter ending June 30, 2026. Evidence E06 provides a revenue trail indicating recent fluctuations, with revenue for the quarter ending September 30, 2025, at $35.37B and the quarter ending June 30, 2025, at $34.87B, which is higher than the most recent figure. Despite the recent decline, the historical data suggests that revenue can fluctuate and has been higher in the recent past. Therefore, there is a moderate probability (65%) that BAC will report revenue growth of at least -1.0% for Q3 2026, assuming some recovery or stabilization. A change in my assessment would require evidence of a sustained and deeper decline.",
+  "evidence": [
+   "E05",
+   "E06"
+  ]
+ },
+ "F03": {
+  "reasoning": "Evidence E08 indicates Wells Fargo & Company (WFC) reported a year-over-year quarterly revenue growth of +9.2% for the quarter ending June 30, 2026. Evidence E09 shows a historical revenue trail with figures generally in a similar range, peaking at $23.00B in September 2024 and currently at $23.28B in June 2026. While the current growth is positive, it's not exceptionally high. The probability (60%) for growth below +5.0% for Q3 2026 reflects the possibility of a slight slowdown, but the historical stability suggests continued modest growth. A significant change in outlook would be prompted by new information indicating a sharp downturn in the banking sector or specific challenges for WFC.",
+  "evidence": [
+   "E08",
+   "E09"
+  ]
+ },
+ "F04": {
+  "reasoning": "Evidence E11 shows Citigroup Inc. (C) reported a year-over-year quarterly revenue growth of +0.6% for the quarter ending September 30, 2025. Evidence E12 indicates a revenue trail with figures hovering around $35-36B for the past few quarters, showing some variability but not substantial growth. Given this recent trend of very low single-digit growth, the probability (25%) that Citigroup will report revenue growth of at least +2.0% for Q3 2026 is relatively low, suggesting a possible slight improvement but leaning towards stagnation or minimal growth. A higher probability would require evidence of a significant rebound in their business segments.",
+  "evidence": [
+   "E11",
+   "E12"
+  ]
+ },
+ "F05": {
+  "reasoning": "Evidence E14 shows US Bancorp (USB) reported year-over-year quarterly revenue growth of +10.1% for the quarter ending June 30, 2026. Evidence E15 presents a revenue trail indicating consistent growth over the past several quarters, with revenue increasing from $6.86B in September 2024 to $7.71B in June 2026. This trend of healthy, consistent growth makes it less likely that USB will report revenue growth below +8.0% for Q3 2026. The 60% probability reflects a minor concern about potential market shifts, but the strong historical performance suggests sustained growth. To increase the probability of growth below +8.0%, I would need to see evidence of a significant slowdown in their lending or fee-based businesses.",
+  "evidence": [
+   "E14",
+   "E15"
+  ]
+ },
+ "F06": {
+  "reasoning": "Evidence E17 indicates KeyCorp (KEY) reported a year-over-year quarterly revenue growth of -2.3% for the quarter ending June 30, 2026. Evidence E18 shows a historical revenue trail with figures around $2.0-2.1B, and the most recent quarter shows a slight decrease compared to the previous year. Given this recent negative growth and the general trend in the trail, the probability (30%) that KeyCorp will report revenue growth of at least -1.0% for Q3 2026 is moderate, suggesting a possibility of a slight recovery but still carrying a risk of further decline. A more certain outcome would depend on forward-looking guidance or economic indicators specific to regional banks.",
+  "evidence": [
+   "E17",
+   "E18"
+  ]
+ },
+ "F07": {
+  "reasoning": "Evidence E20 shows Fifth Third Bancorp (FITB) reported a strong year-over-year quarterly revenue growth of +35.7% for the quarter ending June 30, 2026. Evidence E21 provides a revenue trail showing a significant upward trajectory, with revenue increasing from $2.48B in June 2025 to $3.37B in June 2026. This robust and accelerating growth makes it highly unlikely that FITB will report revenue growth below +25.0% for Q3 2026. The 35% probability assigned here reflects a very low chance of such a substantial slowdown. To change this assessment, I would need to see evidence of a dramatic reversal in their business performance or a significant economic shock.",
+  "evidence": [
+   "E20",
+   "E21"
+  ]
+ },
+ "F08": {
+  "reasoning": "Evidence E23 indicates Regions Financial Corporation (RF) reported a year-over-year quarterly revenue growth of -2.0% for the quarter ending June 30, 2026. Evidence E24 shows a revenue trail with figures fluctuating around $1.7-1.8B in recent quarters, with the current quarter being lower than the same quarter last year. Given the recent negative growth and the flatness of the revenue trail, the probability (65%) that RF will report revenue growth of at least -3.0% for Q3 2026 is high, implying that a further, but modest, decline is possible. To decrease this probability, I would need to see signs of a turnaround in their revenue generation.",
+  "evidence": [
+   "E23",
+   "E24"
+  ]
+ },
+ "F09": {
+  "reasoning": "Evidence E27 shows The Bank of New York Mellon (BK) has a year-over-year quarterly revenue growth of -14.5% for the quarter ending June 30, 2026. Evidence E26 shows a revenue trail with a consistent downward trend for the most recent quarters. Given this significant and sustained negative growth, the probability (40%) that BK will report revenue growth of at least -5.0% for Q3 2026 is not particularly high, suggesting a continued risk of further declines. To increase this probability, I would need to see evidence of stabilization or a significant reduction in the rate of revenue decline.",
+  "evidence": [
+   "E26",
+   "E27"
+  ]
+ },
+ "F10": {
+  "reasoning": "Evidence E29 shows Morgan Stanley (MS) reported a year-over-year quarterly revenue growth of -10.0% for the quarter ending June 30, 2026. Evidence E30 shows a revenue trail with declining figures in recent quarters. This pattern of negative growth suggests that it is likely that Morgan Stanley will continue to experience revenue challenges. The 70% probability that MS will report revenue growth below +15.0% for Q3 2026 is therefore quite high, reflecting the current negative trend. To reduce this probability, I would need to see strong indications of a market turnaround or strategic changes positively impacting MS's revenue streams.",
+  "evidence": [
+   "E29",
+   "E30"
+  ]
+ }
+}

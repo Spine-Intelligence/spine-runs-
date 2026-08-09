@@ -1,0 +1,224 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "There is a 55% chance that JPMorgan Chase & Co. (JPM) will report year-over-year quarterly revenue growth below +15% for Q3 2026.",
+   "probability": 0.55,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 15.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "+27.7%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E02",
+    "E03"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "There is a 30% chance that Bank of America (BAC) will report year-over-year quarterly revenue growth of at least -1.0% for Q3 2026.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": -1.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "-3.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D2",
+   "evidence": [
+    "E05",
+    "E06"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "There is a 70% chance that Wells Fargo & Company (WFC) will report year-over-year quarterly revenue growth below +5.0% for Q3 2026.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 5.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "+9.2%",
+     "as_of": "2026-07-28"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E08",
+    "E09"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "There is a 25% chance that Citigroup Inc. (C) will report year-over-year quarterly revenue growth of at least +2.0% for Q3 2026.",
+   "probability": 0.25,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 2.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "+0.6%",
+     "as_of": "2025-11-06"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D5",
+   "evidence": [
+    "E11",
+    "E12"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "There is a 60% chance that US Bancorp (USB) will report year-over-year quarterly revenue growth below +8.0% for Q3 2026.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 8.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "+10.1%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E14",
+    "E15"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "There is a 40% chance that KeyCorp (KEY) will report year-over-year quarterly revenue growth of at least -1.0% for Q3 2026.",
+   "probability": 0.4,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": -1.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "-2.3%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D2",
+   "evidence": [
+    "E17",
+    "E18"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "There is a 35% chance that Fifth Third Bancorp (FITB) will report year-over-year quarterly revenue growth below +25.0% for Q3 2026.",
+   "probability": 0.35,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 25.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "+35.7%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E20",
+    "E21"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "There is a 65% chance that Regions Financial Corporation (RF) will report year-over-year quarterly revenue growth of at least -3.0% for Q3 2026.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": -3.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "-2.0%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D2",
+   "evidence": [
+    "E23",
+    "E24"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "There is a 20% chance that The Bank of New York Mellon (BK) will report year-over-year quarterly revenue growth of at least -5.0% for Q3 2026.",
+   "probability": 0.2,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": -5.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "-10.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D4",
+   "evidence": [
+    "E26",
+    "E27"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "There is a 75% chance that Morgan Stanley (MS) will report year-over-year quarterly revenue growth below +15.0% for Q3 2026.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth percentage",
+    "threshold": 15.0,
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "+27.1%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: percentage points; status: in-force only; window: quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E29",
+    "E30"
+   ]
+  }
+ ]
+}
