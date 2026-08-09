@@ -1,0 +1,43 @@
+{
+ "text": "The 2026 mid-year financial landscape among U.S. listed banks and financial institutions is defined by a single primary causal driver: Capital Markets Velocity and Non-Interest Revenue Scaling. Divergence across institutions is not driven by generic macroeconomic interest rate cycles, but by the differential capacity of major institutions to leverage trading, investment banking, and fee-based revenue streams to offset net interest margin (NIM) pressures. Institutions with high trading and capital markets exposure, such as JPMorgan Chase & Co. [E01, E02] and Morgan Stanley [E28, E29], have achieved double-digit top-line expansion (e.g., +27.7% and +27.1% year-over-year, respectively), while purely balance-sheet-dependent regional lenders and trust banks experiencing contraction or flat growth (such as Bank of America [-3.0%], KeyCorp [-2.3%], Regions Financial [-2.0%], and Bank of New York Mellon [-10.0%]) illustrate the acute vulnerability of traditional net-interest-dependent models [E05, E17, E23, E26]. This framework asserts that institutional top-line growth in 2026 is almost entirely a function of non-interest income buoyancy rather than net interest income stability. Falsification of this framework would require observing a sustained, statistically significant positive correlation where institutions with contracting trading and fee revenues outperform peers purely on the back of net interest income expansion over two consecutive quarters. Without such evidence, capital markets velocity remains the sole determinant of outperformance in the banking sector.",
+ "cause_effect_dynamics": [
+  "D1: Capital markets velocity and trading/fee cycle acceleration directly drive double-digit top-line revenue growth in diversified money center banks because non-interest income successfully absorbs interest margin compression (E01, E02, E28, E29)",
+  "D2: Heavy reliance on net interest income without diversified fee streams results in year-over-year revenue contraction as deposit betas and loan demand remain constrained by prevailing monetary policy schedules (E05, E17, E23, E26)",
+  "D3: Strategic balance sheet repositioning and product mix optimization allow select regional banks to decouple from broad sector contraction and achieve positive quarterly revenue growth through specialized payment and commercial services (E14, E20)"
+ ],
+ "evidence_used": [
+  "E01",
+  "E02",
+  "E03",
+  "E04",
+  "E05",
+  "E06",
+  "E07",
+  "E08",
+  "E09",
+  "E13",
+  "E14",
+  "E15",
+  "E16",
+  "E17",
+  "E18",
+  "E19",
+  "E20",
+  "E21",
+  "E22",
+  "E23",
+  "E24",
+  "E25",
+  "E26",
+  "E27",
+  "E28",
+  "E29",
+  "E30",
+  "E31",
+  "E32",
+  "E33",
+  "E34",
+  "E35",
+  "E36"
+ ]
+}

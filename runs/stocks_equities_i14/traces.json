@@ -1,0 +1,167 @@
+[
+ {
+  "run_key": "bw-2026-08-09-ecb1d89c",
+  "stage": "research",
+  "seq": 0,
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_digest": "19874d2c2f4dc0a27e496e688a7b0a70e957f4f1f055cfd634c6ba0b02181883",
+  "artifact_digest": "685544055876124ee82a0b08fc33f11d2230b51eb2fe0126fefb167027d08188",
+  "artifact_uri": "store/fwd/runs/bw-2026-08-09-ecb1d89c/research.0.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-2026-08-09-ecb1d89c",
+  "stage": "analysis",
+  "seq": 0,
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_digest": "ebd199c6c8b11db3e3d900a885b927f10afa649b44bbc211e06763a8e5867058",
+  "artifact_digest": "ffd2975c08b313d33d797cbf4ff03d88039a07fdc81b5d47eaf905152966c430",
+  "artifact_uri": "store/fwd/runs/bw-2026-08-09-ecb1d89c/analysis.0.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-2026-08-09-ecb1d89c",
+  "stage": "framework",
+  "seq": 0,
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_digest": "ccf112a1766c28a439e86712a136f4ad24237f488f02469dbf80dfca62ddfd41",
+  "artifact_digest": "a2bf7da2b59d97388f65843d30bee99a38b92033227643be2b23f0749c6cde8a",
+  "artifact_uri": "store/fwd/runs/bw-2026-08-09-ecb1d89c/framework.0.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-2026-08-09-ecb1d89c",
+  "stage": "forecasts",
+  "seq": 0,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash-lite",
+  "prompt_digest": "5b50f579e04281bd657a2608fa68e13e0a39a7ecc3e22d1f1a949dafa6ca4a2b",
+  "artifact_digest": "85a3e26c437c62d05c25a495bc938af63d9e3823cfb2b14c3f673c22dea76353",
+  "artifact_uri": "store/fwd/runs/bw-2026-08-09-ecb1d89c/forecasts.0.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-2026-08-09-ecb1d89c",
+  "stage": "forecasts",
+  "seq": 1,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash-lite",
+  "prompt_digest": "888e4bae016be2488b2d4236e6d16f8a6b56f24388eb84491ed6319b79913b07",
+  "artifact_digest": "d82b9aaab44ed24193a586220634056d883daea5b10c6a484d060adfdb72ad64",
+  "artifact_uri": "store/fwd/runs/bw-2026-08-09-ecb1d89c/forecasts.1.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-2026-08-09-ecb1d89c",
+  "stage": "forecasts",
+  "seq": 2,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash-lite",
+  "prompt_digest": "888e4bae016be2488b2d4236e6d16f8a6b56f24388eb84491ed6319b79913b07",
+  "artifact_digest": "2baee679651f8c2389a804eb9c138ada5d4403e492d66738557504dbf66b20a2",
+  "artifact_uri": "store/fwd/runs/bw-2026-08-09-ecb1d89c/forecasts.2.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-2026-08-09-ecb1d89c",
+  "stage": "forecasts",
+  "seq": 3,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash-lite",
+  "prompt_digest": "888e4bae016be2488b2d4236e6d16f8a6b56f24388eb84491ed6319b79913b07",
+  "artifact_digest": "1a62d925e83350cb95059671eb277872af98ae7a4f62f59b204181c00ceb4f10",
+  "artifact_uri": "store/fwd/runs/bw-2026-08-09-ecb1d89c/forecasts.3.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-2026-08-09-ecb1d89c",
+  "stage": "forecasts",
+  "seq": 4,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash-lite",
+  "prompt_digest": "888e4bae016be2488b2d4236e6d16f8a6b56f24388eb84491ed6319b79913b07",
+  "artifact_digest": "de0e16529b10dd3d7d427b6b411e06c1565097c472436e07cb82889f856872d0",
+  "artifact_uri": "store/fwd/runs/bw-2026-08-09-ecb1d89c/forecasts.4.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-2026-08-09-ecb1d89c",
+  "stage": "forecasts",
+  "seq": 5,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash-lite",
+  "prompt_digest": "888e4bae016be2488b2d4236e6d16f8a6b56f24388eb84491ed6319b79913b07",
+  "artifact_digest": "26c247ddc11018419af051e3e5844eb5ee9dcba15ab3d9d1c0a44114c16bc9cc",
+  "artifact_uri": "store/fwd/runs/bw-2026-08-09-ecb1d89c/forecasts.5.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-2026-08-09-ecb1d89c",
+  "stage": "forecasts",
+  "seq": 6,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash-lite",
+  "prompt_digest": "888e4bae016be2488b2d4236e6d16f8a6b56f24388eb84491ed6319b79913b07",
+  "artifact_digest": "615e9b468e86eb9214e6a60477517c0b3dbb879b5d3d8a24f7af41b30be27705",
+  "artifact_uri": "store/fwd/runs/bw-2026-08-09-ecb1d89c/forecasts.6.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-2026-08-09-ecb1d89c",
+  "stage": "forecasts",
+  "seq": 7,
+  "provider": "gemini",
+  "model": "bridgewater.py",
+  "prompt_digest": "293a3929f7a4d6bbcda08b9a21ad5ec2f0f039507693f0d28998b5df18b1ee15",
+  "artifact_digest": "d7e9172309b5e2571bfbdb498a319d2096f125b3c1ef82916aaaf7919f5bfa1e",
+  "artifact_uri": "store/fwd/runs/bw-2026-08-09-ecb1d89c/forecasts.7.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-2026-08-09-ecb1d89c",
+  "stage": "forecasts",
+  "seq": 87,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash-lite",
+  "prompt_digest": "476c94e60de24451f59eee873263b70c29a3aa22e06bdb9cb883e2c358675be2",
+  "artifact_digest": "c395c853f24d6c4985801f7c6b03c17c6309cc143e81e7420f95c7b88c4807f1",
+  "artifact_uri": "store/fwd/runs/bw-2026-08-09-ecb1d89c/forecasts.87.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-2026-08-09-ecb1d89c",
+  "stage": "framework",
+  "seq": 1,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash-lite",
+  "prompt_digest": "4e0707d00bd87f411f7935a34ce876f0a182899ce7ce25a0e7eed37574615c27",
+  "artifact_digest": "26a36d9532eef216277eb42a560715699878617315375fed2bca2a4c0a0f49cf",
+  "artifact_uri": "store/fwd/runs/bw-2026-08-09-ecb1d89c/framework.1.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-2026-08-09-ecb1d89c",
+  "stage": "forecasts",
+  "seq": 10,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash-lite",
+  "prompt_digest": "5b50f579e04281bd657a2608fa68e13e0a39a7ecc3e22d1f1a949dafa6ca4a2b",
+  "artifact_digest": "9e43adbf9461366ebeae485969d6729dcd6fd2cca65ef2ea8b323aedf16dee06",
+  "artifact_uri": "store/fwd/runs/bw-2026-08-09-ecb1d89c/forecasts.10.json",
+  "gate_violations": 17
+ },
+ {
+  "run_key": "bw-2026-08-09-ecb1d89c",
+  "stage": "appendix",
+  "seq": 2,
+  "provider": "gemini",
+  "model": "gemini-2.5-flash-lite",
+  "prompt_digest": "11517da9d1a7169aef9f6b396e8653604ddaf5fd9dcc34bf51d155097c6bfcc6",
+  "artifact_digest": "a853536e442732c53f691b0f9a88a9fb00b696aa8bb1c4a71ab7210012769bd7",
+  "artifact_uri": "store/fwd/runs/bw-2026-08-09-ecb1d89c/appendix.2.json",
+  "gate_violations": 0
+ }
+]
