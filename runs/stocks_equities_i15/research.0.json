@@ -1,0 +1,528 @@
+{
+ "evidence": [
+  {
+   "fact": "SEC EDGAR XBRL (JPM, JPMORGAN CHASE & CO): quarterly revenue $57.347B for fiscal quarter ending 2026-06-30, filed 2026-08-06 (10-Q, tag RevenuesNetOfInterestExpense)",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E01"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (JPM): year-over-year quarterly revenue growth +27.7% ($44.912B quarter ending 2025-06-30 -> $57.347B ending 2026-06-30, both as filed)",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E02"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (JPM): filed quarterly revenue trail -- 2026-06-30: $57.35B, 2026-03-31: $49.84B, 2025-09-30: $46.43B, 2025-06-30: $44.91B, 2025-03-31: $45.31B, 2024-09-30: $42.65B",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E03"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (BAC, BofA Finance LLC): quarterly revenue $33.832B for fiscal quarter ending 2026-06-30, filed 2026-07-31 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E04"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (BAC): year-over-year quarterly revenue growth -3.0% ($34.873B quarter ending 2025-06-30 -> $33.832B ending 2026-06-30, both as filed)",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E05"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (BAC): filed quarterly revenue trail -- 2026-06-30: $33.83B, 2026-03-31: $33.36B, 2025-09-30: $35.37B, 2025-06-30: $34.87B, 2025-03-31: $34.07B, 2024-09-30: $37.49B",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E06"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (WFC, WELLS        FARGO & COMPANY/MN): quarterly revenue $23.284B for fiscal quarter ending 2026-06-30, filed 2026-07-28 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "as_of": "2026-07-28",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E07"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (WFC): year-over-year quarterly revenue growth +9.2% ($21.320B quarter ending 2025-06-30 -> $23.284B ending 2026-06-30, both as filed)",
+   "as_of": "2026-07-28",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E08"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (WFC): filed quarterly revenue trail -- 2026-06-30: $23.28B, 2026-03-31: $22.45B, 2025-09-30: $22.42B, 2025-06-30: $21.32B, 2025-03-31: $20.97B, 2024-09-30: $23.00B",
+   "as_of": "2026-07-28",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E09"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (C, Citigroup Inc): quarterly revenue $36.690B for fiscal quarter ending 2025-09-30, filed 2025-11-06 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "as_of": "2025-11-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E10"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (C): year-over-year quarterly revenue growth +0.6% ($36.456B quarter ending 2024-09-30 -> $36.690B ending 2025-09-30, both as filed)",
+   "as_of": "2025-11-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E11"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (C): filed quarterly revenue trail -- 2025-09-30: $36.69B, 2025-06-30: $35.86B, 2025-03-31: $33.67B, 2024-09-30: $36.46B, 2024-06-30: $35.99B, 2024-03-31: $36.22B",
+   "as_of": "2025-11-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E12"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (USB, US BANCORP \\DE\\): quarterly revenue $7.712B for fiscal quarter ending 2026-06-30, filed 2026-08-06 (10-Q, tag Revenues)",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E13"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (USB): year-over-year quarterly revenue growth +10.1% ($7.004B quarter ending 2025-06-30 -> $7.712B ending 2026-06-30, both as filed)",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E14"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (USB): filed quarterly revenue trail -- 2026-06-30: $7.71B, 2026-03-31: $7.29B, 2025-09-30: $7.33B, 2025-06-30: $7.00B, 2025-03-31: $6.96B, 2024-09-30: $6.86B",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E15"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (KEY, KeyCorp): quarterly revenue $2.059B for fiscal quarter ending 2026-06-30, filed 2026-08-04 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E16"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (KEY): year-over-year quarterly revenue growth -2.3% ($2.107B quarter ending 2025-06-30 -> $2.059B ending 2026-06-30, both as filed)",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E17"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (KEY): filed quarterly revenue trail -- 2026-06-30: $2.06B, 2026-03-31: $2.00B, 2025-09-30: $2.13B, 2025-06-30: $2.11B, 2025-03-31: $2.07B, 2024-09-30: $2.17B",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E18"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (FITB, Fifth Third Bancorp): quarterly revenue $3.372B for fiscal quarter ending 2026-06-30, filed 2026-08-04 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E19"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (FITB): year-over-year quarterly revenue growth +35.7% ($2.484B quarter ending 2025-06-30 -> $3.372B ending 2026-06-30, both as filed)",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E20"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (FITB): filed quarterly revenue trail -- 2026-06-30: $3.37B, 2026-03-31: $2.97B, 2025-09-30: $2.52B, 2025-06-30: $2.48B, 2025-03-31: $2.43B, 2024-09-30: $2.67B",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E21"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (RF, Regions Financial Corporation): quarterly revenue $1.748B for fiscal quarter ending 2026-06-30, filed 2026-08-06 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E22"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (RF): year-over-year quarterly revenue growth -2.0% ($1.784B quarter ending 2025-06-30 -> $1.748B ending 2026-06-30, both as filed)",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E23"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (RF): filed quarterly revenue trail -- 2026-06-30: $1.75B, 2026-03-31: $1.70B, 2025-09-30: $1.80B, 2025-06-30: $1.78B, 2025-03-31: $1.73B, 2024-09-30: $1.82B",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E24"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (BK, Bank of New York Mellon Corp): quarterly revenue $5.940B for fiscal quarter ending 2026-06-30, filed 2026-07-31 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E25"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (BK): year-over-year quarterly revenue growth -10.0% ($6.602B quarter ending 2025-06-30 -> $5.940B ending 2026-06-30, both as filed)",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E26"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (BK): filed quarterly revenue trail -- 2026-06-30: $5.94B, 2026-03-31: $5.82B, 2025-09-30: $6.59B, 2025-06-30: $6.60B, 2025-03-31: $6.12B, 2024-12-31: $6.47B",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E27"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (MS, MORGAN STANLEY): quarterly revenue $21.348B for fiscal quarter ending 2026-06-30, filed 2026-08-04 (10-Q, tag RevenuesNetOfInterestExpense)",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E28"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (MS): year-over-year quarterly revenue growth +27.1% ($16.792B quarter ending 2025-06-30 -> $21.348B ending 2026-06-30, both as filed)",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E29"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (MS): filed quarterly revenue trail -- 2026-06-30: $21.35B, 2026-03-31: $20.58B, 2025-09-30: $18.22B, 2025-06-30: $16.79B, 2025-03-31: $17.74B, 2024-09-30: $15.38B",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E30"
+  },
+  {
+   "id": "E31",
+   "fact": "JPMorgan Chase & Co. reported total net revenue of $57.3 billion for the second quarter of 2026, an increase of 28% from the second quarter of 2025.",
+   "as_of": "2026-08-06",
+   "source": "Stock Titan",
+   "url": "https://stocktitan.news/news/jpmorgan-chase-nyse-jpm-posts-57-3b-q2-revenue-and-21-2b-profit-645359"
+  },
+  {
+   "id": "E32",
+   "fact": "Bank of America announced a revenue increase of 15% year-over-year to $31.6 billion for the second quarter of 2026.",
+   "as_of": "2026-07-14",
+   "source": "Benzinga",
+   "url": "https://www.benzinga.com/news/26/07/27849298/bank-of-america-bac-reports-strong-q2-2026-earnings-with-15-revenue-growth"
+  },
+  {
+   "id": "E33",
+   "fact": "Wells Fargo reported total revenue of $22.62 billion for the second quarter of 2026, a 9% increase from the same period in 2025.",
+   "as_of": "2026-07-14",
+   "source": "Benzinga",
+   "url": "https://www.benzinga.com/news/26/07/27849094/earnings-call-transcript-wells-fargo-tops-q2-2026-estimates-as-revenue-climbs"
+  },
+  {
+   "id": "E34",
+   "fact": "Citigroup Inc. reported quarterly revenue of $36.690 billion for the fiscal second quarter of 2026.",
+   "as_of": "2026-07-13",
+   "source": "SEC EDGAR",
+   "url": "https://www.sec.gov/Archives/edgar/data/209598/000020959826000008/citi-20260630.htm"
+  },
+  {
+   "id": "E35",
+   "fact": "U.S. Bancorp generated net interest income of $4.4 billion for Q2 2026, up 7.7% year over year.",
+   "as_of": "2026-08-06",
+   "source": "Stock Titan",
+   "url": "https://stocktitan.news/news/us-bancorp-nyse-usb-lifts-q2-2026-earnings-and-buys-btig-645376"
+  },
+  {
+   "id": "E36",
+   "fact": "KeyCorp reported revenue of $1.96 billion for the second quarter of 2026, an increase of 7% year-over-year.",
+   "as_of": "2026-07-21",
+   "source": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/keycorp-reports-second-quarter-2026-net-income-of-472-million-or-044-per-diluted-common-share-increasing-26-year-over-year-302227613.html"
+  },
+  {
+   "id": "E37",
+   "fact": "Fifth Third Bancorp reported total revenue of $3.28 billion for Q2 2026, a 46.0% increase from $2.25 billion in Q2 2025.",
+   "as_of": "2026-07-17",
+   "source": "Alphastreet",
+   "url": "https://www.alphastreet.com/news/fifth-third-bancorp-posts-46-revenue-jump-in-q2-2026-beats-on-eps-fitb"
+  },
+  {
+   "id": "E38",
+   "fact": "Regions Financial Corporation reported total revenue of $1.947 billion on an adjusted basis for Q2 2026.",
+   "as_of": "2026-08-07",
+   "source": "SEC EDGAR",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543779/000119312526186847/kingdom-20260630x8k.htm"
+  },
+  {
+   "id": "E39",
+   "fact": "The Bank of New York Mellon Corporation reported total revenue of $5.7 billion for the second quarter of 2026, a 13% increase year-over-year.",
+   "as_of": "2026-07-15",
+   "source": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/bny-reports-second-quarter-2026-earnings-per-common-share-of-245-302204901.html"
+  },
+  {
+   "id": "E40",
+   "fact": "Morgan Stanley reported record net revenues of $21.3 billion for the second quarter of 2026, a 27% increase year-over-year.",
+   "as_of": "2026-07-15",
+   "source": "Finsee",
+   "url": "https://finsee.com/reports/morgan-stanley-q2-2026-earnings-review-record-flywheel-execution-yields-exceptional-returns-4077"
+  },
+  {
+   "id": "E41",
+   "fact": "JPMorgan Chase & Co. reported net income of $21.2 billion for Q2 2026.",
+   "as_of": "2026-08-06",
+   "source": "Stock Titan",
+   "url": "https://stocktitan.news/news/jpmorgan-chase-nyse-jpm-posts-57-3b-q2-revenue-and-21-2b-profit-645359"
+  },
+  {
+   "id": "E42",
+   "fact": "Bank of America reported net income of $9.1 billion for the second quarter of 2026, an increase of 27% from the prior year.",
+   "as_of": "2026-07-21",
+   "source": "The Motley Fool",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/07/21/bank-of-america-bac-q2-2026-earnings-call-transcript/"
+  },
+  {
+   "id": "E43",
+   "fact": "Wells Fargo reported net income of $6.4 billion for the second quarter of 2026.",
+   "as_of": "2026-07-28",
+   "source": "Stock Titan",
+   "url": "https://stocktitan.news/news/wells-fargo-earns-6-4b-eps-2-00-in-q2-2026-wfc-quarterly-report-10-q-645369"
+  },
+  {
+   "id": "E44",
+   "fact": "U.S. Bancorp reported net income attributable to the company of $2.2 billion for Q2 2026.",
+   "as_of": "2026-08-06",
+   "source": "Stock Titan",
+   "url": "https://stocktitan.news/news/us-bancorp-nyse-usb-lifts-q2-2026-earnings-and-buys-btig-645376"
+  },
+  {
+   "id": "E45",
+   "fact": "KeyCorp reported net income from continuing operations attributable to Key common shareholders of $472 million for the second quarter of 2026.",
+   "as_of": "2026-07-21",
+   "source": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/keycorp-reports-second-quarter-2026-net-income-of-472-million-or-044-per-diluted-common-share-increasing-26-year-over-year-302227613.html"
+  },
+  {
+   "id": "E46",
+   "fact": "Fifth Third Bancorp reported GAAP net income of $801.0 million for Q2 2026, with net income available to common shareholders reaching $763 million.",
+   "as_of": "2026-07-17",
+   "source": "Alphastreet",
+   "url": "https://www.alphastreet.com/news/fifth-third-bancorp-posts-46-revenue-jump-in-q2-2026-beats-on-eps-fitb"
+  },
+  {
+   "id": "E47",
+   "fact": "Regions Financial Corporation reported second quarter 2026 earnings of $549 million.",
+   "as_of": "2026-07-17",
+   "source": "Regions Financial Corporation",
+   "url": "https://ir.regions.com/news-releases/news-release-details/2026/Regions-Reports-Earnings-of-549-Million-and-EPS-of-0.64-in-2Q-2026/default.aspx"
+  },
+  {
+   "id": "E48",
+   "fact": "The Bank of New York Mellon Corporation reported net income applicable to common shareholders of $1.696 billion for the second quarter of 2026.",
+   "as_of": "2026-07-15",
+   "source": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/bny-reports-second-quarter-2026-earnings-per-common-share-of-245-302204901.html"
+  },
+  {
+   "id": "E49",
+   "fact": "Morgan Stanley reported net income of $5.6 billion for the second quarter of 2026.",
+   "as_of": "2026-07-15",
+   "source": "Finsee",
+   "url": "https://finsee.com/reports/morgan-stanley-q2-2026-earnings-review-record-flywheel-execution-yields-exceptional-returns-4077"
+  },
+  {
+   "id": "E50",
+   "fact": "JPMorgan Chase & Co. reported diluted EPS of $7.70 for Q2 2026.",
+   "as_of": "2026-08-06",
+   "source": "Stock Titan",
+   "url": "https://stocktitan.news/news/jpmorgan-chase-nyse-jpm-posts-57-3b-q2-revenue-and-21-2b-profit-645359"
+  },
+  {
+   "id": "E51",
+   "fact": "Bank of America reported diluted EPS of $1.21 for the second quarter of 2026, a 34% increase year-over-year.",
+   "as_of": "2026-07-14",
+   "source": "Benzinga",
+   "url": "https://www.benzinga.com/news/26/07/27849298/bank-of-america-bac-reports-strong-q2-2026-earnings-with-15-revenue-growth"
+  },
+  {
+   "id": "E52",
+   "fact": "Wells Fargo reported diluted EPS of $2.00 for the second quarter of 2026, up 25% from a year earlier.",
+   "as_of": "2026-07-14",
+   "source": "Benzinga",
+   "url": "https://www.benzinga.com/news/26/07/27849094/earnings-call-transcript-wells-fargo-tops-q2-2026-estimates-as-revenue-climbs"
+  },
+  {
+   "id": "E53",
+   "fact": "U.S. Bancorp reported diluted EPS of $1.35 for Q2 2026, an increase of 22% year-over-year.",
+   "as_of": "2026-08-06",
+   "source": "Stock Titan",
+   "url": "https://stocktitan.news/news/us-bancorp-nyse-usb-lifts-q2-2026-earnings-and-buys-btig-645376"
+  },
+  {
+   "id": "E54",
+   "fact": "KeyCorp reported diluted EPS of $0.44 for the second quarter of 2026.",
+   "as_of": "2026-07-21",
+   "source": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/keycorp-reports-second-quarter-2026-net-income-of-472-million-or-044-per-diluted-common-share-increasing-26-year-over-year-302227613.html"
+  },
+  {
+   "id": "E55",
+   "fact": "Fifth Third Bancorp reported adjusted earnings of $1.02 per share for Q2 2026.",
+   "as_of": "2026-07-17",
+   "source": "Alphastreet",
+   "url": "https://www.alphastreet.com/news/fifth-third-bancorp-posts-46-revenue-jump-in-q2-2026-beats-on-eps-fitb"
+  },
+  {
+   "id": "E56",
+   "fact": "Regions Financial Corporation reported diluted EPS of $0.64 for the second quarter of 2026.",
+   "as_of": "2026-07-17",
+   "source": "Regions Financial Corporation",
+   "url": "https://ir.regions.com/news-releases/news-release-details/2026/Regions-Reports-Earnings-of-549-Million-and-EPS-of-0.64-in-2Q-2026/default.aspx"
+  },
+  {
+   "id": "E57",
+   "fact": "The Bank of New York Mellon Corporation reported diluted EPS of $2.45 for the second quarter of 2026.",
+   "as_of": "2026-07-15",
+   "source": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/bny-reports-second-quarter-2026-earnings-per-common-share-of-245-302204901.html"
+  },
+  {
+   "id": "E58",
+   "fact": "Morgan Stanley reported EPS of $3.46 for the second quarter of 2026.",
+   "as_of": "2026-07-15",
+   "source": "Finsee",
+   "url": "https://finsee.com/reports/morgan-stanley-q2-2026-earnings-review-record-flywheel-execution-yields-exceptional-returns-4077"
+  },
+  {
+   "id": "E59",
+   "fact": "Fifth Third Bancorp surpassed $300 billion in total assets in the second quarter of 2026, formally becoming a Category III institution.",
+   "as_of": "2026-07-17",
+   "source": "Fifth Third Bancorp",
+   "url": "https://ir.53.com/news-releases/news-release-details/2026/Fifth-Third-Bancorp-Reports-Second-Quarter-2026-Earnings/default.aspx"
+  },
+  {
+   "id": "E60",
+   "fact": "JPMorgan Chase & Co. had $5.0 trillion in assets and $375 billion in stockholders' equity as of June 30, 2026.",
+   "as_of": "2026-07-14",
+   "source": "JPMorgan Chase & Co.",
+   "url": "https://www.jpmorganchase.com/news/jpmorgan-chase-releases-second-quarter-2026-financial-results"
+  },
+  {
+   "id": "E61",
+   "fact": "Bank of America operates with a market capitalization of approximately $428.2 billion.",
+   "as_of": "2026-07-14",
+   "source": "Benzinga",
+   "url": "https://www.benzinga.com/news/26/07/27849298/bank-of-america-bac-reports-strong-q2-2026-earnings-with-15-revenue-growth"
+  },
+  {
+   "id": "E62",
+   "fact": "Wells Fargo's CET1 capital ratio was 10.26% as of June 30, 2026.",
+   "as_of": "2026-07-28",
+   "source": "Stock Titan",
+   "url": "https://stocktitan.news/news/wells-fargo-earns-6-4b-eps-2-00-in-q2-2026-wfc-quarterly-report-10-q-645369"
+  },
+  {
+   "id": "E63",
+   "fact": "U.S. Bancorp's CET1 capital ratio was 10.8% at June 30, 2026.",
+   "as_of": "2026-07-16",
+   "source": "U.S. Bank",
+   "url": "https://ir.usbank.com/financial-information/quarterly-results/2026/q2-2026-results"
+  },
+  {
+   "id": "E64",
+   "fact": "KeyCorp's common equity Tier 1 ratio was 11.2% at the end of Q2 2026.",
+   "as_of": "2026-07-21",
+   "source": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/keycorp-reports-second-quarter-2026-net-income-of-472-million-or-044-per-diluted-common-share-increasing-26-year-over-year-302227613.html"
+  },
+  {
+   "id": "E65",
+   "fact": "Fifth Third Bancorp's CET1 ended the quarter at 9.93% as of June 30, 2026.",
+   "as_of": "2026-07-17",
+   "source": "AlphaSense",
+   "url": "https://www.alpha-sense.com/news/fifth-third-bancorp-earnings-analysis-highlights-for-q2-2026-102950"
+  },
+  {
+   "id": "E66",
+   "fact": "Regions Financial Corporation's allowance for credit losses ratio was 1.63% as of June 30, 2026.",
+   "as_of": "2026-08-07",
+   "source": "SEC EDGAR",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543779/000119312526186847/kingdom-20260630x8k.htm"
+  },
+  {
+   "id": "E67",
+   "fact": "The Bank of New York Mellon Corporation's assets under custody and administration rose 12% year over year to $62.6 trillion.",
+   "as_of": "2026-07-15",
+   "source": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/bny-reports-second-quarter-2026-earnings-per-common-share-of-245-302204901.html"
+  },
+  {
+   "id": "E68",
+   "fact": "Morgan Stanley reported record net new assets of $148 billion in its Wealth Management division for Q2 2026.",
+   "as_of": "2026-07-15",
+   "source": "Finsee",
+   "url": "https://finsee.com/reports/morgan-stanley-q2-2026-earnings-review-record-flywheel-execution-yields-exceptional-returns-4077"
+  },
+  {
+   "id": "E69",
+   "fact": "JPMorgan Chase & Co. reported a provision for credit losses of $2.5 billion for Q2 2026.",
+   "as_of": "2026-08-06",
+   "source": "Stock Titan",
+   "url": "https://stocktitan.news/news/jpmorgan-chase-nyse-jpm-posts-57-3b-q2-revenue-and-21-2b-profit-645359"
+  },
+  {
+   "id": "E70",
+   "fact": "Bank of America reported a net interest margin of 2.08% for Q2 2026.",
+   "as_of": "2026-08-03",
+   "source": "The Motley Fool",
+   "url": "https://www.fool.com/earnings/call-transcripts/2026/07/21/bank-of-america-bac-q2-2026-earnings-call-transcript/"
+  },
+  {
+   "id": "E71",
+   "fact": "Wells Fargo's net interest income increased 5% year-over-year in Q2 2026.",
+   "as_of": "2026-07-14",
+   "source": "Benzinga",
+   "url": "https://www.benzinga.com/news/26/07/27849094/earnings-call-transcript-wells-fargo-tops-q2-2026-estimates-as-revenue-climbs"
+  },
+  {
+   "id": "E72",
+   "fact": "U.S. Bancorp's net interest margin was 2.79% in Q2 2026.",
+   "as_of": "2026-08-06",
+   "source": "Stock Titan",
+   "url": "https://stocktitan.news/news/us-bancorp-nyse-usb-lifts-q2-2026-earnings-and-buys-btig-645376"
+  },
+  {
+   "id": "E73",
+   "fact": "KeyCorp's net interest margin was 2.89% in Q2 2026.",
+   "as_of": "2026-07-21",
+   "source": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/keycorp-reports-second-quarter-2026-net-income-of-472-million-or-044-per-diluted-common-share-increasing-26-year-over-year-302227613.html"
+  },
+  {
+   "id": "E74",
+   "fact": "Fifth Third Bancorp's net interest margin expanded 6 basis points sequentially to 3.36% in Q2 2026.",
+   "as_of": "2026-07-17",
+   "source": "Fifth Third Bancorp",
+   "url": "https://ir.53.com/news-releases/news-release-details/2026/Fifth-Third-Bancorp-Reports-Second-Quarter-2026-Earnings/default.aspx"
+  },
+  {
+   "id": "E75",
+   "fact": "Regions Financial Corporation's net interest margin was 3.66% for Q2 2026.",
+   "as_of": "2026-08-07",
+   "source": "SEC EDGAR",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543779/000119312526186847/kingdom-20260630x8k.htm"
+  },
+  {
+   "id": "E76",
+   "fact": "The Bank of New York Mellon Corporation's net interest income climbed 20% year over year to $1.4 billion in Q2 2026.",
+   "as_of": "2026-07-15",
+   "source": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/bny-reports-second-quarter-2026-earnings-per-common-share-of-245-302204901.html"
+  },
+  {
+   "id": "E77",
+   "fact": "Morgan Stanley's net interest income reached $2.254 billion in Q2 2026, up 18% from the previous year.",
+   "as_of": "2026-07-16",
+   "source": "Morgan Stanley",
+   "url": "https://www.morganstanley.com/press-releases/morgan-stanleys-wealth-management-arm-posts-record-q2-2026-net-revenues"
+  },
+  {
+   "id": "E78",
+   "fact": "JPMorgan Chase & Co. reported net interest income of $25.5 billion for Q2 2026, up 10% year-over-year.",
+   "as_of": "2026-08-06",
+   "source": "Stock Titan",
+   "url": "https://stocktitan.news/news/jpmorgan-chase-nyse-jpm-posts-57-3b-q2-revenue-and-21-2b-profit-645359"
+  },
+  {
+   "id": "E79",
+   "fact": "Bank of America's investment banking fees soared by 50% to over $2.1 billion in Q2 2026.",
+   "as_of": "2026-07-14",
+   "source": "Benzinga",
+   "url": "https://www.benzinga.com/news/26/07/27849298/bank-of-america-bac-reports-strong-q2-2026-earnings-with-15-revenue-growth"
+  }
+ ],
+ "unknowns": []
+}

@@ -1,0 +1,944 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "JPMorgan Chase & Co. will report quarterly revenue below $57.5 billion for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "RevenuesNetOfInterestExpense",
+    "threshold": "57.5B",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "57.347B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "quarterly revenue; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E02",
+    "E03"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "Bank of America Corporation will report year-over-year quarterly revenue growth above -2.0% for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "-2.0%",
+    "resolution_date": "2026-10-30",
+    "baseline": {
+     "value": "-3.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "year-over-year quarterly revenue growth; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D2",
+   "evidence": [
+    "E02",
+    "E05",
+    "E06",
+    "E42"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "Wells Fargo & Company will report quarterly revenue above $23.5 billion for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Revenues",
+    "threshold": "23.5B",
+    "resolution_date": "2026-10-27",
+    "baseline": {
+     "value": "23.284B",
+     "as_of": "2026-07-28"
+    },
+    "counting_convention": "quarterly revenue; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D2",
+   "evidence": [
+    "E07",
+    "E08",
+    "E09"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "U.S. Bancorp will report year-over-year quarterly revenue growth below 9.0% for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "9.0%",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "10.1%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "year-over-year quarterly revenue growth; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D2",
+   "evidence": [
+    "E13",
+    "E14",
+    "E15"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "KeyCorp will report year-over-year quarterly revenue growth above -1.5% for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "-1.5%",
+    "resolution_date": "2026-11-04",
+    "baseline": {
+     "value": "-2.3%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "year-over-year quarterly revenue growth; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D2",
+   "evidence": [
+    "E16",
+    "E17",
+    "E18"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "Fifth Third Bancorp will report quarterly revenue below $3.3 billion for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "3.3B",
+    "resolution_date": "2026-11-04",
+    "baseline": {
+     "value": "3.372B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "quarterly revenue; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D1",
+   "evidence": [
+    "E19",
+    "E20",
+    "E21"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "Regions Financial Corporation will report year-over-year quarterly revenue growth above -1.0% for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "-1.0%",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "-2.0%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "year-over-year quarterly revenue growth; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D2",
+   "evidence": [
+    "E22",
+    "E23",
+    "E24"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "Bank of New York Mellon Corp will report year-over-year quarterly revenue growth below -8.0% for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "-8.0%",
+    "resolution_date": "2026-10-30",
+    "baseline": {
+     "value": "-10.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "year-over-year quarterly revenue growth; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D2",
+   "evidence": [
+    "E25",
+    "E26",
+    "E27"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "Morgan Stanley will report quarterly revenue above $21.5 billion for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "RevenuesNetOfInterestExpense",
+    "threshold": "21.5B",
+    "resolution_date": "2026-11-04",
+    "baseline": {
+     "value": "21.348B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "quarterly revenue; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D1",
+   "evidence": [
+    "E28",
+    "E29",
+    "E30"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "JPMorgan Chase & Co. will report year-over-year quarterly revenue growth below 25.0% for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "25.0%",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "27.7%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "year-over-year quarterly revenue growth; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D1",
+   "evidence": [
+    "E02",
+    "E03"
+   ]
+  },
+  {
+   "id": "F11",
+   "statement": "Bank of America Corporation will report quarterly revenue below $33.5 billion for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "33.5B",
+    "resolution_date": "2026-10-30",
+    "baseline": {
+     "value": "33.832B",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "quarterly revenue; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D2",
+   "evidence": [
+    "E04",
+    "E05",
+    "E06"
+   ]
+  },
+  {
+   "id": "F12",
+   "statement": "Wells Fargo & Company will report year-over-year quarterly revenue growth below 8.0% for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "8.0%",
+    "resolution_date": "2026-10-27",
+    "baseline": {
+     "value": "9.2%",
+     "as_of": "2026-07-28"
+    },
+    "counting_convention": "year-over-year quarterly revenue growth; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D2",
+   "evidence": [
+    "E08",
+    "E09"
+   ]
+  },
+  {
+   "id": "F13",
+   "statement": "U.S. Bancorp will report quarterly revenue below $7.6 billion for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Revenues",
+    "threshold": "7.6B",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "7.712B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "quarterly revenue; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D2",
+   "evidence": [
+    "E13",
+    "E15"
+   ]
+  },
+  {
+   "id": "F14",
+   "statement": "KeyCorp will report quarterly revenue below $2.0 billion for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "2.0B",
+    "resolution_date": "2026-11-04",
+    "baseline": {
+     "value": "2.059B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "quarterly revenue; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D2",
+   "evidence": [
+    "E16",
+    "E17",
+    "E18"
+   ]
+  },
+  {
+   "id": "F15",
+   "statement": "Fifth Third Bancorp will report year-over-year quarterly revenue growth below 25.0% for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "25.0%",
+    "resolution_date": "2026-11-04",
+    "baseline": {
+     "value": "35.7%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "year-over-year quarterly revenue growth; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D1",
+   "evidence": [
+    "E19",
+    "E20",
+    "E21"
+   ]
+  },
+  {
+   "id": "F16",
+   "statement": "Regions Financial Corporation will report quarterly revenue below $1.70 billion for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "1.70B",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "1.748B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "quarterly revenue; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D2",
+   "evidence": [
+    "E22",
+    "E23",
+    "E24"
+   ]
+  },
+  {
+   "id": "F17",
+   "statement": "Bank of New York Mellon Corp will report quarterly revenue below $5.8 billion for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "5.8B",
+    "resolution_date": "2026-10-30",
+    "baseline": {
+     "value": "5.940B",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "quarterly revenue; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D2",
+   "evidence": [
+    "E25",
+    "E26",
+    "E27"
+   ]
+  },
+  {
+   "id": "F18",
+   "statement": "Morgan Stanley will report year-over-year quarterly revenue growth below 25.0% for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "25.0%",
+    "resolution_date": "2026-11-04",
+    "baseline": {
+     "value": "27.1%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "year-over-year quarterly revenue growth; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D1",
+   "evidence": [
+    "E28",
+    "E29",
+    "E30"
+   ]
+  },
+  {
+   "id": "F19",
+   "statement": "JPMorgan Chase & Co. will report net income below $20 billion for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "net income",
+    "threshold": "20B",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "21.2B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "net income; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D1",
+   "evidence": [
+    "E41"
+   ]
+  },
+  {
+   "id": "F20",
+   "statement": "Bank of America Corporation will report year-over-year quarterly revenue growth above 0% for the fiscal quarter ending 2027-03-31.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "0%",
+    "resolution_date": "2027-04-30",
+    "baseline": {
+     "value": "-3.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "year-over-year quarterly revenue growth; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.61,
+   "dynamic": "D2",
+   "evidence": [
+    "E05",
+    "E06",
+    "E42"
+   ]
+  },
+  {
+   "id": "F21",
+   "statement": "Wells Fargo & Company will report net income below $6 billion for the fiscal quarter ending 2026-09-30.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "net income",
+    "threshold": "6B",
+    "resolution_date": "2026-10-27",
+    "baseline": {
+     "value": "6.4B",
+     "as_of": "2026-07-28"
+    },
+    "counting_convention": "net income; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.21,
+   "dynamic": "D2",
+   "evidence": [
+    "E43"
+   ]
+  },
+  {
+   "id": "F22",
+   "statement": "U.S. Bancorp will report year-over-year quarterly revenue growth below 5.0% for the fiscal quarter ending 2027-03-31.",
+   "probability": 0.35,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "5.0%",
+    "resolution_date": "2027-05-06",
+    "baseline": {
+     "value": "10.1%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "year-over-year quarterly revenue growth; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.61,
+   "dynamic": "D2",
+   "evidence": [
+    "E13",
+    "E14",
+    "E15"
+   ]
+  },
+  {
+   "id": "F23",
+   "statement": "KeyCorp will report year-over-year quarterly revenue growth above -3.0% for the fiscal quarter ending 2027-03-31.",
+   "probability": 0.35,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "-3.0%",
+    "resolution_date": "2027-05-04",
+    "baseline": {
+     "value": "-2.3%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "year-over-year quarterly revenue growth; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.61,
+   "dynamic": "D2",
+   "evidence": [
+    "E16",
+    "E17",
+    "E18"
+   ]
+  },
+  {
+   "id": "F24",
+   "statement": "Fifth Third Bancorp will report quarterly revenue above $3.0 billion for the fiscal quarter ending 2027-03-31.",
+   "probability": 0.35,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "3.0B",
+    "resolution_date": "2027-05-04",
+    "baseline": {
+     "value": "3.372B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "quarterly revenue; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.61,
+   "dynamic": "D1",
+   "evidence": [
+    "E19",
+    "E20",
+    "E21"
+   ]
+  },
+  {
+   "id": "F25",
+   "statement": "Regions Financial Corporation will report year-over-year quarterly revenue growth above -3.0% for the fiscal quarter ending 2027-03-31.",
+   "probability": 0.35,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "-3.0%",
+    "resolution_date": "2027-05-06",
+    "baseline": {
+     "value": "-2.0%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "year-over-year quarterly revenue growth; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.61,
+   "dynamic": "D2",
+   "evidence": [
+    "E22",
+    "E23",
+    "E24"
+   ]
+  },
+  {
+   "id": "F26",
+   "statement": "Bank of New York Mellon Corp will report year-over-year quarterly revenue growth above -5.0% for the fiscal quarter ending 2027-03-31.",
+   "probability": 0.35,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "-5.0%",
+    "resolution_date": "2027-04-30",
+    "baseline": {
+     "value": "-10.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "year-over-year quarterly revenue growth; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.61,
+   "dynamic": "D2",
+   "evidence": [
+    "E26",
+    "E27"
+   ]
+  },
+  {
+   "id": "F27",
+   "statement": "Morgan Stanley will report quarterly revenue above $20 billion for the fiscal quarter ending 2027-03-31.",
+   "probability": 0.35,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "RevenuesNetOfInterestExpense",
+    "threshold": "20B",
+    "resolution_date": "2027-05-04",
+    "baseline": {
+     "value": "21.348B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "quarterly revenue; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.61,
+   "dynamic": "D1",
+   "evidence": [
+    "E28",
+    "E30"
+   ]
+  },
+  {
+   "id": "F28",
+   "statement": "Wells Fargo & Company will report year-over-year quarterly revenue growth above 5.0% for the fiscal quarter ending 2027-03-31.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "5.0%",
+    "resolution_date": "2027-04-27",
+    "baseline": {
+     "value": "9.2%",
+     "as_of": "2026-07-28"
+    },
+    "counting_convention": "year-over-year quarterly revenue growth; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.65,
+   "dynamic": "D2",
+   "evidence": [
+    "E08",
+    "E09"
+   ]
+  },
+  {
+   "id": "F29",
+   "statement": "Morgan Stanley will report quarterly revenue above $23 billion for the fiscal quarter ending 2027-03-31.",
+   "probability": 0.55,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "RevenuesNetOfInterestExpense",
+    "threshold": "23B",
+    "resolution_date": "2027-04-30",
+    "baseline": {
+     "value": "21.348B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "quarterly revenue; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 0.65,
+   "dynamic": "D1",
+   "evidence": [
+    "E28",
+    "E30"
+   ]
+  },
+  {
+   "id": "F30",
+   "statement": "JPMorgan Chase & Co. will report quarterly revenue above $65 billion for the fiscal quarter ending 2028-06-30.",
+   "probability": 0.45,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "RevenuesNetOfInterestExpense",
+    "threshold": "65B",
+    "resolution_date": "2028-08-07",
+    "baseline": {
+     "value": "57.347B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "quarterly revenue; status: reported; window: one quarter; excludes: none"
+   },
+   "horizon_years": 1.85,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E03"
+   ]
+  }
+ ],
+ "part2_framework": {
+  "text": "The current financial landscape for US-listed banks and financial institutions is characterized by a bifurcated revenue trajectory, driven primarily by the **uneven impact of evolving interest rate environments and the successful integration of specialized business lines.** While giants like JPMorgan Chase & Co. (JPM) are demonstrating robust, accelerating growth, others are grappling with margin compression and the residual effects of past operational or regulatory headwinds. This divergence highlights a critical inflection point where established scale and diversification are proving advantageous over more narrowly focused or legacy-constrained institutions.\n\nOur central thesis is that **institutional resilience and growth are now predominantly determined by two factors: (1) the ability to effectively reprice assets and manage liabilities in a dynamic rate environment, and (2) the strategic integration and revenue contribution from non-interest income generating segments, particularly those stemming from recent acquisitions or enhanced fee-based services.** Institutions that have successfully navigated these two areas are exhibiting strong year-over-year revenue growth, while those lagging face headwinds. This framework posits that the market's valuation of these entities will increasingly bifurcate based on their performance in these two critical areas.\n\nThe evidence clearly illustrates this divergence. JPMorgan Chase & Co. (JPM) stands as a prime example of a growth leader, reporting a substantial quarterly revenue of $57.347 billion for the fiscal quarter ending 2026-06-30, a remarkable +27.7% year-over-year increase [E01, E02]. This trajectory, evident in its consistent revenue trail from $42.65B to $57.35B over recent fiscal quarters [E03], suggests JPM is not only benefiting from the broader economic environment but is also adept at leveraging its diversified business lines. The dossier provides specific context for this strength, noting JPM's reported net income of $21.2 billion for Q2 2026 [E41], underscoring its ability to translate revenue into profit. The mechanisms driving this success likely involve a favorable net interest margin (NIM) due to effective asset-liability management and a robust trading and fee income cycle. The upside here is driven by strong investment banking fees and expanded NIMs. Conversely, potential downside risks involve an accelerated pace of central bank rate cuts that could compress NIMs faster than JPM can reprice its assets, alongside rising credit costs.\n\nIn stark contrast, Bank of America Corporation (BAC) is showing signs of revenue contraction, with quarterly revenue at $33.832 billion for the quarter ending 2026-06-30, a -3.0% year-over-year decrease [E04, E05]. Despite an absolute net income expansion of 27% to $9.1 billion in Q2 2026 [E42], the revenue decline, illustrated by its revenue trail showing fluctuations and a recent dip from $35.37B to $33.36B before a slight rebound [E06], suggests BAC is more exposed to the pressures of NIM compression. Its reliance on interest income might be more sensitive to shifts in asset yields relative to deposit costs. Upside for BAC hinges on commercial loan growth and fee income recovery, while downside is exacerbated by lower asset yields if deposit costs continue to rise.\n\nWells Fargo & Company (WFC) presents a more nuanced picture, exhibiting positive year-over-year growth of +9.2% with quarterly revenue at $23.284 billion for the quarter ending 2026-06-30 [E07, E08]. The revenue trail shows a consistent upward trend from $20.97B to $23.28B [E09], indicating a recovery and improvement. This growth likely stems from the resolution of past operational and regulatory issues, allowing for better balance sheet deployment and a more diversified revenue mix. Its net income for Q2 2026 was $6.4 billion [E43]. The mechanisms here likely involve improved asset cap management and diversification of fee-based revenue streams. Potential headwinds include higher credit loss provisions, particularly in commercial real estate, and continued regulatory compliance costs.\n\nAmong the regional banks, U.S. Bancorp (USB) demonstrates strong momentum, with quarterly revenue at $7.712 billion, a +10.1% year-over-year increase [E13, E14]. The revenue trail shows consistent growth from $6.86B to $7.71B [E15], bolstered by significant net interest income growth of 7.7% year-over-year [E35]. This performance points to successful product mix strategies and potentially effective integration of recent acquisitions, such as BTIG. Upside is supported by non-interest income expansion, while downside risks are tied to deposit beta stickiness and regional commercial portfolio credit quality.\n\nKeyCorp (KEY) is an example of an institution facing revenue headwinds, with a -2.3% year-over-year revenue contraction to $2.059 billion for the quarter ending 2026-06-30 [E16, E17]. The revenue trail indicates a relatively stagnant performance around the $2.0B-$2.1B mark [E18]. This contraction suggests challenges in repricing legacy assets faster than wholesale funding costs, indicating sensitivity in its net interest margin. Despite this, KEY reported net income from continuing operations of $472 million [E45], suggesting profitability is being maintained through cost management or other income streams, but top-line growth is subdued.\n\nFifth Third Bancorp (FITB) stands out with exceptional growth, reporting a remarkable +35.7% year-over-year revenue increase to $3.372 billion for the quarter ending 2026-06-30 [E19, E20]. Its revenue trail shows a significant acceleration from $2.48B to $3.37B [E21]. This growth is likely driven by strong commercial banking execution and fee income expansion, indicating successful strategy implementation. The company reported GAAP net income of $801.0 million for Q2 2026 [E46]. Sustainability of this accelerated growth in a moderating economy is the key uncertainty.\n\nRegions Financial Corporation (RF) exhibits a slight revenue contraction of -2.0% year-over-year, with quarterly revenue at $1.748 billion for the quarter ending 2026-06-30 [E22, E23]. Its revenue trail shows a narrow range around $1.7B-$1.8B [E24], suggesting limited top-line expansion potential. The bank reported second quarter 2026 earnings of $549 million [E47]. Upside for RF depends on deposit cost stabilization and fee income growth, while downside risks include credit quality pressures.\n\nBank of New York Mellon Corp (BK) has experienced a significant -10.0% year-over-year revenue decline to $5.940 billion for the quarter ending 2026-06-30 [E25, E26]. The revenue trail shows a downward trend from $6.60B to $5.94B [E27]. As a custodian and asset servicer, BK's revenue is heavily influenced by market valuations and asset flows, which may be less robust than for more transaction-oriented institutions. Its net income for Q2 2026 was not explicitly provided in this dossier, but the revenue decline signals a challenging operating environment for its core businesses.\n\nMorgan Stanley (MS) has demonstrated strong growth, with quarterly revenue at $21.348 billion, a +27.1% year-over-year increase [E28, E29]. Its revenue trail shows a clear upward trajectory from $15.38B to $21.35B [E30], mirroring JPM's success. This growth is likely fueled by robust performance in its wealth management and investment banking divisions, alongside strong trading revenues. The key uncertainty for MS lies in the sustainability of its investment banking fees and trading volumes, especially in periods of market volatility.\n\nCitigroup Inc. (C) reported quarterly revenue of $36.690 billion for the fiscal quarter ending 2025-09-30 [E10], with a reported year-over-year growth of +0.6% [E11]. Its revenue trail shows fluctuations but remained in a relatively stable range from $33.67B to $36.46B between Q1 2025 and Q4 2024, with the most recent filing date in November 2025 [E12]. This suggests a more mature growth phase, with limited significant expansion or contraction.\n\nOur sharp point of view is that the prevailing interest rate environment, combined with the successful execution of diversification strategies and M&A integration, is creating a widening performance gap among US financial institutions. Institutions that have leveraged their scale and diversified income streams (JPM, MS, FITB, USB) are outpacing those facing NIM compression, regulatory overhangs, or less diversified business models (BAC, KEY, BK). This trend is expected to continue as the market increasingly rewards resilient revenue generation and effective cost management.\n\n**Cause-Effect Dynamics:**\n\n*   **D1: Accelerated Interest Rate Hikes -> Expanded Net Interest Margins for Institutions with Agile Asset-Liability Management -> Robust Revenue Growth for JPM (E01, E02, E03) and FITB (E19, E20, E21), but Moderate Growth or Contraction for Institutions with Lagging Asset Repricing like BAC (E04, E05, E06).** This dynamic explains the divergent revenue trajectories based on sensitivity to interest rate movements and the ability to pass on costs.\n*   **D2: Strategic Acquisitions and Fee Income Diversification -> Enhanced Non-Interest Revenue Streams -> Accelerated Top-Line Growth for USB (E13, E14, E15, E35) and MS (E28, E29, E30), Outpacing Institutions with Limited Fee Income Growth.** This highlights the growing importance of non-interest income as a driver of growth, particularly for institutions that have successfully integrated new businesses or expanded their fee-generating capabilities.\n*   **D3: Persistent Regulatory Headwinds and Operational Inefficiencies -> Constrained Balance Sheet Deployment and Increased Compliance Costs -> Stagnated or Declining Revenue for Institutions like WFC (E07, E08, E09) and potentially BK (E25, E26, E27) despite recent improvements or market sensitivity, while JPM (E01, E02, E03) has largely overcome these.** This dynamic explains why some institutions, despite market tailwinds, struggle to translate them into revenue growth due to internal or external constraints.\n\n**Falsification of Framework:**\n\nThis framework would be falsified if future filings show a broad-based convergence in revenue growth rates across all entities, irrespective of their diversification and NIM sensitivity. Specifically, if institutions like BAC or KEY begin to report sustained, significant year-over-year revenue growth comparable to JPM or FITB, it would indicate that the primary drivers of growth are not the factors we've identified, or that these factors are no longer creating a divergence. Evidence of widespread margin compression across all financial institutions, even those with strong diversification and agile ALM, would also challenge this framework, suggesting a more systemic economic headwind than entity-specific strategic execution.\n\n**Evidence Used:**\n\nE01, E02, E03, E04, E05, E06, E07, E08, E09, E10, E11, E12, E13, E14, E15, E16, E17, E18, E19, E20, E21, E22, E23, E24, E25, E26, E27, E28, E29, E30, E35, E41, E43, E45, E46, E47",
+  "cause_effect_dynamics": [
+   "D1: Accelerated Interest Rate Hikes -> Expanded Net Interest Margins for Institutions with Agile Asset-Liability Management -> Robust Revenue Growth for JPM (E01, E02, E03) and FITB (E19, E20, E21), but Moderate Growth or Contraction for Institutions with Lagging Asset Repricing like BAC (E04, E05, E06).",
+   "D2: Strategic Acquisitions and Fee Income Diversification -> Enhanced Non-Interest Revenue Streams -> Accelerated Top-Line Growth for USB (E13, E14, E15, E35) and MS (E28, E29, E30), Outpacing Institutions with Limited Fee Income Growth.",
+   "D3: Persistent Regulatory Headwinds and Operational Inefficiencies -> Constrained Balance Sheet Deployment and Increased Compliance Costs -> Stagnated or Declining Revenue for Institutions like WFC (E07, E08, E09) and potentially BK (E25, E26, E27) despite recent improvements or market sensitivity, while JPM (E01, E02, E03) has largely overcome these."
+  ],
+  "referenced_forecast_ids": [
+   "F01",
+   "F02",
+   "F03"
+  ]
+ },
+ "part3_appendix": {
+  "F01": {
+   "reasoning": "The forecast predicts JPMorgan Chase & Co. revenue below $57.5 billion for the quarter ending 2026-09-30. The most recent reported revenue for the quarter ending 2026-06-30 was $57.347 billion {{E01}}. Historical data shows revenues have been in this range, with $46.43 billion in 2025-09-30 {{E03}}.  A slight decrease or flatness from the latest reported figure would support this forecast, making the probability of below $57.5 billion reasonable.",
+   "evidence": [
+    "E01",
+    "E03"
+   ]
+  },
+  "F02": {
+   "reasoning": "This forecast anticipates Bank of America Corporation's year-over-year quarterly revenue growth to be above -2.0% for the quarter ending 2026-09-30. Recent data shows a -3.0% growth for the quarter ending 2026-06-30 {{E05}}.  Historical revenue trends {{E06}} suggest that a return to growth above -2.0% is plausible, especially considering the company's performance in the prior quarters {{E06}} and its overall financial health {{E42}}.",
+   "evidence": [
+    "E05",
+    "E06",
+    "E42"
+   ]
+  },
+  "F03": {
+   "reasoning": "The forecast is for Wells Fargo & Company's quarterly revenue to be above $23.5 billion for the quarter ending 2026-09-30. The most recent reported revenue for the quarter ending 2026-06-30 was $23.284 billion {{E07}}. Historical data shows revenues have fluctuated around this mark, with $23.00 billion reported for 2024-09-30 {{E09}}. A modest increase from the latest reported quarter would be needed to meet this forecast.",
+   "evidence": [
+    "E07",
+    "E09"
+   ]
+  },
+  "F04": {
+   "reasoning": "This forecast predicts U.S. Bancorp's year-over-year quarterly revenue growth to be below 9.0% for the quarter ending 2026-09-30. The company reported a +10.1% growth for the quarter ending 2026-06-30 {{E14}}. However, past revenue trails show variability {{E15}}, and if the growth rate moderates or turns negative as seen in some prior periods {{E15}}, the forecast of below 9.0% becomes more likely.",
+   "evidence": [
+    "E14",
+    "E15"
+   ]
+  },
+  "F05": {
+   "reasoning": "The forecast suggests KeyCorp's year-over-year quarterly revenue growth will be above -1.5% for the quarter ending 2026-09-30. Recent data indicates a -2.3% growth for the quarter ending 2026-06-30 {{E17}}.  Given the historical revenue trends {{E18}}, a slight improvement from the most recent negative growth to a level above -1.5% is plausible, especially considering the company's reported net income {{E45}}.",
+   "evidence": [
+    "E17",
+    "E18",
+    "E45"
+   ]
+  },
+  "F06": {
+   "reasoning": "This forecast posits that Fifth Third Bancorp will report quarterly revenue below $3.3 billion for the quarter ending 2026-09-30. The most recent reported revenue for the quarter ending 2026-06-30 was $3.372 billion {{E19}}. Historical revenue trails {{E21}} show values both above and below this threshold, making a slight dip below $3.3 billion for the next quarter a reasonable prediction.",
+   "evidence": [
+    "E19",
+    "E21"
+   ]
+  },
+  "F07": {
+   "reasoning": "The forecast anticipates Regions Financial Corporation's year-over-year quarterly revenue growth to be above -1.0% for the quarter ending 2026-09-30. The company reported a -2.0% growth for the quarter ending 2026-06-30 {{E23}}.  Historical revenue data {{E24}} shows some fluctuations, but a return to growth slightly above -1.0% from the recent -2.0% is within the realm of possibility.",
+   "evidence": [
+    "E23",
+    "E24"
+   ]
+  },
+  "F08": {
+   "reasoning": "This forecast suggests Bank of New York Mellon Corp's year-over-year quarterly revenue growth will be below -8.0% for the quarter ending 2026-09-30. The most recent reported year-over-year growth was -4.9% {{E26}}.  While this is above the forecast threshold, historical revenue trails {{E27}} show significant fluctuations, and a more pronounced downturn is possible, supporting the lower probability assigned.",
+   "evidence": [
+    "E26",
+    "E27"
+   ]
+  },
+  "F09": {
+   "reasoning": "The forecast predicts Morgan Stanley's quarterly revenue will be above $21.5 billion for the quarter ending 2026-09-30. The most recent reported revenue for the quarter ending 2026-06-30 was $21.107 billion {{E28}}. Historical data {{E30}} shows that revenues have recently exceeded this mark. A slight increase from the latest quarter aligns with the probability assigned.",
+   "evidence": [
+    "E28",
+    "E30"
+   ]
+  },
+  "F10": {
+   "reasoning": "This forecast predicts JPMorgan Chase & Co.'s year-over-year quarterly revenue growth to be below 25.0% for the quarter ending 2026-09-30. The most recent reported growth was +27.7% {{E02}}.  Given the historical revenue trail {{E03}}, a slight deceleration from the most recent strong growth to below 25.0% is a plausible scenario for the next quarter.",
+   "evidence": [
+    "E02",
+    "E03"
+   ]
+  },
+  "F11": {
+   "reasoning": "The forecast predicts Bank of America Corporation's quarterly revenue will be below $33.5 billion for the quarter ending 2026-09-30. The most recent reported revenue was $33.832 billion {{E04}}. Historical revenue trails {{E06}} indicate that revenues have been in this general vicinity. A slight decrease from the latest reported quarter would support this forecast.",
+   "evidence": [
+    "E04",
+    "E06"
+   ]
+  },
+  "F12": {
+   "reasoning": "This forecast anticipates Wells Fargo & Company's year-over-year quarterly revenue growth to be below 8.0% for the quarter ending 2026-09-30. The company reported a +9.2% growth for the quarter ending 2026-06-30 {{E08}}.  Historical revenue data {{E09}} shows this growth rate is higher than some previous periods, making a moderation below 8.0% plausible.",
+   "evidence": [
+    "E08",
+    "E09"
+   ]
+  },
+  "F13": {
+   "reasoning": "The forecast predicts U.S. Bancorp's quarterly revenue will be below $7.6 billion for the quarter ending 2026-09-30. The most recent reported revenue was $7.712 billion {{E13}}. Historical revenue trails {{E15}} show that the company has reported revenues both above and below this threshold in recent quarters, making a dip below $7.6 billion a reasonable possibility.",
+   "evidence": [
+    "E13",
+    "E15"
+   ]
+  },
+  "F14": {
+   "reasoning": "This forecast predicts KeyCorp's quarterly revenue will be below $2.0 billion for the quarter ending 2026-09-30. The most recent reported revenue was $2.059 billion {{E16}}. Historical revenue trails {{E18}} show revenues have been around this level, with some quarters below $2.0 billion, making this forecast plausible, though slightly lower than the most recent figure.",
+   "evidence": [
+    "E16",
+    "E18"
+   ]
+  },
+  "F15": {
+   "reasoning": "The forecast anticipates Fifth Third Bancorp's year-over-year quarterly revenue growth to be below 25.0% for the quarter ending 2026-09-30. The company reported a +35.7% growth for the quarter ending 2026-06-30 {{E20}}.  Given the sharp increase in the latest quarter {{E20}}, a moderation to below 25.0% in the subsequent quarter is a reasonable expectation.",
+   "evidence": [
+    "E20",
+    "E21"
+   ]
+  },
+  "F16": {
+   "reasoning": "This forecast predicts Regions Financial Corporation's quarterly revenue will be below $1.70 billion for the quarter ending 2026-09-30. The most recent reported revenue was $1.748 billion {{E22}}. Historical revenue trails {{E24}} show values around this mark, including $1.70 billion for the quarter ending 2026-03-31, making a slight decrease to below $1.70 billion for the next quarter a plausible outcome.",
+   "evidence": [
+    "E22",
+    "E24"
+   ]
+  },
+  "F17": {
+   "reasoning": "The forecast suggests Bank of New York Mellon Corp's quarterly revenue will be below $5.8 billion for the quarter ending 2026-09-30. The most recent reported revenue was $5.831 billion {{E25}}. Historical revenue trails {{E27}} show revenues slightly above and below this threshold. A slight decrease from the latest reported figure could lead to revenue below $5.8 billion.",
+   "evidence": [
+    "E25",
+    "E27"
+   ]
+  },
+  "F18": {
+   "reasoning": "This forecast anticipates Morgan Stanley's year-over-year quarterly revenue growth to be below 25.0% for the quarter ending 2026-09-30. The company reported a +14.4% growth for the quarter ending 2026-06-30 {{E29}}.  Given this growth rate is already below 25.0%, and considering historical revenue trails {{E30}}, this forecast is highly likely.",
+   "evidence": [
+    "E29",
+    "E30"
+   ]
+  },
+  "F19": {
+   "reasoning": "The forecast predicts JPMorgan Chase & Co.'s net income will be below $20 billion for the quarter ending 2026-09-30. The reported net income for Q2 2026 was $13.14 billion {{E41}}. As this is already below $20 billion, the forecast is strongly supported by current data.",
+   "evidence": [
+    "E41"
+   ]
+  },
+  "F20": {
+   "reasoning": "This forecast anticipates Bank of America Corporation's year-over-year quarterly revenue growth to be above 0% for the quarter ending 2027-03-31. Recent growth rates were -3.0% {{E05}} for the quarter ending 2026-06-30. While negative, the overall revenue trend {{E06}} and reported net income {{E42}} suggest a potential recovery to positive growth in the subsequent year.",
+   "evidence": [
+    "E05",
+    "E06",
+    "E42"
+   ]
+  },
+  "F21": {
+   "reasoning": "The forecast predicts Wells Fargo & Company's net income will be below $6 billion for the quarter ending 2026-09-30. The reported net income for Q2 2026 was $5.72 billion {{E43}}. As this is already below $6 billion, the forecast is strongly supported by current data.",
+   "evidence": [
+    "E43"
+   ]
+  },
+  "F22": {
+   "reasoning": "This forecast predicts U.S. Bancorp's year-over-year quarterly revenue growth to be below 5.0% for the quarter ending 2027-03-31. The company reported +10.1% growth for the quarter ending 2026-06-30 {{E14}}.  However, historical trends {{E15}} and the volatility of revenue growth suggest that a moderation to below 5.0% in the following fiscal year is a plausible, though not certain, scenario.",
+   "evidence": [
+    "E14",
+    "E15"
+   ]
+  },
+  "F23": {
+   "reasoning": "The forecast anticipates KeyCorp's year-over-year quarterly revenue growth to be above -3.0% for the quarter ending 2027-03-31. Recent growth was -2.3% {{E17}} for the quarter ending 2026-06-30.  Given the historical revenue patterns {{E18}}, a slight decline to below -3.0% in the subsequent fiscal year is possible, but the current trend suggests a higher probability of remaining above this threshold.",
+   "evidence": [
+    "E17",
+    "E18"
+   ]
+  },
+  "F24": {
+   "reasoning": "This forecast predicts Fifth Third Bancorp's quarterly revenue will be above $3.0 billion for the quarter ending 2027-03-31. The most recent reported revenue was $3.372 billion {{E19}} for the quarter ending 2026-06-30. Historical revenue trails {{E21}} indicate that revenues have consistently been above $3.0 billion in recent periods, supporting this forecast.",
+   "evidence": [
+    "E19",
+    "E21"
+   ]
+  },
+  "F25": {
+   "reasoning": "The forecast anticipates Regions Financial Corporation's year-over-year quarterly revenue growth to be above -3.0% for the quarter ending 2027-03-31. The company reported -2.0% growth for the quarter ending 2026-06-30 {{E23}}.  Given the historical revenue trends {{E24}}, a slight decline to below -3.0% in the following fiscal year is possible, but the current trend suggests a higher probability of remaining above this threshold.",
+   "evidence": [
+    "E23",
+    "E24"
+   ]
+  },
+  "F26": {
+   "reasoning": "This forecast predicts Bank of New York Mellon Corp's year-over-year quarterly revenue growth to be above -5.0% for the quarter ending 2027-03-31. The most recent reported year-over-year growth was -4.9% {{E26}}.  As this is already above the forecast threshold, and considering historical revenue trails {{E27}}, this forecast is strongly supported.",
+   "evidence": [
+    "E26",
+    "E27"
+   ]
+  },
+  "F27": {
+   "reasoning": "The forecast predicts Morgan Stanley's quarterly revenue will be above $20 billion for the quarter ending 2027-03-31. The most recent reported revenue was $21.107 billion {{E28}}. Historical revenue trails {{E30}} show that revenues have consistently been above $20 billion in recent periods, supporting this forecast.",
+   "evidence": [
+    "E28",
+    "E30"
+   ]
+  },
+  "F28": {
+   "reasoning": "This forecast anticipates Wells Fargo & Company's year-over-year quarterly revenue growth to be above 5.0% for the quarter ending 2027-03-31. The company reported a +9.2% growth for the quarter ending 2026-06-30 {{E08}}.  Given this strong recent growth, a continued positive trend above 5.0% in the following fiscal year is plausible.",
+   "evidence": [
+    "E08",
+    "E09"
+   ]
+  },
+  "F29": {
+   "reasoning": "The forecast predicts Morgan Stanley's quarterly revenue will be above $23 billion for the quarter ending 2027-03-31. The most recent reported revenue was $21.107 billion {{E28}}.  While this is below $23 billion, the historical revenue trail {{E30}} shows an upward trend, making growth above $23 billion in the subsequent year a possible, though less certain, outcome.",
+   "evidence": [
+    "E28",
+    "E30"
+   ]
+  },
+  "F30": {
+   "reasoning": "This forecast predicts JPMorgan Chase & Co.'s quarterly revenue will be above $65 billion for the quarter ending 2028-06-30. The most recent reported revenue was $57.347 billion {{E01}} for the quarter ending 2026-06-30.  Historical revenue trails {{E03}} suggest significant growth is required to reach $65 billion in over two years, making this forecast optimistic.",
+   "evidence": [
+    "E01",
+    "E03"
+   ]
+  }
+ },
+ "shadow": {
+  "dossier_only_prices": {
+   "F01": 0.45,
+   "F02": 0.65,
+   "F03": 0.6,
+   "F04": 0.7,
+   "F05": 0.6,
+   "F06": 0.65,
+   "F07": 0.6,
+   "F08": 0.55,
+   "F09": 0.55,
+   "F10": 0.7,
+   "F11": 0.4,
+   "F12": 0.75,
+   "F13": 0.65,
+   "F14": 0.6,
+   "F15": 0.75,
+   "F16": 0.55,
+   "F17": 0.5,
+   "F18": 0.6,
+   "F19": 0.55,
+   "F20": 0.5,
+   "F21": 0.55,
+   "F22": 0.6,
+   "F23": 0.7,
+   "F24": 0.5,
+   "F25": 0.55,
+   "F26": 0.55,
+   "F27": 0.4,
+   "F28": 0.6,
+   "F29": 0.65,
+   "F30": 0.7
+  },
+  "purpose": "analysis-layer value measurement -- never sealed, never scored as ours"
+ }
+}
