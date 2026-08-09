@@ -1,0 +1,1 @@
+[no text captured: Gemini returned no text (finishReason=STOP); try MODEL=gemini-2.5-flash or drop google_search grounding]

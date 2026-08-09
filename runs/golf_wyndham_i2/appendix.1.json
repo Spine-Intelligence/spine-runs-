@@ -1,0 +1,62 @@
+{
+ "F01": {
+  "reasoning": "Cameron Young's probability of a top-20 finish at the 2026 Wyndham Championship is set at 0.43. This forecast is supported by evidence E01, which indicates a 40.31% chance of a top-10 finish according to the DataGolf pre-tournament model. While the provided probability is for a top-20 finish, and the evidence directly states top-10, the higher probability for top-10 inherently suggests a higher probability for top-20. To change my mind, evidence suggesting a significant decline in Young's performance or a highly unfavorable course fit for his play style would be required. Alternatively, new DataGolf predictions showing a substantially lower probability for a top-10 or top-20 finish would also be a factor.",
+  "evidence": [
+   "E01"
+  ]
+ },
+ "F02": {
+  "reasoning": "Jackson Koivun's probability of a top-20 finish at the 2026 Wyndham Championship is assessed at 0.3. This is based on evidence E02, which shows a 24.69% probability for a top-10 finish from the DataGolf pre-tournament model. The top-10 probability directly contributes to the likelihood of a top-20 finish. For this forecast to be revised downwards, evidence indicating a sharp drop in Koivun's recent form, a history of poor performance at similar courses, or new model predictions showing a significantly lower chance of a top-20 finish would be necessary. Conversely, strong recent results or a course that statistically favors his strengths could increase this probability.",
+  "evidence": [
+   "E02"
+  ]
+ },
+ "F03": {
+  "reasoning": "Hideki Matsuyama's forecast for a top-20 finish at the 2026 Wyndham Championship is 0.29. This is informed by evidence E03, which provides a 24.77% probability for a top-10 finish from the DataGolf pre-tournament model. The established top-10 likelihood is a strong indicator for a top-20 outcome. A decrease in this probability would necessitate information pointing to a recent downturn in Matsuyama's performance, a lack of historical success at this specific tournament, or updated predictive models showing a diminished chance. Evidence of an exceptionally strong field or course conditions that do not suit his game would also be considered.",
+  "evidence": [
+   "E03"
+  ]
+ },
+ "F04": {
+  "reasoning": "Ryan Gerard's likelihood of achieving a top-20 finish at the 2026 Wyndham Championship is set at 0.27. This assessment draws from evidence E04, which states a 23.15% probability for a top-10 finish according to the DataGolf pre-tournament model. The provided top-10 prediction is a key factor in estimating the top-20 probability. To alter this forecast, data demonstrating a decline in Gerard's current form, a history of struggles at this particular venue, or revised statistical models suggesting a lower probability of a top-20 finish would be required. Information about a particularly deep field of competitors could also influence a revised outlook.",
+  "evidence": [
+   "E04"
+  ]
+ },
+ "F05": {
+  "reasoning": "Ben Griffin's probability of securing a top-20 finish at the 2026 Wyndham Championship is 0.26. This forecast is grounded in evidence E05, which shows a 22.87% probability for a top-10 finish based on the DataGolf pre-tournament model. The strength of the top-10 prediction directly correlates to the likelihood of a top-20 result. A downward revision of this probability would be triggered by information indicating a dip in Griffin's recent performance, a lack of past success at the Wyndham Championship, or updated predictive analytics forecasting a lower chance of a top-20 finish. The presence of a strong competitor field could also be a factor.",
+  "evidence": [
+   "E05"
+  ]
+ },
+ "F06": {
+  "reasoning": "Justin Thomas's chance of a top-20 finish at the 2026 Wyndham Championship is projected at 0.22. This forecast is primarily influenced by evidence E06, which indicates a 19.81% probability for a top-10 finish from the DataGolf pre-tournament model. The strong top-10 prediction directly implies a higher probability for a top-20 finish. To adjust this forecast downwards, new data suggesting a downturn in Thomas's current form, his historical performance at this specific course, or updated predictive models predicting a lower chance of a top-20 finish would be necessary. Information about an exceptionally challenging field of competitors could also lead to a revision.",
+  "evidence": [
+   "E06"
+  ]
+ },
+ "F07": {
+  "reasoning": "Aaron Rai's forecast for a top-20 finish at the 2026 Wyndham Championship is 0.24. This probability is derived from evidence E07, which reports a 21.24% probability for a top-10 finish via the DataGolf pre-tournament model. The likelihood of a top-10 finish serves as a significant basis for estimating the top-20 probability. To revise this forecast lower, evidence indicating a recent decline in Rai's play, a poor track record at this tournament, or updated statistical models predicting a lesser chance of a top-20 finish would be required. The depth of the competition field could also prompt a reconsideration.",
+  "evidence": [
+   "E07"
+  ]
+ },
+ "F08": {
+  "reasoning": "Doug Ghim's probability of achieving a top-20 finish at the 2026 Wyndham Championship is assessed at 0.21. This forecast is based on evidence E08, which shows a 18.88% probability for a top-10 finish from the DataGolf pre-tournament model. The established top-10 likelihood is a strong indicator for the probability of a top-20 finish. A revision downwards would require evidence suggesting a slump in Ghim's current form, a history of underperformance at this particular course, or updated predictive models indicating a lower probability of a top-20 finish. The presence of a highly competitive field could also influence this assessment.",
+  "evidence": [
+   "E08"
+  ]
+ },
+ "F09": {
+  "reasoning": "Tom Kim's forecast for a top-20 finish at the 2026 Wyndham Championship is 0.19. This assessment is drawn from evidence E09, which provides a 18.38% probability for a top-10 finish according to the DataGolf pre-tournament model. The strong indication of a top-10 finish directly informs the estimation for a top-20 finish. To modify this probability downwards, information reflecting a recent downturn in Kim's performance, his historical results at the Wyndham Championship, or revised statistical projections indicating a lower likelihood of a top-20 finish would be crucial. A particularly strong field of competitors could also prompt a downward adjustment.",
+  "evidence": [
+   "E09"
+  ]
+ },
+ "F10": {
+  "reasoning": "Harris English's probability of a top-20 finish at the 2026 Wyndham Championship is set at 0.21. This forecast is supported by evidence E10, which indicates a 19.29% chance of a top-10 finish according to the DataGolf pre-tournament model. The higher probability for a top-10 finish inherently suggests a stronger likelihood for a top-20 finish. To alter this forecast, evidence of a significant decline in English's current form, a history of poor performance at similar courses, or new DataGolf predictions showing a substantially lower probability for a top-10 or top-20 finish would be necessary. Conversely, recent strong showings or a course that statistically benefits his game could increase this probability.",
+  "evidence": [
+   "E10"
+  ]
+ }
+}
