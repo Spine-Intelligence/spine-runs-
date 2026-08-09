@@ -1,0 +1,195 @@
+{
+ "analyses": [
+  {
+   "entity": "JPMorgan Chase & Co. (JPM)",
+   "current_state": "Quarterly revenue for fiscal quarter ending 2026-06-30 was $57.347B (E01). First-quarter 2026 revenue was $30.05 billion, a decrease from $30.67 billion in the first quarter of 2025 (E31).",
+   "reference_class": "Quarterly revenue trail: 2026-06-30: $57.35B, 2026-03-31: $49.84B, 2025-09-30: $46.43B, 2025-06-30: $44.91B, 2025-03-31: $45.31B, 2024-09-30: $42.65B (E03). Year-over-year quarterly revenue growth: +27.7% for Q2 2026 vs Q2 2025 (E02).",
+   "mechanisms": {
+    "upward": [
+     "Continued strong revenue growth in recent quarters (E03) suggests robust underlying business performance, potentially driven by higher interest rates and increased transaction volumes in investment banking or trading.",
+     "The substantial year-over-year growth for the quarter ending 2026-06-30 (+27.7%) indicates a positive trend in revenue generation (E02)."
+    ],
+    "downward": [
+     "The decrease in Q1 2026 revenue compared to Q1 2025 ($30.05B vs $30.67B) suggests potential headwinds or normalization after prior growth (E31).",
+     "The sequential revenue decline from Q1 2026 ($49.84B) to Q2 2026 ($57.35B) is positive, but the Q1 dip could signal sensitivity to market conditions or specific business segments."
+    ]
+   },
+   "scenarios": [
+    "Sustained strong revenue growth driven by favorable market conditions and continued strategic execution, outperforming the prior year's Q1 and building on Q2's momentum.",
+    "Revenue stabilization or modest decline as the company navigates potential economic slowdowns, with Q1's dip being indicative of broader sector pressures.",
+    "Significant revenue acceleration driven by exceptional performance in specific business lines, such as investment banking or trading, overshadowing any sequential Q1 softness."
+   ],
+   "key_uncertainty": "The drivers behind the sequential revenue decrease in Q1 2026 and whether that trend is indicative of broader market shifts impacting JPM's core businesses.",
+   "evidence": [
+    "E01",
+    "E02",
+    "E03",
+    "E31"
+   ]
+  },
+  {
+   "entity": "Bank of America Corporation (BAC)",
+   "current_state": "Quarterly revenue for fiscal quarter ending 2026-06-30 was $33.832B (E04). First-quarter 2026 net income was $7.2 billion, or $0.88 per diluted common share (E32).",
+   "reference_class": "Quarterly revenue trail: 2026-06-30: $33.83B, 2026-03-31: $33.36B, 2025-09-30: $35.37B, 2025-06-30: $34.87B, 2025-03-31: $34.07B, 2024-09-30: $37.49B (E06). Year-over-year quarterly revenue growth: -3.0% for Q2 2026 vs Q2 2025 (E05).",
+   "mechanisms": {
+    "upward": [
+     "Sequential revenue growth from Q1 2026 ($33.36B) to Q2 2026 ($33.83B) indicates some recent positive momentum (E06).",
+     "Strong net income reported for Q1 2026 suggests effective cost management or profitable operations despite revenue trends (E32)."
+    ],
+    "downward": [
+     "Year-over-year quarterly revenue decline of -3.0% for the quarter ending 2026-06-30 indicates a negative trend in revenue generation (E05).",
+     "The overall revenue trail shows a declining trend from late 2024 through mid-2026 (E06)."
+    ]
+   },
+   "scenarios": [
+    "Revenue continues its downward trend as market conditions pressure interest income and fee-based services, with net income being maintained through cost controls.",
+    "Revenue growth re-accelerates driven by improved market dynamics or successful strategic initiatives, reversing the recent year-over-year decline.",
+    "Revenue stabilizes at current levels, with the reported Q1 net income being a sustainable outcome of efficient operations, despite flat or slightly declining revenues."
+   ],
+   "key_uncertainty": "The sustainability of Q1's strong net income in the face of declining year-over-year revenue and whether revenue growth can be re-established.",
+   "evidence": [
+    "E04",
+    "E05",
+    "E06",
+    "E32"
+   ]
+  },
+  {
+   "entity": "Wells Fargo & Company (WFC)",
+   "current_state": "Quarterly revenue for fiscal quarter ending 2026-06-30 was $23.284B (E07). First-quarter 2026 diluted earnings per share were $0.75 (E33).",
+   "reference_class": "Quarterly revenue trail: 2026-06-30: $23.28B, 2026-03-31: $22.45B, 2025-09-30: $22.42B, 2025-06-30: $21.32B, 2025-03-31: $20.97B, 2024-09-30: $23.00B (E09). Year-over-year quarterly revenue growth: +9.2% for Q2 2026 vs Q2 2025 (E08).",
+   "mechanisms": {
+    "upward": [
+     "Significant year-over-year quarterly revenue growth of +9.2% indicates a strong positive trend (E08).",
+     "The sequential revenue increase from Q1 2026 ($22.45B) to Q2 2026 ($23.28B) supports the growth narrative (E09).",
+     "The revenue trail shows a general upward trajectory in recent quarters, surpassing the previous year's Q2 figure (E09)."
+    ],
+    "downward": [
+     "While positive, the Q2 2026 revenue is only slightly higher than the $23.00B recorded in Q4 2024, suggesting some level of plateauing after prior growth (E09)."
+    ]
+   },
+   "scenarios": [
+    "Continued strong revenue growth, fueled by effective strategy execution and favorable economic conditions, leading to further increases in earnings per share.",
+    "Revenue growth moderates as the company faces tougher year-over-year comparisons and potential shifts in market dynamics.",
+    "Revenue expansion slows significantly but remains positive, with a focus on improving profitability and efficiency, as suggested by the Q1 EPS."
+   ],
+   "key_uncertainty": "The sustainability of the high year-over-year revenue growth rate in the context of the overall revenue trajectory and potential market normalization.",
+   "evidence": [
+    "E07",
+    "E08",
+    "E09",
+    "E33"
+   ]
+  },
+  {
+   "entity": "US Bancorp (USB)",
+   "current_state": "Quarterly revenue for fiscal quarter ending 2026-06-30 was $7.712B (E13). First-quarter 2026 net income was $1.71 billion, an increase of 5% from the prior year (E35).",
+   "reference_class": "Quarterly revenue trail: 2026-06-30: $7.71B, 2026-03-31: $7.29B, 2025-09-30: $7.33B, 2025-06-30: $7.00B, 2025-03-31: $6.96B, 2024-09-30: $6.86B (E15). Year-over-year quarterly revenue growth: +10.1% for Q2 2026 vs Q2 2025 (E14).",
+   "mechanisms": {
+    "upward": [
+     "Strong year-over-year quarterly revenue growth of +10.1% indicates robust expansion (E14).",
+     "Sequential revenue increase from Q1 2026 ($7.29B) to Q2 2026 ($7.71B) shows positive momentum (E15).",
+     "The revenue trail demonstrates a clear upward trend, with recent quarters significantly outpacing prior year figures (E15)."
+    ],
+    "downward": [
+     "The reported Q1 2026 net income increase of 5% is positive but may be less dramatic than the revenue growth suggests, implying some margin compression or increased expenses."
+    ]
+   },
+   "scenarios": [
+    "Continued strong revenue growth, leading to improved profitability and potentially higher net income growth as the year progresses.",
+    "Revenue growth moderates but remains positive, with a focus on sustained earnings growth and efficiency gains.",
+    "Revenue expansion continues but at a slower pace, with the company leveraging its scale to maintain profitability despite competitive pressures."
+   ],
+   "key_uncertainty": "The extent to which the significant revenue growth translates into proportional net income growth, indicating the company's ability to manage costs and margins effectively.",
+   "evidence": [
+    "E13",
+    "E14",
+    "E15",
+    "E35"
+   ]
+  },
+  {
+   "entity": "Fifth Third Bancorp (FITB)",
+   "current_state": "Quarterly revenue for fiscal quarter ending 2026-06-30 was $3.372B (E19). First-quarter 2026 net income was $471 million, or $0.65 per diluted share (E37).",
+   "reference_class": "Quarterly revenue trail: 2026-06-30: $3.37B, 2026-03-31: $2.97B, 2025-09-30: $2.52B, 2025-06-30: $2.48B, 2025-03-31: $2.43B, 2024-09-30: $2.67B (E21). Year-over-year quarterly revenue growth: +35.7% for Q2 2026 vs Q2 2025 (E20).",
+   "mechanisms": {
+    "upward": [
+     "Exceptional year-over-year quarterly revenue growth of +35.7% indicates a dramatic acceleration in revenue (E20).",
+     "Significant sequential revenue increase from Q1 2026 ($2.97B) to Q2 2026 ($3.37B) demonstrates strong recent momentum (E21).",
+     "The revenue trail shows a marked upward trend, with Q2 2026 revenue far exceeding prior periods (E21)."
+    ],
+    "downward": [
+     "The reported Q1 2026 net income of $471 million, while positive, may not fully reflect the magnitude of the revenue surge, suggesting potential investment in growth, higher operating costs, or margin normalization at the net income level.",
+     "The revenue in Q3 2024 was $2.67B, indicating that the current surge is building upon a previous, lower base."
+    ]
+   },
+   "scenarios": [
+    "Continued exceptional revenue growth, translating into a proportionally higher increase in net income as operational efficiencies are realized.",
+    "Revenue growth moderates to a more sustainable, yet still strong, pace, with continued focus on profitability and shareholder returns.",
+    "Revenue growth slows considerably as the company faces tougher comparables, leading to a focus on maintaining profitability and market share."
+   ],
+   "key_uncertainty": "Whether the extremely high revenue growth is sustainable or indicative of a temporary surge, and how this translates into sustained profitability growth.",
+   "evidence": [
+    "E19",
+    "E20",
+    "E21",
+    "E37"
+   ]
+  },
+  {
+   "entity": "Morgan Stanley (MS)",
+   "current_state": "Quarterly revenue for fiscal quarter ending 2026-06-30 was $21.348B (E28). First-quarter 2026 net revenues were $11.2 billion, a decrease from $12.4 billion in the year-ago period (E40).",
+   "reference_class": "Quarterly revenue trail: 2026-06-30: $21.35B, 2026-03-31: $20.58B, 2025-09-30: $18.22B, 2025-06-30: $16.79B, 2025-03-31: $17.74B, 2024-09-30: $15.38B (E30). Year-over-year quarterly revenue growth: +27.1% for Q2 2026 vs Q2 2025 (E29).",
+   "mechanisms": {
+    "upward": [
+     "Substantial year-over-year quarterly revenue growth of +27.1% demonstrates strong recovery and expansion (E29).",
+     "Sequential revenue increase from Q1 2026 ($20.58B) to Q2 2026 ($21.35B) indicates positive momentum (E30).",
+     "The revenue trail shows a consistent upward trend, with Q2 2026 revenue significantly surpassing previous periods (E30)."
+    ],
+    "downward": [
+     "The reported Q1 2026 net revenues of $11.2B were lower than the $12.4B in the year-ago period, indicating a challenging start to the year (E40).",
+     "The significant difference between Q1 net revenue ($11.2B) and Q2 net revenue ($21.35B) suggests that the Q1 figure may have been an anomaly, but it highlights the volatility and sensitivity to market events in investment banking and trading."
+    ]
+   },
+   "scenarios": [
+    "Sustained strong revenue growth, driven by robust performance in its investment banking and wealth management divisions, leading to a strong year overall.",
+    "Revenue growth moderates as market conditions become less favorable for trading and deal-making, with a focus on profitability and efficiency.",
+    "Revenue experiences volatility, with strong quarters like Q2 2026 being offset by weaker periods similar to Q1 2026, reflecting the cyclical nature of its core businesses."
+   ],
+   "key_uncertainty": "The extent to which the Q1 2026 decline in net revenue is a temporary setback or an indicator of broader challenges affecting its core revenue-generating segments, and whether the strong Q2 growth is sustainable.",
+   "evidence": [
+    "E28",
+    "E29",
+    "E30",
+    "E40"
+   ]
+  },
+  {
+   "entity": "The Bank of New York Mellon Corp (BK)",
+   "current_state": "Quarterly revenue for fiscal quarter ending 2026-06-30 was $5.940B (E25). First-quarter 2026 revenue was $4.01 billion, down 5% from the prior year (E39).",
+   "reference_class": "Quarterly revenue trail: 2026-06-30: $5.94B, 2026-03-31: $5.82B, 2025-09-30: $6.59B, 2025-06-30: $6.60B, 2025-03-31: $6.12B, 2024-12-31: $6.47B (E27). Year-over-year quarterly revenue growth: -10.0% for Q2 2026 vs Q2 2025 (E26).",
+   "mechanisms": {
+    "upward": [
+     "Sequential revenue increase from Q1 2026 ($5.82B) to Q2 2026 ($5.94B) indicates a slight positive trend (E27).",
+     "The reported Q1 2026 revenue decline of 5% is less severe than the Q2 year-over-year decline of -10.0%, suggesting a potential stabilization or improvement between quarters (E39, E26)."
+    ],
+    "downward": [
+     "Significant year-over-year quarterly revenue decline of -10.0% for the quarter ending 2026-06-30 indicates a sustained negative trend (E26).",
+     "The revenue trail shows a declining pattern from mid-2025 through mid-2026, with Q2 2026 revenue being the lowest in the reported period (E27)."
+    ]
+   },
+   "scenarios": [
+    "Revenue continues its downward trend, with the company focusing on cost efficiency and asset management to maintain profitability.",
+    "Revenue stabilizes at current levels, with the slight sequential improvement being a precursor to a more sustained recovery.",
+    "Revenue begins to recover from recent lows, driven by an increase in asset servicing fees or improved market conditions impacting investment services."
+   ],
+   "key_uncertainty": "The primary drivers of the significant year-over-year revenue decline and whether a sustainable recovery path exists, given the observed revenue trajectory.",
+   "evidence": [
+    "E25",
+    "E26",
+    "E27",
+    "E39"
+   ]
+  }
+ ]
+}
