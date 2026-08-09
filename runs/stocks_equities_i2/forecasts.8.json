@@ -1,0 +1,224 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "Nvidia Corporation will report Q3 FY2027 revenue greater than $40.0 billion.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "Nvidia Investor Relations",
+    "metric": "Revenue",
+    "threshold": "40000000000",
+    "resolution_date": "2027-11-19",
+    "baseline": {
+     "value": "26040000000",
+     "as_of": "2024-05-22"
+    },
+    "counting_convention": "quarterly reported revenue; status: reported only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E24"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "Microsoft Corporation will report Q1 FY2027 revenue exceeding $70.0 billion.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "Microsoft Investor Relations",
+    "metric": "Revenue",
+    "threshold": "70000000000",
+    "resolution_date": "2026-10-23",
+    "baseline": {
+     "value": "52705000000",
+     "as_of": "2024-07-24"
+    },
+    "counting_convention": "quarterly reported revenue; status: reported only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.17,
+   "dynamic": "D1",
+   "evidence": [
+    "E02",
+    "E23"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "Alphabet Inc. will report Q4 2026 total revenue surpassing $90.0 billion.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "Alphabet Investor Relations",
+    "metric": "Total Revenue",
+    "threshold": "90000000000",
+    "resolution_date": "2027-01-28",
+    "baseline": {
+     "value": "76048000000",
+     "as_of": "2025-10-29"
+    },
+    "counting_convention": "quarterly reported revenue; status: reported only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.42,
+   "dynamic": "D1",
+   "evidence": [
+    "E03",
+    "E22"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "Amazon.com, Inc. will report Q4 2026 AWS revenue of at least $45.0 billion.",
+   "probability": 0.55,
+   "resolution_criteria": {
+    "source": "Amazon Investor Relations",
+    "metric": "AWS Revenue",
+    "threshold": "45000000000",
+    "resolution_date": "2027-01-29",
+    "baseline": {
+     "value": "37600000000",
+     "as_of": "2026-07-09"
+    },
+    "counting_convention": "quarterly reported revenue; status: reported only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.47,
+   "dynamic": "D1",
+   "evidence": [
+    "E17",
+    "E25"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "Salesforce, Inc. will report Q4 FY2027 total revenue greater than $12.0 billion.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "Salesforce Investor Relations",
+    "metric": "Total Revenue",
+    "threshold": "12000000000",
+    "resolution_date": "2027-02-25",
+    "baseline": {
+     "value": "9130000000",
+     "as_of": "2024-05-30"
+    },
+    "counting_convention": "quarterly reported revenue; status: reported only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 1.46,
+   "dynamic": "D1",
+   "evidence": [
+    "E06",
+    "E27"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "Palantir Technologies Inc. will report Q4 2026 total revenue of at least $1.0 billion.",
+   "probability": 0.62,
+   "resolution_criteria": {
+    "source": "Palantir Investor Relations",
+    "metric": "Total Revenue",
+    "threshold": "1000000000",
+    "resolution_date": "2027-02-05",
+    "baseline": {
+     "value": "635000000",
+     "as_of": "2024-05-06"
+    },
+    "counting_convention": "quarterly reported revenue; status: reported only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.48,
+   "dynamic": "D1",
+   "evidence": [
+    "E07",
+    "E40"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "Snowflake Inc. will report Q4 FY2027 product revenue exceeding $1.2 billion.",
+   "probability": 0.68,
+   "resolution_criteria": {
+    "source": "Snowflake Investor Relations",
+    "metric": "Product Revenue",
+    "threshold": "1200000000",
+    "resolution_date": "2027-02-24",
+    "baseline": {
+     "value": "786000000",
+     "as_of": "2024-05-22"
+    },
+    "counting_convention": "quarterly reported revenue; status: reported only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 1.46,
+   "dynamic": "D1",
+   "evidence": [
+    "E08",
+    "E13"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "Datadog, Inc. will report Q4 2026 total revenue surpassing $1.2 billion.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "Datadog Investor Relations",
+    "metric": "Total Revenue",
+    "threshold": "1200000000",
+    "resolution_date": "2027-02-04",
+    "baseline": {
+     "value": "611100000",
+     "as_of": "2024-05-02"
+    },
+    "counting_convention": "quarterly reported revenue; status: reported only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.48,
+   "dynamic": "D1",
+   "evidence": [
+    "E12",
+    "E18"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "By the end of 2035, the global AI software market will reach at least $1,600 billion.",
+   "probability": 0.9,
+   "resolution_criteria": {
+    "source": "Nova One Advisor",
+    "metric": "Global AI Software Market Value",
+    "threshold": "1600000000000",
+    "resolution_date": "2035-12-31",
+    "baseline": {
+     "value": "257370000000",
+     "as_of": "2025-01-01"
+    },
+    "counting_convention": "annual market value in USD; status: reported; window: annual; excludes: none"
+   },
+   "horizon_years": 9.4,
+   "dynamic": "D1",
+   "evidence": [
+    "E13",
+    "E19"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "By early June 2028, over 60% of the S&P 500 market capitalization will be comprised of AI-related companies.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "S&P Dow Jones Indices",
+    "metric": "AI Market Cap Percentage",
+    "threshold": "60",
+    "resolution_date": "2028-06-05",
+    "baseline": {
+     "value": "49",
+     "as_of": "2026-06-23"
+    },
+    "counting_convention": "percentage of S&P 500 market capitalization; status: reported; window: as of date; excludes: non-AI related companies"
+   },
+   "horizon_years": 1.99,
+   "dynamic": "D1",
+   "evidence": [
+    "E20",
+    "E39"
+   ]
+  }
+ ]
+}

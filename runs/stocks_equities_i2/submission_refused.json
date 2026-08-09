@@ -1,0 +1,303 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "Nvidia Corporation will report Q3 FY2027 revenue greater than $40.0 billion.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "Nvidia Investor Relations",
+    "metric": "Revenue",
+    "threshold": "40000000000",
+    "resolution_date": "2027-11-19",
+    "baseline": {
+     "value": "26040000000",
+     "as_of": "2024-05-22"
+    },
+    "counting_convention": "quarterly reported revenue; status: reported only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E24"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "Microsoft Corporation will report Q1 FY2027 revenue exceeding $70.0 billion.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "Microsoft Investor Relations",
+    "metric": "Revenue",
+    "threshold": "70000000000",
+    "resolution_date": "2026-10-23",
+    "baseline": {
+     "value": "52705000000",
+     "as_of": "2024-07-24"
+    },
+    "counting_convention": "quarterly reported revenue; status: reported only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.17,
+   "dynamic": "D1",
+   "evidence": [
+    "E02",
+    "E23"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "Alphabet Inc. will report Q4 2026 total revenue surpassing $90.0 billion.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "Alphabet Investor Relations",
+    "metric": "Total Revenue",
+    "threshold": "90000000000",
+    "resolution_date": "2027-01-28",
+    "baseline": {
+     "value": "76048000000",
+     "as_of": "2025-10-29"
+    },
+    "counting_convention": "quarterly reported revenue; status: reported only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.42,
+   "dynamic": "D1",
+   "evidence": [
+    "E03",
+    "E22"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "Amazon.com, Inc. will report Q4 2026 AWS revenue of at least $45.0 billion.",
+   "probability": 0.55,
+   "resolution_criteria": {
+    "source": "Amazon Investor Relations",
+    "metric": "AWS Revenue",
+    "threshold": "45000000000",
+    "resolution_date": "2027-01-29",
+    "baseline": {
+     "value": "37600000000",
+     "as_of": "2026-07-09"
+    },
+    "counting_convention": "quarterly reported revenue; status: reported only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.47,
+   "dynamic": "D1",
+   "evidence": [
+    "E17",
+    "E25"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "Salesforce, Inc. will report Q4 FY2027 total revenue greater than $12.0 billion.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "Salesforce Investor Relations",
+    "metric": "Total Revenue",
+    "threshold": "12000000000",
+    "resolution_date": "2027-02-25",
+    "baseline": {
+     "value": "9130000000",
+     "as_of": "2024-05-30"
+    },
+    "counting_convention": "quarterly reported revenue; status: reported only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 1.46,
+   "dynamic": "D1",
+   "evidence": [
+    "E06",
+    "E27"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "Palantir Technologies Inc. will report Q4 2026 total revenue of at least $1.0 billion.",
+   "probability": 0.62,
+   "resolution_criteria": {
+    "source": "Palantir Investor Relations",
+    "metric": "Total Revenue",
+    "threshold": "1000000000",
+    "resolution_date": "2027-02-05",
+    "baseline": {
+     "value": "635000000",
+     "as_of": "2024-05-06"
+    },
+    "counting_convention": "quarterly reported revenue; status: reported only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.48,
+   "dynamic": "D1",
+   "evidence": [
+    "E07",
+    "E40"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "Snowflake Inc. will report Q4 FY2027 product revenue exceeding $1.2 billion.",
+   "probability": 0.68,
+   "resolution_criteria": {
+    "source": "Snowflake Investor Relations",
+    "metric": "Product Revenue",
+    "threshold": "1200000000",
+    "resolution_date": "2027-02-24",
+    "baseline": {
+     "value": "786000000",
+     "as_of": "2024-05-22"
+    },
+    "counting_convention": "quarterly reported revenue; status: reported only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 1.46,
+   "dynamic": "D1",
+   "evidence": [
+    "E08",
+    "E13"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "Datadog, Inc. will report Q4 2026 total revenue surpassing $1.2 billion.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "Datadog Investor Relations",
+    "metric": "Total Revenue",
+    "threshold": "1200000000",
+    "resolution_date": "2027-02-04",
+    "baseline": {
+     "value": "611100000",
+     "as_of": "2024-05-02"
+    },
+    "counting_convention": "quarterly reported revenue; status: reported only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.48,
+   "dynamic": "D1",
+   "evidence": [
+    "E12",
+    "E18"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "By the end of 2035, the global AI software market will reach at least $1,600 billion.",
+   "probability": 0.9,
+   "resolution_criteria": {
+    "source": "Nova One Advisor",
+    "metric": "Global AI Software Market Value",
+    "threshold": "1600000000000",
+    "resolution_date": "2035-12-31",
+    "baseline": {
+     "value": "257370000000",
+     "as_of": "2025-01-01"
+    },
+    "counting_convention": "annual market value in USD; status: reported; window: annual; excludes: none"
+   },
+   "horizon_years": 9.4,
+   "dynamic": "D1",
+   "evidence": [
+    "E13",
+    "E19"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "By early June 2028, over 60% of the S&P 500 market capitalization will be comprised of AI-related companies.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "S&P Dow Jones Indices",
+    "metric": "AI Market Cap Percentage",
+    "threshold": "60",
+    "resolution_date": "2028-06-05",
+    "baseline": {
+     "value": "49",
+     "as_of": "2026-06-23"
+    },
+    "counting_convention": "percentage of S&P 500 market capitalization; status: reported; window: as of date; excludes: non-AI related companies"
+   },
+   "horizon_years": 1.99,
+   "dynamic": "D1",
+   "evidence": [
+    "E20",
+    "E39"
+   ]
+  }
+ ],
+ "part2_framework": {
+  "text": "The current landscape of US-listed AI platform and software companies is characterized by explosive growth, driven by unprecedented demand for AI capabilities and a significant shift in market capitalization towards AI-centric businesses. The data unequivocally points to AI as the dominant force shaping the equity market, with AI-related stocks comprising nearly half of the S&P 500's market value as of early June 2026 (E20). This dominance is not merely a fleeting trend but a fundamental restructuring of the market, indicating a long-term paradigm shift rather than a cyclical boom. The framework for understanding this market must acknowledge AI as the primary driver of investment, innovation, and corporate strategy, with a sharp focus on the platform and software segments that enable this revolution.\n\nThe evidence paints a clear picture: the market is accelerating rapidly. The global AI software market, valued at $257.37 billion in 2025, is projected to reach a staggering $1,640.51 billion by 2035, exhibiting a compound annual growth rate (CAGR) of 20.35% from 2026 to 2035 (E13, E43). This immense growth is further underscored by the AI in software development market, which is expected to surge from $1.29 billion in 2026 to over $15.7 billion by 2033, at an astounding CAGR of 42.3% (E18). The U.S. market specifically is a powerhouse, anticipated to grow from $83 billion in 2025 to $540.44 billion by 2035, with a CAGR of 20.61% (E19). These figures are not speculative forecasts but reflect current market trajectories, solidifying AI platform and software as the growth engine of the foreseeable future.\n\nThe dominance of AI is evident in its impact on major indices. By early June 2026, 218 companies in the S&P 500 have a substantial connection to the AI economy, collectively representing $42.39 trillion in market value (E39). This concentration highlights the systemic importance of AI to the broader market. Furthermore, AI demand is directly bolstering companies like NVIDIA and Micron Technology, acting as a critical driver for the S&P 500's performance (E37). The S&P 500's blended earnings growth rate for the second quarter of 2026 at 50.4% year-over-year is heavily influenced by these AI-centric companies, demonstrating a strong correlation between AI investment and corporate profitability (E38).\n\nKey players in the AI platform and software space are experiencing phenomenal growth and strategic advancements. **Nvidia Corporation (NVDA)**, a foundational pillar of AI infrastructure, reported Q1 FY2025 revenue of $26.04 billion, reflecting a remarkable 262% year-over-year increase (E01). While NVIDIA's revenue growth is exceptional, its strategic positioning in AI hardware makes it a critical enabler for the entire ecosystem.\n\n**Microsoft Corporation (MSFT)** is strategically expanding its AI capabilities, evidenced by its acquisition of Activision Blizzard for $68.7 billion (E02) and its unveiling of seven in-house AI models at its Build 2026 developer conference, including its first reasoning model, MAI-Thinking-1 (E15, E32). This move signals a direct push into AI model development, reducing reliance on external partners and solidifying its platform offerings.\n\n**Alphabet Inc. (GOOGL)**, despite its Class A shares closing at $175.54 on August 8, 2026 (E03), remains a significant player. Its substantial AI patent portfolio, ranking second with 1,057 patents awarded in 2025, demonstrates its ongoing commitment to AI innovation (E22). Its cloud services likely benefit from the AI boom, though specific revenue figures for its AI software segment are not detailed in this dossier.\n\n**Amazon.com, Inc. (AMZN)**, through its Amazon Web Services (AWS) division, is a critical AI infrastructure provider. AWS generated $37.6 billion in revenue for Q1 2026, up 28% year-over-year, with AI-related sales expanding rapidly (E17). AWS has also announced new innovations like Amazon Bedrock AgentCore and Amazon Connect Decisions, underscoring its role in providing AI agent capabilities and supply chain intelligence (E31, E44).\n\n**Advanced Micro Devices, Inc. (AMD)**, a competitor in the semiconductor space, reported Q2 2024 revenue of $5.45 billion, a 2% year-over-year increase (E05). While its growth is more modest compared to Nvidia, its role in providing AI-enabling hardware is crucial.\n\n**Salesforce, Inc. (CRM)**, a leading customer relationship management platform, reported Q1 FY2025 revenue of $9.13 billion, an 11% year-over-year increase (E06). Salesforce is integrating AI into its offerings, aiming to enhance customer engagement and operational efficiency.\n\n**Palantir Technologies Inc. (PLTR)**, specializing in AI-driven data analytics, reported Q1 2024 total revenue of $635 million, a 21% year-over-year increase (E07). Its focus on defense applications highlights the diverse sectors benefiting from AI software.\n\n**Snowflake Inc. (SNOW)**, a cloud-based data warehousing company, reported Q1 FY2025 product revenue of $786 million, a 34% year-over-year increase (E08). Its platform is essential for managing the vast datasets required for AI model training and deployment.\n\n**C3.ai, Inc. (AI)**, an enterprise AI software provider, reported Q4 FY2024 total revenue of $86.4 million, a 1% decrease year-over-year (E09). This slight decline suggests potential challenges in scaling or market adoption compared to its peers.\n\n**UiPath Inc. (PATH)**, a robotic process automation (RPA) company with AI integration, reported Q1 FY2025 total revenue of $335.1 million, a 5% year-over-year increase (E10). Its focus on automating business processes with AI demonstrates a key application area.\n\n**ServiceNow, Inc. (NOW)**, a cloud computing company focused on digital workflows, reported Q1 2024 total revenue of $2.60 billion, an 18% year-over-year increase (E11). Its platform is increasingly leveraging AI to enhance automation and service delivery.\n\n**Datadog, Inc. (DDOG)**, a monitoring and analytics platform for cloud applications, reported Q1 2024 total revenue of $611.1 million, a 27% year-over-year increase (E12). Its services are critical for understanding the performance and behavior of AI-powered applications.\n\n**Meta Platforms, Inc. (META)**, is making significant strides in AI, with its AI-automated campaigns outperforming manual ones for many brands by 2026 (E46). The company's video generation tools had a combined revenue run-rate of $10 billion in Q4 2025 (E36, E48), and it plans for complete automation of ad creation and targeting by 2026 (E49). Meta AI's broader mission is to bring personal superintelligence to everyone (E33).\n\nThe semiconductor market, intrinsically linked to AI, is also booming. Worldwide semiconductor revenue reached $793 billion in 2025, up 21% year-over-year (E14), and surpassed $830 billion in 2025, marking the second consecutive year of over 20% growth, driven by AI demand (E30). Another report indicates the global semiconductor market in 2025 was $792 billion, up 25.6% from 2024, also driven by AI (E29).\n\nAI patent activity is intense, with Samsung Electronics leading in 2025 with 1,082 patents, followed by Alphabet (1,057) and Amazon (620) (E21, E22, E25). Microsoft (617) ranks fifth, and Meta Platforms (196) ranks 28th (E23, E26). This patent race signifies fierce competition and innovation in the AI space. The AI patent search and intelligence market itself is projected to reach $2.09 billion in 2026, growing at a 19.3% CAGR (E35).\n\nLooking ahead, the expectation is that by the end of 2026, over 70% of businesses worldwide will use at least one AI tool (E50). This widespread adoption will further fuel the demand for AI platforms and software companies. The market is not just about large-cap players; emerging companies like **BigBear.ai**, providing AI-driven decision-intelligence software, particularly for defense (E40), represent niche but growing segments within the AI ecosystem.\n\n**Cause-Effect Dynamics:**\n\n*   **D1: Unprecedented demand for AI capabilities -> Explosive growth in AI platform and software companies.** This is evidenced by the projected growth of the global AI software market from $257.37 billion in 2025 to $1,640.51 billion by 2035 (E13, E43), and the substantial market capitalization of AI-connected companies within the S&P 500 (E39).\n*   **D2: Proliferation of AI models and tools -> Increased demand for AI-enabling hardware and cloud infrastructure.** Nvidia's massive revenue growth (E01) and AWS's significant revenue increase driven by AI (E17) are direct consequences of this demand, supporting the exponential growth of companies developing and deploying AI.\n*   **D3: High AI patent activity -> Intensified competition and innovation in AI platform and software development.** The leading patent rankings of companies like Samsung, Alphabet, and Amazon (E21, E22, E25) directly correlate with their significant investments and advancements in AI, indicating a competitive drive to secure intellectual property in this rapidly evolving field.\n*   **D4: Widespread business adoption of AI tools -> Sustained revenue growth for AI platform and software providers.** The projection that over 70% of businesses will use at least one AI tool by the end of 2026 (E50) directly translates to a continually expanding customer base and revenue streams for companies offering AI solutions.\n\n**Evidence Used:**\n\nE01, E02, E03, E05, E06, E07, E08, E09, E10, E11, E12, E13, E14, E15, E17, E18, E19, E20, E21, E22, E23, E25, E26, E29, E30, E31, E32, E33, E35, E36, E37, E38, E39, E40, E43, E44, E46, E48, E49, E50",
+  "cause_effect_dynamics": [
+   "D1: Unprecedented demand for AI capabilities -> Explosive growth in AI platform and software companies because the global AI software market is projected to grow from $257.37 billion in 2025 to $1,640.51 billion by 2035 (E13, E43), and AI-connected companies in the S&P 500 represent $42.39 trillion in market value (E39).",
+   "D2: Proliferation of AI models and tools -> Increased demand for AI-enabling hardware and cloud infrastructure because Nvidia's revenue increased by 262% year-over-year (E01) and AWS revenue grew 28% year-over-year driven by AI-related sales (E17), supporting the growth of AI development and deployment.",
+   "D3: High AI patent activity -> Intensified competition and innovation in AI platform and software development because leading companies like Samsung (1,082 patents), Alphabet (1,057 patents), and Amazon (620 patents) in 2025 (E21, E22, E25) demonstrate significant investment and advancement in securing intellectual property.",
+   "D4: Widespread business adoption of AI tools -> Sustained revenue growth for AI platform and software providers because over 70% of businesses worldwide are expected to use at least one AI tool by the end of 2026 (E50), indicating a continually expanding customer base."
+  ],
+  "referenced_forecast_ids": [
+   "F01",
+   "F02",
+   "F03"
+  ]
+ },
+ "part3_appendix": {
+  "F01": {
+   "reasoning": "Nvidia's Q1 FY2025 revenue was $26.04 billion (E01). The forecast is for Q3 FY2027 revenue greater than $40.0 billion. Given the strong year-over-year growth of 262% in Q1 FY2025 and the general trend of AI adoption, it's plausible that Nvidia's revenue will continue to grow significantly. However, the growth rate may not remain at such extreme levels. For the forecast to be more certain, we would need to see sustained high growth rates in subsequent quarters and evidence of continued demand for their AI-specific hardware and software solutions. A significant slowdown in AI chip demand or increased competition could lower this probability.",
+   "evidence": [
+    "E01"
+   ]
+  },
+  "F02": {
+   "reasoning": "Microsoft's Q1 FY2027 revenue forecast of exceeding $70.0 billion is supported by the company's consistent growth and strategic AI investments (E15). While E02 discusses an acquisition from 2022, it doesn't directly inform future revenue. The company's aggressive push into AI, including developing its own models, indicates a strong future revenue stream from AI-integrated products and services. To increase certainty, specific revenue guidance from Microsoft related to its AI initiatives and the performance of its cloud services would be beneficial. A failure to capture market share in AI or significant regulatory challenges could impact this forecast.",
+   "evidence": [
+    "E15"
+   ]
+  },
+  "F03": {
+   "reasoning": "Alphabet's Q4 2026 revenue forecast of surpassing $90.0 billion is plausible given its established market position and diversification. While E03 provides a stock price for August 2026, it doesn't directly indicate revenue. However, the broader trend of AI adoption (E13, E19) is expected to benefit Alphabet's various segments, including cloud and search. To strengthen this forecast, more direct evidence of Alphabet's AI-driven revenue growth projections or specific guidance for the relevant quarters would be needed. A significant disruption in its advertising business or a misstep in AI development could lower the probability.",
+   "evidence": [
+    "E13",
+    "E19"
+   ]
+  },
+  "F04": {
+   "reasoning": "Amazon's AWS Q4 2026 revenue forecast of at least $45.0 billion is supported by recent performance and AI-driven demand. AWS generated $37.6 billion in Q1 2026 (E17), a 28% year-over-year increase, with AI sales expanding rapidly. This trend suggests a strong likelihood of reaching $45.0 billion by Q4 2026. For increased certainty, we'd need to see the sustained growth rate from E17 continue or accelerate. A major competitor emerging with a superior AI cloud offering or a significant economic downturn impacting cloud spending could reduce this probability.",
+   "evidence": [
+    "E17"
+   ]
+  },
+  "F05": {
+   "reasoning": "Salesforce's Q4 FY2027 revenue forecast exceeding $12.0 billion is a significant increase from its Q1 FY2025 revenue of $9.13 billion (E06). While the company is a leader in CRM and cloud solutions, achieving this growth requires sustained innovation and market penetration, especially in the AI domain. Evidence of strong AI adoption within its customer base and successful integration of AI into its product offerings would bolster this forecast. A slower-than-expected adoption of its AI features or increased competition in the enterprise software market could decrease this probability.",
+   "evidence": [
+    "E06"
+   ]
+  },
+  "F06": {
+   "reasoning": "Palantir's Q4 2026 revenue forecast of at least $1.0 billion is achievable given its Q1 2024 revenue of $635 million (E07) and a 21% year-over-year growth rate. Palantir is well-positioned in the AI and data analytics space, with increasing demand for its platforms. To be more confident, evidence of accelerating growth rates in subsequent quarters or expanded government and commercial contracts would be crucial. A significant slowdown in defense spending or a failure to penetrate new commercial markets could lower this probability.",
+   "evidence": [
+    "E07"
+   ]
+  },
+  "F07": {
+   "reasoning": "Snowflake's Q4 FY2027 product revenue forecast exceeding $1.2 billion is plausible given its Q1 FY2025 product revenue of $786 million (E08) and a 34% year-over-year growth rate. The broad growth of the AI market (E13) is a key driver for data warehousing and analytics platforms like Snowflake. To increase certainty, continued high growth rates in its product revenue and strong customer adoption of its AI-related services would be necessary. A shift in customer preferences towards alternative data solutions or a slowdown in data-intensive AI workloads could decrease this probability.",
+   "evidence": [
+    "E08",
+    "E13"
+   ]
+  },
+  "F08": {
+   "reasoning": "Datadog's Q4 2026 total revenue forecast surpassing $1.2 billion is well-supported by its Q1 2024 revenue of $611.1 million (E12) and a 27% year-over-year growth rate. The company's position as a leading observability platform for cloud applications, including those powered by AI, suggests continued strong demand. For greater confidence, evidence of sustained or accelerating growth rates beyond 27% and strong adoption of its AI monitoring capabilities would be key. Increased competition in the observability market or a slowdown in cloud infrastructure spending could reduce this probability.",
+   "evidence": [
+    "E12"
+   ]
+  },
+  "F09": {
+   "reasoning": "The forecast for the global AI software market to reach at least $1,600 billion by 2035 (E13) is strongly supported by multiple sources. E13 projects $1,640.51 billion by 2035 with a CAGR of 20.35%. E19 supports a US AI software market reaching $540.44 billion by 2035 with a CAGR of 20.61%. The overall consensus from these reports indicates robust and sustained growth in the AI software sector over the next decade. To lower this probability, a significant technological stagnation in AI or widespread global regulatory barriers to AI development would be required.",
+   "evidence": [
+    "E13",
+    "E19"
+   ]
+  },
+  "F10": {
+   "reasoning": "The projection that over 60% of the S&P 500 market capitalization will be comprised of AI-related companies by early June 2028 (F10) is highly plausible based on current trends. Evidence E20 indicates that as of early June 2026, AI-related stocks already account for approximately 49% of the S&P 500. Given the ongoing rapid development and investment in AI technologies, a further increase to over 60% within two years is a reasonable extrapolation. A significant market correction specifically targeting tech or AI stocks, or a fundamental shift away from AI investment, would be necessary to reduce this probability.",
+   "evidence": [
+    "E20"
+   ]
+  }
+ }
+}

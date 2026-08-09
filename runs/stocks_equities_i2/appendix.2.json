@@ -1,0 +1,65 @@
+{
+ "F01": {
+  "reasoning": "Nvidia's Q1 FY2025 revenue was $26.04 billion (E01). The forecast is for Q3 FY2027 revenue greater than $40.0 billion. Given the strong year-over-year growth of 262% in Q1 FY2025 and the general trend of AI adoption, it's plausible that Nvidia's revenue will continue to grow significantly. However, the growth rate may not remain at such extreme levels. For the forecast to be more certain, we would need to see sustained high growth rates in subsequent quarters and evidence of continued demand for their AI-specific hardware and software solutions. A significant slowdown in AI chip demand or increased competition could lower this probability.",
+  "evidence": [
+   "E01"
+  ]
+ },
+ "F02": {
+  "reasoning": "Microsoft's Q1 FY2027 revenue forecast of exceeding $70.0 billion is supported by the company's consistent growth and strategic AI investments (E15). While E02 discusses an acquisition from 2022, it doesn't directly inform future revenue. The company's aggressive push into AI, including developing its own models, indicates a strong future revenue stream from AI-integrated products and services. To increase certainty, specific revenue guidance from Microsoft related to its AI initiatives and the performance of its cloud services would be beneficial. A failure to capture market share in AI or significant regulatory challenges could impact this forecast.",
+  "evidence": [
+   "E15"
+  ]
+ },
+ "F03": {
+  "reasoning": "Alphabet's Q4 2026 revenue forecast of surpassing $90.0 billion is plausible given its established market position and diversification. While E03 provides a stock price for August 2026, it doesn't directly indicate revenue. However, the broader trend of AI adoption (E13, E19) is expected to benefit Alphabet's various segments, including cloud and search. To strengthen this forecast, more direct evidence of Alphabet's AI-driven revenue growth projections or specific guidance for the relevant quarters would be needed. A significant disruption in its advertising business or a misstep in AI development could lower the probability.",
+  "evidence": [
+   "E13",
+   "E19"
+  ]
+ },
+ "F04": {
+  "reasoning": "Amazon's AWS Q4 2026 revenue forecast of at least $45.0 billion is supported by recent performance and AI-driven demand. AWS generated $37.6 billion in Q1 2026 (E17), a 28% year-over-year increase, with AI sales expanding rapidly. This trend suggests a strong likelihood of reaching $45.0 billion by Q4 2026. For increased certainty, we'd need to see the sustained growth rate from E17 continue or accelerate. A major competitor emerging with a superior AI cloud offering or a significant economic downturn impacting cloud spending could reduce this probability.",
+  "evidence": [
+   "E17"
+  ]
+ },
+ "F05": {
+  "reasoning": "Salesforce's Q4 FY2027 revenue forecast exceeding $12.0 billion is a significant increase from its Q1 FY2025 revenue of $9.13 billion (E06). While the company is a leader in CRM and cloud solutions, achieving this growth requires sustained innovation and market penetration, especially in the AI domain. Evidence of strong AI adoption within its customer base and successful integration of AI into its product offerings would bolster this forecast. A slower-than-expected adoption of its AI features or increased competition in the enterprise software market could decrease this probability.",
+  "evidence": [
+   "E06"
+  ]
+ },
+ "F06": {
+  "reasoning": "Palantir's Q4 2026 revenue forecast of at least $1.0 billion is achievable given its Q1 2024 revenue of $635 million (E07) and a 21% year-over-year growth rate. Palantir is well-positioned in the AI and data analytics space, with increasing demand for its platforms. To be more confident, evidence of accelerating growth rates in subsequent quarters or expanded government and commercial contracts would be crucial. A significant slowdown in defense spending or a failure to penetrate new commercial markets could lower this probability.",
+  "evidence": [
+   "E07"
+  ]
+ },
+ "F07": {
+  "reasoning": "Snowflake's Q4 FY2027 product revenue forecast exceeding $1.2 billion is plausible given its Q1 FY2025 product revenue of $786 million (E08) and a 34% year-over-year growth rate. The broad growth of the AI market (E13) is a key driver for data warehousing and analytics platforms like Snowflake. To increase certainty, continued high growth rates in its product revenue and strong customer adoption of its AI-related services would be necessary. A shift in customer preferences towards alternative data solutions or a slowdown in data-intensive AI workloads could decrease this probability.",
+  "evidence": [
+   "E08",
+   "E13"
+  ]
+ },
+ "F08": {
+  "reasoning": "Datadog's Q4 2026 total revenue forecast surpassing $1.2 billion is well-supported by its Q1 2024 revenue of $611.1 million (E12) and a 27% year-over-year growth rate. The company's position as a leading observability platform for cloud applications, including those powered by AI, suggests continued strong demand. For greater confidence, evidence of sustained or accelerating growth rates beyond 27% and strong adoption of its AI monitoring capabilities would be key. Increased competition in the observability market or a slowdown in cloud infrastructure spending could reduce this probability.",
+  "evidence": [
+   "E12"
+  ]
+ },
+ "F09": {
+  "reasoning": "The forecast for the global AI software market to reach at least $1,600 billion by 2035 (E13) is strongly supported by multiple sources. E13 projects $1,640.51 billion by 2035 with a CAGR of 20.35%. E19 supports a US AI software market reaching $540.44 billion by 2035 with a CAGR of 20.61%. The overall consensus from these reports indicates robust and sustained growth in the AI software sector over the next decade. To lower this probability, a significant technological stagnation in AI or widespread global regulatory barriers to AI development would be required.",
+  "evidence": [
+   "E13",
+   "E19"
+  ]
+ },
+ "F10": {
+  "reasoning": "The projection that over 60% of the S&P 500 market capitalization will be comprised of AI-related companies by early June 2028 (F10) is highly plausible based on current trends. Evidence E20 indicates that as of early June 2026, AI-related stocks already account for approximately 49% of the S&P 500. Given the ongoing rapid development and investment in AI technologies, a further increase to over 60% within two years is a reasonable extrapolation. A significant market correction specifically targeting tech or AI stocks, or a fundamental shift away from AI investment, would be necessary to reduce this probability.",
+  "evidence": [
+   "E20"
+  ]
+ }
+}

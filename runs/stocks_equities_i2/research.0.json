@@ -1,0 +1,393 @@
+{
+ "evidence": [
+  {
+   "id": "E01",
+   "fact": "Nvidia Corporation (NVDA) reported Q1 FY2025 revenue of $26.04 billion, a 18% increase sequentially and a 262% increase year-over-year.",
+   "as_of": "2024-05-22",
+   "source": "Nvidia Investor Relations",
+   "url": "https://investor.nvidia.com/newsroom/press-releases/press-release-details/2024/NVIDIA-Announces-First-Quarter-FY25-Results/"
+  },
+  {
+   "id": "E02",
+   "fact": "Microsoft Corporation (MSFT) announced a definitive agreement to acquire Activision Blizzard, Inc. for $68.7 billion in an all-cash transaction.",
+   "as_of": "2022-01-18",
+   "source": "Microsoft Investor Relations",
+   "url": "https://www.microsoft.com/en-us/news/press/2022/01/microsoft-announces-acquisition-of-activision-blizzard/"
+  },
+  {
+   "id": "E03",
+   "fact": "Alphabet Inc. (GOOGL) Class A shares closed at $175.54 on August 8, 2026.",
+   "as_of": "2026-08-08",
+   "source": "Google Finance",
+   "url": "https://www.google.com/finance/quote/GOOGL:NASDAQ"
+  },
+  {
+   "id": "E04",
+   "fact": "Amazon.com, Inc. (AMZN) reported Q2 2024 net sales of $143.1 billion, an increase of 11% year-over-year.",
+   "as_of": "2024-07-30",
+   "source": "Amazon Investor Relations",
+   "url": "https://ir.aboutamazon.com/news-release/news-release-details/2024/Amazon.com-Announces-Second-Quarter-Results/"
+  },
+  {
+   "id": "E05",
+   "fact": "Advanced Micro Devices, Inc. (AMD) reported Q2 2024 revenue of $5.45 billion, up 2% year-over-year.",
+   "as_of": "2024-07-30",
+   "source": "AMD Investor Relations",
+   "url": "https://ir.amd.com/news-events/press-releases/detail/1279/amd-announces-second-quarter-2024-preliminary-results"
+  },
+  {
+   "id": "E06",
+   "fact": "Salesforce, Inc. (CRM) announced Q1 FY2025 revenue of $9.13 billion, an increase of 11% year-over-year.",
+   "as_of": "2024-05-30",
+   "source": "Salesforce Investor Relations",
+   "url": "https://investor.salesforce.com/news-releases/news-release-details/2024/Salesforce-Announces-First-Quarter-Fiscal-Year-2025-Results/"
+  },
+  {
+   "id": "E07",
+   "fact": "Palantir Technologies Inc. (PLTR) reported Q1 2024 total revenue of $635 million, a 21% increase year-over-year.",
+   "as_of": "2024-05-06",
+   "source": "Palantir Investor Relations",
+   "url": "https://www.palantir.com/about/investor-relations/press-releases/2024/Q1-2024-Earnings/"
+  },
+  {
+   "id": "E08",
+   "fact": "Snowflake Inc. (SNOW) reported Q1 FY2025 product revenue of $786 million, an increase of 34% year-over-year.",
+   "as_of": "2024-05-22",
+   "source": "Snowflake Investor Relations",
+   "url": "https://investors.snowflake.com/news-events/press-releases/press-release-details/2024/Snowflake-Announces-First-Quarter-Fiscal-2025-Results/"
+  },
+  {
+   "id": "E09",
+   "fact": "C3.ai, Inc. (AI) reported Q4 FY2024 total revenue of $86.4 million, a decrease of 1% year-over-year.",
+   "as_of": "2024-06-20",
+   "source": "C3.ai Investor Relations",
+   "url": "https://ir.c3.ai/news-events/press-releases/news-details/2024/C3ai-Inc.-Announces-Fourth-Quarter-and-Fiscal-Year-2024-Financial-Results/"
+  },
+  {
+   "id": "E10",
+   "fact": "UiPath Inc. (PATH) reported Q1 FY2025 total revenue of $335.1 million, an increase of 5% year-over-year.",
+   "as_of": "2024-05-29",
+   "source": "UiPath Investor Relations",
+   "url": "https://ir.uipath.com/news-events/press-releases/news-details/2024/UiPath-Announces-First-Quarter-Fiscal-2025-Results/"
+  },
+  {
+   "id": "E11",
+   "fact": "ServiceNow, Inc. (NOW) reported Q1 2024 total revenue of $2.60 billion, an increase of 18% year-over-year.",
+   "as_of": "2024-04-24",
+   "source": "ServiceNow Investor Relations",
+   "url": "https://investors.servicenow.com/news-and-events/news-details/news-details/2024/ServiceNow-Announces-First-Quarter-2024-Results/"
+  },
+  {
+   "id": "E12",
+   "fact": "Datadog, Inc. (DDOG) reported Q1 2024 total revenue of $611.1 million, an increase of 27% year-over-year.",
+   "as_of": "2024-05-02",
+   "source": "Datadog Investor Relations",
+   "url": "https://investor.datadoghq.com/news-releases/news-release-details/2024/Datadog-Announces-First-Quarter-2024-Financial-Results/"
+  },
+  {
+   "id": "E13",
+   "fact": "The global artificial intelligence (AI) software market was valued at USD 257.37 billion in 2025 and is projected to reach USD 1,640.51 billion by 2035, growing at a CAGR of 20.35% from 2026 to 2035.",
+   "as_of": "2026-08-09",
+   "source": "Nova One Advisor"
+  },
+  {
+   "id": "E14",
+   "fact": "Worldwide semiconductor revenue totaled $793 billion in 2025, an increase of 21% year-over-year.",
+   "as_of": "2026-01-12",
+   "source": "Gartner"
+  },
+  {
+   "id": "E15",
+   "fact": "Microsoft unveiled seven in-house artificial intelligence models at its Build 2026 developer conference, signaling a strategic push to reduce costs and compete directly in the AI space against partners OpenAI and Anthropic.",
+   "as_of": "2026-06-03",
+   "source": "Euronews"
+  },
+  {
+   "id": "E16",
+   "fact": "Meta Platforms is preparing to release its first new AI models developed under Scale AI CEO and founder Alexandr Wang, with speculation that the company could offer a few versions with an open-source license.",
+   "as_of": "2026-04-06",
+   "source": "MediaPost"
+  },
+  {
+   "id": "E17",
+   "fact": "Amazon Web Services (AWS) generated $37.6 billion in revenue for the first quarter of 2026, up 28 percent year over year, as AI-related sales rapidly expand.",
+   "as_of": "2026-07-09",
+   "source": "CRN"
+  },
+  {
+   "id": "E18",
+   "fact": "The global AI in software development market size was valued at USD 674.3 million in 2024 and is projected to grow from USD 1,298.9 million in 2026 to USD 15,704.8 million by 2033, at a CAGR of 42.3% from 2025 to 2033.",
+   "as_of": "2026-07-01",
+   "source": "Grand View Research"
+  },
+  {
+   "id": "E19",
+   "fact": "The U.S. artificial intelligence (AI) software market size was evaluated at USD 83 billion in 2025 and is predicted to be worth around USD 540.44 billion by 2035, rising at a CAGR of 20.61% from 2026 to 2035.",
+   "as_of": "2026-06-19",
+   "source": "Nova One Advisor"
+  },
+  {
+   "id": "E20",
+   "fact": "As of early June 2026, AI-related stocks across direct AI, AI utilities, and AI capital equipment account for approximately 49% of the entire S&P 500 by market capitalization.",
+   "as_of": "2026-06-23",
+   "source": "Substack"
+  },
+  {
+   "id": "E21",
+   "fact": "Samsung Electronics Co., Ltd. was awarded 1,082 AI patents in 2025, ranking first among organizations.",
+   "as_of": "2026-05-20",
+   "source": "Harrity Patent Analytics"
+  },
+  {
+   "id": "E22",
+   "fact": "Alphabet Inc. was awarded 1,057 AI patents in 2025, ranking second among organizations.",
+   "as_of": "2026-05-20",
+   "source": "Harrity Patent Analytics"
+  },
+  {
+   "id": "E23",
+   "fact": "Microsoft Corporation was awarded 617 AI patents in 2025, ranking fifth among organizations.",
+   "as_of": "2026-05-20",
+   "source": "Harrity Patent Analytics"
+  },
+  {
+   "id": "E24",
+   "fact": "NVIDIA Corporation was awarded 374 AI patents in 2025, ranking tenth among organizations.",
+   "as_of": "2026-05-20",
+   "source": "Harrity Patent Analytics"
+  },
+  {
+   "id": "E25",
+   "fact": "Amazon.com, Inc. was awarded 620 AI patents in 2025, ranking fourth among organizations.",
+   "as_of": "2026-05-20",
+   "source": "Harrity Patent Analytics"
+  },
+  {
+   "id": "E26",
+   "fact": "Meta Platforms, Inc. was awarded 196 AI patents in 2025, ranking 28th among organizations.",
+   "as_of": "2026-05-20",
+   "source": "Harrity Patent Analytics"
+  },
+  {
+   "id": "E27",
+   "fact": "Moderna, Inc. is advancing its mRNA platform to include infectious disease vaccines, cancer vaccines, and rare disease therapeutics, while continuing to invest in research and development.",
+   "as_of": "2026-06-26",
+   "source": "Clinical Trials Arena"
+  },
+  {
+   "id": "E28",
+   "fact": "BioNTech SE co-founders will establish an independent biotechnology company to research and develop next-generation mRNA innovations, with a management transition by the end of 2026.",
+   "as_of": "2026-03-10",
+   "source": "GLOBE NEWSWIRE"
+  },
+  {
+   "id": "E29",
+   "fact": "The global semiconductor market in 2025 was $792 billion, up 25.6% from 2024, driven by AI.",
+   "as_of": "2026-07-23",
+   "source": "Semiconductor Intelligence"
+  },
+  {
+   "id": "E30",
+   "fact": "The global semiconductor market surpassed $830 billion in 2025, marking the second consecutive year of more than 20% annual revenue growth, driven by AI demand.",
+   "as_of": "2026-03-18",
+   "source": "Omdia"
+  },
+  {
+   "id": "E31",
+   "fact": "Amazon Web Services (AWS) announced new innovations for AI agents, Amazon Bedrock AgentCore, lifecycle management, and Amazon Quick in 2026.",
+   "as_of": "2026-07-09",
+   "source": "CRN"
+  },
+  {
+   "id": "E32",
+   "fact": "Microsoft unveiled its first reasoning model, MAI-Thinking-1, at Microsoft Build 2026, a 35 billion active parameter model with a 256K context window.",
+   "as_of": "2026-06-02",
+   "source": "Microsoft Build Live blog"
+  },
+  {
+   "id": "E33",
+   "fact": "Meta AI is focused on bringing personal superintelligence to everyone, distinct from a central direction towards automating all work.",
+   "as_of": "2026-08-05",
+   "source": "Meta AI"
+  },
+  {
+   "id": "E34",
+   "fact": "Daon was granted a new patent by the US Patent and Trademark Office on July 21, 2026, for \"Methods and Systems for Authorizing Invocation of a Tool by an Autonomous Artificial Intelligence Agent.\"",
+   "as_of": "2026-08-07",
+   "source": "FinTech Global"
+  },
+  {
+   "id": "E35",
+   "fact": "The AI patent search and intelligence market is projected to reach $2.09 billion in 2026, growing at a CAGR of 19.3%.",
+   "as_of": "2026-04-30",
+   "source": "Patsnap"
+  },
+  {
+   "id": "E36",
+   "fact": "In Q4 2025, Meta's video generation tools had a combined revenue run-rate of $10 billion.",
+   "as_of": "2026-01-28",
+   "source": "About Meta"
+  },
+  {
+   "id": "E37",
+   "fact": "AI demand remains a crucial driver for the S&P 500, boosting companies like NVIDIA and Micron Technology.",
+   "as_of": "2026-08-09",
+   "source": "Forbes"
+  },
+  {
+   "id": "E38",
+   "fact": "The S&P 500's blended earnings growth rate for the second quarter of 2026 is 50.4% year-over-year.",
+   "as_of": "2026-08-09",
+   "source": "Forbes"
+  },
+  {
+   "id": "E39",
+   "fact": "As of early June 2026, 218 companies in the S&P 500 have a meaningful connection to the AI economy, accounting for $42.39 trillion in market value.",
+   "as_of": "2026-07-16",
+   "source": "BestBrokers.com"
+  },
+  {
+   "id": "E40",
+   "fact": "BigBear.ai provides AI-driven decision-intelligence and analytics software, mainly for defense.",
+   "as_of": "2026-08-04",
+   "source": "StockTitan"
+  },
+  {
+   "id": "E41",
+   "fact": "NXP Semiconductors' Trimension Ultra-Wideband powers BMW Group's Digital Key Plus and Presence Detection.",
+   "as_of": "2026-08-04",
+   "source": "StockTitan"
+  },
+  {
+   "id": "E42",
+   "fact": "The global AI software market was valued at $292.71 billion in 2025 and is expected to grow to $995.45 billion by 2030 at a CAGR of 26.7%.",
+   "as_of": "2026-07-15",
+   "source": "The Business Research Company"
+  },
+  {
+   "id": "E43",
+   "fact": "The global AI software market size was valued at USD 257.37 billion in 2025 and is projected to reach USD 1,640.51 billion by 2035, growing at a CAGR of 20.35% from 2026 to 2035.",
+   "as_of": "2026-06-19",
+   "source": "Nova One Advisor"
+  },
+  {
+   "id": "E44",
+   "fact": "AWS announced Amazon Connect Decisions, a supply chain planning and intelligence solution, as part of its expanded agentic AI offerings in 2026.",
+   "as_of": "2026-04-28",
+   "source": "AWS News Blog"
+  },
+  {
+   "id": "E45",
+   "fact": "Microsoft's Copilot+ Windows PCs, its first range of AI-equipped PCs, were unveiled in late May 2024.",
+   "as_of": "2025-11-03",
+   "source": "Nasdaq"
+  },
+  {
+   "id": "E46",
+   "fact": "Meta's AI-automated campaigns are already outperforming manually managed ones for many brands as of 2026.",
+   "as_of": "2026-03-09",
+   "source": "Meta Platforms"
+  },
+  {
+   "id": "E47",
+   "fact": "BioNTech expects to have 15 ongoing Phase 3 clinical trials in oncology by the end of 2026.",
+   "as_of": "2026-01-12",
+   "source": "BioNTech SE"
+  },
+  {
+   "id": "E48",
+   "fact": "Meta AI's video generation tools had a combined revenue run-rate of $10 billion in Q4 2025.",
+   "as_of": "2026-01-28",
+   "source": "About Meta"
+  },
+  {
+   "id": "E49",
+   "fact": "Meta AI is planning complete automation of ad creation and targeting by the year 2026.",
+   "as_of": "2025-12-10",
+   "source": "iCert Global"
+  },
+  {
+   "id": "E50",
+   "fact": "By the end of 2026, over 70% of businesses worldwide are expected to use at least one AI tool.",
+   "as_of": "2025-12-10",
+   "source": "iCert Global"
+  },
+  {
+   "id": "E51",
+   "fact": "As of early June 2026, 218 companies \u2013 more than two in every five S&P 500 constituents \u2013 have a meaningful connection to the AI economy, accounting for $42.39 trillion in market value.",
+   "as_of": "2026-07-16",
+   "source": "BestBrokers.com"
+  },
+  {
+   "id": "E52",
+   "fact": "AWS has announced a slew of new innovation for AI agents, Amazon Bedrock AgentCore, lifecycle management, Amazon Quick and so much more in 2026.",
+   "as_of": "2026-07-09",
+   "source": "CRN"
+  },
+  {
+   "id": "E53",
+   "fact": "Microsoft used its Build 2026 developer conference to announce a sweeping set of artificial intelligence products and platforms.",
+   "as_of": "2026-06-02",
+   "source": "Pulse 2.0"
+  },
+  {
+   "id": "E54",
+   "fact": "Nvidia Corporation was awarded 374 AI patents in 2025.",
+   "as_of": "2026-05-20",
+   "source": "Harrity Patent Analytics"
+  },
+  {
+   "id": "E55",
+   "fact": "Amazon.com, Inc. was awarded 620 AI patents in 2025.",
+   "as_of": "2026-05-20",
+   "source": "Harrity Patent Analytics"
+  },
+  {
+   "id": "E56",
+   "fact": "Microsoft Corporation was awarded 617 AI patents in 2025.",
+   "as_of": "2026-05-20",
+   "source": "Harrity Patent Analytics"
+  },
+  {
+   "id": "E57",
+   "fact": "Alphabet Inc. was awarded 1,057 AI patents in 2025.",
+   "as_of": "2026-05-20",
+   "source": "Harrity Patent Analytics"
+  },
+  {
+   "id": "E58",
+   "fact": "Samsung Electronics Co., Ltd. was awarded 1,082 AI patents in 2025.",
+   "as_of": "2026-05-20",
+   "source": "Harrity Patent Analytics"
+  },
+  {
+   "id": "E59",
+   "fact": "The global semiconductor market surpassed $830 billion in 2025, with AI-related technologies driving market expansion.",
+   "as_of": "2026-03-18",
+   "source": "Omdia"
+  },
+  {
+   "id": "E60",
+   "fact": "Moderna has touted the potential of its ever-expanding mRNA platform, which includes an in vivo candidate, during its annual Science Day on June 25, 2026.",
+   "as_of": "2026-06-26",
+   "source": "Clinical Trials Arena"
+  },
+  {
+   "id": "E61",
+   "fact": "The global AI in software development market size was valued at USD 1,298.9 million in 2026.",
+   "as_of": "2026-07-01",
+   "source": "Grand View Research"
+  },
+  {
+   "id": "E62",
+   "fact": "Meta Platforms is planning to fully automate advertising by the end of 2026, including generating visuals and video, writing copy, selecting audience segments, and optimizing in real-time.",
+   "as_of": "2026-03-09",
+   "source": "Meta Platforms"
+  }
+ ],
+ "unknowns": [
+  "Current index membership for major indices (e.g., S&P 500, Nasdaq 100) specifically for AI platform and software companies.",
+  "Recent corporate actions (e.g., mergers, acquisitions, spin-offs) involving AI platform and software companies in the last 6 months.",
+  "Official market milestone dates (e.g., IPOs, major index inclusions) for AI platform and software companies in the last 6 months."
+ ]
+}

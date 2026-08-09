@@ -1,0 +1,5 @@
+[P1_SENTENCE] F04: statement must be exactly one sentence (<=420 chars)
+[P1_COINFLIP] F04: p=0.55 is a sealed coin flip -- zero information by construction; take a side or drop it
+[P1_REGISTRY] F09: source 'Nova One Advisor' is not on this topic's registry allowlist (SEC EDGAR, S&P Dow Jones Indices, Nasdaq official notices, NYSE official notices...) -- resolvers must come from declared registries
+[P1_HORIZON] F09: resolves 2035-12-31 (9.4y) outside the 0.05-1.5y band
+[P1_CONTRARIAN] only 0 forecasts at p<=0.35 -- an all-momentum book has ONE correlated failure mode; take >=2 contrarian positions
