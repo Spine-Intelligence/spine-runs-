@@ -1,0 +1,92 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F11",
+   "statement": "There is a 78% chance that the U.S. Commerce Department will issue at least one additional Is-Informed Letter export control directive targeting frontier AI foundation models to foreign entities before February 2028.",
+   "probability": 0.78,
+   "numeric_baseline": {
+    "unit": "Is-Informed Letter directives issued",
+    "value": 1.0,
+    "as_of": "2026-06-12"
+   },
+   "counting_convention": {
+    "unit": "individual Is-Informed Letter directives",
+    "status": "published in the Federal Register or official Commerce Department announcements",
+    "window": "2026-08-09 to 2028-02-08",
+    "excludes": "informal advisories or press releases without legal binding effect"
+   },
+   "evidence": [
+    "E01",
+    "E02"
+   ],
+   "dynamic": "D1",
+   "resolver_witness": "E01"
+  },
+  {
+   "id": "F12",
+   "statement": "There is a 65% chance that the European Commission will officially announce a formal infringement procedure or regulatory penalty against a major U.S. foundation model provider regarding artificial intelligence compliance prior to August 2029.",
+   "probability": 0.65,
+   "numeric_baseline": {
+    "unit": "formal infringement procedures or regulatory penalties",
+    "value": 0.0,
+    "as_of": "2026-04-19"
+   },
+   "counting_convention": {
+    "unit": "formal enforcement actions",
+    "status": "notified via official European Commission press releases",
+    "window": "2026-08-09 to 2029-08-09",
+    "excludes": "preliminary inquiries or non-binding stakeholder letters"
+   },
+   "evidence": [
+    "E05",
+    "E10"
+   ],
+   "dynamic": "D1",
+   "resolver_witness": "E05"
+  },
+  {
+   "id": "F13",
+   "statement": "There is a 82% chance that the Bureau of Industry and Security will modify or expand the January 2026 case-by-case export licensing requirements for advanced semiconductor chips prior to August 2030.",
+   "probability": 0.82,
+   "numeric_baseline": {
+    "unit": "interim final or final rules modifying BIS chip licensing",
+    "value": 1.0,
+    "as_of": "2026-01-15"
+   },
+   "counting_convention": {
+    "unit": "Federal Register rule publications",
+    "status": "published in the Federal Register",
+    "window": "2026-08-09 to 2030-08-09",
+    "excludes": "guidance documents lacking amendment status"
+   },
+   "evidence": [
+    "E04",
+    "E08"
+   ],
+   "dynamic": "D1",
+   "resolver_witness": "E04"
+  },
+  {
+   "id": "F14",
+   "statement": "There is a 72% chance that the U.S. International Trade Commission will initiate a Section 332 investigation concerning foreign semiconductor supply chain dependencies before August 2031.",
+   "probability": 0.72,
+   "numeric_baseline": {
+    "unit": "active Section 332 semiconductor investigations",
+    "value": 0.0,
+    "as_of": "2026-05-21"
+   },
+   "counting_convention": {
+    "unit": "investigations",
+    "status": "published in the Federal Register by the USITC",
+    "window": "2026-08-09 to 2031-08-09",
+    "excludes": "congressional committee reports or agency white papers"
+   },
+   "evidence": [
+    "E09",
+    "E12"
+   ],
+   "dynamic": "D1",
+   "resolver_witness": "E12"
+  }
+ ]
+}

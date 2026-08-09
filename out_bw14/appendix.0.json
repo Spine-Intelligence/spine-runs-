@@ -1,0 +1,72 @@
+{
+ "F01": {
+  "reasoning": "Evidence E03 indicates that draft rules from March 2026 proposed host country matching investments for shipments exceeding 200,000 GB300 GPUs, but this remains at the draft stage. The low probability of 22% reflects the strong industry pushback (E12) against restrictive supply-chain measures. My mind would change if formal interagency consensus makes matching investments a mandatory baseline rather than a conditional proposal.",
+  "evidence": [
+   "E03: Draft U.S. export control regulations for AI chips reported in March 2026 indicated that shipments exceeding 200,000 GB300 GPUs would require host country government involvement and matching investments in American AI.",
+   "E12: On May 21, 2026, a multi-sector industry coalition petitioned the U.S. Commerce Department and USTR warning that prospective Section 232 tariffs on semiconductors risk undermining domestic innovation ecosystems."
+  ]
+ },
+ "F03": {
+  "reasoning": "Meta has chosen regulatory decoupling from the European Union market by withholding advanced multimodal Llama models due to high regulatory compliance costs (E10). While European technology spending is robust (E05), the ongoing friction under regulatory frameworks keeps the probability of re-release relatively low at 25%. My mind would change if the EU and Meta reach a formal compliance settlement or harmonization agreement.",
+  "evidence": [
+   "E05: European technology spending is projected to exceed \u20ac1.5 trillion in 2026, growing 6.3% year-on-year, with nineteen operational EuroHPC AI Factories driving sovereign localization.",
+   "E10: Meta chose regulatory decoupling from the European Union market by withholding advanced multimodal Llama models due to regulatory compliance costs."
+  ]
+ },
+ "F05": {
+  "reasoning": "The White House issued an active Section 232 proclamation on polysilicon and derivatives imports because foreign imports threaten U.S. national security (E07). Given that trade enforcement measures of this nature typically remain in place for extended periods, and industry groups are already lobbying extensively (E12), a 70% probability is assigned. My mind would change if a court order or major trade deal forces premature revocation.",
+  "evidence": [
+   "E07: On August 6, 2026, the White House issued a proclamation on adjusting imports of polysilicon and its derivatives under Section 232, finding that foreign imports threaten to impair U.S. national security.",
+   "E12: On May 21, 2026, a multi-sector industry coalition petitioned the U.S. Commerce Department and USTR warning that prospective Section 232 tariffs on semiconductors risk undermining domestic innovation ecosystems."
+  ]
+ },
+ "F06": {
+  "reasoning": "There are already nineteen operational EuroHPC AI Factories driving sovereign localization in Europe (E05), and NVIDIA has actively tripled its European AI infrastructure investments to position itself inside this sovereign envelope (E11). This strong foundational momentum supports a 65% probability of exceeding nineteen units by December 2028. My mind would change if severe capital flight or supply chain bottlenecks stall European HPC expansion.",
+  "evidence": [
+   "E05: European technology spending is projected to exceed \u20ac1.5 trillion in 2026, growing 6.3% year-on-year, with nineteen operational EuroHPC AI Factories driving sovereign localization.",
+   "E11: NVIDIA tripled its European AI infrastructure investments in late 2025 and early 2026 to position operations inside the emerging European Sovereign AI envelope."
+  ]
+ },
+ "F08": {
+  "reasoning": "The Bureau of Industry and Security established a formal final rule in January 2026 shifting H200 chip export licensing policy to case-by-case reviews requiring extensive certifications (E04), and IC designers not approved under this framework have already lost authorized status (E08). This entrenched bureaucratic mechanism justifies a high 75% probability of retention. My mind would change if a wholesale deregulation package replaces the BIS framework.",
+  "evidence": [
+   "E04: The U.S. Commerce Department's Bureau of Industry and Security (BIS) issued a final rule in January 2026 shifting H200 chip export licensing policy to a case-by-case review policy requiring extensive certifications.",
+   "E08: By April 2026, IC designers not approved under the BIS framework lost their authorized status following an interim final rule deadline affecting semiconductor supply chains."
+  ]
+ },
+ "F09": {
+  "reasoning": "The U.S. administration instituted frameworks adjusting semiconductor and equipment imports via presidential proclamation in January 2026 (E09), drawing industry pushback (E12). However, national security justifications for semiconductor controls typically endure across political cycles, yielding a moderate 32% probability of formal repeal. My mind would change if bipartisan legislation is passed explicitly mandating the rollback of Section 232 semiconductor measures.",
+  "evidence": [
+   "E09: In a presidential Proclamation on January 14, 2026, the U.S. administration instituted frameworks adjusting imports of semiconductors, semiconductor manufacturing equipment, and derivative products.",
+   "E12: On May 21, 2026, a multi-sector industry coalition petitioned the U.S. Commerce Department and USTR warning that prospective Section 232 tariffs on semiconductors risk undermining domestic innovation ecosystems."
+  ]
+ },
+ "F11": {
+  "reasoning": "The U.S. Commerce Department has already demonstrated an aggressive posture by issuing Is-Informed Letter export control directives for advanced models to foreign persons worldwide (E01), building upon foundational BIS rules (E04). This aggressive expansion of extraterritorial reach supports a 78% probability. My mind would change if international pushback forces a narrow retrenchment of cloud export rules.",
+  "evidence": [
+   "E01: On June 12, 2026, the US Commerce Department issued an Is-Informed Letter export control directive to Anthropic, requiring a license before exporting or transferring frontier models such as Mythos and Fable to foreign persons worldwide.",
+   "E04: The U.S. Commerce Department's Bureau of Industry and Security (BIS) issued a final rule in January 2026 shifting H200 chip export licensing policy to a case-by-case review policy requiring extensive certifications."
+  ]
+ },
+ "F12": {
+  "reasoning": "Meta's regulatory decoupling from Europe (E10) and robust European technology spending driven by sovereignty goals (E05) create structural trade tensions. A 45% probability accounts for the serious risk that the European Commission might deploy anti-coercion instruments against American cloud services. My mind would change if transatlantic digital trade negotiations successfully resolve cloud and AI governance disputes.",
+  "evidence": [
+   "E05: European technology spending is projected to exceed \u20ac1.5 trillion in 2026, growing 6.3% year-on-year, with nineteen operational EuroHPC AI Factories driving sovereign localization.",
+   "E10: Meta chose regulatory decoupling from the European Union market by withholding advanced multimodal Llama models due to regulatory compliance costs."
+  ]
+ },
+ "F13": {
+  "reasoning": "The active framework adjusting semiconductor and equipment imports (E09) alongside ongoing industry friction and coalitions warning of trade disruptions (E12) create an environment prone to intellectual property disputes. A 65% probability reflects the likelihood of ITC scrutiny over packaging IP. My mind would change if major industry players establish binding cross-licensing pacts that preempt trade litigation.",
+  "evidence": [
+   "E09: In a presidential Proclamation on January 14, 2026, the U.S. administration instituted frameworks adjusting imports of semiconductors, semiconductor manufacturing equipment, and derivative products.",
+   "E12: On May 21, 2026, a multi-sector industry coalition petitioned the U.S. Commerce Department and USTR warning that prospective Section 232 tariffs on semiconductors risk undermining domestic innovation ecosystems."
+  ]
+ },
+ "F14": {
+  "reasoning": "With nineteen operational EuroHPC AI Factories already established as part of strong European technology spending (E05) and NVIDIA heavily scaling up infrastructure investments in the region (E11), the infrastructure pipeline is robust. An 82% probability is assigned to surpassing thirty units given long-term European sovereign AI targets. My mind would change if severe EU budget cuts force a freeze on AI Factory deployments.",
+  "evidence": [
+   "E05: European technology spending is projected to exceed \u20ac1.5 trillion in 2026, growing 6.3% year-on-year, with nineteen operational EuroHPC AI Factories driving sovereign localization.",
+   "E11: NVIDIA tripled its European AI infrastructure investments in late 2025 and early 2026 to position operations inside the emerging European Sovereign AI envelope."
+  ]
+ }
+}

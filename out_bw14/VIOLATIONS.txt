@@ -1,0 +1,2 @@
+[P1_JUDGE] F11: judgment adjective 'distinct' inside resolution criteria -- a stranger cannot count 'distinct'
+[R_CHANGE] F12: blind-panel median 0.35 no longer favors the change -- pick a change the evidence actually supports

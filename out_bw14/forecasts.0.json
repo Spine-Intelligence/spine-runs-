@@ -1,0 +1,96 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F11",
+   "statement": "There is a 78% chance that the U.S. Commerce Department will officially expand export licensing requirements to include all foreign cloud providers operating outside allied jurisdictions before February 8, 2028.",
+   "probability": 0.78,
+   "resolution_criteria": {
+    "source": "U.S. Commerce Department Bureau of Industry and Security",
+    "metric": "Official publication of expanded export licensing rule covering foreign cloud providers",
+    "threshold": "Published in the Federal Register or official agency notices",
+    "resolution_date": "2028-02-08",
+    "baseline": {
+     "value": "0 foreign cloud providers globally mandated under comprehensive BIS Affiliates Rule tier outside allied jurisdictions",
+     "as_of": "2026-06-12"
+    },
+    "counting_convention": "unit: official Federal Register export control rule notices; status: formally enacted and published; window: between August 9, 2026 and February 8, 2028; excludes: draft notices, unadopted interagency proposals, or non-binding guidance letters."
+   },
+   "horizon_years": 1.5,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E04"
+   ],
+   "resolver_witness": "E01"
+  },
+  {
+   "id": "F12",
+   "statement": "There is a 65% chance that the European Commission will formally issue anti-coercion trade retaliatory tariffs against American cloud computing services before August 9, 2029.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "Official Journal of the European Union",
+    "metric": "Adoption and publication of an Implementing Regulation under the EU Anti-Coercion Instrument targeting digital services",
+    "threshold": "Formal enactment of retaliatory trade measures",
+    "resolution_date": "2029-08-09",
+    "baseline": {
+     "value": "0 EU anti-coercion trade retaliatory measures active against American cloud services",
+     "as_of": "2026-04-19"
+    },
+    "counting_convention": "unit: published EU Implementing Regulations; status: legally binding in force; window: between August 9, 2026 and August 9, 2029; excludes: parliamentary draft motions, non-binding resolutions, or preliminary investigative reports."
+   },
+   "horizon_years": 3.0,
+   "dynamic": "D1",
+   "evidence": [
+    "E05",
+    "E10"
+   ],
+   "resolver_witness": "E05"
+  },
+  {
+   "id": "F13",
+   "statement": "There is a 82% chance that the U.S. International Trade Commission will formally initiate a Section 337 investigation into foreign semiconductor packaging intellectual property theft before August 9, 2030.",
+   "probability": 0.82,
+   "resolution_criteria": {
+    "source": "U.S. International Trade Commission Notice of Investigation",
+    "metric": "Formal publication of a notice of investigation in the Federal Register under Section 337",
+    "threshold": "Notice published initiating an active investigation",
+    "resolution_date": "2030-08-09",
+    "baseline": {
+     "value": "0 active Section 337 investigations specific to advanced foreign semiconductor packaging IP",
+     "as_of": "2026-05-21"
+    },
+    "counting_convention": "unit: published Federal Register notices of investigation; status: officially instituted; window: between August 9, 2026 and August 9, 2030; excludes: private industry petitions, dismissed complaints, or preliminary fact-finding surveys."
+   },
+   "horizon_years": 4.0,
+   "dynamic": "D1",
+   "evidence": [
+    "E09",
+    "E12"
+   ],
+   "resolver_witness": "E09"
+  },
+  {
+   "id": "F14",
+   "statement": "There is a 70% chance that the EuroHPC Joint Undertaking will formally announce an expansion of operational AI Factories exceeding thirty units before August 9, 2031.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "EuroHPC Joint Undertaking Official Press Releases and Governing Board Decisions",
+    "metric": "Total number of officially operational EuroHPC AI Factories deployed across member states",
+    "threshold": "Greater than thirty operational units",
+    "resolution_date": "2031-08-09",
+    "baseline": {
+     "value": "19 operational EuroHPC AI Factories",
+     "as_of": "2026-04-19"
+    },
+    "counting_convention": "unit: operational AI Factory sites; status: officially inaugurated and functioning; window: between August 9, 2026 and August 9, 2031; excludes: planned funding allocations, construction-phase facilities, or unapproved candidate sites."
+   },
+   "horizon_years": 5.0,
+   "dynamic": "D1",
+   "evidence": [
+    "E05",
+    "E11"
+   ],
+   "resolver_witness": "E05"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "F01": {
+  "reasoning": "Evidence E03 indicates that draft U.S. export control rules considered mandatory host country matching investments for shipments exceeding 200,000 GB300 GPUs, but this remains a draft proposal rather than an officially enacted regulation. Dynamic D1 captures shifting regulatory policies where preliminary proposals often face industry pushback and fail to materialize into formal rules. Consequently, a 22% probability reflects this low likelihood. My mind would change if subsequent interagency texts officially confirm the retention of the matching investment threshold.",
+  "evidence": [
+   "E03: Draft U.S. export control regulations for AI chips reported in March 2026 indicated that shipments exceeding 200,000 GB300 GPUs would require host country government involvement and matching investments in American AI."
+  ]
+ },
+ "F03": {
+  "reasoning": "Evidence E10 highlights that Meta deliberately chose regulatory decoupling by withholding its advanced multimodal Llama models from the EU market due to prohibitive compliance burdens. Dynamic D3 governs corporate strategic alignment with regional tech regulations. Given ongoing compliance costs under European frameworks, a 25% probability accounts for a potential future re-release if regulatory conditions soften. My mind would change upon official announcements from Meta outlining a definitive EU market rollout schedule.",
+  "evidence": [
+   "E10: Meta chose regulatory decoupling from the European Union market by withholding advanced multimodal Llama models due to regulatory compliance costs."
+  ]
+ },
+ "F05": {
+  "reasoning": "Evidence E07 shows that the White House formally issued a Section 232 proclamation on polysilicon and derivatives imports due to national security threats. Dynamic D1 governs durable trade restriction policies, which historically remain stable across administrations once enacted. A 70% probability is warranted given the strong national security framing shielding the proclamation from early repeal. My mind would change if a federal court injunction or sudden executive revocation terminates the enforcement prematurely.",
+  "evidence": [
+   "E07: On August 6, 2026, the White House issued a proclamation on adjusting imports of polysilicon and its derivatives under Section 232, finding that foreign imports threaten to impair U.S. national security."
+  ]
+ },
+ "F06": {
+  "reasoning": "Evidence E05 notes that nineteen EuroHPC AI Factories are already operational as of early 2026, driving extensive sovereign localization across European technology spending. Dynamic D2 tracks regional technological capacity growth. With nineteen units already established and extensive funding supported by investments like NVIDIA's (E11), surpassing this count by 2028 is highly probable at 65%. My mind would change if severe EU budgetary crises force widespread cancellation or freezing of planned sovereign AI factory deployments.",
+  "evidence": [
+   "E05: European technology spending is projected to exceed \u20ac1.5 trillion in 2026, growing 6.3% year-on-year, with nineteen operational EuroHPC AI Factories driving sovereign localization.",
+   "E11: NVIDIA tripled its European AI infrastructure investments in late 2025 and early 2026 to position operations inside the emerging European Sovereign AI envelope."
+  ]
+ },
+ "F08": {
+  "reasoning": "Evidence E04 demonstrates that the BIS instituted a strict case-by-case review policy for H200 chip exports requiring comprehensive certifications, aligning with ongoing semiconductor security controls. Dynamic D1 governs export control persistence, which tends to stay restrictive amid rising geopolitical tensions. A 75% probability reflects the entrenched nature of these licensing frameworks. My mind would change if sweeping deregulation leads to a return of general license authorizations for advanced computing hardware.",
+  "evidence": [
+   "E04: The U.S. Commerce Department's Bureau of Industry and Security (BIS) issued a final rule in January 2026 shifting H200 chip export licensing policy to a case-by-case review policy requiring extensive certifications."
+  ]
+ },
+ "F09": {
+  "reasoning": "Evidence E09 and E12 detail the January 2026 Section 232 semiconductor proclamation and the concurrent industry pushback from coalitions warning against domestic innovation harm. Dynamic D1 encompasses regulatory adjustments driven by economic lobbying. A 32% probability captures the moderate possibility that intense industry pressure could compel the administration to scale back or repeal the proclamation. My mind would change if administration officials signal strong, unyielding commitment to maintaining the semiconductor tariffs indefinitely.",
+  "evidence": [
+   "E09: In a presidential Proclamation on January 14, 2026, the U.S. administration instituted frameworks adjusting imports of semiconductors, semiconductor manufacturing equipment, and derivative products.",
+   "E12: On May 21, 2026, a multi-sector industry coalition petitioned the U.S. Commerce Department and USTR warning that prospective Section 232 tariffs on semiconductors risk undermining domestic innovation ecosystems."
+  ]
+ },
+ "F11": {
+  "reasoning": "Evidence E04 and E08 establish that the BIS is aggressively tightening oversight across semiconductor supply chains and affiliates, driving strict compliance mechanisms. Dynamic D1 accounts for escalating regulatory oversight of foreign cloud infrastructure. A 65% probability reflects the current trajectory toward mandatory audits to plug security loopholes. My mind would change if enforcement is delayed or replaced entirely by voluntary self-reporting guidelines for cloud providers.",
+  "evidence": [
+   "E04: The U.S. Commerce Department's Bureau of Industry and Security (BIS) issued a final rule in January 2026 shifting H200 chip export licensing policy to a case-by-case review policy requiring extensive certifications.",
+   "E08: By April 2026, IC designers not approved under the BIS framework lost their authorized status following an interim final rule deadline affecting semiconductor supply chains."
+  ]
+ },
+ "F12": {
+  "reasoning": "Evidence E05 and E11 highlight the rapid expansion of European Sovereign AI infrastructure and EuroHPC AI Factories, creating a fragmented security landscape that the EU seeks to unify. Dynamic D1 covers regulatory harmonization initiatives by regional blocs. A 68% probability reflects strong Brussels motivations to impose binding security standards across these localized hubs. My mind would change if member states successfully block centralized harmonization directives in favor of national autonomy.",
+  "evidence": [
+   "E05: European technology spending is projected to exceed \u20ac1.5 trillion in 2026, growing 6.3% year-on-year, with nineteen operational EuroHPC AI Factories driving sovereign localization.",
+   "E11: NVIDIA tripled its European AI infrastructure investments in late 2025 and early 2026 to position operations inside the emerging European Sovereign AI envelope."
+  ]
+ },
+ "F13": {
+  "reasoning": "Evidence E09 and E12 highlight ongoing trade tensions and industry coalition warnings regarding semiconductor dependencies and prospective Section 232 tariffs. Dynamic D1 tracks investigative trade actions initiated by U.S. agencies in response to supply chain dependencies. A 40% probability represents a substantial chance of a Section 332 investigation given rising protectionist pressures. My mind would change if trade representatives publicly state they are foregoing sector-wide dependency investigations.",
+  "evidence": [
+   "E09: In a presidential Proclamation on January 14, 2026, the U.S. administration instituted frameworks adjusting imports of semiconductors, semiconductor manufacturing equipment, and derivative products.",
+   "E12: On May 21, 2026, a multi-sector industry coalition petitioned the U.S. Commerce Department and USTR warning that prospective Section 232 tariffs on semiconductors risk undermining domestic innovation ecosystems."
+  ]
+ },
+ "F14": {
+  "reasoning": "Evidence E01 and E02 demonstrate that the Commerce Department has actively expanded Is-Informed export controls directly to frontier foundation model developers like Anthropic. Dynamic D1 captures the systemic expansion of export controls to frontier AI. A 70% probability is assigned because widening these rules to all models exceeding 10^26 FLOPs aligns with stated U.S. national security containment strategy. My mind would change if legal challenges successfully invalidate the statutory basis of Is-Informed model controls.",
+  "evidence": [
+   "E01: On June 12, 2026, the US Commerce Department issued an Is-Informed Letter export control directive to Anthropic, requiring a license before exporting or transferring frontier models such as Mythos and Fable to foreign persons worldwide.",
+   "E02: On June 26, 2026, U.S. Commerce Secretary Howard Lutnick issued a follow-up directive exempting certain trusted partners and foreign national employees from the license requirements applicable to the Mythos 5 model."
+  ]
+ }
+}

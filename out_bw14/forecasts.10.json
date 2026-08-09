@@ -1,0 +1,96 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F11",
+   "statement": "There is a 78% chance that the U.S. Commerce Department will officially institute mandatory quarterly supply chain audits for all foreign cloud providers operating under BIS Affiliates Rule compliance requirements before January 2027.",
+   "probability": 0.78,
+   "resolution_criteria": {
+    "source": "U.S. Department of Commerce / Bureau of Industry and Security",
+    "metric": "Official publication of mandatory quarterly audit regulations for foreign cloud affiliates",
+    "threshold": "Formal publication in the Federal Register or official BIS administrative update",
+    "resolution_date": "2027-01-01",
+    "baseline": {
+     "value": "Zero mandatory quarterly supply chain audits enforced as an across-the-board rule",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "unit: administrative rule; status: officially enacted and published; window: prior to January 2027; excludes: voluntary guidelines or draft proposals not finalized."
+   },
+   "horizon_years": 0.4,
+   "dynamic": "D1",
+   "evidence": [
+    "E04",
+    "E08"
+   ],
+   "resolver_witness": "E04"
+  },
+  {
+   "id": "F12",
+   "statement": "There is a 68% chance that the European Commission will formally issue a binding harmonization directive requiring all EuroHPC AI Factories to adopt standardized sovereign security protocols prior to February 2028.",
+   "probability": 0.68,
+   "resolution_criteria": {
+    "source": "European Commission / EuroHPC Joint Undertaking",
+    "metric": "Official adoption of a binding harmonization directive for AI Factory security protocols",
+    "threshold": "Formal legal adoption and publication in the Official Journal of the European Union",
+    "resolution_date": "2028-02-01",
+    "baseline": {
+     "value": "Decentralized security protocols managed independently by individual EuroHPC sites",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "unit: binding European directive; status: formally adopted; window: prior to February 2028; excludes: non-binding recommendations, working group whitepapers, or draft proposals."
+   },
+   "horizon_years": 1.5,
+   "dynamic": "D1",
+   "evidence": [
+    "E05",
+    "E11"
+   ],
+   "resolver_witness": "E05"
+  },
+  {
+   "id": "F13",
+   "statement": "There is a 72% chance that the U.S. International Trade Commission will initiate a formal Section 332 investigation into foreign cloud service providers and semiconductor import dependencies before December 2028.",
+   "probability": 0.72,
+   "resolution_criteria": {
+    "source": "United States International Trade Commission (USITC)",
+    "metric": "Formal initiation of a Section 332 investigation published in the Federal Register",
+    "threshold": "Official notice of investigation published by USITC",
+    "resolution_date": "2028-12-01",
+    "baseline": {
+     "value": "No active comprehensive Section 332 investigation specifically targeting foreign cloud providers and semiconductor dependencies combined",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "unit: formal investigation notice; status: initiated and published; window: prior to December 2028; excludes: preliminary staff inquiries or congressional hearing requests without formal commission initiation."
+   },
+   "horizon_years": 2.3,
+   "dynamic": "D1",
+   "evidence": [
+    "E09",
+    "E12"
+   ],
+   "resolver_witness": "E09"
+  },
+  {
+   "id": "F14",
+   "statement": "There is a 62% chance that the U.S. Commerce Department will officially expand Is-Informed export licensing requirements to include all non-U.S. developers training foundation models exceeding 10^26 FLOPs before June 2029.",
+   "probability": 0.62,
+   "resolution_criteria": {
+    "source": "U.S. Department of Commerce / Bureau of Industry and Security",
+    "metric": "Official issuance of Is-Informed export control directives covering global training runs above threshold",
+    "threshold": "Formal publication or direct administrative notification of expanded export control scope",
+    "resolution_date": "2029-06-01",
+    "baseline": {
+     "value": "Export controls on foundation models targeted selectively at specific named entities like Anthropic",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "unit: administrative export control directive; status: officially issued; window: prior to June 2029; excludes: voluntary industry safety pacts or unbinding agency guidance memos."
+   },
+   "horizon_years": 2.8,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E02"
+   ],
+   "resolver_witness": "E01"
+  }
+ ]
+}

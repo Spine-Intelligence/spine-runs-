@@ -1,0 +1,12 @@
+[P1_JUDGE] F11: judgment adjective 'distinct' inside resolution criteria -- a stranger cannot count 'distinct'
+[P1_BASELINE] F11: resolution_criteria.baseline missing -- quote the metric's CURRENT published value (value + as_of); if you cannot quote it, the metric does not exist and the forecast cannot resolve
+[P1_CONVENTION] F11: counting_convention missing/thin -- use the form 'unit: ...; status: ...; window: ...; excludes: ...' (the excludes clause is mandatory)
+[P1_VAGUE] F12: vague term 'major' -- the challenge explicitly rejects this
+[P1_BASELINE] F12: resolution_criteria.baseline missing -- quote the metric's CURRENT published value (value + as_of); if you cannot quote it, the metric does not exist and the forecast cannot resolve
+[P1_CONVENTION] F12: counting_convention missing/thin -- use the form 'unit: ...; status: ...; window: ...; excludes: ...' (the excludes clause is mandatory)
+[P1_BASELINE] F13: resolution_criteria.baseline missing -- quote the metric's CURRENT published value (value + as_of); if you cannot quote it, the metric does not exist and the forecast cannot resolve
+[P1_CONVENTION] F13: counting_convention missing/thin -- use the form 'unit: ...; status: ...; window: ...; excludes: ...' (the excludes clause is mandatory)
+[P1_JUDGE] F14: judgment adjective 'distinct' inside resolution criteria -- a stranger cannot count 'distinct'
+[P1_BASELINE] F14: resolution_criteria.baseline missing -- quote the metric's CURRENT published value (value + as_of); if you cannot quote it, the metric does not exist and the forecast cannot resolve
+[P1_CONVENTION] F14: counting_convention missing/thin -- use the form 'unit: ...; status: ...; window: ...; excludes: ...' (the excludes clause is mandatory)
+[P1_EVID_CONC] evidence E05 underwrites 4 forecasts -- one source carrying the book is a correlated failure mode (max 3)

@@ -1,0 +1,50 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F11",
+   "statement": "There is a 78% chance that the U.S. Commerce Department will issue at least one additional Is-Informed Letter restricting frontier model transfers to foreign persons before August 2028.",
+   "probability": 0.78,
+   "resolution_criteria": {
+    "source": "Mayer Brown / US Commerce Department",
+    "metric": "count of Is-Informed Letters issued restricting frontier model transfers",
+    "threshold": ">= 1",
+    "resolution_date": "2028-06-01",
+    "baseline": {
+     "value": "1 Is-Informed Letter",
+     "as_of": "2026-06-12"
+    },
+    "counting_convention": "unit: Is-Informed Letters; status: officially published by the Commerce Department; window: between June 2026 and June 2028; excludes: routine administrative guidance or advisory opinions."
+   },
+   "horizon_years": 1.98,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E02"
+   ],
+   "resolver_witness": "E01"
+  },
+  {
+   "id": "F13",
+   "statement": "There is a 68% chance that the U.S. Bureau of Industry and Security will formally revoke the authorized status of at least five additional IC designers under interim final rules before August 2028.",
+   "probability": 0.68,
+   "resolution_criteria": {
+    "source": "CES Intelligence Regulatory Brief / BIS",
+    "metric": "count of IC designers losing authorized status",
+    "threshold": ">= 5",
+    "resolution_date": "2028-06-01",
+    "baseline": {
+     "value": "unspecified group of designers",
+     "as_of": "2026-04-13"
+    },
+    "counting_convention": "unit: IC designers; status: formally revoked status under BIS interim final rules; window: between April 2026 and June 2028; excludes: voluntary withdrawals."
+   },
+   "horizon_years": 1.98,
+   "dynamic": "D1",
+   "evidence": [
+    "E04",
+    "E08"
+   ],
+   "resolver_witness": "E08"
+  }
+ ]
+}

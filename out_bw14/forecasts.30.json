@@ -1,0 +1,27 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F13",
+   "statement": "There is a 75% chance that the U.S. Commerce Department will officially lower the licensing threshold for foreign transfers of frontier AI models from the current 100,000 active user account level to a stricter 25,000 user account limit before August 2028.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "Mayer Brown / US Commerce Department",
+    "metric": "frontier AI model licensing user threshold",
+    "threshold": "25000 active user accounts",
+    "resolution_date": "2028-08-01",
+    "baseline": {
+     "value": "100000 active user accounts",
+     "as_of": "2026-06-12"
+    },
+    "counting_convention": "unit: active user accounts; status: officially enacted export control requirement; window: through August 2028; excludes: domestic enterprise deployments and internal testing accounts."
+   },
+   "horizon_years": 2.0,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E02"
+   ],
+   "resolver_witness": "E01"
+  }
+ ]
+}
