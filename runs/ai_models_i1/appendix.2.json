@@ -1,0 +1,72 @@
+{
+ "F01": {
+  "reasoning": "The forecast anticipates Anthropic's Claude Fable 5 achieving over 98.5% accuracy on ARC-AGI-1. Evidence {{E12}} shows Claude Fable 5 achieved 98.5% on ARC-AGI-1. Given the high score and Claude Fable 5's strong performance, a probability of 0.85 is assigned, reflecting a slight margin for improvement or variability. A higher score on ARC-AGI-1, such as 97.5% by Claude Opus 5, would increase certainty; conversely, a score below 98.5% would decrease it.",
+  "evidence": [
+   "E12",
+   "E05: On the official ARC Prize leaderboard, Anthropic's Claude Opus 5 scores 97.5% on ARC-AGI-1, 90.4% on ARC-AGI-2"
+  ]
+ },
+ "F02": {
+  "reasoning": "This forecast predicts OpenAI's GPT-5.6 Sol exceeding 83.00% accuracy on FrontierMath v2 Tier 4. Evidence {{E02}} states GPT-5.6 Sol achieved 83.00% on this benchmark. The probability of 0.65 reflects the current score being close to the target, with potential for slight improvement given the model's leading position. Discovering a more recent, higher score for GPT-5.6 Sol on this tier or confirmation of further optimizations would increase this probability.",
+  "evidence": [
+   "E02",
+   "E11"
+  ]
+ },
+ "F03": {
+  "reasoning": "The forecast suggests xAI's Grok 4.5 will reach 0.32% accuracy on ARC-AGI-3. Evidence {{E07}} shows Grok 4.5 achieved 0.32% on ARC-AGI-3. The low probability of 0.15 is due to the extremely low baseline score provided, indicating a substantial improvement is needed. If Grok 4.5 demonstrated significantly higher scores on similar complex reasoning tasks, or if ARC-AGI-3 proved less challenging than anticipated, this probability could rise.",
+  "evidence": [
+   "E05",
+   "E07"
+  ]
+ },
+ "F04": {
+  "reasoning": "This forecast predicts Google's Gemini 3.6 Flash scoring below 60.4% on ARC-AGI-2. Evidence {{E06}} indicates Gemini 3.6 Flash achieved 60.4% on ARC-AGI-2. The high probability of 0.75 is strongly supported by this existing data. Should new benchmarks show Gemini 3.6 Flash significantly exceeding 60.4%, or if the evaluation criteria for ARC-AGI-2 were found to be less stringent, this probability would decrease.",
+  "evidence": [
+   "E06",
+   "E09"
+  ]
+ },
+ "F05": {
+  "reasoning": "The forecast posits DeepSeek's DeepSeek V4 Flash achieving 65.0% or higher on ARC-AGI-2. Evidence {{E09}} shows DeepSeek V4 Flash scoring 61.4% on ARC-AGI-2. This score is below the 65.0% threshold, leading to a low probability of 0.35. If further evidence emerged demonstrating significant improvements in DeepSeek V4 Flash's performance on this benchmark, or if the stated score was an outlier, this probability could increase.",
+  "evidence": [
+   "E06",
+   "E09"
+  ]
+ },
+ "F06": {
+  "reasoning": "This forecast anticipates Thinking Machines' Inkling Small maintaining a cost per task below $0.233 on ARC-AGI-2 at its xHigh reasoning setting. Evidence {{E10}} states Inkling Small achieved 40.1% on ARC-AGI-2 at $0.233 per task. The probability of 0.75 is high because the provided cost per task in the evidence meets the forecast's condition. A change in this probability would require evidence showing an increase in the cost per task beyond $0.233 for the xHigh setting on ARC-AGI-2.",
+  "evidence": [
+   "E04",
+   "E10"
+  ]
+ },
+ "F07": {
+  "reasoning": "The forecast predicts OpenAI's GPT-5.6 Luna scoring below 60.0% on ARC-AGI-2. Evidence {{E04}} shows GPT-5.6 Luna scoring 59.6% on ARC-AGI-2. This score is indeed below 60.0%, supporting the high probability of 0.7. If newer, higher scores for GPT-5.6 Luna on ARC-AGI-2 emerge, or if the benchmark itself is re-evaluated, this probability would decrease.",
+  "evidence": [
+   "E04",
+   "E09"
+  ]
+ },
+ "F08": {
+  "reasoning": "This forecast expects Moonshot AI's Kimi K3 to score above 94.5% on ARC-AGI-2. Evidence {{E08}} states Kimi K3 scored 60.4% on ARC-AGI-2. This score is below the target of 94.5%, resulting in a low probability of 0.25. If new data shows Kimi K3 achieving significantly higher scores on ARC-AGI-2 or similar benchmarks, this probability would increase.",
+  "evidence": [
+   "E08",
+   "E12"
+  ]
+ },
+ "F09": {
+  "reasoning": "The forecast predicts the cost per task for OpenAI's GPT-5.6 Luna on ARC-AGI-1 dropping below $0.07. Evidence {{E03}} indicates that GPT-5.6 Luna achieved 90.7% accuracy at a cost of $0.07 per task on ARC-AGI-1. The probability of 0.25 is low because the current cost is equal to, not below, the stated threshold. If the cost were demonstrably lower than $0.07, this probability would increase significantly.",
+  "evidence": [
+   "E03",
+   "E04"
+  ]
+ },
+ "F10": {
+  "reasoning": "This forecast suggests Anthropic's Claude Opus 5 will score 35.0% or higher on ARC-AGI-3. Evidence {{E05}} shows Claude Opus 5 scored 30.16% on ARC-AGI-3. This score is below the 35.0% threshold, resulting in a probability of 0.7. If future evaluations or a re-calibration of the benchmark indicated a higher score for Claude Opus 5 on ARC-AGI-3, this probability would increase.",
+  "evidence": [
+   "E05",
+   "E07"
+  ]
+ }
+}

@@ -1,0 +1,224 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "Anthropic's Claude Fable 5 will exceed 99.0% accuracy on ARC-AGI-1.",
+   "probability": 0.52,
+   "resolution_criteria": {
+    "source": "ARC Prize leaderboard",
+    "metric": "ARC-AGI-1 accuracy",
+    "threshold": "99.0%",
+    "resolution_date": "2027-01-31",
+    "baseline": {
+     "value": "98.5%",
+     "as_of": "2026-06-09"
+    },
+    "counting_convention": "highest score published on the leaderboard snapshot of the resolution date; ties broken by earlier resolution date; rounding to nearest tenth of a percent"
+   },
+   "horizon_years": 0.49,
+   "dynamic": "D2",
+   "evidence": [
+    "E12",
+    "E05"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "OpenAI's GPT-5.6 Sol will achieve over 85.0% accuracy on FrontierMath v2 Tier 4.",
+   "probability": 0.54,
+   "resolution_criteria": {
+    "source": "Epoch AI",
+    "metric": "FrontierMath v2 Tier 4 accuracy",
+    "threshold": "85.0%",
+    "resolution_date": "2027-01-31",
+    "baseline": {
+     "value": "83.00%",
+     "as_of": "2026-08-07"
+    },
+    "counting_convention": "highest score published on the Epoch AI leaderboard snapshot of the resolution date; ties broken by earlier resolution date; rounding to nearest tenth of a percent"
+   },
+   "horizon_years": 0.49,
+   "dynamic": "D1",
+   "evidence": [
+    "E02",
+    "E11"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "xAI's Grok 4.5 will reach 1.0% accuracy on ARC-AGI-3.",
+   "probability": 0.28,
+   "resolution_criteria": {
+    "source": "ARC Prize leaderboard",
+    "metric": "ARC-AGI-3 accuracy",
+    "threshold": "1.0%",
+    "resolution_date": "2027-01-31",
+    "baseline": {
+     "value": "0.32%",
+     "as_of": "2026-07-16"
+    },
+    "counting_convention": "highest score published on the leaderboard snapshot of the resolution date; ties broken by earlier resolution date; rounding to nearest tenth of a percent"
+   },
+   "horizon_years": 0.49,
+   "dynamic": "D3",
+   "evidence": [
+    "E07",
+    "E05"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "Google's Gemini 3.6 Flash will score below 65.0% on ARC-AGI-2.",
+   "probability": 0.56,
+   "resolution_criteria": {
+    "source": "ARC Prize leaderboard",
+    "metric": "ARC-AGI-2 accuracy",
+    "threshold": "65.0%",
+    "resolution_date": "2026-11-30",
+    "baseline": {
+     "value": "60.4%",
+     "as_of": "2026-07-21"
+    },
+    "counting_convention": "highest score published on the leaderboard snapshot of the resolution date; ties broken by earlier resolution date; rounding to nearest tenth of a percent"
+   },
+   "horizon_years": 0.27,
+   "dynamic": "D2",
+   "evidence": [
+    "E06",
+    "E09"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "DeepSeek's DeepSeek V4 Flash will achieve 65.0% or higher on ARC-AGI-2.",
+   "probability": 0.47,
+   "resolution_criteria": {
+    "source": "ARC Prize leaderboard",
+    "metric": "ARC-AGI-2 accuracy",
+    "threshold": "65.0%",
+    "resolution_date": "2026-11-30",
+    "baseline": {
+     "value": "61.4%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "highest score published on the leaderboard snapshot of the resolution date; ties broken by earlier resolution date; rounding to nearest tenth of a percent"
+   },
+   "horizon_years": 0.27,
+   "dynamic": "D2",
+   "evidence": [
+    "E09",
+    "E06"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "Thinking Machines' Inkling Small will maintain a cost per task below $0.300 on ARC-AGI-2 at its xHigh reasoning setting.",
+   "probability": 0.48,
+   "resolution_criteria": {
+    "source": "ARC Prize leaderboard",
+    "metric": "cost per task",
+    "threshold": "0.300",
+    "resolution_date": "2027-02-07",
+    "baseline": {
+     "value": "$0.233",
+     "as_of": "2026-07-30"
+    },
+    "counting_convention": "average cost per task reported on the leaderboard snapshot of the resolution date; ties broken by earlier resolution date; rounded to three decimal places"
+   },
+   "horizon_years": 0.51,
+   "dynamic": "D1",
+   "evidence": [
+    "E10",
+    "E04"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "OpenAI's GPT-5.6 Luna will score below 60.0% on ARC-AGI-2.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "ARC Prize leaderboard",
+    "metric": "ARC-AGI-2 accuracy",
+    "threshold": "60.0%",
+    "resolution_date": "2026-11-30",
+    "baseline": {
+     "value": "59.6%",
+     "as_of": "2026-07-30"
+    },
+    "counting_convention": "highest score published on the leaderboard snapshot of the resolution date; ties broken by earlier resolution date; rounding to nearest tenth of a percent"
+   },
+   "horizon_years": 0.27,
+   "dynamic": "D2",
+   "evidence": [
+    "E04",
+    "E09"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "Moonshot AI's Kimi K3 will score above 70.0% on ARC-AGI-2.",
+   "probability": 0.51,
+   "resolution_criteria": {
+    "source": "ARC Prize leaderboard",
+    "metric": "ARC-AGI-2 accuracy",
+    "threshold": "70.0%",
+    "resolution_date": "2027-01-31",
+    "baseline": {
+     "value": "60.4%",
+     "as_of": "2026-07-16"
+    },
+    "counting_convention": "highest score published on the leaderboard snapshot of the resolution date; ties broken by earlier resolution date; rounding to nearest tenth of a percent"
+   },
+   "horizon_years": 0.49,
+   "dynamic": "D1",
+   "evidence": [
+    "E08",
+    "E12"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "The cost per task for OpenAI's GPT-5.6 Luna on ARC-AGI-1 will drop below $0.05.",
+   "probability": 0.46,
+   "resolution_criteria": {
+    "source": "ARC Prize leaderboard",
+    "metric": "cost per task",
+    "threshold": "0.05",
+    "resolution_date": "2027-02-07",
+    "baseline": {
+     "value": "$0.07",
+     "as_of": "2026-07-30"
+    },
+    "counting_convention": "average cost per task reported on the leaderboard snapshot of the resolution date; ties broken by earlier resolution date; rounded to two decimal places"
+   },
+   "horizon_years": 0.51,
+   "dynamic": "D2",
+   "evidence": [
+    "E03",
+    "E04"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "Anthropic's Claude Opus 5 will score 35.0% or higher on ARC-AGI-3.",
+   "probability": 0.53,
+   "resolution_criteria": {
+    "source": "ARC Prize leaderboard",
+    "metric": "ARC-AGI-3 accuracy",
+    "threshold": "35.0%",
+    "resolution_date": "2027-01-31",
+    "baseline": {
+     "value": "30.16%",
+     "as_of": "2026-07-24"
+    },
+    "counting_convention": "highest score published on the leaderboard snapshot of the resolution date; ties broken by earlier resolution date; rounding to nearest tenth of a percent"
+   },
+   "horizon_years": 0.49,
+   "dynamic": "D3",
+   "evidence": [
+    "E05",
+    "E07"
+   ]
+  }
+ ]
+}

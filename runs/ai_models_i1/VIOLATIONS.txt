@@ -1,0 +1,7 @@
+[P1_SHORT] no short-horizon forecast (<= 0.1y) -- the challenge demands both timeframes
+[P3_NUM_UNGROUNDED] F06: a number (mantissa 4.010) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F08: a number (mantissa 9.450) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F09: a number (mantissa 9.070) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_RAW_NUMERIC] F05: raw numeric '65.0%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F07: raw numeric '60.0%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F10: raw numeric '35.0%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
