@@ -1,0 +1,165 @@
+{
+ "analyses": [
+  {
+   "entity": "JPMorgan Chase & Co. (JPM)",
+   "current_state": "SEC EDGAR XBRL (JPM): quarterly revenue $57.347B for fiscal quarter ending 2026-06-30, filed 2026-08-06 (10-Q, tag RevenuesNetOfInterestExpense)",
+   "reference_class": "Filed quarterly revenue trail -- 2026-06-30: $57.35B, 2026-03-31: $49.84B, 2025-09-30: $46.43B, 2025-06-30: $44.91B, 2025-03-31: $45.31B, 2024-09-30: $42.65B",
+   "mechanisms": "Driven by net interest income dynamics and trading/fee cycle activity. Upside is supported by robust investment banking fees and record asset scale ($5.0 trillion in assets as of June 30, 2026). Downside risks stem from potential shifts in the rate environment compressing net interest margins or elevated credit costs in consumer portfolios.",
+   "scenarios": [
+    "JPM maintains revenue expansion above $55B per quarter driven by sustained capital markets activity and high asset yields.",
+    "Revenue normalizes toward the $48B-$52B range as trading/fee cycle tailwinds moderate and credit provisioning rises."
+   ],
+   "key_uncertainty": "The trajectory of net interest margin compression versus trading revenue durability over the next two fiscal quarters.",
+   "evidence": [
+    "E01",
+    "E02",
+    "E03",
+    "E41",
+    "E51"
+   ]
+  },
+  {
+   "entity": "Bank of America Corporation (BAC)",
+   "current_state": "SEC EDGAR XBRL (BAC, BofA Finance LLC): quarterly revenue $33.832B for fiscal quarter ending 2026-06-30, filed 2026-07-31 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "reference_class": "Filed quarterly revenue trail -- 2026-06-30: $33.83B, 2026-03-31: $33.36B, 2025-09-30: $35.37B, 2025-06-30: $34.87B, 2025-03-31: $34.07B, 2024-09-30: $37.49B",
+   "mechanisms": "Driven by interest and dividend income operating trends and balance sheet positioning ($3.50 trillion in total assets at Q2 2026 quarter-end). Upside pressure relies on loan growth acceleration and favorable product mix shifts. Downside pressure comes from lower interest-and-dividend income yields and year-over-year quarterly revenue contraction (-3.0%).",
+   "scenarios": [
+    "BAC revenue rebounds past $35B per quarter as loan demand strengthens and net interest income stabilizes.",
+    "Revenue hovers near the $33B-$34B band due to ongoing net interest margin pressures and subdued deposit betas."
+   ],
+   "key_uncertainty": "The pace at which asset yields adjust to the prevailing rate environment relative to funding cost pressures.",
+   "evidence": [
+    "E04",
+    "E05",
+    "E06",
+    "E32",
+    "E42"
+   ]
+  },
+  {
+   "entity": "Wells Fargo & Company (WFC)",
+   "current_state": "SEC EDGAR XBRL (WFC, WELLS        FARGO & COMPANY/MN): quarterly revenue $23.284B for fiscal quarter ending 2026-06-30, filed 2026-07-28 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "reference_class": "Filed quarterly revenue trail -- 2026-06-30: $23.28B, 2026-03-31: $22.45B, 2025-09-30: $22.42B, 2025-06-30: $21.32B, 2025-03-31: $20.97B, 2024-09-30: $23.00B",
+   "mechanisms": "Driven by interest and dividend income operating performance across its roughly $2.2 trillion asset base. Upside is governed by fee income recovery and effective asset-liability management under the current rate environment. Downside is constrained by regulatory asset caps and potential credit costs.",
+   "scenarios": [
+    "WFC sustains quarterly revenue above $23B supported by stable net interest income and fee growth.",
+    "Revenue recedes toward the $21B-$22B range if asset caps restrict balance sheet expansion and credit provisions increase."
+   ],
+   "key_uncertainty": "The potential modification or lifting of regulatory asset caps and their direct impact on balance sheet scaling.",
+   "evidence": [
+    "E07",
+    "E08",
+    "E09",
+    "E33",
+    "E43"
+   ]
+  },
+  {
+   "entity": "U.S. Bancorp (USB)",
+   "current_state": "SEC EDGAR XBRL (USB, US BANCORP \\DE\\): quarterly revenue $7.712B for fiscal quarter ending 2026-06-30, filed 2026-08-06 (10-Q, tag Revenues)",
+   "reference_class": "Filed quarterly revenue trail -- 2026-06-30: $7.71B, 2026-03-31: $7.29B, 2025-09-30: $7.33B, 2025-06-30: $7.00B, 2025-03-31: $6.96B, 2024-09-30: $6.86B",
+   "mechanisms": "Driven by core banking revenues and regional deposit/loan mix dynamics. Upside is propelled by +10.1% year-over-year quarterly revenue growth and record net revenue achievement. Downside risk stems from regional credit cost spikes and deposit competition impacting net interest margins.",
+   "scenarios": [
+    "USB continues sequential revenue gains above $7.5B per quarter through disciplined product mix execution.",
+    "Revenue plateaus in the $7.0B-$7.4B range as regional funding costs offset asset yield improvements."
+   ],
+   "key_uncertainty": "Regional commercial real estate loan performance and its influence on provisioning and net revenue retention.",
+   "evidence": [
+    "E13",
+    "E14",
+    "E15",
+    "E35"
+   ]
+  },
+  {
+   "entity": "KeyCorp (KEY)",
+   "current_state": "SEC EDGAR XBRL (KEY, KeyCorp): quarterly revenue $2.059B for fiscal quarter ending 2026-06-30, filed 2026-08-04 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "reference_class": "Filed quarterly revenue trail -- 2026-06-30: $2.06B, 2026-03-31: $2.00B, 2025-09-30: $2.13B, 2025-06-30: $2.11B, 2025-03-31: $2.07B, 2024-09-30: $2.17B",
+   "mechanisms": "Driven by interest and dividend income operating structures and capital management actions. Upside is linked to taxable-equivalent revenue growth and net income expansion. Downside is tied to slight year-over-year quarterly revenue contraction (-2.3%) and sensitivity to the rate environment.",
+   "scenarios": [
+    "KEY pushes quarterly revenue consistently above $2.1B as capital actions and loan repricing take full effect.",
+    "Revenue oscillates around the $2.0B mark if net interest margin compression persists."
+   ],
+   "key_uncertainty": "The net impact of recent capital-raising and balance sheet restructuring on future net interest income.",
+   "evidence": [
+    "E16",
+    "E17",
+    "E18",
+    "E36",
+    "E46"
+   ]
+  },
+  {
+   "entity": "Fifth Third Bancorp (FITB)",
+   "current_state": "SEC EDGAR XBRL (FITB, Fifth Third Bancorp): quarterly revenue $3.372B for fiscal quarter ending 2026-06-30, filed 2026-08-04 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "reference_class": "Filed quarterly revenue trail -- 2026-06-30: $3.37B, 2026-03-31: $2.97B, 2025-09-30: $2.52B, 2025-06-30: $2.48B, 2025-03-31: $2.43B, 2024-09-30: $2.67B",
+   "mechanisms": "Driven by interest and dividend income operating performance, reflecting aggressive year-over-year quarterly revenue growth (+35.7%). Upside is driven by robust commercial loan expansion and product mix optimization. Downside risks involve credit cost pressures and sustainability of rapid growth rates.",
+   "scenarios": [
+    "FITB maintains revenue above $3.2B per quarter on strong commercial banking demand and fee generation.",
+    "Revenue normalizes toward $2.8B-$3.1B as initial expansion tailwinds moderate."
+   ],
+   "key_uncertainty": "The durability of high loan growth rates against broader regional economic slowing.",
+   "evidence": [
+    "E19",
+    "E20",
+    "E21",
+    "E37",
+    "E47"
+   ]
+  },
+  {
+   "entity": "Regions Financial Corporation (RF)",
+   "current_state": "SEC EDGAR XBRL (RF, Regions Financial Corporation): quarterly revenue $1.748B for fiscal quarter ending 2026-06-30, filed 2026-08-06 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "reference_class": "Filed quarterly revenue trail -- 2026-06-30: $1.75B, 2026-03-31: $1.70B, 2025-09-30: $1.80B, 2025-06-30: $1.78B, 2025-03-31: $1.73B, 2024-09-30: $1.82B",
+   "mechanisms": "Driven by interest and dividend income operating results and regional deposit pricing dynamics. Upside potential relies on fee income diversification and net interest margin stabilization. Downside is constrained by modest year-over-year quarterly revenue contraction (-2.0%).",
+   "scenarios": [
+    "RF revenue recovers toward the $1.8B level as deposit beta pressures ease.",
+    "Revenue remains range-bound between $1.70B and $1.75B under continued rate environment headwinds."
+   ],
+   "key_uncertainty": "Deposit cost stabilization speed relative to asset re-pricing schedules.",
+   "evidence": [
+    "E22",
+    "E23",
+    "E24",
+    "E38",
+    "E48"
+   ]
+  },
+  {
+   "entity": "The Bank of New York Mellon Corporation (BK)",
+   "current_state": "SEC EDGAR XBRL (BK, Bank of New York Mellon Corp): quarterly revenue $5.940B for fiscal quarter ending 2026-06-30, filed 2026-07-31 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "reference_class": "Filed quarterly revenue trail -- 2026-06-30: $5.94B, 2026-03-31: $5.82B, 2025-09-30: $6.59B, 2025-06-30: $6.60B, 2025-03-31: $6.12B, 2024-12-31: $6.47B",
+   "mechanisms": "Driven by interest and dividend income operating performance and asset servicing fee cycles. Upside is supported by asset under custody/administration growth and higher fee-based revenues. Downside reflects year-over-year quarterly revenue contraction (-10.0%) driven by shifting interest income components.",
+   "scenarios": [
+    "BK revenue trends back toward the $6.2B-$6.5B band as market asset values and custody fees expand.",
+    "Revenue stays near $5.7B-$5.9B if net interest revenue components continue to contract year-over-year."
+   ],
+   "key_uncertainty": "Fee revenue growth velocity versus net interest income compression in the custody banking segment.",
+   "evidence": [
+    "E25",
+    "E26",
+    "E27",
+    "E39",
+    "E49"
+   ]
+  },
+  {
+   "entity": "Morgan Stanley (MS)",
+   "current_state": "SEC EDGAR XBRL (MS, MORGAN STANLEY): quarterly revenue $21.348B for fiscal quarter ending 2026-06-30, filed 2026-08-04 (10-Q, tag RevenuesNetOfInterestExpense)",
+   "reference_class": "Filed quarterly revenue trail -- 2026-06-30: $21.35B, 2026-03-31: $20.58B, 2025-09-30: $18.22B, 2025-06-30: $16.79B, 2025-03-31: $17.74B, 2024-09-30: $15.38B",
+   "mechanisms": "Driven by net revenues net of interest expense, anchored by strong trading/fee cycles and wealth management inflows. Upside is propelled by +27.1% year-over-year quarterly revenue growth and record wealth management net revenues. Downside risk involves capital markets volatility affecting underwriting and advisory fees.",
+   "scenarios": [
+    "MS sustains quarterly revenue above $20B driven by robust institutional securities and wealth management fee generation.",
+    "Revenue pulls back to the $18B-$19B range if trading and advisory activity experiences a cyclical cooling."
+   ],
+   "key_uncertainty": "The durability of institutional trading volumes and wealth management net new asset inflows.",
+   "evidence": [
+    "E28",
+    "E29",
+    "E30",
+    "E40",
+    "E50"
+   ]
+  }
+ ]
+}

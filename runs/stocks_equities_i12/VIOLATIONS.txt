@@ -1,0 +1,7 @@
+[P1_COINFLIP] F09: p=0.55 is a sealed coin flip -- zero information by construction; take a side or drop it
+[P1_COINFLIP] F11: p=0.45 is a sealed coin flip -- zero information by construction; take a side or drop it
+[P1_COINFLIP] F21: p=0.52 is a sealed coin flip -- zero information by construction; take a side or drop it
+[P3_NUM_UNGROUNDED] F11: a number (mantissa 5.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F20: a number (mantissa 1.510) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F21: a number (mantissa 5.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P1_EVID_THIN] F20: only 1 dossier citations -- a forecast standing on <2 pieces of evidence is epistemically thin

@@ -1,0 +1,41 @@
+{
+ "text": "The 2026 mid-year financial landscape for US banking institutions is characterized by a stark, bifurcated divergence in revenue performance that refutes the notion of a uniform sector-wide macro cycle. Rather than broad-based monetary policy exposure dictating fortunes, the primary causal driver of cross-entity revenue divergence is institutional asset-scale bifurcation coupled with fee-tier operating leverage: large, globally diversified universal banks and wealth managers with proprietary trading desks and massive custody networks (such as JPMorgan Chase, Morgan Stanley, and Fifth Third Bancorp) are capturing outsized top-line expansion exceeding 25% year-over-year, whereas traditional regional lenders and custody banks encumbered by legacy deposit costs and asset caps (such as Bank of America, KeyCorp, Regions Financial, and Bank of New York Mellon) are experiencing flat or contracting quarterly revenues. This divergence proves that modern banking revenue is a direct function of non-interest income velocity and balance sheet scale elasticity, rather than net interest margin sensitivity alone. If macroeconomic data reveals that regional banks experiencing revenue contraction (-3% to -10% YoY) universally reverse their trend through pure net interest margin expansion independent of trading or fee-income diversification, this framework would be falsified.",
+ "cause_effect_dynamics": [
+  "D1: Institutional scale and proprietary trading/wealth management exposure drive robust double-digit top-line growth (e.g., JPM +27.7%, MS +27.1%, FITB +35.7%) because capital markets activity and asset accumulation disproportionately benefit institutions with diversified fee structures over pure lenders (E02, E20, E29, E31).",
+  "D2: Legacy deposit beta pressures and asset caps constrain traditional interest and dividend income operating streams, causing year-over-year revenue contraction or stagnation in regional and custody banks (e.g., BAC -3.0%, KEY -2.3%, RF -2.0%, BK -10.0%) as funding costs outpace asset re-pricing velocity (E05, E17, E23, E26).",
+  "D3: Disciplined regional execution and core deposit mix optimization enable select mid-tier institutions (such as U.S. Bancorp with +10.1% growth and record net revenue) to decouple from sector-wide regional headwinds and achieve sequential revenue scaling above baseline historical trails (E14, E15, E35)."
+ ],
+ "evidence_used": [
+  "E01",
+  "E02",
+  "E03",
+  "E04",
+  "E05",
+  "E06",
+  "E07",
+  "E08",
+  "E09",
+  "E13",
+  "E14",
+  "E15",
+  "E16",
+  "E17",
+  "E18",
+  "E19",
+  "E20",
+  "E21",
+  "E22",
+  "E23",
+  "E24",
+  "E25",
+  "E26",
+  "E27",
+  "E28",
+  "E29",
+  "E30",
+  "E31",
+  "E32",
+  "E33",
+  "E35"
+ ]
+}

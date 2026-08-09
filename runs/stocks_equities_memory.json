@@ -1,0 +1,728 @@
+{
+ "topic": "stocks_equities",
+ "runs": 11,
+ "passed": 1,
+ "violation_history": {
+  "P3_NUM_UNGROUNDED": 23,
+  "P1_EVID_CONC": 5,
+  "P1_CUTOFF": 4,
+  "P3_EVIDENCE": 4,
+  "P1_SENTENCE": 3,
+  "P1_HORIZON": 2,
+  "P1_LONG": 2,
+  "P1_SPREAD": 2,
+  "P1_COINFLIP": 1,
+  "P1_REGISTRY": 1,
+  "P1_CONTRARIAN": 1
+ },
+ "coinflip_median_incidents": 1,
+ "claimed_statements": [
+  "There is a 65% chance that Duke Energy will report quarterly revenue exceeding $6.1B for the quarter ending 2026-09-30.",
+  "There is a 65% chance that DTE Energy will report quarterly revenue exceeding $1.5B for the quarter ending 2026-09-30.",
+  "There is a 68% chance that NextEra Energy will report quarterly revenue exceeding $6.5B for the quarter ending 2026-09-30.",
+  "There is a 60% chance that American Electric Power will report quarterly revenue exceeding $5.1B for the quarter ending 2026-09-30.",
+  "There is a 68% chance that Consolidated Edison, Inc. will report quarterly revenue exceeding $3.8B for the quarter ending 2026-09-30.",
+  "There is a 70% chance that Bank of America Corporation (BAC) will report quarterly revenue exceeding $31.0B for the quarter ending 2026-09-30.",
+  "There is a 58% chance that US Bancorp will report quarterly revenue exceeding $7.6B for the quarter ending 2026-09-30.",
+  "There is a 65% chance that Citigroup Inc will report quarterly revenue exceeding $21.5B for the quarter ending 2026-09-30.",
+  "There is a 30% chance that Dominion Energy will report its full-year 2026 revenue below $13.5B.",
+  "There is a 25% chance that Eversource Energy will report its full-year 2026 revenue below $10.5B.",
+  "There is a 30% chance that JPMorgan Chase & Co. (JPM) will report year-over-year quarterly revenue growth below +15% for Q3 2026.",
+  "There is a 65% chance that Bank of America (BAC) will report year-over-year quarterly revenue growth of at least -1.0% for Q3 2026.",
+  "There is a 60% chance that Wells Fargo & Company (WFC) will report year-over-year quarterly revenue growth below +5.0% for Q3 2026.",
+  "There is a 25% chance that Citigroup Inc. (C) will report year-over-year quarterly revenue growth of at least +2.0% for Q3 2026.",
+  "There is a 60% chance that US Bancorp (USB) will report year-over-year quarterly revenue growth below +8.0% for Q3 2026.",
+  "There is a 30% chance that KeyCorp (KEY) will report year-over-year quarterly revenue growth of at least -1.0% for Q3 2026.",
+  "There is a 35% chance that Fifth Third Bancorp (FITB) will report year-over-year quarterly revenue growth below +25.0% for Q3 2026.",
+  "There is a 65% chance that Regions Financial Corporation (RF) will report year-over-year quarterly revenue growth of at least -3.0% for Q3 2026.",
+  "There is a 40% chance that The Bank of New York Mellon (BK) will report year-over-year quarterly revenue growth of at least -5.0% for Q3 2026.",
+  "There is a 70% chance that Morgan Stanley (MS) will report year-over-year quarterly revenue growth below +15.0% for Q3 2026.",
+  "There is a 75% chance that JPMorgan Chase & Co. will report sequential quarterly revenue growth of at least 5% in its fiscal Q3 2026 earnings filing.",
+  "There is a 60% chance that Bank of America Corporation will report year-over-year quarterly revenue growth of at least -1.0% in its fiscal Q3 2026 ear",
+  "There is a 35% chance that Wells Fargo & Company will report year-over-year quarterly revenue growth above 8.0% in its fiscal Q3 2026 earnings filing.",
+  "There is a 70% chance that US Bancorp will report sequential quarterly revenue growth of at least 3.0% in its fiscal Q3 2026 earnings filing.",
+  "There is a 90% chance that Fifth Third Bancorp will report year-over-year quarterly revenue growth below 20.0% in its fiscal Q3 2026 earnings filing.",
+  "There is a 25% chance that Morgan Stanley will report year-over-year quarterly revenue growth above 30.0% in its fiscal Q3 2026 earnings filing.",
+  "There is a 20% chance that Citigroup Inc. will report year-over-year quarterly revenue growth between 0.6% and 2.6% in its fiscal Q4 2025 earnings fil",
+  "There is a 30% chance that KeyCorp will report year-over-year quarterly revenue growth below -3.0% in its fiscal Q3 2026 earnings filing.",
+  "There is a 70% chance that Regions Financial Corporation will report sequential quarterly revenue growth of at least 1.0% in its fiscal Q3 2026 earnin",
+  "There is a 40% chance that Bank of New York Mellon Corp will report year-over-year quarterly revenue growth below -12.0% in its fiscal Q3 2026 earning",
+  "There is a 75% chance that JPMorgan Chase & Co. (JPM) will report Q3 2026 revenue exceeding $58.5 billion.",
+  "There is a 65% chance that Bank of America Corporation (BAC) will report Q3 2026 revenue below $35.0 billion.",
+  "There is a 28% chance that Morgan Stanley (MS) will report Q3 2026 year-over-year quarterly revenue growth of less than 20%.",
+  "There is a 60% chance that Fifth Third Bancorp (FITB) will report Q3 2026 revenue exceeding $3.5 billion.",
+  "There is a 70% chance that Bank of New York Mellon Corp (BK) will report Q3 2026 year-over-year quarterly revenue growth of greater than -5%.",
+  "There is a 63% chance that U.S. Bancorp (USB) will report Q3 2026 revenue exceeding $7.8 billion.",
+  "There is a 25% chance that Citigroup Inc. (C) will report Q1 2027 revenue below $26.0 billion.",
+  "There is a 40% chance that Wells Fargo & Company (WFC) will report Q3 2026 year-over-year quarterly revenue growth between 5% and 12%.",
+  "There is a 60% chance that KeyCorp (KEY) will report Q4 2026 revenue below $2.0 billion.",
+  "There is a 65% chance that Regions Financial Corporation (RF) will report Q4 2026 year-over-year quarterly revenue growth greater than 0%.",
+  "JPMorgan Chase & Co. will report a year-over-year quarterly revenue growth greater than 20% for the quarter ending 2026-09-30.",
+  "Bank of America Corp. will report a year-over-year quarterly revenue growth of at least -2.0% for the quarter ending 2026-09-30.",
+  "Wells Fargo & Company will report noninterest income exceeding $10.2 billion for the quarter ending 2026-09-30.",
+  "Citigroup Inc. will report a year-over-year quarterly revenue growth of at least 10% for the quarter ending 2026-09-30.",
+  "U.S. Bancorp will report fee revenue constituting at least 44.5% of its total revenue for the quarter ending 2026-09-30.",
+  "Fifth Third Bancorp will report a year-over-year quarterly revenue growth of at least 30% for the quarter ending 2026-09-30.",
+  "KeyCorp will report a year-over-year quarterly revenue growth of less than -1.0% for the quarter ending 2026-09-30.",
+  "Regions Financial Corporation will report a year-over-year quarterly revenue growth of less than -1.0% for the quarter ending 2026-09-30.",
+  "Bank of New York Mellon Corp. will report a year-over-year quarterly revenue growth greater than -8.0% for the quarter ending 2026-09-30.",
+  "Morgan Stanley will report a year-over-year quarterly revenue growth exceeding 25% for the quarter ending 2026-09-30.",
+  "There is a 75% chance that JPMorgan Chase & Co. will report quarterly revenue exceeding $60 billion in Q3 2026.",
+  "There is a 30% chance that Bank of America Corporation will report quarterly revenue below $33 billion in Q3 2026.",
+  "There is a 65% chance that Wells Fargo & Company will report quarterly revenue exceeding $23.5 billion in Q3 2026.",
+  "There is a 40% chance that Citigroup Inc. will report quarterly revenue exceeding $25 billion in Q3 2026.",
+  "There is a 70% chance that U.S. Bancorp will report quarterly revenue exceeding $7.8 billion in Q3 2026.",
+  "There is a 40% chance that KeyCorp will report quarterly revenue below $2.0 billion in Q3 2026.",
+  "There is a 75% chance that Fifth Third Bancorp will report quarterly revenue exceeding $3.5 billion in Q3 2026.",
+  "There is a 30% chance that Regions Financial Corporation will report quarterly revenue below $1.7 billion in Q3 2026.",
+  "There is a 65% chance that JPMorgan Chase & Co. will report year-over-year quarterly revenue growth above 20% in Q3 2026.",
+  "There is a 35% chance that Bank of America Corporation will report year-over-year quarterly revenue growth below -5% in Q3 2026.",
+  "There is a 60% chance that Wells Fargo & Company will report year-over-year quarterly revenue growth above 5% in Q3 2026.",
+  "There is a 40% chance that Citigroup Inc. will report year-over-year quarterly revenue growth above 10% in Q3 2026.",
+  "There is a 60% chance that U.S. Bancorp will report year-over-year quarterly revenue growth above 8% in Q3 2026.",
+  "There is a 35% chance that KeyCorp will report year-over-year quarterly revenue growth below -5% in Q3 2026.",
+  "There is a 70% chance that Fifth Third Bancorp will report year-over-year quarterly revenue growth above 30% in Q3 2026.",
+  "There is a 40% chance that Regions Financial Corporation will report year-over-year quarterly revenue growth below -5% in Q3 2026.",
+  "There is a 60% chance that Bank of New York Mellon Corp will report quarterly revenue exceeding $6.0 billion in Q3 2026.",
+  "There is a 65% chance that Morgan Stanley will report quarterly revenue exceeding $22 billion in Q3 2026.",
+  "There is a 70% chance that JPMorgan Chase & Co. will report net income exceeding $22 billion in Q3 2026.",
+  "There is a 65% chance that Morgan Stanley will report year-over-year quarterly revenue growth above 20% in Q3 2026.",
+  "There is a 65% chance that JPMorgan Chase & Co. will report net income exceeding $22 billion in Q3 2026.",
+  "There is a 30% chance that Citigroup Inc. will report quarterly revenue below $24 billion in Q3 2026.",
+  "There is a 65% chance that Wells Fargo & Company will report year-over-year net income growth above 20% in Q3 2026.",
+  "There is a 35% chance that KeyCorp will report year-over-year quarterly revenue growth below -5% in Q4 2026.",
+  "There is a 30% chance that U.S. Bancorp will report quarterly revenue below $7.5 billion in Q3 2026.",
+  "There is a 30% chance that Regions Financial Corporation will report quarterly revenue below $1.7 billion in Q3 2026.",
+  "There is an 80% chance that Fifth Third Bancorp will report quarterly revenue exceeding $3.4 billion in Q3 2026.",
+  "There is a 25% chance that Regions Financial Corporation will report quarterly revenue below $1.72 billion in Q3 2026.",
+  "There is a 40% chance that JPMorgan Chase & Co. will report net income below $18 billion in Q3 2026.",
+  "There is a 60% chance that Morgan Stanley will report year-over-year quarterly revenue growth above 25% in Q3 2026."
+ ],
+ "lessons": [],
+ "runs_detail": [
+  {
+   "run": "stocks_equities_i6",
+   "verdict": "refused",
+   "violations": [],
+   "claims": [],
+   "review": []
+  },
+  {
+   "run": "stocks_equities_i7",
+   "verdict": "refused",
+   "violations": [
+    "P1_HORIZON",
+    "P3_EVIDENCE",
+    "P3_EVIDENCE"
+   ],
+   "claims": [
+    {
+     "stmt": "There is a 75% chance that JPMorgan Chase & Co. will report sequential quarterly revenue growth of at least 5% in its fiscal Q3 2026 earnings filing.",
+     "p": 0.75,
+     "metric": "RevenuesNetOfInterestExpense",
+     "resolves": "2026-11-09",
+     "panel_spread": 0.25,
+     "shadow_gap": -0.25,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 60% chance that Bank of America Corporation will report year-over-year quarterly revenue growth of at least -1.0% in its fiscal Q3 2026 ear",
+     "p": 0.6,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-10-29",
+     "panel_spread": 0.3,
+     "shadow_gap": 0.35,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 35% chance that Wells Fargo & Company will report year-over-year quarterly revenue growth above 8.0% in its fiscal Q3 2026 earnings filing.",
+     "p": 0.35,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-10-26",
+     "panel_spread": 0.35,
+     "shadow_gap": 0.1,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 70% chance that US Bancorp will report sequential quarterly revenue growth of at least 3.0% in its fiscal Q3 2026 earnings filing.",
+     "p": 0.7,
+     "metric": "Revenues",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.1,
+     "shadow_gap": -0.1,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 90% chance that Fifth Third Bancorp will report year-over-year quarterly revenue growth below 20.0% in its fiscal Q3 2026 earnings filing.",
+     "p": 0.9,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.55,
+     "shadow_gap": 0.09,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 25% chance that Morgan Stanley will report year-over-year quarterly revenue growth above 30.0% in its fiscal Q3 2026 earnings filing.",
+     "p": 0.25,
+     "metric": "RevenuesNetOfInterestExpense",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.2,
+     "shadow_gap": 0.15,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 20% chance that Citigroup Inc. will report year-over-year quarterly revenue growth between 0.6% and 2.6% in its fiscal Q4 2025 earnings fil",
+     "p": 0.2,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-01-15",
+     "panel_spread": 0.25,
+     "shadow_gap": 0.45,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 30% chance that KeyCorp will report year-over-year quarterly revenue growth below -3.0% in its fiscal Q3 2026 earnings filing.",
+     "p": 0.3,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.55,
+     "shadow_gap": 0.6,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 70% chance that Regions Financial Corporation will report sequential quarterly revenue growth of at least 1.0% in its fiscal Q3 2026 earnin",
+     "p": 0.7,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.1,
+     "shadow_gap": 0.05,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 40% chance that Bank of New York Mellon Corp will report year-over-year quarterly revenue growth below -12.0% in its fiscal Q3 2026 earning",
+     "p": 0.4,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-10-30",
+     "panel_spread": 0.8,
+     "shadow_gap": 0.58,
+     "outcome": null
+    }
+   ],
+   "review": []
+  },
+  {
+   "run": "stocks_equities_i8",
+   "verdict": "refused",
+   "violations": [
+    "P3_EVIDENCE",
+    "P3_EVIDENCE"
+   ],
+   "claims": [
+    {
+     "stmt": "There is a 75% chance that JPMorgan Chase & Co. (JPM) will report Q3 2026 revenue exceeding $58.5 billion.",
+     "p": 0.75,
+     "metric": "Quarterly revenue (XBRL tag RevenuesNetOfInterestExpense)",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.15,
+     "shadow_gap": -0.45,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 65% chance that Bank of America Corporation (BAC) will report Q3 2026 revenue below $35.0 billion.",
+     "p": 0.65,
+     "metric": "Quarterly revenue (XBRL tag InterestAndDividendIncomeOperati",
+     "resolves": "2026-10-30",
+     "panel_spread": 0.45,
+     "shadow_gap": -0.05,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 28% chance that Morgan Stanley (MS) will report Q3 2026 year-over-year quarterly revenue growth of less than 20%.",
+     "p": 0.28,
+     "metric": "Year-over-year quarterly revenue growth",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.3,
+     "shadow_gap": 0.02,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 60% chance that Fifth Third Bancorp (FITB) will report Q3 2026 revenue exceeding $3.5 billion.",
+     "p": 0.6,
+     "metric": "Quarterly revenue (XBRL tag InterestAndDividendIncomeOperati",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.47,
+     "shadow_gap": -0.2,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 70% chance that Bank of New York Mellon Corp (BK) will report Q3 2026 year-over-year quarterly revenue growth of greater than -5%.",
+     "p": 0.7,
+     "metric": "Year-over-year quarterly revenue growth",
+     "resolves": "2026-10-30",
+     "panel_spread": 0.4,
+     "shadow_gap": 0.15,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 63% chance that U.S. Bancorp (USB) will report Q3 2026 revenue exceeding $7.8 billion.",
+     "p": 0.63,
+     "metric": "Quarterly revenue (XBRL tag Revenues)",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.15,
+     "shadow_gap": -0.08,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 25% chance that Citigroup Inc. (C) will report Q1 2027 revenue below $26.0 billion.",
+     "p": 0.25,
+     "metric": "Quarterly revenue (XBRL tag InterestAndDividendIncomeOperati",
+     "resolves": "2027-01-29",
+     "panel_spread": 0.48,
+     "shadow_gap": 0.2,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 40% chance that Wells Fargo & Company (WFC) will report Q3 2026 year-over-year quarterly revenue growth between 5% and 12%.",
+     "p": 0.4,
+     "metric": "Year-over-year quarterly revenue growth",
+     "resolves": "2026-10-28",
+     "panel_spread": 0.3,
+     "shadow_gap": 0.1,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 60% chance that KeyCorp (KEY) will report Q4 2026 revenue below $2.0 billion.",
+     "p": 0.6,
+     "metric": "Quarterly revenue (XBRL tag InterestAndDividendIncomeOperati",
+     "resolves": "2027-01-29",
+     "panel_spread": 0.6,
+     "shadow_gap": 0.1,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 65% chance that Regions Financial Corporation (RF) will report Q4 2026 year-over-year quarterly revenue growth greater than 0%.",
+     "p": 0.65,
+     "metric": "Year-over-year quarterly revenue growth",
+     "resolves": "2027-01-29",
+     "panel_spread": 0.45,
+     "shadow_gap": 0.0,
+     "outcome": null
+    }
+   ],
+   "review": []
+  },
+  {
+   "run": "stocks_equities_i9",
+   "verdict": "refused",
+   "violations": [
+    "P1_SENTENCE",
+    "P1_SENTENCE",
+    "P3_NUM_UNGROUNDED"
+   ],
+   "claims": [
+    {
+     "stmt": "JPMorgan Chase & Co. will report a year-over-year quarterly revenue growth greater than 20% for the quarter ending 2026-09-30.",
+     "p": 0.75,
+     "metric": "Year-over-year quarterly revenue growth",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.13,
+     "shadow_gap": 0.1,
+     "outcome": null
+    },
+    {
+     "stmt": "Bank of America Corp. will report a year-over-year quarterly revenue growth of at least -2.0% for the quarter ending 2026-09-30.",
+     "p": 0.3,
+     "metric": "Year-over-year quarterly revenue growth",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.18,
+     "shadow_gap": 0.0,
+     "outcome": null
+    },
+    {
+     "stmt": "Wells Fargo & Company will report noninterest income exceeding $10.2 billion for the quarter ending 2026-09-30.",
+     "p": 0.7,
+     "metric": "Noninterest income",
+     "resolves": "2026-10-28",
+     "panel_spread": 0.2,
+     "shadow_gap": -0.55,
+     "outcome": null
+    },
+    {
+     "stmt": "Citigroup Inc. will report a year-over-year quarterly revenue growth of at least 10% for the quarter ending 2026-09-30.",
+     "p": 0.7,
+     "metric": "Year-over-year quarterly revenue growth",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.13,
+     "shadow_gap": -0.5,
+     "outcome": null
+    },
+    {
+     "stmt": "U.S. Bancorp will report fee revenue constituting at least 44.5% of its total revenue for the quarter ending 2026-09-30.",
+     "p": 0.7,
+     "metric": "Fee revenue as percentage of total revenue",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.2,
+     "shadow_gap": -0.3,
+     "outcome": null
+    },
+    {
+     "stmt": "Fifth Third Bancorp will report a year-over-year quarterly revenue growth of at least 30% for the quarter ending 2026-09-30.",
+     "p": 0.65,
+     "metric": "Year-over-year quarterly revenue growth",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.35,
+     "shadow_gap": 0.3,
+     "outcome": null
+    },
+    {
+     "stmt": "KeyCorp will report a year-over-year quarterly revenue growth of less than -1.0% for the quarter ending 2026-09-30.",
+     "p": 0.6,
+     "metric": "Year-over-year quarterly revenue growth",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.55,
+     "shadow_gap": 0.2,
+     "outcome": null
+    },
+    {
+     "stmt": "Regions Financial Corporation will report a year-over-year quarterly revenue growth of less than -1.0% for the quarter ending 2026-09-30.",
+     "p": 0.6,
+     "metric": "Year-over-year quarterly revenue growth",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.55,
+     "shadow_gap": 0.2,
+     "outcome": null
+    },
+    {
+     "stmt": "Bank of New York Mellon Corp. will report a year-over-year quarterly revenue growth greater than -8.0% for the quarter ending 2026-09-30.",
+     "p": 0.3,
+     "metric": "Year-over-year quarterly revenue growth",
+     "resolves": "2026-11-05",
+     "panel_spread": 0.4,
+     "shadow_gap": -0.2,
+     "outcome": null
+    },
+    {
+     "stmt": "Morgan Stanley will report a year-over-year quarterly revenue growth exceeding 25% for the quarter ending 2026-09-30.",
+     "p": 0.72,
+     "metric": "Year-over-year quarterly revenue growth",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.4,
+     "shadow_gap": 0.18,
+     "outcome": null
+    }
+   ],
+   "review": []
+  },
+  {
+   "run": "stocks_equities_i10",
+   "verdict": "refused",
+   "violations": [],
+   "claims": [],
+   "review": []
+  },
+  {
+   "run": "stocks_equities_i11",
+   "verdict": "refused",
+   "violations": [
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P1_EVID_CONC",
+    "P1_EVID_CONC",
+    "P1_EVID_CONC",
+    "P1_EVID_CONC"
+   ],
+   "claims": [
+    {
+     "stmt": "There is a 75% chance that JPMorgan Chase & Co. will report quarterly revenue exceeding $60 billion in Q3 2026.",
+     "p": 0.75,
+     "metric": "RevenuesNetOfInterestExpense",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.13,
+     "shadow_gap": -0.5,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 30% chance that Bank of America Corporation will report quarterly revenue below $33 billion in Q3 2026.",
+     "p": 0.3,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-11-02",
+     "panel_spread": 0.52,
+     "shadow_gap": 0.35,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 65% chance that Wells Fargo & Company will report quarterly revenue exceeding $23.5 billion in Q3 2026.",
+     "p": 0.65,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-10-28",
+     "panel_spread": 0.1,
+     "shadow_gap": -0.1,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 40% chance that Citigroup Inc. will report quarterly revenue exceeding $25 billion in Q3 2026.",
+     "p": 0.4,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.42,
+     "shadow_gap": 0.0,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 70% chance that U.S. Bancorp will report quarterly revenue exceeding $7.8 billion in Q3 2026.",
+     "p": 0.7,
+     "metric": "Revenues",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.25,
+     "shadow_gap": 0.05,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 40% chance that KeyCorp will report quarterly revenue below $2.0 billion in Q3 2026.",
+     "p": 0.4,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.6,
+     "shadow_gap": 0.3,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 75% chance that Fifth Third Bancorp will report quarterly revenue exceeding $3.5 billion in Q3 2026.",
+     "p": 0.75,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.2,
+     "shadow_gap": -0.15,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 30% chance that Regions Financial Corporation will report quarterly revenue below $1.7 billion in Q3 2026.",
+     "p": 0.3,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.65,
+     "shadow_gap": 0.45,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 65% chance that JPMorgan Chase & Co. will report year-over-year quarterly revenue growth above 20% in Q3 2026.",
+     "p": 0.65,
+     "metric": "YoY Quarterly Revenue Growth Rate",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.35,
+     "shadow_gap": -0.5,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 35% chance that Bank of America Corporation will report year-over-year quarterly revenue growth below -5% in Q3 2026.",
+     "p": 0.35,
+     "metric": "YoY Quarterly Revenue Growth Rate",
+     "resolves": "2026-11-02",
+     "panel_spread": 0.55,
+     "shadow_gap": 0.35,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 60% chance that Wells Fargo & Company will report year-over-year quarterly revenue growth above 5% in Q3 2026.",
+     "p": 0.6,
+     "metric": "YoY Quarterly Revenue Growth Rate",
+     "resolves": "2026-10-28",
+     "panel_spread": 0.25,
+     "shadow_gap": -0.15,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 40% chance that Citigroup Inc. will report year-over-year quarterly revenue growth above 10% in Q3 2026.",
+     "p": 0.4,
+     "metric": "YoY Quarterly Revenue Growth Rate",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.5,
+     "shadow_gap": 0.2,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 60% chance that U.S. Bancorp will report year-over-year quarterly revenue growth above 8% in Q3 2026.",
+     "p": 0.6,
+     "metric": "YoY Quarterly Revenue Growth Rate",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.2,
+     "shadow_gap": -0.1,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 35% chance that KeyCorp will report year-over-year quarterly revenue growth below -5% in Q3 2026.",
+     "p": 0.35,
+     "metric": "YoY Quarterly Revenue Growth Rate",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.6,
+     "shadow_gap": 0.3,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 70% chance that Fifth Third Bancorp will report year-over-year quarterly revenue growth above 30% in Q3 2026.",
+     "p": 0.7,
+     "metric": "YoY Quarterly Revenue Growth Rate",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.35,
+     "shadow_gap": -0.6,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 40% chance that Regions Financial Corporation will report year-over-year quarterly revenue growth below -5% in Q3 2026.",
+     "p": 0.4,
+     "metric": "YoY Quarterly Revenue Growth Rate",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.65,
+     "shadow_gap": 0.3,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 60% chance that Bank of New York Mellon Corp will report quarterly revenue exceeding $6.0 billion in Q3 2026.",
+     "p": 0.6,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-11-02",
+     "panel_spread": 0.3,
+     "shadow_gap": 0.2,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 65% chance that Morgan Stanley will report quarterly revenue exceeding $22 billion in Q3 2026.",
+     "p": 0.65,
+     "metric": "RevenuesNetOfInterestExpense",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.1,
+     "shadow_gap": -0.35,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 70% chance that JPMorgan Chase & Co. will report net income exceeding $22 billion in Q3 2026.",
+     "p": 0.7,
+     "metric": "NetIncomeLoss",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.85,
+     "shadow_gap": 0.15,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 65% chance that Morgan Stanley will report year-over-year quarterly revenue growth above 20% in Q3 2026.",
+     "p": 0.65,
+     "metric": "YoY Quarterly Revenue Growth Rate",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.35,
+     "shadow_gap": -0.45,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 65% chance that JPMorgan Chase & Co. will report net income exceeding $22 billion in Q3 2026.",
+     "p": 0.65,
+     "metric": "NetIncomeAvailableToCommonStockholders",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.15,
+     "shadow_gap": -0.45,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 30% chance that Citigroup Inc. will report quarterly revenue below $24 billion in Q3 2026.",
+     "p": 0.3,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.3,
+     "shadow_gap": -0.05,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 65% chance that Wells Fargo & Company will report year-over-year net income growth above 20% in Q3 2026.",
+     "p": 0.65,
+     "metric": "NetIncomeGrowthRate",
+     "resolves": "2026-10-28",
+     "panel_spread": 0.2,
+     "shadow_gap": -0.4,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 35% chance that KeyCorp will report year-over-year quarterly revenue growth below -5% in Q4 2026.",
+     "p": 0.35,
+     "metric": "YoY Quarterly Revenue Growth Rate",
+     "resolves": "2027-02-04",
+     "panel_spread": 0.33,
+     "shadow_gap": 0.2,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 30% chance that U.S. Bancorp will report quarterly revenue below $7.5 billion in Q3 2026.",
+     "p": 0.3,
+     "metric": "Revenues",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.5,
+     "shadow_gap": 0.5,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 30% chance that Regions Financial Corporation will report quarterly revenue below $1.7 billion in Q3 2026.",
+     "p": 0.3,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.2,
+     "shadow_gap": 0.2,
+     "outcome": null
+    },
+    {
+     "stmt": "There is an 80% chance that Fifth Third Bancorp will report quarterly revenue exceeding $3.4 billion in Q3 2026.",
+     "p": 0.8,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.12,
+     "shadow_gap": -0.15,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 25% chance that Regions Financial Corporation will report quarterly revenue below $1.72 billion in Q3 2026.",
+     "p": 0.25,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.55,
+     "shadow_gap": 0.45,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 40% chance that JPMorgan Chase & Co. will report net income below $18 billion in Q3 2026.",
+     "p": 0.4,
+     "metric": "NetIncomeLoss",
+     "resolves": "2026-11-02",
+     "panel_spread": 0.8,
+     "shadow_gap": 0.45,
+     "outcome": null
+    },
+    {
+     "stmt": "There is a 60% chance that Morgan Stanley will report year-over-year quarterly revenue growth above 25% in Q3 2026.",
+     "p": 0.6,
+     "metric": "YoY Quarterly Revenue Growth Rate",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.2,
+     "shadow_gap": -0.45,
+     "outcome": null
+    }
+   ],
+   "review": []
+  }
+ ]
+}

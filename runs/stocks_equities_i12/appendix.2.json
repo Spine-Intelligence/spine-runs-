@@ -1,0 +1,212 @@
+{
+ "F01": {
+  "reasoning": "The forecast predicts JPMorgan Chase & Co. exceeding $58.0 billion in net revenue for Q3 2026. Recent data shows revenue of $57.35 billion for Q2 2026 (E01) and a historical trend of sequential growth (E03). The 68% probability reflects this upward trend, with a slight increase needed to surpass the $58.0 billion mark. A significant increase in sequential growth beyond 10% (contrary to E03 and F20's high probability) or a sharp downturn in broader economic conditions could alter this outlook.",
+  "evidence": [
+   "E01",
+   "E03",
+   "F20"
+  ]
+ },
+ "F02": {
+  "reasoning": "This forecast suggests a 25% chance of Bank of America Corporation experiencing year-over-year quarterly revenue growth below -2.5% for Q3 2026. Evidence shows a recent -3.0% YoY growth in Q2 2026 (E05). The low probability is due to the marginal nature of the negative growth and the overall revenue trend (E06) which hasn't shown drastic declines. A significant economic recession or a major shift in interest rate policy affecting net interest income would increase this probability.",
+  "evidence": [
+   "E05",
+   "E06"
+  ]
+ },
+ "F03": {
+  "reasoning": "The forecast predicts Wells Fargo & Company exceeding $23.5 billion in net revenue for Q3 2026, with a 70% probability. Their Q2 2026 revenue was $23.28 billion (E07), and historical data shows consistent sequential growth (E09). This positive trend supports the high probability. A notable decline in loan origination or a significant increase in provisions for credit losses not offset by other revenue streams would decrease this probability.",
+  "evidence": [
+   "E07",
+   "E09"
+  ]
+ },
+ "F04": {
+  "reasoning": "This forecast assigns a 65% chance to U.S. Bancorp reporting quarterly revenue below $7.6 billion for Q3 2026. Their Q2 2026 revenue was $7.71 billion (E13), and recent quarterly revenues have been around this level (E15). The probability reflects a slight decrease from the latest reported figure. A significant downturn in commercial lending or a prolonged period of declining interest rates would increase this probability.",
+  "evidence": [
+   "E13",
+   "E15"
+  ]
+ },
+ "F05": {
+  "reasoning": "The forecast suggests a 70% chance that KeyCorp will report year-over-year quarterly revenue growth exceeding -2.0% for Q3 2026. Their Q2 2026 YoY growth was -2.3% (E17). The forecast anticipates a slight improvement, supporting the high probability. A further decline in their net interest margin or a significant contraction in loan demand would lower this probability.",
+  "evidence": [
+   "E17",
+   "E18"
+  ]
+ },
+ "F06": {
+  "reasoning": "This forecast predicts Fifth Third Bancorp reporting quarterly revenue below $3.2 billion for Q3 2026, with a 68% probability. Their Q2 2026 revenue was $3.37 billion (E19), and the historical trend shows some fluctuations but generally above this threshold (E21). The probability implies a modest decline from the latest figures. A sharper-than-expected slowdown in their loan portfolio growth or a significant increase in non-interest expenses could increase this probability.",
+  "evidence": [
+   "E19",
+   "E21"
+  ]
+ },
+ "F07": {
+  "reasoning": "The forecast assigns a 70% chance to Regions Financial Corporation reporting year-over-year quarterly revenue growth exceeding -1.5% for Q3 2026. Their Q2 2026 YoY growth was -2.0% (E23). This probability indicates a slight recovery from the recent decline. A substantial increase in non-interest income or a stabilization of their net interest income would support this. A significant drop in deposit yields or continued pressure on loan volumes would decrease this probability.",
+  "evidence": [
+   "E23",
+   "E24"
+  ]
+ },
+ "F08": {
+  "reasoning": "This forecast suggests a 60% chance that The Bank of New York Mellon Corporation will report quarterly revenue below $5.9 billion for Q3 2026. Their Q2 2026 revenue was $6.02 billion (E25), with a historical trend showing revenues generally above $5.9 billion (E27). The probability reflects a potential modest decrease. Factors like a decline in assets under management or lower investment management fees could increase this probability. A significant increase in fee-based services would lower it.",
+  "evidence": [
+   "E25",
+   "E27"
+  ]
+ },
+ "F09": {
+  "reasoning": "The forecast predicts Morgan Stanley reporting quarterly revenue exceeding $21.5 billion for Q3 2026, with a 55% probability. Their recent revenue has fluctuated, but Q2 2026 was not directly provided in the dossier for this specific metric. However, their historical data (E30) shows revenues often in this vicinity. The probability is moderate, indicating uncertainty. A strong performance in their investment banking or wealth management divisions would increase this probability, while a significant downturn in capital markets would decrease it.",
+  "evidence": [
+   "E28",
+   "E30"
+  ]
+ },
+ "F10": {
+  "reasoning": "This forecast assigns a 75% chance to JPMorgan Chase & Co. reporting year-over-year quarterly revenue growth below 25% for Q3 2026. Their Q2 2026 YoY growth was 27.7% (E02). The high probability reflects a slight deceleration from the recent strong growth. A sustained high level of deal-making and market activity would challenge this forecast. A significant normalization of market activity or a reduction in their trading revenues could support it.",
+  "evidence": [
+   "E02",
+   "E03"
+  ]
+ },
+ "F11": {
+  "reasoning": "The forecast suggests a 45% chance of Bank of America Corporation reporting quarterly revenue exceeding $34.0 billion for Q3 2026. Their Q2 2026 revenue was $33.83 billion (E04), and historical data shows variability (E06). The probability is below 50%, indicating a greater chance of not exceeding this threshold. A strong rebound in net interest income or increased fee generation would increase this probability. A continued sluggish economy or increased competition would decrease it.",
+  "evidence": [
+   "E04",
+   "E06"
+  ]
+ },
+ "F12": {
+  "reasoning": "This forecast assigns a 65% chance to Wells Fargo & Company reporting year-over-year quarterly revenue growth below 8.0% for Q3 2026. Their Q2 2026 YoY growth was 9.2% (E08). The probability reflects an expected deceleration from recent growth. A significant improvement in loan demand or a reduction in funding costs would increase this probability. A slowdown in their commercial lending or continued pressure on deposit rates would support it.",
+  "evidence": [
+   "E08",
+   "E09"
+  ]
+ },
+ "F13": {
+  "reasoning": "The forecast predicts U.S. Bancorp reporting year-over-year quarterly revenue growth below 9.0% for Q3 2026, with a 70% probability. Their Q2 2026 YoY growth was 10.1% (E14). This probability indicates an anticipated slowdown in growth from the most recent quarter. A sustained strong economic environment leading to increased lending would challenge this. A continued moderation in loan growth or rising deposit costs would support it.",
+  "evidence": [
+   "E14",
+   "E15"
+  ]
+ },
+ "F14": {
+  "reasoning": "This forecast assigns a 65% chance to Fifth Third Bancorp reporting year-over-year quarterly revenue growth below 30% for Q3 2026. Their Q2 2026 YoY growth was 35.7% (E20). The probability suggests a notable deceleration from the recent high growth. A sustained robust economy and continued strong loan origination would challenge this. A normalization of credit markets or increased competition for deposits would support it.",
+  "evidence": [
+   "E20",
+   "E21"
+  ]
+ },
+ "F15": {
+  "reasoning": "The forecast predicts Regions Financial Corporation reporting quarterly revenue below $1.73 billion for Q3 2026, with a 65% probability. Their Q2 2026 revenue was $1.75 billion (E22), and their historical trend shows revenues generally around this level or slightly higher (E24). The probability indicates a potential modest decrease. A sharper decline in net interest income or reduced fee income would increase this probability. Stronger than expected loan growth or improved non-interest income would decrease it.",
+  "evidence": [
+   "E22",
+   "E24"
+  ]
+ },
+ "F16": {
+  "reasoning": "This forecast assigns a 68% chance to The Bank of New York Mellon Corporation reporting year-over-year quarterly revenue growth exceeding -8% for Q3 2026. Their Q2 2026 YoY growth was -7.9% (E26). The probability reflects a slight improvement or stabilization from the recent performance. A significant increase in assets under custody or a rebound in market valuations would support this. Continued pressures on investment management fees or a prolonged downturn in financial markets would decrease this probability.",
+  "evidence": [
+   "E26",
+   "E27"
+  ]
+ },
+ "F17": {
+  "reasoning": "The forecast suggests a 30% chance of Citigroup Inc. reporting quarterly revenue exceeding $37.0 billion for Q3 2026. Their latest reported revenue was $36.69 billion for Q4 2025 (E10), and the trend has been somewhat flat (E12). The probability is low, indicating it's more likely they will not exceed this mark. A significant boost in investment banking fees or a strong rebound in consumer spending could increase this probability. A continued macroeconomic slowdown would keep it low.",
+  "evidence": [
+   "E10",
+   "E12"
+  ]
+ },
+ "F18": {
+  "reasoning": "This forecast assigns a 28% chance to Citigroup Inc. reporting year-over-year quarterly revenue growth below 1.0% for Q3 2026. Their Q4 2025 YoY growth was 0.6% (E11). The probability is low, suggesting they are likely to achieve growth above 1.0%. A sustained environment of weak global economic activity and reduced transaction volumes would increase this probability. A significant increase in deal-making or a rebound in consumer credit would decrease it.",
+  "evidence": [
+   "E11",
+   "E12"
+  ]
+ },
+ "F19": {
+  "reasoning": "The forecast predicts Morgan Stanley reporting quarterly revenue below $20.0 billion for Q3 2026, with a 30% probability. Their historical revenues (E30) show significant variability, with some quarters falling below this mark. The probability is moderate, indicating it's plausible but not the most likely outcome. A sharp downturn in their trading or investment banking segments would increase this probability. A strong performance in wealth management could lower it.",
+  "evidence": [
+   "E28",
+   "E30"
+  ]
+ },
+ "F20": {
+  "reasoning": "This forecast assigns a 72% chance to JPMorgan Chase & Co. reporting sequential quarterly revenue growth below 10% for Q3 2026. Their historical sequential growth data (E03) shows this is a frequent occurrence, with recent sequential growth of $7.51 billion ($57.35B - $49.84B) from Q1 2026 to Q2 2026, which is 15.1%. The high probability suggests an expectation of moderated sequential growth compared to the most recent jump. A continuation of strong deal activity would challenge this forecast.",
+  "evidence": [
+   "E03"
+  ]
+ },
+ "F21": {
+  "reasoning": "The forecast suggests a 52% chance of Bank of America Corporation reporting quarterly revenue below $33.5 billion for Q3 2026. Their Q2 2026 revenue was $33.83 billion (E04), and historical data (E06) shows this threshold has been breached previously. The probability is slightly above 50%, indicating it's more likely than not they will fall below this mark. A continued sluggish economy and pressure on net interest income would increase this probability. A robust rebound in lending activity would decrease it.",
+  "evidence": [
+   "E04",
+   "E06"
+  ]
+ },
+ "F22": {
+  "reasoning": "This forecast assigns a 70% chance to Wells Fargo & Company reporting quarterly revenue below $22.0 billion for Q3 2026. Their Q2 2026 revenue was $23.28 billion (E07), and their historical trend (E09) shows a consistent presence above $22.0 billion recently. The high probability suggests an expected decline from current levels. A significant contraction in their mortgage business or a reduction in lending volumes would support this. A strong increase in commercial loan demand would challenge it.",
+  "evidence": [
+   "E07",
+   "E09"
+  ]
+ },
+ "F23": {
+  "reasoning": "The forecast predicts U.S. Bancorp reporting quarterly revenue below $7.2 billion for Q3 2026, with a 68% probability. Their Q2 2026 revenue was $7.71 billion (E13), and their trend shows revenues have been above $7.2 billion recently (E15). The high probability suggests an expected significant decrease. Factors like a substantial decline in fee income or a sharp drop in net interest income due to rising deposit costs would increase this probability. A strong recovery in loan growth would decrease it.",
+  "evidence": [
+   "E13",
+   "E15"
+  ]
+ },
+ "F24": {
+  "reasoning": "This forecast assigns a 70% chance to KeyCorp reporting quarterly revenue below $2.0 billion for Q3 2026. Their Q2 2026 revenue was $2.06 billion (E16), and their historical trend shows revenues have recently hovered around this figure (E18). The probability indicates a likely slight decrease. A continued decline in their net interest margin or a slowdown in loan origination would support this. A significant increase in fee-based revenue streams would challenge it.",
+  "evidence": [
+   "E16",
+   "E18"
+  ]
+ },
+ "F25": {
+  "reasoning": "The forecast predicts Fifth Third Bancorp reporting quarterly revenue below $3.0 billion for Q3 2026, with a 65% probability. Their Q2 2026 revenue was $3.37 billion (E19), and their historical trend shows revenues have generally been above $3.0 billion (E21). The probability suggests an expected notable decline. A sharp slowdown in their commercial lending activities or a significant increase in provisions for credit losses would increase this probability. A strong surge in non-interest income would decrease it.",
+  "evidence": [
+   "E19",
+   "E21"
+  ]
+ },
+ "F26": {
+  "reasoning": "This forecast assigns a 70% chance to Regions Financial Corporation reporting quarterly revenue below $1.70 billion for Q3 2026. Their Q2 2026 revenue was $1.75 billion (E22), and their recent trend shows revenues around this level or slightly higher (E24). The probability indicates a likely slight decrease. A continued downward pressure on net interest income or a drop in fee income would support this. A stronger than expected loan growth or an improvement in non-interest income would challenge it.",
+  "evidence": [
+   "E22",
+   "E24"
+  ]
+ },
+ "F27": {
+  "reasoning": "The forecast suggests a 68% chance that The Bank of New York Mellon Corporation will report quarterly revenue exceeding $6.0 billion for Q3 2026. Their Q2 2026 revenue was $6.02 billion (E25), and historical data (E27) shows this level has been achieved. The probability reflects a slight upward trend or stability. A significant increase in assets under management or higher fees from custodian services would increase this probability. A decline in market values or lower transaction volumes would decrease it.",
+  "evidence": [
+   "E25",
+   "E27"
+  ]
+ },
+ "F28": {
+  "reasoning": "This forecast assigns a 70% chance to Morgan Stanley reporting year-over-year quarterly revenue growth below 25% for Q3 2026. While specific YoY growth for Q2 2026 is not directly provided, their historical revenue data (E30) shows significant fluctuations. The 70% probability suggests an expectation of more normalized growth compared to potentially high prior periods. A surge in investment banking activities or strong market performance would challenge this. A continued moderation in deal flow would support it.",
+  "evidence": [
+   "E29",
+   "E30"
+  ]
+ },
+ "F29": {
+  "reasoning": "The forecast predicts JPMorgan Chase & Co. reporting total net revenue below $55.0 billion for Q1 2027, with a 30% probability. Their Q2 2026 revenue was $57.35 billion (E01), and the trend (E03) suggests potential for fluctuations. The 30% probability indicates it's less likely they will fall below this significantly lower threshold. A severe economic downturn or a major restructuring impacting revenue streams would increase this probability. Continued strong performance would keep it low.",
+  "evidence": [
+   "E01",
+   "E03"
+  ]
+ },
+ "F30": {
+  "reasoning": "This forecast assigns a 25% chance to Bank of America Corporation reporting year-over-year quarterly revenue growth below -5% for Q1 2027. Their Q2 2026 YoY growth was -3.0% (E05). The low probability indicates that a severe decline is not anticipated. A significant economic recession or a drastic shift in interest rate policy would be needed to reach such levels. Continued moderate performance would keep this probability low.",
+  "evidence": [
+   "E05",
+   "E06"
+  ]
+ }
+}

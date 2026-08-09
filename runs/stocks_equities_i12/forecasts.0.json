@@ -1,0 +1,664 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "There is a 48% chance that JPMorgan Chase & Co. will report total net revenue exceeding $58.0 billion for the quarter ending 2026-09-30.",
+   "probability": 0.48,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "RevenuesNetOfInterestExpense",
+    "threshold": "58.0B",
+    "resolution_date": "2026-11-07",
+    "baseline": {
+     "value": "57.347B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.17,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E03"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "There is a 52% chance that Bank of America Corporation will report year-over-year quarterly revenue growth below -2.5% for the quarter ending 2026-09-30.",
+   "probability": 0.52,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "-2.5%",
+    "resolution_date": "2026-11-01",
+    "baseline": {
+     "value": "-3.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: %; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.17,
+   "dynamic": "D2",
+   "evidence": [
+    "E05",
+    "E06"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "There is a 55% chance that Wells Fargo & Company will report total net revenue exceeding $23.5 billion for the quarter ending 2026-09-30.",
+   "probability": 0.55,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "23.5B",
+    "resolution_date": "2026-10-29",
+    "baseline": {
+     "value": "23.284B",
+     "as_of": "2026-07-28"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.16,
+   "dynamic": "D1",
+   "evidence": [
+    "E07",
+    "E09"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "There is a 45% chance that U.S. Bancorp will report quarterly revenue below $7.6 billion for the quarter ending 2026-09-30.",
+   "probability": 0.45,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Revenues",
+    "threshold": "7.6B",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "7.712B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.17,
+   "dynamic": "D3",
+   "evidence": [
+    "E13",
+    "E15"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "There is a 50% chance that KeyCorp will report year-over-year quarterly revenue growth exceeding -2.0% for the quarter ending 2026-09-30.",
+   "probability": 0.5,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "-2.0%",
+    "resolution_date": "2026-11-04",
+    "baseline": {
+     "value": "-2.3%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: %; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.16,
+   "dynamic": "D2",
+   "evidence": [
+    "E17",
+    "E18"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "There is a 47% chance that Fifth Third Bancorp will report quarterly revenue below $3.2 billion for the quarter ending 2026-09-30.",
+   "probability": 0.47,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "3.2B",
+    "resolution_date": "2026-11-04",
+    "baseline": {
+     "value": "3.372B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.16,
+   "dynamic": "D1",
+   "evidence": [
+    "E19",
+    "E21"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "There is a 53% chance that Regions Financial Corporation will report year-over-year quarterly revenue growth exceeding -1.5% for the quarter ending 2026-09-30.",
+   "probability": 0.53,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "-1.5%",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "-2.0%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: %; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.17,
+   "dynamic": "D2",
+   "evidence": [
+    "E23",
+    "E24"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "There is a 49% chance that The Bank of New York Mellon Corporation will report quarterly revenue below $5.9 billion for the quarter ending 2026-09-30.",
+   "probability": 0.49,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "5.9B",
+    "resolution_date": "2026-10-31",
+    "baseline": {
+     "value": "5.940B",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.16,
+   "dynamic": "D2",
+   "evidence": [
+    "E25",
+    "E27"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "There is a 46% chance that Morgan Stanley will report quarterly revenue exceeding $21.5 billion for the quarter ending 2026-09-30.",
+   "probability": 0.46,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "RevenuesNetOfInterestExpense",
+    "threshold": "21.5B",
+    "resolution_date": "2026-11-04",
+    "baseline": {
+     "value": "21.348B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.16,
+   "dynamic": "D1",
+   "evidence": [
+    "E28",
+    "E30"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "There is a 51% chance that JPMorgan Chase & Co. will report year-over-year quarterly revenue growth below 25% for the quarter ending 2026-09-30.",
+   "probability": 0.51,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "25%",
+    "resolution_date": "2026-11-07",
+    "baseline": {
+     "value": "27.7%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: %; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.17,
+   "dynamic": "D1",
+   "evidence": [
+    "E02",
+    "E03"
+   ]
+  },
+  {
+   "id": "F11",
+   "statement": "There is a 44% chance that Bank of America Corporation will report quarterly revenue exceeding $34.0 billion for the quarter ending 2026-09-30.",
+   "probability": 0.44,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "34.0B",
+    "resolution_date": "2026-11-01",
+    "baseline": {
+     "value": "33.832B",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.17,
+   "dynamic": "D2",
+   "evidence": [
+    "E04",
+    "E06"
+   ]
+  },
+  {
+   "id": "F12",
+   "statement": "There is a 54% chance that Wells Fargo & Company will report year-over-year quarterly revenue growth below 8.0% for the quarter ending 2026-09-30.",
+   "probability": 0.54,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "8.0%",
+    "resolution_date": "2026-10-29",
+    "baseline": {
+     "value": "9.2%",
+     "as_of": "2026-07-28"
+    },
+    "counting_convention": "unit: %; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.16,
+   "dynamic": "D1",
+   "evidence": [
+    "E08",
+    "E09"
+   ]
+  },
+  {
+   "id": "F13",
+   "statement": "There is a 48% chance that U.S. Bancorp will report year-over-year quarterly revenue growth below 9.0% for the quarter ending 2026-09-30.",
+   "probability": 0.48,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "9.0%",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "10.1%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: %; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.17,
+   "dynamic": "D3",
+   "evidence": [
+    "E14",
+    "E15"
+   ]
+  },
+  {
+   "id": "F14",
+   "statement": "There is a 52% chance that Fifth Third Bancorp will report year-over-year quarterly revenue growth below 30% for the quarter ending 2026-09-30.",
+   "probability": 0.52,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "30%",
+    "resolution_date": "2026-11-04",
+    "baseline": {
+     "value": "35.7%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: %; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.16,
+   "dynamic": "D1",
+   "evidence": [
+    "E20",
+    "E21"
+   ]
+  },
+  {
+   "id": "F15",
+   "statement": "There is a 55% chance that Regions Financial Corporation will report quarterly revenue below $1.73 billion for the quarter ending 2026-09-30.",
+   "probability": 0.55,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "1.73B",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "1.748B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.17,
+   "dynamic": "D2",
+   "evidence": [
+    "E22",
+    "E24"
+   ]
+  },
+  {
+   "id": "F16",
+   "statement": "There is a 45% chance that The Bank of New York Mellon Corporation will report year-over-year quarterly revenue growth exceeding -8% for the quarter ending 2026-09-30.",
+   "probability": 0.45,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "-8%",
+    "resolution_date": "2026-10-31",
+    "baseline": {
+     "value": "-10.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: %; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.16,
+   "dynamic": "D2",
+   "evidence": [
+    "E26",
+    "E27"
+   ]
+  },
+  {
+   "id": "F17",
+   "statement": "There is a 50% chance that Morgan Stanley will report quarterly revenue below $20.0 billion for the quarter ending 2026-09-30.",
+   "probability": 0.5,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "RevenuesNetOfInterestExpense",
+    "threshold": "20.0B",
+    "resolution_date": "2026-11-04",
+    "baseline": {
+     "value": "21.348B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.16,
+   "dynamic": "D1",
+   "evidence": [
+    "E28",
+    "E30"
+   ]
+  },
+  {
+   "id": "F18",
+   "statement": "There is a 30% chance that JPMorgan Chase & Co. will report total net revenue below $55.0 billion for the quarter ending 2026-12-31.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "RevenuesNetOfInterestExpense",
+    "threshold": "55.0B",
+    "resolution_date": "2027-02-05",
+    "baseline": {
+     "value": "57.347B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.39,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E03"
+   ]
+  },
+  {
+   "id": "F19",
+   "statement": "There is a 25% chance that Bank of America Corporation will report quarterly revenue exceeding $35.0 billion for the quarter ending 2026-12-31.",
+   "probability": 0.25,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "35.0B",
+    "resolution_date": "2027-01-29",
+    "baseline": {
+     "value": "33.832B",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.38,
+   "dynamic": "D2",
+   "evidence": [
+    "E04",
+    "E06"
+   ]
+  },
+  {
+   "id": "F20",
+   "statement": "There is a 35% chance that Wells Fargo & Company will report quarterly revenue below $22.0 billion for the quarter ending 2026-12-31.",
+   "probability": 0.35,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "22.0B",
+    "resolution_date": "2027-01-28",
+    "baseline": {
+     "value": "23.284B",
+     "as_of": "2026-07-28"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.38,
+   "dynamic": "D2",
+   "evidence": [
+    "E07",
+    "E09"
+   ]
+  },
+  {
+   "id": "F21",
+   "statement": "There is a 32% chance that U.S. Bancorp will report quarterly revenue exceeding $7.5 billion for the quarter ending 2026-12-31.",
+   "probability": 0.32,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Revenues",
+    "threshold": "7.5B",
+    "resolution_date": "2027-02-06",
+    "baseline": {
+     "value": "7.712B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.39,
+   "dynamic": "D3",
+   "evidence": [
+    "E13",
+    "E15"
+   ]
+  },
+  {
+   "id": "F22",
+   "statement": "There is a 38% chance that KeyCorp will report quarterly revenue exceeding $2.1 billion for the quarter ending 2026-12-31.",
+   "probability": 0.38,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "2.1B",
+    "resolution_date": "2027-02-04",
+    "baseline": {
+     "value": "2.059B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.39,
+   "dynamic": "D2",
+   "evidence": [
+    "E16",
+    "E18"
+   ]
+  },
+  {
+   "id": "F23",
+   "statement": "There is a 40% chance that Fifth Third Bancorp will report quarterly revenue below $3.0 billion for the quarter ending 2026-12-31.",
+   "probability": 0.4,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "3.0B",
+    "resolution_date": "2027-02-04",
+    "baseline": {
+     "value": "3.372B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.39,
+   "dynamic": "D1",
+   "evidence": [
+    "E19",
+    "E21"
+   ]
+  },
+  {
+   "id": "F24",
+   "statement": "There is a 28% chance that Regions Financial Corporation will report quarterly revenue exceeding $1.8 billion for the quarter ending 2026-12-31.",
+   "probability": 0.28,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "1.8B",
+    "resolution_date": "2027-02-06",
+    "baseline": {
+     "value": "1.748B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.39,
+   "dynamic": "D2",
+   "evidence": [
+    "E22",
+    "E24"
+   ]
+  },
+  {
+   "id": "F25",
+   "statement": "There is a 33% chance that The Bank of New York Mellon Corporation will report quarterly revenue exceeding $6.0 billion for the quarter ending 2026-12-31.",
+   "probability": 0.33,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "6.0B",
+    "resolution_date": "2027-01-31",
+    "baseline": {
+     "value": "5.940B",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.38,
+   "dynamic": "D2",
+   "evidence": [
+    "E25",
+    "E27"
+   ]
+  },
+  {
+   "id": "F26",
+   "statement": "There is a 29% chance that Morgan Stanley will report quarterly revenue exceeding $22.0 billion for the quarter ending 2026-12-31.",
+   "probability": 0.29,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "RevenuesNetOfInterestExpense",
+    "threshold": "22.0B",
+    "resolution_date": "2027-02-04",
+    "baseline": {
+     "value": "21.348B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.39,
+   "dynamic": "D1",
+   "evidence": [
+    "E28",
+    "E30"
+   ]
+  },
+  {
+   "id": "F27",
+   "statement": "There is a 31% chance that JPMorgan Chase & Co. will report year-over-year quarterly revenue growth below 20% for the quarter ending 2027-03-31.",
+   "probability": 0.31,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "20%",
+    "resolution_date": "2027-05-07",
+    "baseline": {
+     "value": "27.7%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: %; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.65,
+   "dynamic": "D1",
+   "evidence": [
+    "E02",
+    "E03"
+   ]
+  },
+  {
+   "id": "F28",
+   "statement": "There is a 22% chance that Bank of America Corporation will report year-over-year quarterly revenue growth below -5.0% for the quarter ending 2027-03-31.",
+   "probability": 0.22,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "-5.0%",
+    "resolution_date": "2027-04-30",
+    "baseline": {
+     "value": "-3.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: %; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.64,
+   "dynamic": "D2",
+   "evidence": [
+    "E05",
+    "E06"
+   ]
+  },
+  {
+   "id": "F29",
+   "statement": "There is a 15% chance that Fifth Third Bancorp will report quarterly revenue below $2.7 billion for the quarter ending 2027-03-31.",
+   "probability": 0.15,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "2.7B",
+    "resolution_date": "2027-05-04",
+    "baseline": {
+     "value": "3.372B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: B; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.65,
+   "dynamic": "D1",
+   "evidence": [
+    "E19",
+    "E21"
+   ]
+  },
+  {
+   "id": "F30",
+   "statement": "There is a 18% chance that The Bank of New York Mellon Corporation will report year-over-year quarterly revenue growth below -12.0% for the quarter ending 2027-03-31.",
+   "probability": 0.18,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "year-over-year quarterly revenue growth",
+    "threshold": "-12.0%",
+    "resolution_date": "2027-04-30",
+    "baseline": {
+     "value": "-10.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: %; status: in-force only; window: quarterly; excludes: none"
+   },
+   "horizon_years": 0.64,
+   "dynamic": "D2",
+   "evidence": [
+    "E26",
+    "E27"
+   ]
+  }
+ ]
+}
