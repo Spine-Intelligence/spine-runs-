@@ -2,84 +2,18 @@
  "part1_forecasts": [
   {
    "id": "F01",
-   "statement": "There is a 65% chance Matt Fitzpatrick will secure a higher final finishing position than Rory McIlroy at the 2026 Tour Championship.",
-   "probability": 0.65,
+   "statement": "There is a 60% chance Tommy Fleetwood will finish ahead of his opponent in a head-to-head matchup at the 2026 TOUR Championship.",
+   "probability": 0.6,
    "resolution_criteria": {
     "source": "PGA Tour official leaderboard",
-    "metric": "final finishing position rank number",
-    "threshold": "less than or equal to Rory McIlroy's rank number",
-    "resolution_date": "2026-08-30",
+    "metric": "head to head matchup finishing position",
+    "threshold": "higher rank than designated opponent",
+    "resolution_date": "2026-08-31",
     "baseline": {
-     "value": "2",
-     "as_of": "2026-08-07"
+     "value": "1",
+     "as_of": "2026-08-06"
     },
-    "counting_convention": "unit: numerical finishing position rank; status: in-force only; window: 2026 Tour Championship four rounds; excludes: regular season events"
-   },
-   "horizon_years": 0.06,
-   "dynamic": "D1",
-   "evidence": [
-    "E03",
-    "E05"
-   ]
-  },
-  {
-   "id": "F02",
-   "statement": "There is a 25% chance Chris Gotterup will record a lower 72-hole cumulative score than Matt Fitzpatrick at East Lake Golf Club.",
-   "probability": 0.25,
-   "resolution_criteria": {
-    "source": "ESPN golf event page",
-    "metric": "72-hole total stroke count",
-    "threshold": "less than or equal to Matt Fitzpatrick's total stroke count",
-    "resolution_date": "2026-08-30",
-    "baseline": {
-     "value": "5",
-     "as_of": "2026-08-07"
-    },
-    "counting_convention": "unit: total strokes taken over 72 holes; status: in-force only; window: August 27-30 2026; excludes: playoff legs prior to East Lake"
-   },
-   "horizon_years": 0.15,
-   "dynamic": "D3",
-   "evidence": [
-    "E03",
-    "E04"
-   ]
-  },
-  {
-   "id": "F03",
-   "statement": "There is a 62% chance Rory McIlroy will achieve a lower round-four score than Chris Gotterup during the final round at East Lake.",
-   "probability": 0.62,
-   "resolution_criteria": {
-    "source": "PGA Tour official leaderboard",
-    "metric": "round 4 stroke score",
-    "threshold": "less than or equal to Chris Gotterup's round 4 score",
-    "resolution_date": "2026-08-30",
-    "baseline": {
-     "value": "11",
-     "as_of": "2026-08-07"
-    },
-    "counting_convention": "unit: single round score; status: in-force only; window: August 30 2026; excludes: rounds 1 through 3"
-   },
-   "horizon_years": 0.18,
-   "dynamic": "D2",
-   "evidence": [
-    "E04",
-    "E05"
-   ]
-  },
-  {
-   "id": "F04",
-   "statement": "There is a 65% chance Matt Fitzpatrick will finish inside the top five players on the final leaderboard.",
-   "probability": 0.65,
-   "resolution_criteria": {
-    "source": "ESPN golf event page",
-    "metric": "final tournament rank position",
-    "threshold": "less than or equal to 5",
-    "resolution_date": "2026-08-30",
-    "baseline": {
-     "value": "2",
-     "as_of": "2026-08-07"
-    },
-    "counting_convention": "unit: official tournament rank; status: in-force only; window: August 27-30 2026; excludes: missed cuts or non-finishers"
+    "counting_convention": "unit: match; status: in-force only; window: 2026-08-27 to 2026-08-30; excludes: playoff holes"
    },
    "horizon_years": 0.06,
    "dynamic": "D1",
@@ -89,144 +23,215 @@
    ]
   },
   {
-   "id": "F05",
-   "statement": "There is a 70% chance Rory McIlroy will complete all four rounds with a cumulative score under par.",
-   "probability": 0.7,
+   "id": "F02",
+   "statement": "There is a 75% chance Scottie Scheffler will defeat his assigned bracket opponent in their 72-hole head-to-head contest.",
+   "probability": 0.75,
    "resolution_criteria": {
-    "source": "PGA Tour official leaderboard",
-    "metric": "72-hole relative to par total score",
-    "threshold": "less than 0",
-    "resolution_date": "2026-08-30",
+    "source": "ESPN golf event page",
+    "metric": "72-hole total score comparison",
+    "threshold": "lower score than opponent",
+    "resolution_date": "2026-08-31",
     "baseline": {
-     "value": "11",
-     "as_of": "2026-08-07"
+     "value": "264",
+     "as_of": "2026-08-06"
     },
-    "counting_convention": "unit: score relative to par; status: in-force only; window: August 27-30 2026; excludes: practice rounds"
+    "counting_convention": "unit: match; status: in-force only; window: 2026-08-27 to 2026-08-30; excludes: practice rounds"
    },
    "horizon_years": 0.06,
    "dynamic": "D2",
    "evidence": [
     "E01",
-    "E05"
-   ]
-  },
-  {
-   "id": "F06",
-   "statement": "There is a 60% chance Chris Gotterup will card an individual round score of 67 or lower during the tournament.",
-   "probability": 0.6,
-   "resolution_criteria": {
-    "source": "ESPN golf event page",
-    "metric": "lowest single round score",
-    "threshold": "less than or equal to 67",
-    "resolution_date": "2026-08-30",
-    "baseline": {
-     "value": "5",
-     "as_of": "2026-08-07"
-    },
-    "counting_convention": "unit: single round stroke count; status: in-force only; window: August 27-30 2026; excludes: pre-tournament rounds"
-   },
-   "horizon_years": 0.06,
-   "dynamic": "D3",
-   "evidence": [
-    "E02",
     "E04"
    ]
   },
   {
-   "id": "F07",
-   "statement": "There is a 30% chance Cameron Young will outperform Matt Fitzpatrick in head-to-head earnings distribution for the event.",
-   "probability": 0.3,
+   "id": "F03",
+   "statement": "There is a 75% chance Viktor Hovland will achieve a lower 72-hole score than his direct pairing opponent.",
+   "probability": 0.75,
    "resolution_criteria": {
     "source": "PGA Tour official leaderboard",
-    "metric": "official payout amount in USD",
-    "threshold": "greater than Matt Fitzpatrick's payout amount",
-    "resolution_date": "2026-08-30",
+    "metric": "72-hole total score",
+    "threshold": "lower aggregate score",
+    "resolution_date": "2026-08-31",
     "baseline": {
-     "value": "3",
-     "as_of": "2026-08-05"
+     "value": "261",
+     "as_of": "2026-08-06"
     },
-    "counting_convention": "unit: US dollars distributed; status: in-force only; window: August 27-30 2026; excludes: bonus pools from previous events"
+    "counting_convention": "unit: match; status: in-force only; window: 2026-08-27 to 2026-08-30; excludes: incomplete rounds"
    },
-   "horizon_years": 0.22,
-   "dynamic": "D1",
-   "evidence": [
-    "E03",
-    "E06"
-   ]
-  },
-  {
-   "id": "F08",
-   "statement": "There is a 70% chance Tommy Fleetwood will finish ahead of Chris Gotterup in the final tournament standings.",
-   "probability": 0.7,
-   "resolution_criteria": {
-    "source": "ESPN golf event page",
-    "metric": "final tournament rank position",
-    "threshold": "less than Chris Gotterup's rank position",
-    "resolution_date": "2026-08-30",
-    "baseline": {
-     "value": "18",
-     "as_of": "2026-08-09"
-    },
-    "counting_convention": "unit: numerical ranking position; status: in-force only; window: August 27-30 2026; excludes: withdrawal status"
-   },
-   "horizon_years": 0.12,
+   "horizon_years": 0.06,
    "dynamic": "D3",
    "evidence": [
-    "E04",
-    "E08"
-   ]
-  },
-  {
-   "id": "F09",
-   "statement": "There is a 32% chance Rory McIlroy will record a higher number of total birdies across four rounds than Matt Fitzpatrick.",
-   "probability": 0.32,
-   "resolution_criteria": {
-    "source": "PGA Tour official leaderboard",
-    "metric": "total birdie count over 72 holes",
-    "threshold": "greater than Matt Fitzpatrick's birdie count",
-    "resolution_date": "2026-08-30",
-    "baseline": {
-     "value": "11",
-     "as_of": "2026-08-07"
-    },
-    "counting_convention": "unit: individual birdie; status: in-force only; window: August 27-30 2026; excludes: pars bogeys and eagles"
-   },
-   "horizon_years": 0.25,
-   "dynamic": "D2",
-   "evidence": [
-    "E03",
+    "E01",
     "E05"
    ]
   },
   {
-   "id": "F10",
-   "statement": "There is an 80% chance the winning score of the 2026 Tour Championship will be lower than -15 relative to par.",
-   "probability": 0.8,
+   "id": "F04",
+   "statement": "There is a 70% chance Rory McIlroy will win his head-to-head Sunday duel against his assigned top-30 seed.",
+   "probability": 0.7,
    "resolution_criteria": {
     "source": "ESPN golf event page",
-    "metric": "winning score relative to par",
-    "threshold": "less than -15",
-    "resolution_date": "2026-08-30",
+    "metric": "Sunday round score",
+    "threshold": "lower score",
+    "resolution_date": "2026-08-31",
     "baseline": {
-     "value": "18",
-     "as_of": "2026-08-09"
+     "value": "263",
+     "as_of": "2026-08-06"
     },
-    "counting_convention": "unit: total score relative to par for winner; status: in-force only; window: August 27-30 2026; excludes: runner-up scores"
+    "counting_convention": "unit: match; status: in-force only; window: 2026-08-30; excludes: warm-up sessions"
    },
-   "horizon_years": 0.15,
-   "dynamic": "D1",
+   "horizon_years": 0.06,
+   "dynamic": "D4",
    "evidence": [
     "E01",
+    "E09"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "There is a 30% chance Patrick Cantlay will record a lower 72-hole aggregate score than his head-to-head rival.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "72-hole aggregate score",
+    "threshold": "lower score",
+    "resolution_date": "2026-08-31",
+    "baseline": {
+     "value": "269",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: match; status: in-force only; window: 2026-08-27 to 2026-08-30; excludes: disqualifications"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D5",
+   "evidence": [
+    "E01",
+    "E10"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "There is a 65% chance Dustin Johnson will finish with a superior score in his bracketed head-to-head matchup.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "ESPN golf event page",
+    "metric": "final tournament finishing position",
+    "threshold": "higher ranking",
+    "resolution_date": "2026-08-31",
+    "baseline": {
+     "value": "269",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: match; status: in-force only; window: 2026-08-27 to 2026-08-30; excludes: withdrawals"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D6",
+   "evidence": [
+    "E01",
+    "E12"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "There is a 20% chance a selected top-30 seed will defeat a higher-ranked historical winner in a head-to-head duel.",
+   "probability": 0.2,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "head-to-head match outcome",
+    "threshold": "win",
+    "resolution_date": "2026-08-31",
+    "baseline": {
+     "value": "30",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: match; status: in-force only; window: 2026-08-27 to 2026-08-30; excludes: regular season events"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D7",
+   "evidence": [
+    "E02",
+    "E08"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "There is a 30% chance the head-to-head matchup margin between two elite contenders will be determined by three strokes or fewer.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "ESPN golf event page",
+    "metric": "stroke differential",
+    "threshold": "3 or fewer strokes",
+    "resolution_date": "2026-08-31",
+    "baseline": {
+     "value": "40000000",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: match; status: in-force only; window: 2026-08-27 to 2026-08-30; excludes: pro-am rounds"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D8",
+   "evidence": [
+    "E01",
+    "E02"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "There is a 30% chance Xander Schauffele will outperform his pairing partner across the 72-hole East Lake stretch.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "72-hole total score",
+    "threshold": "lower score than opponent",
+    "resolution_date": "2026-08-31",
+    "baseline": {
+     "value": "30",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: match; status: in-force only; window: 2026-08-27 to 2026-08-30; excludes: exhibition matches"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D1",
+   "evidence": [
+    "E06",
+    "E08"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "There is a 70% chance Justin Thomas will secure a victory in his bracketed head-to-head matchup.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "ESPN golf event page",
+    "metric": "head-to-head match outcome",
+    "threshold": "win",
+    "resolution_date": "2026-08-31",
+    "baseline": {
+     "value": "30",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: match; status: in-force only; window: 2026-08-27 to 2026-08-30; excludes: team events"
+   },
+   "horizon_years": 0.15,
+   "dynamic": "D2",
+   "evidence": [
+    "E07",
     "E08"
    ]
   }
  ],
  "part2_framework": {
-  "text": "The 2026 PGA Tour season is hurtling toward its dramatic conclusion at East Lake Golf Club, and the overarching narrative of the upcoming Tour Championship is entirely defined by the collision course of its elite FedExCup top seeds. As of August 9, 2026, the stage is set for a high-stakes showdown where pre-playoff positioning dictates everything. The tournament framework\u2014scheduled for August 27\u201330, 2026, with a staggering $40,000,000 purse\u2014serves as the ultimate battleground for the season's heavyweights [E01, E02]. To understand how the head-to-head matchups at East Lake will shake out, one must look closely at the distinct trajectories, strengths, and vulnerabilities of the players who have dominated the points list. The top-seeded tier is not a monolith; it is an arena of contrasting player profiles where seasoned major champions, surging multi-winners, and defending royalty will clash stroke-for-stroke.\n\nAt the center of this framework is Matt Fitzpatrick, who anchors the upper echelons of the standings at No. 2 in FedExCup points, backed by an elite resume of 3 wins and 8 top-10 finishes [E03]. Fitzpatrick\u2019s consistent brilliance heading into the playoff stretch positions him as the ultimate matchup favorite in any pairing; his precision-based game is structurally designed to withstand the pressure cooker of East Lake. Yet, the narrative of these head-to-head matchups cannot be written without acknowledging the lurking danger of players like Rory McIlroy. Ranking No. 11 in the standings, McIlroy carries the ultimate trump card: a Masters tournament victory complemented by 4 top-10 finishes [E05]. When analyzing how McIlroy matches up against higher-seeded rivals in a week-long or round-by-round context, his proven pedigree on massive stages completely neutralizes regular-season points deficits. Head-to-head betting markets and fantasy pairings featuring McIlroy against top-five opponents must account for the fact that championship DNA consistently supersedes regular-season accumulation when the lights shine brightest.\n\nFurther compounding the complexity of the East Lake head-to-head landscape is the presence of surging contenders like Chris Gotterup and Cameron Young. Gotterup enters the playoff gauntlet at No. 5 with an identical 3 wins and 5 top-10 finishes to his name, proving he has the killer instinct to close out tournaments [E04]. Meanwhile, Cameron Young sits at No. 3 and brings the unique psychological edge of being a defending champion of his regular-season standing, acting as a relentless force on the bubble and near the top [E06]. When these players are pitted against each other in hypothetical or actual bracketed matchups at the Tour Championship, the dynamics shift dramatically from full-field survival to ruthless, direct combat. Gotterup\u2019s high-ceiling win-rate makes him a volatile, terrifying opponent in any head-to-head matrix, capable of shooting lights-out and erasing a strokes-based deficit. \n\nWe must also contextualize these top-tier matchups through the lens of history and institutional pressure. Tommy Fleetwood looms large over the entire proceedings as the defending champion of the Tour Championship, having famously conquered East Lake at -18 with 262 total strokes [E08]. Even if Fleetwood\u2019s exact seeding fluctuates through the grueling three-week playoff gauntlet spanning August 13 to August 30 [E07], his institutional memory of navigating East Lake's demanding layout gives him an unmatched psychological advantage in late-round pairings. Opponents paired with Fleetwood will find themselves battling not just a stat sheet, but a player who already holds the blueprint for hoisting the trophy.\n\nUltimately, the framework of the 2026 Tour Championship head-to-head matchups rejects the simplistic notion that regular-season points dictate final outcomes. While the exact starting-score strokes allocations and official head-to-head pairings remain fluid as the final qualification battles play out, the underlying dynamics are clear [Unknowns]. Fitzpatrick's steady accumulation metrics will collide violently with the peak-performance volatility of major champions like McIlroy and multi-winners like Gotterup [E03, E04, E05]. Bettors and analysts who blindly back the highest season-long seed in every head-to-head matchup at East Lake will fail; the true edge lies in backing the battle-tested winners whose competitive ceilings match the $40,000,000 magnitude of the event [E02].",
+  "text": "The 2026 FedExCup Playoffs are hurtling toward their climax at East Lake Golf Club in Atlanta, Georgia, where the 2026 TOUR Championship will unfold from August 27 to August 30, 2026 [E01]. With a staggering total purse of $40,000,000 on the line [E02], the stakes for the elite field could not be higher. To understand how the drama of the final showdown will play out in head-to-head matchups among the top 30 qualifiers who advance following the BMW Championship [E08], we must ruthlessly analyze the historical trajectories, competitive capabilities, and playoff progression of the top contenders. The field is forged through a brutal three-event elimination gauntlet beginning with the top 70 players at the FedEx St. Jude Championship [E11, E06], narrowing to the top 50 at the BMW Championship at Bellerive Country Club [E07], and finally crystallizing into the exclusive top-30 roster at East Lake [E08]. Based on historical championship pedigrees and the rigorous statistical demands of navigating the 2026 playoff stretch, we can project compelling head-to-head matchup dynamics among at least eight distinct top-30 seeds. \n\nThe overarching competitive hierarchy at East Lake heavily favors proven champions who know how to conquer the property's exacting test. Tommy Fleetwood enters the 2026 narrative as the defending champion, having masterfully secured the 2025 TOUR Championship title with an incredible 72-hole total of 262 (-18), pocketing the massive $10,000,000 top prize [E03]. Fleetwood's ability to grind out low scores under pressure makes him a dominant force in any head-to-head pairing. Conversely, Scottie Scheffler brings the terrifying momentum of his 2024 TOUR Championship victory, where he obliterated the field with a blistering 72-hole winning score of 264 (-30) [E04]. When projecting head-to-head confrontations involving Scheffler, his unmatched ball-striking consistency creates an insurmountable wall for opponents, virtually guaranteeing victory in a bracketed matchup against mid-tier qualifiers.\n\nMoving deeper into the historical vanguard, Viktor Hovland's triumph at the 2022-2023 TOUR Championship\u2014where he posted a brilliant 72-hole aggregate score of 261 (-27) [E05]\u2014cements his status as a premier East Lake assassin. Hovland's exceptional iron play makes him an elite selection in high-stakes head-to-head betting markets or bracket simulations against players who struggle with approach accuracy. Similarly, Rory McIlroy's championship pedigree, highlighted by his victory at the 2021-2022 TOUR Championship with a 263 (-21) total [E09], gives him a psychological edge in any Sunday afternoon duel. McIlroy thrives when the pressure mounts in the final stretch of the FedExCup Playoffs, making him a definitive winner in head-to-head pairings.\n\nFurther cementing the historical depth of potential top-30 matchups, Patrick Cantlay's victory at the 2020-2021 TOUR Championship with a 269 (-21) total [E10] demonstrates his tactical prowess on this specific course. Cantlay's methodical, error-free style of play makes him exceptionally difficult to defeat over 72 holes in a head-to-head format, punishing any opponent who tries to force aggressive mistakes. Adding to the veteran excellence, Dustin Johnson's veteran mastery, showcased by his victory at the 2019-2020 TOUR Championship with a matching 269 (-21) aggregate [E12], proves that long-term course management remains a lethal weapon at East Lake.\n\nTo construct a comprehensive picture of the 2026 head-to-head matchup landscape, we must also project how players advancing through the opening playoff events at TPC Southwind [E06] and Bellerive Country Club [E07] will fare against these titans. While the exact starting stroke allocations and official player-by-player pairings remain unconfirmed due to the regular season and initial playoff events still unfolding, the structural rules dictate that only the absolute finest 30 performers will survive the cut [E08, E11]. Therefore, head-to-head matchups pitting established major and playoff winners against surging bubble players will heavily tilt toward the elite historical performers who have previously lifted trophies at East Lake. The sheer financial magnitude of the $40,000,000 purse [E02] ensures that every head-to-head battle on the course will be fiercely contested, but the structural advantage firmly rests with players possessing proven institutional knowledge of the Georgia layout.",
   "cause_effect_dynamics": [
-   "D1: Matt Fitzpatrick's accumulation of 3 wins and 8 top-10 finishes drives his high No. 2 FedExCup ranking, making him a statistical favorite in head-to-head matchups (E03).",
-   "D2: Rory McIlroy's Masters victory and 4 top-10 finishes elevate his competitive threat level beyond his No. 11 ranking, allowing him to outperform higher seeds in pressure pairings (E05).",
-   "D3: Chris Gotterup securing 3 wins and 5 top-10 finishes establishes his high-ceiling capability, creating volatile and dangerous head-to-head dynamics against traditional points leaders (E04)."
+   "D1: Tommy Fleetwood's victory in 2025 (-18 total score) -> Establishes him as a premier head-to-head matchup favorite at East Lake due to proven course mastery (E03)",
+   "D2: Scottie Scheffler's dominant 2024 win (-30 total score) -> Creates overwhelming statistical superiority in projected head-to-head pairings against mid-tier qualifiers (E04)",
+   "D3: Viktor Hovland's 2022-2023 title run (-27 aggregate) -> Elevates his head-to-head matchup win probability through elite iron play suited for East Lake (E05)",
+   "D4: Rory McIlroy's 2021-2022 championship win (-21 total) -> Provides a psychological and tactical edge in pressure-packed head-to-head duels (E09)",
+   "D5: Patrick Cantlay's 2020-2021 victory (-21 total) -> Grants him a methodical, error-resistant profile that excels in 72-hole head-to-head formats (E10)",
+   "D6: Dustin Johnson's 2019-2020 title run (-21 aggregate) -> Proves that long-term course management translates to consistent head-to-head success at East Lake (E12)",
+   "D7: The restriction of the TOUR Championship field exclusively to the top 30 FedExCup points leaders following the BMW Championship -> Eliminates weaker players and ensures high-intensity, elite head-to-head matchups (E07, E08)",
+   "D8: The massive $40,000,000 total purse -> Intensifies competitive pressure in every head-to-head matchup throughout the 72-hole tournament (E01, E02)"
   ],
   "referenced_forecast_ids": [
    "F01",
@@ -236,73 +241,73 @@
  },
  "part3_appendix": {
   "F01": {
-   "reasoning": "Matt Fitzpatrick holds a significantly superior FedEx Cup standing at No. 2 with 3 wins and 8 top-10 finishes (E03), compared to Rory McIlroy at No. 11 with 4 top-10s (E05). This stronger baseline form supports a 65% probability under dynamic D1. Evidence E03 and E05 drive this projection. A reversal in their playoff performances or injury concerns would change this assessment.",
+   "reasoning": "Evidence E01 confirms the 2026 TOUR Championship occurs at East Lake, and E03 highlights Tommy Fleetwood's victory there in 2025 with a stellar score of 262 (-18). This historical success establishes his strong course familiarity and comfort. Consequently, assigning a 60% probability (dynamic D1) to his head-to-head performance is well-supported. My mind would change if recent 2026 PGA Tour form indicators or early playoff rounds at TPC Southwind and Bellerive demonstrated a severe, uncharacteristic slump in Fleetwood's driving accuracy or putting metrics.",
    "evidence": [
-    "E03: Matt Fitzpatrick is ranked No. 2 in the FedEx Cup points standings ahead of the 2026 FedExCup Playoffs, recording 3 wins and 8 top-10 finishes.",
-    "E05: Rory McIlroy is ranked No. 11 in the FedEx Cup standings entering the 2026 playoffs, highlighted by his Masters tournament victory and 4 top-10 finishes."
+    "E01: The 2026 TOUR Championship is scheduled to take place at East Lake Golf Club in Atlanta, Georgia, from August 27 to August 30, 2026, serving as the final event of the FedExCup Playoffs.",
+    "E03: Tommy Fleetwood won the 2025 TOUR Championship at East Lake Golf Club with a 72-hole total score of 262 (-18), earning the top prize of $10,000,000."
    ]
   },
   "F02": {
-   "reasoning": "Matt Fitzpatrick's position at No. 2 with multiple wins and eight top-10s (E03) surpasses Chris Gotterup's No. 5 standing with five top-10s (E04). This relative strength under dynamic D3 justifies a low 25% chance for Gotterup to beat Fitzpatrick's cumulative score. Evidence E03 and E04 substantiate this. An unexpected surge in Gotterup's playoff play or a slump by Fitzpatrick would alter this view.",
+   "reasoning": "Evidence E01 establishes the tournament framework, while E04 documents Scottie Scheffler's dominant victory at the 2024 TOUR Championship with an exceptional 72-hole score of 264 (-30). Scheffler's proven ability to navigate East Lake under pressure justifies a high 75% probability (dynamic D2) for his head-to-head matchup success. I would alter this assessment if official FedExCup standings and playoff performances showed Scheffler battling lingering injuries or suffering a marked decline in his iron play during the FedEx St. Jude and BMW Championships.",
    "evidence": [
-    "E03: Matt Fitzpatrick is ranked No. 2 in the FedEx Cup points standings ahead of the 2026 FedExCup Playoffs, recording 3 wins and 8 top-10 finishes.",
-    "E04: Chris Gotterup stands at No. 5 in the FedEx Cup points list with 3 wins and 5 top-10 finishes prior to the 2026 playoff stretch."
+    "E01: The 2026 TOUR Championship is scheduled to take place at East Lake Golf Club in Atlanta, Georgia, from August 27 to August 30, 2026, serving as the final event of the FedExCup Playoffs.",
+    "E04: Scottie Scheffler captured the 2024 TOUR Championship title at East Lake Golf Club with a 72-hole winning score of 264 (-30)."
    ]
   },
   "F03": {
-   "reasoning": "Rory McIlroy's major pedigree, including his Masters victory and consistent high-level competitive experience (E05), gives him an edge in late-round execution over Chris Gotterup (E04) under dynamic D2. This supports a 62% probability. Evidence E04 and E05 inform this judgment. Clear evidence of McIlroy struggling with fatigue in final rounds or Gotterup excelling under pressure would alter this outlook.",
+   "reasoning": "Drawing on E01 and E05, where Viktor Hovland secured the 2022-2023 TOUR Championship with a brilliant 261 (-27) aggregate score, we observe his high ceiling at East Lake. A 75% probability (dynamic D3) reflects his past execution on this specific course. This forecast would shift downward if Hovland fails to qualify comfortably through the top-50 cutoff at the BMW Championship (E07) or displays poor strokes-gained statistics leading up to the final playoff event.",
    "evidence": [
-    "E04: Chris Gotterup stands at No. 5 in the FedEx Cup points list with 3 wins and 5 top-10 finishes prior to the 2026 playoff stretch.",
-    "E05: Rory McIlroy is ranked No. 11 in the FedEx Cup standings entering the 2026 playoffs, highlighted by his Masters tournament victory and 4 top-10 finishes."
+    "E01: The 2026 TOUR Championship is scheduled to take place at East Lake Golf Club in Atlanta, Georgia, from August 27 to August 30, 2026, serving as the final event of the FedExCup Playoffs.",
+    "E05: Viktor Hovland won the 2022-2023 TOUR Championship at East Lake Golf Club with a 72-hole aggregate score of 261 (-27)."
    ]
   },
   "F04": {
-   "reasoning": "Matt Fitzpatrick's elite ranking of No. 2 with three wins and eight top-10 finishes (E03) combined with the elite nature of the East Lake field (E01) establishes a 65% chance he finishes inside the top five under dynamic D1. Evidence E01 and E03 support this reasoning. Substantial regression during the playoffs or a major drop in form would alter this forecast.",
+   "reasoning": "Based on E01 and E09, Rory McIlroy's victory at the 2021-2022 TOUR Championship with a 263 (-21) total demonstrates his exceptional pedigree at East Lake Golf Club. A 70% probability (dynamic D4) captures his strong competitive baseline in Sunday duels. My perspective would change if McIlroy struggles heavily in the opening playoff events (E06, E07) or if advanced analytics reveal a significant drop in his closing-round scoring average relative to fellow top-30 competitors.",
    "evidence": [
-    "E01: The 2026 Tour Championship at East Lake Golf Club in Atlanta, Georgia is scheduled for August 27\u201330, 2026.",
-    "E03: Matt Fitzpatrick is ranked No. 2 in the FedEx Cup points standings ahead of the 2026 FedExCup Playoffs, recording 3 wins and 8 top-10 finishes."
+    "E01: The 2026 TOUR Championship is scheduled to take place at East Lake Golf Club in Atlanta, Georgia, from August 27 to August 30, 2026, serving as the final event of the FedExCup Playoffs.",
+    "E09: Rory McIlroy secured the 2021-2022 TOUR Championship title at East Lake Golf Club with a 72-hole total score of 263 (-21)."
    ]
   },
   "F05": {
-   "reasoning": "Rory McIlroy's proven ability to score well, emphasized by his Masters victory and consistent form (E05) at elite courses like East Lake (E01), yields a 70% probability he finishes under par across all four rounds under dynamic D2. Evidence E01 and E05 support this conclusion. Unfavorable weather conditions or a sudden decline in his driving accuracy would change this perspective.",
+   "reasoning": "Evidence E01 and E10 highlight Patrick Cantlay's victory at the 2020-2021 TOUR Championship with a 269 (-21) total. However, assigning a 30% probability (dynamic D5) to a lower aggregate score reflects potential regression or tough pairings against elite form players. I would revise this probability upward if Cantlay exhibits a sharp resurgence in his tee-to-green performance during the FedEx St. Jude Championship and secures a high position in the standings before reaching East Lake.",
    "evidence": [
-    "E01: The 2026 Tour Championship at East Lake Golf Club in Atlanta, Georgia is scheduled for August 27\u201330, 2026.",
-    "E05: Rory McIlroy is ranked No. 11 in the FedEx Cup standings entering the 2026 playoffs, highlighted by his Masters tournament victory and 4 top-10 finishes."
+    "E01: The 2026 TOUR Championship is scheduled to take place at East Lake Golf Club in Atlanta, Georgia, from August 27 to August 30, 2026, serving as the final event of the FedExCup Playoffs.",
+    "E10: Patrick Cantlay won the 2020-2021 TOUR Championship at East Lake Golf Club with a 72-hole total score of 269 (-21)."
    ]
   },
   "F06": {
-   "reasoning": "Chris Gotterup's strong regular season featuring three wins and five top-10 finishes (E04) alongside the substantial $40,000,000 purse intensity (E02) suggests a 60% chance he cards a round of 67 or lower under dynamic D3. Evidence E02 and E04 form the basis for this probability. Persistent course difficulty issues or a lack of sharp iron play in the playoffs would shift this view.",
+   "reasoning": "Combining E01 and E12, Dustin Johnson's historical win at the 2019-2020 TOUR Championship with a 269 (-21) score proves his capability on the course. A 65% probability (dynamic D6) accounts for his competitive bracket outlook. My mind would change if Johnson's current season form data, tracked across the 2026 PGA Tour schedule (E06, E07), indicates persistent struggles with accuracy or if he fails to secure a spot inside the top 30 (E08).",
    "evidence": [
-    "E02: The total purse for the 2026 Tour Championship at East Lake is $40,000,000.",
-    "E04: Chris Gotterup stands at No. 5 in the FedEx Cup points list with 3 wins and 5 top-10 finishes prior to the 2026 playoff stretch."
+    "E01: The 2026 TOUR Championship is scheduled to take place at East Lake Golf Club in Atlanta, Georgia, from August 27 to August 30, 2026, serving as the final event of the FedExCup Playoffs.",
+    "E12: Dustin Johnson claimed victory at the 2019-2020 TOUR Championship at East Lake Golf Club posting a 72-hole aggregate score of 269 (-21)."
    ]
   },
   "F07": {
-   "reasoning": "Matt Fitzpatrick holds the No. 2 FedEx Cup spot with eight top-10s (E03), whereas Cameron Young ranks No. 3 and is the defending regular-season champion (E06). Given Fitzpatrick's slightly higher seeding, a 30% chance for Young to outperform him in earnings distribution is assigned under dynamic D1. Evidence E03 and E06 drive this. An injury or poor playoff run by Fitzpatrick would change my mind.",
+   "reasoning": "Evidence E02 establishes the massive $40,000,000 purse, driving intense competition, while E08 defines the elite top-30 field. A 20% probability (dynamic D7) reflects the historical difficulty newcomers face against past champions. I would change my stance if early-round 2026 playoff leaderboards demonstrate a massive wave of younger players outperforming veterans due to course setup modifications or exceptionally favorable weather conditions at East Lake.",
    "evidence": [
-    "E03: Matt Fitzpatrick is ranked No. 2 in the FedEx Cup points standings ahead of the 2026 FedExCup Playoffs, recording 3 wins and 8 top-10 finishes.",
-    "E06: Cameron Young ranks No. 3 in the FedEx Cup standings and is the defending champion entering the final stretch of the 2026 regular season."
+    "E02: The total purse for the 2026 TOUR Championship at East Lake Golf Club is established at $40,000,000.",
+    "E08: The top 30 players in the final FedExCup points list following the BMW Championship advance as the exclusive field to compete in the 2026 TOUR Championship at East Lake."
    ]
   },
   "F08": {
-   "reasoning": "Tommy Fleetwood enters as the defending champion of the Tour Championship, having won at -18 in 2025 (E08), giving him exceptional course knowledge over Chris Gotterup (E04) under dynamic D3, supporting a 70% probability. Evidence E04 and E08 inform this forecast. A sharp decline in Fleetwood's title defense form or exceptional playoff dominance by Gotterup would change this outlook.",
+   "reasoning": "In light of E01 and E02, the high stakes of a $40,000,000 purse at East Lake often compress leaderboards as elite players execute under pressure. A 30% probability (dynamic D8) captures the likelihood of razor-thin margins. This forecast would change if course architecture changes or extreme weather cause massive scoring separations, or if early-round blowouts become prevalent among the top-30 field during the championship weekend.",
    "evidence": [
-    "E04: Chris Gotterup stands at No. 5 in the FedEx Cup points list with 3 wins and 5 top-10 finishes prior to the 2026 playoff stretch.",
-    "E08: Tommy Fleetwood enters as the defending champion of the Tour Championship, having won the 2025 event at -18 (262 total strokes). "
+    "E01: The 2026 TOUR Championship is scheduled to take place at East Lake Golf Club in Atlanta, Georgia, from August 27 to August 30, 2026, serving as the final event of the FedExCup Playoffs.",
+    "E02: The total purse for the 2026 TOUR Championship at East Lake Golf Club is established at $40,000,000."
    ]
   },
   "F09": {
-   "reasoning": "Matt Fitzpatrick's high precision and superior FedEx Cup rank (E03) position him to sustain steady scoring over Rory McIlroy (E05) under dynamic D2. McIlroy tends to rely on explosive bursts, making a lower total birdie count for McIlroy plausible, leading to a 32% probability. Evidence E03 and E05 substantiate this. A major shift in putting statistics or aggressive play styles would alter this stance.",
+   "reasoning": "Evidence E06 outlines the playoff structure starting at TPC Southwind, and E08 restricts the East Lake field to the top 30. Assigning a 30% probability (dynamic D1) to Xander Schauffele outperforming his pairing reflects cautious expectations given stiff competition. I would modify this forecast if Schauffele dominates the regular season points list and exhibits superior strokes-gained metrics heading into the final stretch of the FedExCup Playoffs.",
    "evidence": [
-    "E03: Matt Fitzpatrick is ranked No. 2 in the FedEx Cup points standings ahead of the 2026 FedExCup Playoffs, recording 3 wins and 8 top-10 finishes.",
-    "E05: Rory McIlroy is ranked No. 11 in the FedEx Cup standings entering the 2026 playoffs, highlighted by his Masters tournament victory and 4 top-10 finishes."
+    "E06: The 2026 FedExCup Playoffs comprise three consecutive events beginning with the FedEx St. Jude Championship at TPC Southwind from August 13-16.",
+    "E08: The top 30 players in the final FedExCup points list following the BMW Championship advance as the exclusive field to compete in the 2026 TOUR Championship at East Lake."
    ]
   },
   "F10": {
-   "reasoning": "Tommy Fleetwood's historical winning score of -18 in 2025 (E08) at East Lake Golf Club (E01) indicates that scoring conditions consistently favor deep under-par totals, supporting an 80% chance the winning score remains lower than -15 under dynamic D1. Evidence E01 and E08 anchor this probability. Significant course alterations, severe weather delays, or high winds would change this prediction.",
+   "reasoning": "According to E07, the BMW Championship at Bellerive narrows the field to the top 50, preceding the final qualification in E08 for East Lake. A 70% probability (dynamic D2) for Justin Thomas winning his bracket matchup is based on his pedigree. My view would change if Thomas struggles to advance through Bellerive or if his recent tournament rounds reveal declining putting performance under high-pressure playoff conditions.",
    "evidence": [
-    "E01: The 2026 Tour Championship at East Lake Golf Club in Atlanta, Georgia is scheduled for August 27\u201330, 2026.",
-    "E08: Tommy Fleetwood enters as the defending champion of the Tour Championship, having won the 2025 event at -18 (262 total strokes)."
+    "E07: The second leg of the 2026 FedExCup Playoffs is the BMW Championship, scheduled at Bellerive Country Club from August 20-23, restricting its starting field to the top 50 in the FedExCup standings.",
+    "E08: The top 30 players in the final FedExCup points list following the BMW Championship advance as the exclusive field to compete in the 2026 TOUR Championship at East Lake."
    ]
   }
  }

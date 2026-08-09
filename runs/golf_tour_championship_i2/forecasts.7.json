@@ -2,8 +2,8 @@
  "part1_forecasts": [
   {
    "id": "F01",
-   "statement": "There is a 20% chance Tommy Fleetwood will finish ahead of his opponent in a head-to-head matchup at the 2026 TOUR Championship.",
-   "probability": 0.2,
+   "statement": "There is a 60% chance Tommy Fleetwood will finish ahead of his opponent in a head-to-head matchup at the 2026 TOUR Championship.",
+   "probability": 0.6,
    "resolution_criteria": {
     "source": "PGA Tour official leaderboard",
     "metric": "head to head matchup finishing position",
@@ -24,8 +24,8 @@
   },
   {
    "id": "F02",
-   "statement": "There is a 25% chance Scottie Scheffler will defeat his assigned bracket opponent in their 72-hole head-to-head contest.",
-   "probability": 0.25,
+   "statement": "There is a 75% chance Scottie Scheffler will defeat his assigned bracket opponent in their 72-hole head-to-head contest.",
+   "probability": 0.75,
    "resolution_criteria": {
     "source": "ESPN golf event page",
     "metric": "72-hole total score comparison",
@@ -90,7 +90,7 @@
   },
   {
    "id": "F05",
-   "statement": "There is a 30% chance Patrick Cantlay will record a better 72-hole aggregate score than his head-to-head rival.",
+   "statement": "There is a 30% chance Patrick Cantlay will record a lower 72-hole aggregate score than his head-to-head rival.",
    "probability": 0.3,
    "resolution_criteria": {
     "source": "PGA Tour official leaderboard",
@@ -156,8 +156,8 @@
   },
   {
    "id": "F08",
-   "statement": "There is a 80% chance the head-to-head matchup margin between two elite contenders will be determined by three strokes or fewer.",
-   "probability": 0.8,
+   "statement": "There is a 30% chance the head-to-head matchup margin between two elite contenders will be determined by three strokes or fewer.",
+   "probability": 0.3,
    "resolution_criteria": {
     "source": "ESPN golf event page",
     "metric": "stroke differential",
@@ -194,7 +194,7 @@
    "horizon_years": 0.06,
    "dynamic": "D1",
    "evidence": [
-    "E01",
+    "E06",
     "E08"
    ]
   },
@@ -216,7 +216,7 @@
    "horizon_years": 0.15,
    "dynamic": "D2",
    "evidence": [
-    "E02",
+    "E07",
     "E08"
    ]
   }

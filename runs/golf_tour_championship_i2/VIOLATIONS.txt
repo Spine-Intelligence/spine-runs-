@@ -1,4 +1,1 @@
-[P1_LONG] no long-horizon forecast (>= 0.1y)
-[P1_EVID_CONC] evidence E03 underwrites 5 forecasts -- one source carrying the book is a correlated failure mode (max 3)
-[P1_EVID_CONC] evidence E04 underwrites 4 forecasts -- one source carrying the book is a correlated failure mode (max 3)
-[P1_EVID_CONC] evidence E05 underwrites 4 forecasts -- one source carrying the book is a correlated failure mode (max 3)
+[P1_EVID_CONC] evidence E01 underwrites 7 forecasts -- one source carrying the book is a correlated failure mode (max 3)

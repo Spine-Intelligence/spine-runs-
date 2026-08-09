@@ -2,91 +2,95 @@
  "evidence": [
   {
    "id": "E01",
-   "fact": "The 2026 Tour Championship at East Lake Golf Club in Atlanta, Georgia is scheduled for August 27\u201330, 2026.",
-   "as_of": "2026-08-09",
-   "source": "PGA Tour official leaderboard / event schedule",
+   "fact": "The 2026 TOUR Championship is scheduled to take place at East Lake Golf Club in Atlanta, Georgia, from August 27 to August 30, 2026, serving as the final event of the FedExCup Playoffs.",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour",
    "url": "https://www.pgatour.com/tournaments/2026/tour-championship/R2026522"
   },
   {
    "id": "E02",
-   "fact": "The total purse for the 2026 Tour Championship at East Lake is $40,000,000.",
-   "as_of": "2026-08-09",
-   "source": "PGA Tour official leaderboard / event schedule",
+   "fact": "The total purse for the 2026 TOUR Championship at East Lake Golf Club is established at $40,000,000.",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour",
    "url": "https://www.pgatour.com/tournaments/2026/tour-championship/R2026522"
   },
   {
    "id": "E03",
-   "fact": "Matt Fitzpatrick is ranked No. 2 in the FedEx Cup points standings ahead of the 2026 FedExCup Playoffs, recording 3 wins and 8 top-10 finishes.",
-   "as_of": "2026-08-07",
-   "source": "Athlon Sports / PGA Tour standings reporting",
-   "url": "https://athlonsports.com/golf/who-leads-pga-tour-player-rookie-of-the-year-races-before-playoffs-2026"
-  },
-  {
-   "id": "E04",
-   "fact": "Chris Gotterup stands at No. 5 in the FedEx Cup points list with 3 wins and 5 top-10 finishes prior to the 2026 playoff stretch.",
-   "as_of": "2026-08-07",
-   "source": "Athlon Sports / PGA Tour standings reporting",
-   "url": "https://athlonsports.com/golf/who-leads-pga-tour-player-rookie-of-the-year-races-before-playoffs-2026"
-  },
-  {
-   "id": "E05",
-   "fact": "Rory McIlroy is ranked No. 11 in the FedEx Cup standings entering the 2026 playoffs, highlighted by his Masters tournament victory and 4 top-10 finishes.",
-   "as_of": "2026-08-07",
-   "source": "Athlon Sports / PGA Tour standings reporting",
-   "url": "https://athlonsports.com/golf/who-leads-pga-tour-player-rookie-of-the-year-races-before-playoffs-2026"
-  },
-  {
-   "id": "E06",
-   "fact": "Cameron Young ranks No. 3 in the FedEx Cup standings and is the defending champion entering the final stretch of the 2026 regular season.",
-   "as_of": "2026-08-05",
-   "source": "CBS Sports / PGA Tour standings",
-   "url": "https://www.cbssports.com/golf/news/fedex-cup-key-players-on-the-bubble-at-2026-wyndham-championship/"
-  },
-  {
-   "id": "E07",
-   "fact": "The 2026 FedExCup Playoffs span three consecutive events from August 13 to August 30, 2026, culminating at East Lake Golf Club.",
-   "as_of": "2026-08-09",
-   "source": "Wikipedia / PGA Tour official schedule framework",
-   "url": "https://en.wikipedia.org/wiki/2026_FedEx_Cup_Playoffs"
-  },
-  {
-   "id": "E08",
-   "fact": "Tommy Fleetwood enters as the defending champion of the Tour Championship, having won the 2025 event at -18 (262 total strokes).",
-   "as_of": "2026-08-09",
-   "source": "PGA Tour official leaderboard history",
+   "fact": "Tommy Fleetwood won the 2025 TOUR Championship at East Lake Golf Club with a 72-hole total score of 262 (-18), earning the top prize of $10,000,000.",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour",
    "url": "https://www.pgatour.com/tournaments/2026/tour-championship/R2026522"
   },
   {
+   "id": "E04",
+   "fact": "Scottie Scheffler captured the 2024 TOUR Championship title at East Lake Golf Club with a 72-hole winning score of 264 (-30).",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour",
+   "url": "https://www.pgatour.com/tournaments/2026/tour-championship/R2026522"
+  },
+  {
+   "id": "E05",
+   "fact": "Viktor Hovland won the 2022-2023 TOUR Championship at East Lake Golf Club with a 72-hole aggregate score of 261 (-27).",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour",
+   "url": "https://www.pgatour.com/tournaments/2026/tour-championship/R2026522"
+  },
+  {
+   "id": "E06",
+   "fact": "The 2026 FedExCup Playoffs comprise three consecutive events beginning with the FedEx St. Jude Championship at TPC Southwind from August 13-16.",
+   "as_of": "2026-08-06",
+   "source": "NBC Sports / PGA Tour",
+   "url": "https://www.nbcsports.com/golf/news/2026-pga-tour-schedule"
+  },
+  {
+   "id": "E07",
+   "fact": "The second leg of the 2026 FedExCup Playoffs is the BMW Championship, scheduled at Bellerive Country Club from August 20-23, restricting its starting field to the top 50 in the FedExCup standings.",
+   "as_of": "2026-08-06",
+   "source": "NBC Sports / PGA Tour",
+   "url": "https://www.nbcsports.com/golf/news/2026-pga-tour-schedule"
+  },
+  {
+   "id": "E08",
+   "fact": "The top 30 players in the final FedExCup points list following the BMW Championship advance as the exclusive field to compete in the 2026 TOUR Championship at East Lake.",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour Standings Rule",
+   "url": "https://www.pgatour.com/fedexcup"
+  },
+  {
    "id": "E09",
-   "fact": "The top 70 players in FedExCup points following the Wyndham Championship advance to the first playoff leg, the FedEx St. Jude Championship.",
-   "as_of": "2026-08-05",
-   "source": "CBS Sports / PGA Tour reporting",
-   "url": "https://www.cbssports.com/golf/news/fedex-cup-key-players-on-the-bubble-at-2026-wyndham-championship/"
+   "fact": "Rory McIlroy secured the 2021-2022 TOUR Championship title at East Lake Golf Club with a 72-hole total score of 263 (-21).",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour",
+   "url": "https://www.pgatour.com/tournaments/2026/tour-championship/R2026522"
   },
   {
    "id": "E10",
-   "fact": "Jackson Koivun occupies a top-70 position for the 2026 playoffs following his victory at the 3M Open.",
-   "as_of": "2026-08-05",
-   "source": "CBS Sports / PGA Tour reporting",
-   "url": "https://www.cbssports.com/golf/news/fedex-cup-key-players-on-the-bubble-at-2026-wyndham-championship/"
+   "fact": "Patrick Cantlay won the 2020-2021 TOUR Championship at East Lake Golf Club with a 72-hole total score of 269 (-21).",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour",
+   "url": "https://www.pgatour.com/tournaments/2026/tour-championship/R2026522"
   },
   {
    "id": "E11",
-   "fact": "Aldrich Potgieter ranks inside the top 70 of the FedExCup points list heading into the final regular-season event.",
-   "as_of": "2026-08-05",
-   "source": "CBS Sports / PGA Tour reporting",
-   "url": "https://www.cbssports.com/golf/news/fedex-cup-key-players-on-the-bubble-at-2026-wyndham-championship/"
+   "fact": "The top 70 players in the PGA Tour FedExCup standings qualify to tee off at the opening playoff event, the FedEx St. Jude Championship.",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour Standings",
+   "url": "https://www.pgatour.com/fedexcup"
   },
   {
    "id": "E12",
-   "fact": "East Lake Golf Club hosts the Tour Championship as the final leg of the FedExCup Playoffs from August 27\u201330, 2026.",
-   "as_of": "2026-08-09",
-   "source": "PGA Tour official schedule",
+   "fact": "Dustin Johnson claimed victory at the 2019-2020 TOUR Championship at East Lake Golf Club posting a 72-hole aggregate score of 269 (-21).",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour",
    "url": "https://www.pgatour.com/tournaments/2026/tour-championship/R2026522"
   }
  ],
  "unknowns": [
-  "Exact head-to-head match-up pairings and starting-score strokes allocations for the final top 30 FedExCup seeds at the 2026 Tour Championship, as the regular-season events and playoff qualification tournaments are still underway.",
-  "Official post-Wyndham Championship final qualification list for the top 30 players who will advance specifically to East Lake."
+  {
+   "unknown": "Exact player-by-player head-to-head matchup pairings and official starting stroke allocations for the top 30 qualifiers at the 2026 Tour Championship, as the regular season and initial playoff events have not yet concluded to lock the final top-30 seed list."
+  },
+  {
+   "unknown": "Precise 72-hole scores, round-by-round breakdowns, and final margins for individual head-to-head match outcomes at the 2026 Tour Championship, given that the tournament dates (August 27-30, 2026) are set in the future relative to the current dossier baseline."
+  }
  ]
 }
