@@ -1,0 +1,17 @@
+[P1_BASELINE_BIND] F02: baseline 33.832B traces only to evidence about a DIFFERENT entity than 'Bank of America Corporation' -- a borrowed baseline is a cross-entity transplant
+[P1_BASELINE_BIND] F12: baseline -3.0% traces only to evidence about a DIFFERENT entity than 'Bank of America Corporation' -- a borrowed baseline is a cross-entity transplant
+[P1_BASELINE_BIND] F17: baseline +35.7% traces only to evidence about a DIFFERENT entity than 'Fifth Third Bancorp' -- a borrowed baseline is a cross-entity transplant
+[P3_RAW_NUMERIC] F02: raw numeric '33' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F07: raw numeric '20' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F10: raw numeric '29' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F17: raw numeric '20' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F20: raw numeric '29' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F21: raw numeric '42' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F22: raw numeric '43' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F24: raw numeric '45' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F25: raw numeric '46' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F26: raw numeric '47' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F27: raw numeric '48' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F28: raw numeric '49' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F29: raw numeric '50' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F30: raw numeric '51' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
