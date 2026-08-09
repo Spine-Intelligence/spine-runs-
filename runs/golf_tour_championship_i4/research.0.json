@@ -1,0 +1,577 @@
+{
+ "evidence": [
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Young, Cameron win 0.0958666666666667%, top-5 0.274773673039923%, top-10 0.403098712597316%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Young, Cameron",
+    "win": 0.0958666666666667,
+    "top_5": 0.274773673039923,
+    "top_10": 0.403098712597316
+   },
+   "id": "E01"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Koivun, Jackson win 0.0392666666666667%, top-5 0.146887334656085%, top-10 0.246938586691087%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Koivun, Jackson",
+    "win": 0.0392666666666667,
+    "top_5": 0.146887334656085,
+    "top_10": 0.246938586691087
+   },
+   "id": "E02"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Matsuyama, Hideki win 0.03705%, top-5 0.146426243386243%, top-10 0.247724548252673%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Matsuyama, Hideki",
+    "win": 0.03705,
+    "top_5": 0.146426243386243,
+    "top_10": 0.247724548252673
+   },
+   "id": "E03"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Gerard, Ryan win 0.0336833333333333%, top-5 0.133778948412698%, top-10 0.2314906000481%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Gerard, Ryan",
+    "win": 0.0336833333333333,
+    "top_5": 0.133778948412698,
+    "top_10": 0.2314906000481
+   },
+   "id": "E04"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Griffin, Ben win 0.0303666666666667%, top-5 0.130167256493506%, top-10 0.228733218323071%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Griffin, Ben",
+    "win": 0.0303666666666667,
+    "top_5": 0.130167256493506,
+    "top_10": 0.228733218323071
+   },
+   "id": "E05"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Thomas, Justin win 0.0280333333333333%, top-5 0.112864867724868%, top-10 0.198064438200688%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Thomas, Justin",
+    "win": 0.0280333333333333,
+    "top_5": 0.112864867724868,
+    "top_10": 0.198064438200688
+   },
+   "id": "E06"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Rai, Aaron win 0.0257333333333333%, top-5 0.118045060726311%, top-10 0.212366990902616%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Rai, Aaron",
+    "win": 0.0257333333333333,
+    "top_5": 0.118045060726311,
+    "top_10": 0.212366990902616
+   },
+   "id": "E07"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Ghim, Doug win 0.0244%, top-5 0.10548455026455%, top-10 0.18877476972102%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Ghim, Doug",
+    "win": 0.0244,
+    "top_5": 0.10548455026455,
+    "top_10": 0.18877476972102
+   },
+   "id": "E08"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Kim, Tom win 0.0228333333333333%, top-5 0.101714598965849%, top-10 0.183767695591446%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Kim, Tom",
+    "win": 0.0228333333333333,
+    "top_5": 0.101714598965849,
+    "top_10": 0.183767695591446
+   },
+   "id": "E09"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): English, Harris win 0.0228%, top-5 0.105365093193843%, top-10 0.192872299367299%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "English, Harris",
+    "win": 0.0228,
+    "top_5": 0.105365093193843,
+    "top_10": 0.192872299367299
+   },
+   "id": "E10"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Fitzpatrick, Alex win 0.0208833333333333%, top-5 0.0947192334054834%, top-10 0.175294399119399%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Fitzpatrick, Alex",
+    "win": 0.0208833333333333,
+    "top_5": 0.0947192334054834,
+    "top_10": 0.175294399119399
+   },
+   "id": "E11"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Im, Sungjae win 0.0204%, top-5 0.0926827723665224%, top-10 0.168837088420838%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Im, Sungjae",
+    "win": 0.0204,
+    "top_5": 0.0926827723665224,
+    "top_10": 0.168837088420838
+   },
+   "id": "E12"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Bradley, Keegan win 0.0190666666666667%, top-5 0.0854442923280423%, top-10 0.157202586487586%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Bradley, Keegan",
+    "win": 0.0190666666666667,
+    "top_5": 0.0854442923280423,
+    "top_10": 0.157202586487586
+   },
+   "id": "E13"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): McNealy, Maverick win 0.0185666666666667%, top-5 0.0849152314814815%, top-10 0.155942898421023%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "McNealy, Maverick",
+    "win": 0.0185666666666667,
+    "top_5": 0.0849152314814815,
+    "top_10": 0.155942898421023
+   },
+   "id": "E14"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Meissner, Mac win 0.0177%, top-5 0.0877978318903319%, top-10 0.167379286421639%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Meissner, Mac",
+    "win": 0.0177,
+    "top_5": 0.0877978318903319,
+    "top_10": 0.167379286421639
+   },
+   "id": "E15"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Smith, Jordan win 0.0176166666666667%, top-5 0.0833586375661376%, top-10 0.155178742983596%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Smith, Jordan",
+    "win": 0.0176166666666667,
+    "top_5": 0.0833586375661376,
+    "top_10": 0.155178742983596
+   },
+   "id": "E16"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Cauley, Bud win 0.0167833333333333%, top-5 0.077829708994709%, top-10 0.145939596699597%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Cauley, Bud",
+    "win": 0.0167833333333333,
+    "top_5": 0.077829708994709,
+    "top_10": 0.145939596699597
+   },
+   "id": "E17"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Thompson, Davis win 0.0167666666666667%, top-5 0.080658851010101%, top-10 0.153273870805121%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Thompson, Davis",
+    "win": 0.0167666666666667,
+    "top_5": 0.080658851010101,
+    "top_10": 0.153273870805121
+   },
+   "id": "E18"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Hisatsune, Ryo win 0.0153666666666667%, top-5 0.0748915422077922%, top-10 0.142188642329892%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Hisatsune, Ryo",
+    "win": 0.0153666666666667,
+    "top_5": 0.0748915422077922,
+    "top_10": 0.142188642329892
+   },
+   "id": "E19"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Kohles, Ben win 0.0145166666666667%, top-5 0.0751591865079365%, top-10 0.147188116374366%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Kohles, Ben",
+    "win": 0.0145166666666667,
+    "top_5": 0.0751591865079365,
+    "top_10": 0.147188116374366
+   },
+   "id": "E20"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Harman, Brian win 0.0130666666666667%, top-5 0.0670183736171236%, top-10 0.130120264319014%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Harman, Brian",
+    "win": 0.0130666666666667,
+    "top_5": 0.0670183736171236,
+    "top_10": 0.130120264319014
+   },
+   "id": "E21"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Poston, J.T. win 0.0126%, top-5 0.0616079178691679%, top-10 0.120924767167745%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Poston, J.T.",
+    "win": 0.0126,
+    "top_5": 0.0616079178691679,
+    "top_10": 0.120924767167745
+   },
+   "id": "E22"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Smalley, Alex win 0.0118%, top-5 0.0600773941798942%, top-10 0.116793368853369%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Smalley, Alex",
+    "win": 0.0118,
+    "top_5": 0.0600773941798942,
+    "top_10": 0.116793368853369
+   },
+   "id": "E23"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Wallace, Matt win 0.0116666666666667%, top-5 0.0628531162818663%, top-10 0.126247458758562%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Wallace, Matt",
+    "win": 0.0116666666666667,
+    "top_5": 0.0628531162818663,
+    "top_10": 0.126247458758562
+   },
+   "id": "E24"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Mitchell, Keith win 0.01165%, top-5 0.0600206415343915%, top-10 0.119109664085914%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Mitchell, Keith",
+    "win": 0.01165,
+    "top_5": 0.0600206415343915,
+    "top_10": 0.119109664085914
+   },
+   "id": "E25"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): James, Ben win 0.0111833333333333%, top-5 0.0564318716931217%, top-10 0.111481424792528%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "James, Ben",
+    "win": 0.0111833333333333,
+    "top_5": 0.0564318716931217,
+    "top_10": 0.111481424792528
+   },
+   "id": "E26"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Taylor, Nick win 0.01045%, top-5 0.0570494047619048%, top-10 0.117796688959189%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Taylor, Nick",
+    "win": 0.01045,
+    "top_5": 0.0570494047619048,
+    "top_10": 0.117796688959189
+   },
+   "id": "E27"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Noren, Alex win 0.0104333333333333%, top-5 0.0567980555555556%, top-10 0.115691245559996%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Noren, Alex",
+    "win": 0.0104333333333333,
+    "top_5": 0.0567980555555556,
+    "top_10": 0.115691245559996
+   },
+   "id": "E28"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Spieth, Jordan win 0.01035%, top-5 0.0543880958393458%, top-10 0.109551704476079%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Spieth, Jordan",
+    "win": 0.01035,
+    "top_5": 0.0543880958393458,
+    "top_10": 0.109551704476079
+   },
+   "id": "E29"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Neergaard-Petersen, Rasmus win 0.0101%, top-5 0.0534373611111111%, top-10 0.106399588050838%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Neergaard-Petersen, Rasmus",
+    "win": 0.0101,
+    "top_5": 0.0534373611111111,
+    "top_10": 0.106399588050838
+   },
+   "id": "E30"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Brown, Blades win 0.0099333333333333%, top-5 0.051925689033189%, top-10 0.103764221380471%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Brown, Blades",
+    "win": 0.0099333333333333,
+    "top_5": 0.051925689033189,
+    "top_10": 0.103764221380471
+   },
+   "id": "E31"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Grillo, Emiliano win 0.0096%, top-5 0.0529573815536316%, top-10 0.109738796666297%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Grillo, Emiliano",
+    "win": 0.0096,
+    "top_5": 0.0529573815536316,
+    "top_10": 0.109738796666297
+   },
+   "id": "E32"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Kim, Michael win 0.0091666666666666%, top-5 0.0485846176046176%, top-10 0.100606066202316%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Kim, Michael",
+    "win": 0.0091666666666666,
+    "top_5": 0.0485846176046176,
+    "top_10": 0.100606066202316
+   },
+   "id": "E33"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Kirk, Chris win 0.0091%, top-5 0.0492677579365079%, top-10 0.100569528018278%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Kirk, Chris",
+    "win": 0.0091,
+    "top_5": 0.0492677579365079,
+    "top_10": 0.100569528018278
+   },
+   "id": "E34"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Bezuidenhout, Christiaan win 0.0088166666666666%, top-5 0.0542305092592593%, top-10 0.11287216047841%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Bezuidenhout, Christiaan",
+    "win": 0.0088166666666666,
+    "top_5": 0.0542305092592593,
+    "top_10": 0.11287216047841
+   },
+   "id": "E35"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Cole, Eric win 0.0087333333333333%, top-5 0.0482798677248677%, top-10 0.0984504501054501%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Cole, Eric",
+    "win": 0.0087333333333333,
+    "top_5": 0.0482798677248677,
+    "top_10": 0.0984504501054501
+   },
+   "id": "E36"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Novak, Andrew win 0.00835%, top-5 0.0432193915343915%, top-10 0.0878648575729826%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Novak, Andrew",
+    "win": 0.00835,
+    "top_5": 0.0432193915343915,
+    "top_10": 0.0878648575729826
+   },
+   "id": "E37"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Brennan, Michael win 0.0082%, top-5 0.0435681553631554%, top-10 0.0885915508103008%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Brennan, Michael",
+    "win": 0.0082,
+    "top_5": 0.0435681553631554,
+    "top_10": 0.0885915508103008
+   },
+   "id": "E38"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Suber, Jackson win 0.0078%, top-5 0.0394624609187109%, top-10 0.0820262301818552%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Suber, Jackson",
+    "win": 0.0078,
+    "top_5": 0.0394624609187109,
+    "top_10": 0.0820262301818552
+   },
+   "id": "E39"
+  },
+  {
+   "fact": "DataGolf pre-tournament model (Wyndham Championship): Koepka, Brooks win 0.0076666666666666%, top-5 0.0429627711640212%, top-10 0.0878685500841751%",
+   "as_of": "2026-08-09",
+   "source": "DataGolf pre-tournament predictions API",
+   "datagolf": {
+    "player": "Koepka, Brooks",
+    "win": 0.0076666666666666,
+    "top_5": 0.0429627711640212,
+    "top_10": 0.0878685500841751
+   },
+   "id": "E40"
+  },
+  {
+   "fact": "DataGolf skill ratings (strokes-gained true skill, top of list): Scheffler, Scottie 2.787; McIlroy, Rory 2.159; Young, Cameron 1.965; Fleetwood, Tommy 1.861; Schauffele, Xander 1.859; Fitzpatrick, Matt 1.792; Aberg, Ludvig 1.766; Burns, Sam 1.712; Rahm, Jon 1.699; Gotterup, Chris 1.566; DeChambeau, Bryson 1.555; Kim, Si Woo 1.554; Morikawa, Collin 1.544; Hovland, Viktor 1.503; Cantlay, Patrick 1.493",
+   "as_of": "2026-08-09",
+   "source": "DataGolf skill-ratings API",
+   "id": "E41"
+  },
+  {
+   "fact": "DataGolf field update (Wyndham Championship): 40 players confirmed: Akina, Kihei, Bauchou, Zach, Bezuidenhout, Christiaan, Blair, Zac, Blanchet, Chandler, Bradley, Keegan, Brennan, Michael, Brown, Blades, Campbell, Brian, Campos, Rafael, Castillo, Ricky, Cauley, Bud, Chatfield, Davis, Clanton, Luke, Cole, Eric, Collet, Tyler, Coody, Pierceson, Crowe, Trace, Dahmen, Joel, Davis, Cam, Day, Jason, Dou, Zecheng, Dumont De Chassart, Adrien, Dunlap, Nick, Echavarria, Nico, Eckroat, Austin, English, Harris, Ewart, A.J., Finau, Tony, Fishburn, Patrick",
+   "as_of": "2026-08-09",
+   "source": "DataGolf field-updates API",
+   "id": "E42"
+  },
+  {
+   "id": "E43",
+   "fact": "No official player-specific finish-position ladder data or top-5 seed qualifications for the 2026 Tour Championship at East Lake are available as of 2026-08-09, because the PGA Tour regular season and preceding FedExCup playoffs events have not yet finalized those standings.",
+   "as_of": "2026-08-09",
+   "source": "PGA Tour Official Schedule and Standings",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E44",
+   "fact": "Player entity check for Scheffler, Scottie: No specific 2026 Tour Championship top-5 seed finish-position projection or ladder placement is locked as of 2026-08-09, pending conclusion of the FedExCup regular season.",
+   "as_of": "2026-08-09",
+   "source": "PGA Tour Official Player Profiles",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E45",
+   "fact": "Player entity check for Schauffele, Xander: No specific 2026 Tour Championship top-5 seed finish-position projection or ladder placement is locked as of 2026-08-09, pending conclusion of the FedExCup regular season.",
+   "as_of": "2026-08-09",
+   "source": "PGA Tour Official Player Profiles",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E46",
+   "fact": "Player entity check for McIlroy, Rory: No specific 2026 Tour Championship top-5 seed finish-position projection or ladder placement is locked as of 2026-08-09, pending conclusion of the FedExCup regular season.",
+   "as_of": "2026-08-09",
+   "source": "PGA Tour Official Player Profiles",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E47",
+   "fact": "Player entity check for Morikawa, Collin: No specific 2026 Tour Championship top-5 seed finish-position projection or ladder placement is locked as of 2026-08-09, pending conclusion of the FedExCup regular season.",
+   "as_of": "2026-08-09",
+   "source": "PGA Tour Official Player Profiles",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E48",
+   "fact": "Player entity check for Hovland, Viktor: No specific 2026 Tour Championship top-5 seed finish-position projection or ladder placement is locked as of 2026-08-09, pending conclusion of the FedExCup regular season.",
+   "as_of": "2026-08-09",
+   "source": "PGA Tour Official Player Profiles",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E49",
+   "fact": "Player entity check for Clark, Wyndham: No specific 2026 Tour Championship top-5 seed finish-position projection or ladder placement is locked as of 2026-08-09, pending conclusion of the FedExCup regular season.",
+   "as_of": "2026-08-09",
+   "source": "PGA Tour Official Player Profiles",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E50",
+   "fact": "Player entity check for Cantlay, Patrick: No specific 2026 Tour Championship top-5 seed finish-position projection or ladder placement is locked as of 2026-08-09, pending conclusion of the FedExCup regular season.",
+   "as_of": "2026-08-09",
+   "source": "PGA Tour Official Player Profiles",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E51",
+   "fact": "Player entity check for DeChambeau, Bryson: Not applicable to 2026 PGA Tour FedExCup standings due to LIV Golf membership status as of 2026-08-09.",
+   "as_of": "2026-08-09",
+   "source": "PGA Tour Official Standings",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E52",
+   "fact": "Player entity check for Rahm, Jon: Not applicable to 2026 PGA Tour FedExCup standings due to LIV Golf membership status as of 2026-08-09.",
+   "as_of": "2026-08-09",
+   "source": "PGA Tour Official Standings",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E53",
+   "fact": "Player entity check for Finau, Tony: No specific 2026 Tour Championship top-5 seed finish-position projection or ladder placement is locked as of 2026-08-09, pending conclusion of the FedExCup regular season.",
+   "as_of": "2026-08-09",
+   "source": "PGA Tour Official Player Profiles",
+   "url": "https://www.pgatour.com"
+  }
+ ],
+ "unknowns": [
+  "Exact final top-5 seed player identities for the 2026 Tour Championship at East Lake, as regular season and playoff events have not concluded as of 2026-08-09.",
+  "Post-season starting stroke allocations and specific finish-position ladders for the top-5 seeds prior to the event's commencement."
+ ]
+}

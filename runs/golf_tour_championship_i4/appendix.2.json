@@ -1,0 +1,62 @@
+{
+ "F01": {
+  "reasoning": "This forecast aligns perfectly with the 'win' probability of 0.0958666666666667% for Cameron Young provided by the DataGolf pre-tournament model (E01). There is no direct conflicting evidence. To change this forecast, evidence suggesting a significant shift in Young's performance or betting markets would be required, such as a recent major injury or a substantial negative change in his betting odds. The 'dynamic' tag D1 indicates this is a direct probability assessment from the model.",
+  "evidence": [
+   "E01"
+  ]
+ },
+ "F02": {
+  "reasoning": "This forecast is directly supported by the 'top_5' probability of 0.274773673039923% for Cameron Young from the DataGolf pre-tournament model (E01). No conflicting evidence is present. A change in this forecast would necessitate new information regarding Young's form leading up to the tournament or significant market shifts. The 'dynamic' tag D2 suggests this is a derived probability, likely based on the model's overall assessment of his finishing potential.",
+  "evidence": [
+   "E01"
+  ]
+ },
+ "F03": {
+  "reasoning": "This forecast aligns with the 'top_5' probability of 0.146887334656085% for Jackson Koivun from the DataGolf pre-tournament model (E02). There is no contradictory evidence presented. A revision would require new data indicating a material change in Koivun's prospects. The 'dynamic' tag D2 indicates this is likely a derived probability reflecting his projected performance against the field.",
+  "evidence": [
+   "E02"
+  ]
+ },
+ "F04": {
+  "reasoning": "This forecast is directly supported by the 'top_5' probability of 0.146426243386243% for Hideki Matsuyama as reported by the DataGolf pre-tournament model (E03). No conflicting evidence exists. To alter this forecast, one would need information suggesting a significant deviation from the model's prediction, such as a recent poor performance or an unexpected withdrawal. The 'dynamic' tag D2 implies this is a calculated probability for his finishing position.",
+  "evidence": [
+   "E03"
+  ]
+ },
+ "F05": {
+  "reasoning": "This forecast precisely matches the 'win' probability of 0.03705% for Hideki Matsuyama from the DataGolf pre-tournament model (E03). There is no evidence to contradict this. Any change would require information indicating a substantial shift in Matsuyama's win probability, such as a major change in his odds or performance trends. The 'dynamic' tag D1 signifies this is a direct assessment of his winning chances.",
+  "evidence": [
+   "E03"
+  ]
+ },
+ "F06": {
+  "reasoning": "This forecast is in direct agreement with the 'top_10' probability of 0.247724548252673% for Hideki Matsuyama from the DataGolf pre-tournament model (E03). No counter-evidence is provided. To modify this forecast, new information impacting Matsuyama's performance projections would be needed. The 'dynamic' tag D2 denotes this as a probability derived from the model's analysis of his finishing potential.",
+  "evidence": [
+   "E03"
+  ]
+ },
+ "F07": {
+  "reasoning": "This forecast corresponds to the 'top_10' probability of 0.246938586691087% for Jackson Koivun as indicated by the DataGolf pre-tournament model (E02). There is no contradictory information. A revision would only occur if new data emerged suggesting a different outcome for Koivun. The 'dynamic' tag D2 suggests this is a calculated probability reflecting his likelihood of a top-10 finish.",
+  "evidence": [
+   "E02"
+  ]
+ },
+ "F08": {
+  "reasoning": "This forecast is consistent with the 'top_5' probability of 0.133778948412698% for Ryan Gerard from the DataGolf pre-tournament model (E04). No evidence contradicts this. A change to this forecast would require new performance data or market sentiment shifts affecting Gerard's projected performance. The 'dynamic' tag D2 indicates this is a derived probability of his top-5 finish.",
+  "evidence": [
+   "E04"
+  ]
+ },
+ "F09": {
+  "reasoning": "This forecast aligns with the 'win' probability of 0.0336833333333333% for Ryan Gerard as provided by the DataGolf pre-tournament model (E04). No conflicting data is presented. To change this forecast, evidence of a significant change in Gerard's winning odds or form would be necessary. The 'dynamic' tag D1 suggests this is a direct assessment of his chances to win.",
+  "evidence": [
+   "E04"
+  ]
+ },
+ "F10": {
+  "reasoning": "This forecast matches the 'top_10' probability of 0.212366990902616% for Aaron Rai according to the DataGolf pre-tournament model (E07). No contradictory evidence is available. A modification would only occur if new information suggested a different outcome for Rai. The 'dynamic' tag D3 indicates this probability is derived from multiple factors, likely including his recent performance and course history, and is not a direct model output.",
+  "evidence": [
+   "E07"
+  ]
+ }
+}

@@ -1,0 +1,224 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "There is a 10% chance Cameron Young will win the 2026 Tour Championship at East Lake.",
+   "probability": 0.0958666666666667,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "Player finishing position",
+    "threshold": "1",
+    "resolution_date": "2026-08-23",
+    "baseline": {
+     "value": "TBD",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "unit: tournament win; status: in-force only; window: 2026-08-20 to 2026-08-23; excludes: playoff wins"
+   },
+   "horizon_years": 0.05,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E05"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "There is a 27% chance Cameron Young will finish in the top 5 at the 2026 Tour Championship at East Lake.",
+   "probability": 0.274773673039923,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "Player finishing position",
+    "threshold": "5",
+    "resolution_date": "2026-08-23",
+    "baseline": {
+     "value": "TBD",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "unit: top 5 finish; status: in-force only; window: 2026-08-20 to 2026-08-23; excludes: ties for 5th"
+   },
+   "horizon_years": 0.05,
+   "dynamic": "D2",
+   "evidence": [
+    "E01",
+    "E02"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "There is a 15% chance Jackson Koivun will finish in the top 5 at the 2026 Tour Championship at East Lake.",
+   "probability": 0.146887334656085,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "Player finishing position",
+    "threshold": "5",
+    "resolution_date": "2026-08-23",
+    "baseline": {
+     "value": "TBD",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "unit: top 5 finish; status: in-force only; window: 2026-08-20 to 2026-08-23; excludes: ties for 5th"
+   },
+   "horizon_years": 0.05,
+   "dynamic": "D2",
+   "evidence": [
+    "E02",
+    "E05"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "There is a 15% chance Hideki Matsuyama will finish in the top 5 at the 2026 Tour Championship at East Lake.",
+   "probability": 0.146426243386243,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "Player finishing position",
+    "threshold": "5",
+    "resolution_date": "2026-08-23",
+    "baseline": {
+     "value": "TBD",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "unit: top 5 finish; status: in-force only; window: 2026-08-20 to 2026-08-23; excludes: ties for 5th"
+   },
+   "horizon_years": 0.05,
+   "dynamic": "D2",
+   "evidence": [
+    "E03",
+    "E07"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "There is a 4% chance Hideki Matsuyama will win the 2026 Tour Championship at East Lake.",
+   "probability": 0.03705,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "Player finishing position",
+    "threshold": "1",
+    "resolution_date": "2026-08-23",
+    "baseline": {
+     "value": "TBD",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "unit: tournament win; status: in-force only; window: 2026-08-20 to 2026-08-23; excludes: playoff wins"
+   },
+   "horizon_years": 0.05,
+   "dynamic": "D1",
+   "evidence": [
+    "E03",
+    "E01"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "There is a 25% chance Hideki Matsuyama will finish in the top 10 at the 2026 Tour Championship at East Lake.",
+   "probability": 0.247724548252673,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "Player finishing position",
+    "threshold": "10",
+    "resolution_date": "2026-08-23",
+    "baseline": {
+     "value": "TBD",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "unit: top 10 finish; status: in-force only; window: 2026-08-20 to 2026-08-23; excludes: ties for 10th"
+   },
+   "horizon_years": 0.05,
+   "dynamic": "D2",
+   "evidence": [
+    "E03",
+    "E07"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "There is a 25% chance Jackson Koivun will finish in the top 10 at the 2026 Tour Championship at East Lake.",
+   "probability": 0.246938586691087,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "Player finishing position",
+    "threshold": "10",
+    "resolution_date": "2026-08-23",
+    "baseline": {
+     "value": "TBD",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "unit: top 10 finish; status: in-force only; window: 2026-08-20 to 2026-08-23; excludes: ties for 10th"
+   },
+   "horizon_years": 0.05,
+   "dynamic": "D2",
+   "evidence": [
+    "E02",
+    "E04"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "There is a 13% chance Ryan Gerard will finish in the top 5 at the 2026 Tour Championship at East Lake.",
+   "probability": 0.133778948412698,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "Player finishing position",
+    "threshold": "5",
+    "resolution_date": "2026-08-23",
+    "baseline": {
+     "value": "TBD",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "unit: top 5 finish; status: in-force only; window: 2026-08-20 to 2026-08-23; excludes: ties for 5th"
+   },
+   "horizon_years": 0.05,
+   "dynamic": "D2",
+   "evidence": [
+    "E04",
+    "E05"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "There is a 3% chance Ryan Gerard will win the 2026 Tour Championship at East Lake.",
+   "probability": 0.0336833333333333,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "Player finishing position",
+    "threshold": "1",
+    "resolution_date": "2026-08-23",
+    "baseline": {
+     "value": "TBD",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "unit: tournament win; status: in-force only; window: 2026-08-20 to 2026-08-23; excludes: playoff wins"
+   },
+   "horizon_years": 0.05,
+   "dynamic": "D1",
+   "evidence": [
+    "E04",
+    "E09"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "There is a 21% chance Aaron Rai will finish in the top 10 at the 2026 Tour Championship at East Lake.",
+   "probability": 0.212366990902616,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "Player finishing position",
+    "threshold": "10",
+    "resolution_date": "2026-08-23",
+    "baseline": {
+     "value": "TBD",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "unit: top 10 finish; status: in-force only; window: 2026-08-20 to 2026-08-23; excludes: ties for 10th"
+   },
+   "horizon_years": 0.05,
+   "dynamic": "D3",
+   "evidence": [
+    "E07",
+    "E08"
+   ]
+  }
+ ]
+}
