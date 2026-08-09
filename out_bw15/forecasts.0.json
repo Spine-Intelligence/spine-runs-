@@ -1,0 +1,27 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F13",
+   "statement": "There is a 78% chance that the U.S. Commerce Department will issue at least one additional Section 232 enforcement adjustment targeting semiconductor manufacturing equipment derivatives before February 2028.",
+   "probability": 0.78,
+   "resolution_criteria": {
+    "source": "The White House Press Releases / BIS",
+    "metric": "issuance of Section 232 enforcement adjustment targeting semiconductor manufacturing equipment derivatives",
+    "threshold": "at least one formal proclamation or rule published",
+    "resolution_date": "2028-02-01",
+    "baseline": {
+     "value": "1 proclamation",
+     "as_of": "2026-01-14"
+    },
+    "counting_convention": "unit: federal register notices or presidential proclamations; status: official enactment; window: through February 1, 2028; excludes: routine administrative extensions without new trade restrictions."
+   },
+   "horizon_years": 1.48,
+   "dynamic": "D1",
+   "evidence": [
+    "E09",
+    "E12"
+   ],
+   "resolver_witness": "E09"
+  }
+ ]
+}

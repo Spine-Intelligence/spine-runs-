@@ -1,0 +1,68 @@
+[
+ {
+  "run_key": "bw-repair-2026-08-09-486593aa",
+  "stage": "forecasts",
+  "seq": 0,
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_digest": "8677f8c1d96a5d545af37ba3ff1faa991a5b50e068bbb35f00f90d123d65267d",
+  "artifact_digest": "6c36dcb230a1e3a2d11edd5a83f5813a991c96f51a34774f8593c0a918a54268",
+  "artifact_uri": "store/fwd/runs/bw-repair-2026-08-09-486593aa/forecasts.0.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-repair-2026-08-09-486593aa",
+  "stage": "forecasts",
+  "seq": 1,
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_digest": "44b01de2ed6afd72d984318bfaa99f0a5d31527dea9d7b2faac5c36870496d96",
+  "artifact_digest": "3daa2f84250d369e125aca8cdcc8e7a5044eef4805cc3309b29fa2a9ba813dfd",
+  "artifact_uri": "store/fwd/runs/bw-repair-2026-08-09-486593aa/forecasts.1.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-repair-2026-08-09-486593aa",
+  "stage": "forecasts",
+  "seq": 2,
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_digest": "44b01de2ed6afd72d984318bfaa99f0a5d31527dea9d7b2faac5c36870496d96",
+  "artifact_digest": "3daa2f84250d369e125aca8cdcc8e7a5044eef4805cc3309b29fa2a9ba813dfd",
+  "artifact_uri": "store/fwd/runs/bw-repair-2026-08-09-486593aa/forecasts.2.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-repair-2026-08-09-486593aa",
+  "stage": "forecasts",
+  "seq": 3,
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_digest": "44b01de2ed6afd72d984318bfaa99f0a5d31527dea9d7b2faac5c36870496d96",
+  "artifact_digest": "4e79f20b49366f6fa1114e1e5feb359271ace7f7d945697abd2e0742a37a5267",
+  "artifact_uri": "store/fwd/runs/bw-repair-2026-08-09-486593aa/forecasts.3.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-repair-2026-08-09-486593aa",
+  "stage": "forecasts",
+  "seq": 4,
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_digest": "44b01de2ed6afd72d984318bfaa99f0a5d31527dea9d7b2faac5c36870496d96",
+  "artifact_digest": "4e79f20b49366f6fa1114e1e5feb359271ace7f7d945697abd2e0742a37a5267",
+  "artifact_uri": "store/fwd/runs/bw-repair-2026-08-09-486593aa/forecasts.4.json",
+  "gate_violations": 0
+ },
+ {
+  "run_key": "bw-repair-2026-08-09-486593aa",
+  "stage": "appendix",
+  "seq": 0,
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "prompt_digest": "4f48f9600bb28c5578116ee3506c99abb95f336a5018a2059425630f965cacc2",
+  "artifact_digest": "6196c69b7f1f20669299d2cd18a9a23a715f92fb373127f0c7d2460c96546558",
+  "artifact_uri": "store/fwd/runs/bw-repair-2026-08-09-486593aa/appendix.0.json",
+  "gate_violations": 0
+ }
+]
