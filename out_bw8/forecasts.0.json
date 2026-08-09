@@ -1,0 +1,216 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "The U.S. will collect over $500 million in tariff revenue from advanced AI chip imports by the end of 2027, based on the 25% tariff imposed in January 2026.",
+   "probability": 0.55,
+   "resolution_criteria": {
+    "source": "U.S. Customs and Border Protection",
+    "metric": "Total tariff revenue from advanced AI chips",
+    "threshold": "500000000",
+    "resolution_date": "2027-12-31",
+    "baseline": {
+     "value": "0",
+     "as_of": "2026-01-14"
+    },
+    "counting_convention": "USD; cumulative collected revenue"
+   },
+   "horizon_years": 1.45,
+   "dynamic": "D1",
+   "evidence": [
+    "E03"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "Foreign direct investment into U.S. AI infrastructure, incentivized by export controls like those in E05, will exceed $10 billion in 2028.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "U.S. Department of Commerce, Bureau of Economic Analysis",
+    "metric": "Foreign direct investment in U.S. AI infrastructure",
+    "threshold": "10000000000",
+    "resolution_date": "2028-12-31",
+    "baseline": {
+     "value": "Unknown",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "USD; annual FDI inflow specifically categorized under AI infrastructure"
+   },
+   "horizon_years": 2.45,
+   "dynamic": "D2",
+   "evidence": [
+    "E05"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "The U.S. AI chip industry's domestic production capacity will increase by at least 15% by 2029 due to government policies aimed at fostering domestic production, as outlined in the Modern Mercantilism framework.",
+   "probability": 0.45,
+   "resolution_criteria": {
+    "source": "U.S. Department of Commerce, Semiconductor Industry Association",
+    "metric": "Domestic AI chip production capacity",
+    "threshold": "0.15",
+    "resolution_date": "2029-12-31",
+    "baseline": {
+     "value": "Unknown",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "percentage increase; year-over-year growth in wafer starts or output"
+   },
+   "horizon_years": 3.45,
+   "dynamic": "D1",
+   "evidence": [
+    "E03"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "OpenAI's API credits offered as part of its industrial policy framework will be fully utilized by at least 50 research institutions globally by the end of 2027.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "OpenAI",
+    "metric": "Number of research institutions utilizing API credits",
+    "threshold": "50",
+    "resolution_date": "2027-12-31",
+    "baseline": {
+     "value": "0",
+     "as_of": "2026-06-09"
+    },
+    "counting_convention": "count; institutions fully utilizing credits for research purposes"
+   },
+   "horizon_years": 1.45,
+   "dynamic": "D3",
+   "evidence": [
+    "E02"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "Lobbying expenditures by companies like AMD and KLA Corp. focused on AI trade and export controls will cumulatively exceed $10 million by the end of 2027.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "Legis1 / Congressional Lobbying Disclosures",
+    "metric": "Cumulative lobbying expenditures on AI trade and export controls",
+    "threshold": "10000000",
+    "resolution_date": "2027-12-31",
+    "baseline": {
+     "value": "3000000",
+     "as_of": "2026-05-07"
+    },
+    "counting_convention": "USD; sum of disclosed lobbying expenditures by specified companies"
+   },
+   "horizon_years": 1.45,
+   "dynamic": null,
+   "evidence": [
+    "E06",
+    "E07"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "U.S. productivity growth will average at least 1.8% annually between 2027 and 2030, indicating a potential improvement due to targeted AI industrial policy.",
+   "probability": 0.55,
+   "resolution_criteria": {
+    "source": "Bureau of Labor Statistics",
+    "metric": "Annual average U.S. productivity growth",
+    "threshold": "0.018",
+    "resolution_date": "2030-12-31",
+    "baseline": {
+     "value": "0.014",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "annual growth rate"
+   },
+   "horizon_years": 4.45,
+   "dynamic": "D4",
+   "evidence": [
+    "E08"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "The U.S. Department of Commerce will adjust its license review policy for high-end chip exports at least three more times by the end of 2029 to further refine strategic selectivity.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "U.S. Department of Commerce, Bureau of Industry and Security (BIS)",
+    "metric": "Number of policy adjustments to high-end chip export license review",
+    "threshold": "3",
+    "resolution_date": "2029-12-31",
+    "baseline": {
+     "value": "1",
+     "as_of": "2026-01-16"
+    },
+    "counting_convention": "count; formal rule changes or policy statements by BIS"
+   },
+   "horizon_years": 3.45,
+   "dynamic": "D3",
+   "evidence": [
+    "E04"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "At least five countries will publicly commit to matching investments in American AI infrastructure as a condition for significant AI chip cluster builds by the end of 2028, mirroring the tiered export control regulations.",
+   "probability": 0.4,
+   "resolution_criteria": {
+    "source": "Department of State, Bilateral Agreements Database",
+    "metric": "Number of countries making matching investment commitments for AI infrastructure",
+    "threshold": "5",
+    "resolution_date": "2028-12-31",
+    "baseline": {
+     "value": "0",
+     "as_of": "2026-03-13"
+    },
+    "counting_convention": "count; public bilateral or multilateral agreements specifying matching investment"
+   },
+   "horizon_years": 2.45,
+   "dynamic": "D2",
+   "evidence": [
+    "E05"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "The global venture investment in AI will grow by at least 50% from its 2026 level by the end of 2031, driven by continued state-led industrial policy and AI development.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "Analytics Insight",
+    "metric": "Global venture investment in AI",
+    "threshold": "1.5",
+    "resolution_date": "2031-12-31",
+    "baseline": {
+     "value": "259000000000",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "USD; cumulative annual investment"
+   },
+   "horizon_years": 5.45,
+   "dynamic": "D3",
+   "evidence": [
+    "E01"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "The U.S. will successfully implement at least two new bilateral AI supply chain security agreements with key allies by the end of 2028, reinforcing the strategic competition aspect of Modern Mercantilism.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "U.S. Department of Commerce",
+    "metric": "Number of bilateral AI supply chain security agreements",
+    "threshold": "2",
+    "resolution_date": "2028-12-31",
+    "baseline": {
+     "value": "0",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "count; formally signed international agreements"
+   },
+   "horizon_years": 2.45,
+   "dynamic": "D3",
+   "evidence": [
+    "E03",
+    "E05"
+   ]
+  }
+ ]
+}

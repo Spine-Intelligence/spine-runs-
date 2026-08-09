@@ -1,0 +1,52 @@
+{
+ "text": "The current geopolitical landscape is characterized by a resurgence of \"modern mercantilism,\" a proactive state-driven approach to national economic power, profoundly intertwined with the accelerating advancement of Artificial Intelligence (AI). This era is not one of passive market forces, but of governments actively wielding trade, industrial policy, and national security levers to secure strategic advantages in the nascent AI age. The U.S. response, as documented in this dossier, exemplifies this trend, demonstrating a clear objective: to retain and enhance its global dominance in AI technology by strategically controlling access, incentivizing domestic development, and forging alliances based on shared strategic interests.\n\nThe core of this modern mercantilist thrust lies in the strategic weaponization of advanced computing and AI technologies. Governments are no longer content to allow unfettered market access for these critical components; instead, they are imposing deliberate barriers and creating preferential pathways. This is driven by a deep-seated concern, articulated by entities like Bridgewater Associates (E05), that AI is fueling \"simultaneous, accelerating global resource grabs.\" Nations are therefore acting with urgency to capture and control the key resources \u2013 in this case, cutting-edge AI hardware and the intellectual capital that develops it.\n\nThe U.S. policy trajectory paints a sharp picture of this nationalistic industrial strategy. While superficially acknowledging a shift to 'case-by-case review' for advanced computing items to China and Macau (E01), this change from a 'presumption of denial' is not an opening of the floodgates. Instead, it signifies a more nuanced, selective gatekeeping. The underlying intent remains to prevent adversaries from acquiring the most advanced AI capabilities, thereby maintaining a strategic technological edge. This is further underscored by the concurrent introduction of a substantial 25 percent tariff on covered advanced AI chips not destined for the U.S. technology supply chain (E02). This tariff acts as a direct economic disincentive, aiming to divert AI chip flows away from strategic competitors and towards domestic or allied industries, thereby reinforcing the U.S.'s own AI ecosystem.\n\nThis aggressive stance is not solely about restrictions; it's also about actively cultivating domestic innovation and strategic partnerships. OpenAI's \"Industrial Policy for the Intelligence Age\" initiative (E03), with its substantial research grants and API credits, signals a deliberate effort to foster internal AI development and application. This initiative, having received over 400 responses, indicates a broad engagement with the U.S. technology sector to build a robust domestic AI industrial base. Simultaneously, the upgrade of the United Arab Emirates (UAE) to Country Group A:5 (E04) under the Export Administration Regulations represents a strategic recalibration of alliances. By permitting license-free exports of advanced computing items and AI chips to the UAE, contingent on bilateral AI cooperation frameworks and matching investment commitments, the U.S. is actively constructing a network of technologically aligned partners. This move aims to create 'corridors of cooperation' that benefit U.S. strategic interests while potentially isolating or hindering rivals.\n\nThe legislative landscape further solidifies this framework. The advancement of export control bills like the Chip Security Act by the U.S. House Foreign Affairs Committee (E06) demonstrates a bipartisan consensus on the need to prevent the illicit diversion of AI-enabling semiconductors to foreign adversaries. This legislation is a clear manifestation of the belief that national security is inextricably linked to technological supremacy in AI.\n\nThis all builds upon a foundational directive. Executive Order 14365 (E07), signed in late 2025, established a mandate for a \"unified national approach to AI policy.\" This directive, by evaluating state-level regulations for conflicts and conditioning federal funding on compliance, signals a top-down, coordinated effort to harness AI for national power. It frames AI not just as an economic opportunity, but as a strategic imperative that requires centralized control and direction.\n\nThis modern mercantilist approach is also being mirrored, albeit with varying degrees of success and different strategic objectives, by other nations. Malaysia's mandate for a Strategic Trade Permit for U.S.-origin AI chips (E08) demonstrates how other countries are also seeking to control the flow of these critical technologies, albeit from a different regional perspective and potentially to safeguard their own nascent domestic industries or secure their supply chains.\n\nThe overarching narrative is clear: AI is the new frontier of national power, and modern mercantilism is the strategy of choice for nations seeking to dominate this frontier. The U.S. is employing a multi-pronged approach, combining restrictive export controls, strategic tariffs, domestic innovation incentives, and the cultivation of allied partnerships. This is a deliberate and calculated strategy to secure its technological leadership and economic prosperity in the age of artificial intelligence, actively reshaping global trade and industrial policy in its own image.",
+ "cause_effect_dynamics": [
+  {
+   "dynamic": "The acceleration of AI development and its perceived role in \"global resource grabs\" is driving governments, particularly the U.S., to adopt aggressive modern mercantilist policies focused on controlling advanced computing and AI technologies.",
+   "citations": [
+    "E05",
+    "E01",
+    "E02"
+   ]
+  },
+  {
+   "dynamic": "The U.S. government's strategic intent to maintain technological supremacy in AI is leading to the implementation of selective export controls and tariffs on advanced AI chips, aimed at preventing rivals from acquiring critical capabilities and incentivizing domestic innovation.",
+   "citations": [
+    "E01",
+    "E02",
+    "E06"
+   ]
+  },
+  {
+   "dynamic": "The U.S. is actively building a network of technologically aligned partners by offering favorable export terms for AI technologies, contingent on cooperation frameworks and investment commitments, thereby creating strategic alliances and influencing global AI development pathways.",
+   "citations": [
+    "E04",
+    "E03"
+   ]
+  },
+  {
+   "dynamic": "The U.S. Congress's advancement of export control bills, such as the Chip Security Act, directly reflects the recognition that national security is inextricably linked to technological leadership in AI, prompting legislative action to safeguard critical semiconductor supplies.",
+   "citations": [
+    "E06",
+    "E07"
+   ]
+  },
+  {
+   "dynamic": "Malaysia's mandate for strategic trade permits on U.S.-origin AI chips demonstrates how other nations are also employing nationalistic trade controls to manage the flow of critical AI technologies, potentially to protect their own industries or secure their supply chains.",
+   "citations": [
+    "E08",
+    "E05"
+   ]
+  }
+ ],
+ "evidence_used": [
+  "E01",
+  "E02",
+  "E03",
+  "E04",
+  "E05",
+  "E06",
+  "E07",
+  "E08"
+ ]
+}

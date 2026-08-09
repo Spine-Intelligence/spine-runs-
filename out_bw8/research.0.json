@@ -1,0 +1,65 @@
+{
+ "evidence": [
+  {
+   "id": "E01",
+   "fact": "Over the past decade, global venture investment in Artificial Intelligence grew over thirty-fold from $8.3 billion to $259 billion.",
+   "as_of": "2026-08-06",
+   "source": "Analytics Insight / Venture Investment Tracking",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRqtqUxeGd9Uy2_xtpTlpMH6LF3Z7PFFfrYMR3x0vA-L8_kjx13cMnqN2-h8UQberS-wywl6dPkyKw20eQPP5GKNwunONMi-kV0IDn2Qfbit7CF9tipDAAdbp2ZWlzPxI0WlGu2VW_RYikZBkpRxXGV85vBDPH8-ujUHiNay_PfpCxo3L_VsgFMsg7KV77co9Ot5ipIfFRNoje4LR0IjIgaYVa_CFKXdN6O-bP"
+  },
+  {
+   "id": "E02",
+   "fact": "OpenAI received more than 400 responses to its policy submission window for its 'Industrial Policy for the Intelligence Age' framework ending in June 2026, offering pilot research grants up to $100,000 and up to $1 million in API credits.",
+   "as_of": "2026-06-09",
+   "source": "OpenAI Global Affairs",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp2TY_vDHb-L89-u55X2IsoOwdQWqxmjaj9HiAECqii1nVall-aIzLMB0yIdSzX99EbtfyzTpZI9EGrHBfb15FedLljmb8pRaBWuksrAVN26qmrmj6Tk2ivrR9BWw7blb9rxIXz6LcOQBrhOQ4DWV8jBSxL2zfWHCR"
+  },
+  {
+   "id": "E03",
+   "fact": "On January 14, 2026, the U.S. administration imposed a 25% tariff on a limited set of advanced AI chips imported into the U.S. following a Section 232 investigation.",
+   "as_of": "2026-02-04",
+   "source": "ML Strategies / Mintz",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKlkUkf_wIYBnNMQdix1aRTL-CgyehFXeTFyPh3WWJ8FdOx5bhwd5ldUq4FVUzlRSAdSiX4v5o1dvBKMvAbQYeCOG-SWrr5e-iWXPD6vR7E90gN9TLbN-uCo8fYZAXCjAkOLj_wz6SlOODlMSTqBsxokcwQ0fmFr0M42vXxlfqhPUWSKeJIz5LOK6stbp2C_9on64zuCr1J4t2iel3INRqav6gqW0aMwZo6jiKyTI7Smhb"
+  },
+  {
+   "id": "E04",
+   "fact": "The U.S. Department of Commerce's Bureau of Industry and Security (BIS) issued a final rule in January 2026 changing license review policies for NVIDIA H200 and AMD MI325X-equivalent chip exports from 'presumption of denial' to case-by-case review.",
+   "as_of": "2026-01-16",
+   "source": "Mayer Brown / BIS Regulatory Update",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4X1biTp2qfxUItKvyelQAbi9YvmPe4ha1NriP7zjHAv5mZbhkCXSrVcnKpqSPUavNOpzTG_sqLRd1IvN_LNVkV58uDz3Cay4WidHSPA31bZaNgfQv0hHjrxBCS1EzDZ5QtZ_uAsFCXausFGwRGwVN43f00O-KuYy2eCg2A0wbIryXvPfBWsuIBaocU8KuJemg41SWolS2ZPZCXREF6b85bfuz7kVJ"
+  },
+  {
+   "id": "E05",
+   "fact": "Draft export control regulations reported in March 2026 outlined a tiered threshold where exports of up to 1,000 Nvidia GB300 GPUs undergo simplified review, while cluster builds exceeding 200,000 units require host-country matching investments in American AI.",
+   "as_of": "2026-03-13",
+   "source": "Global Trade & Sanctions Law / Industry Reporting",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeJqmHwvOOODVs5u6QbCrBLWXbGgs1dzpABArwhxIuB883WT3wGBN8Cv0BO1qqmXLslDWU199h0r7mbOHScGSIIYVjjDoQu0s0lcaMCnE8GIgjIxBXHMKKv8GZyRvFEqIP5d3AUue0ptuSWayxVmhBiB4lTfB-6W3XiRgJPOZAE51cy5wZnAlEnFqv4f2desiUKjslFKQOEYAWEDGEVr2-NkS9D7yNV14="
+  },
+  {
+   "id": "E06",
+   "fact": "Advanced Micro Devices (AMD) disclosed lobbying expenditures totaling over $2 million in recent quarters regarding the Chip Security Act, AI diffusion policy, and export control rule changes.",
+   "as_of": "2026-05-07",
+   "source": "Legis1 / Congressional Lobbying Disclosures",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1U9jyd42uAeBZ3NZr1IVTuD0Ru1WMF93h-nRhdnbO38UTfHOnorg2BdikZpyvLnMGkwBKgUNuN0EFC_YOnUKaR3EeRzakwso0cygbb3iWaQNxnaglvkIcM4nePPM4IpiAAQJuq4msmu_77p7Duepbcono3l303A=="
+  },
+  {
+   "id": "E07",
+   "fact": "KLA Corp. disclosed more than $1 million in lobbying expenditures over a one-year window focusing specifically on trade policy regarding China, tariffs, and export controls on advanced semiconductor manufacturing equipment.",
+   "as_of": "2026-05-07",
+   "source": "Legis1 / Congressional Lobbying Disclosures",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1U9jyd42uAeBZ3NZr1IVTuD0Ru1WMF93h-nRhdnbO38UTfHOnorg2BdikZpyvLnMGkwBKgUNuN0EFC_YOnUKaR3EeRzakwso0cygbb3iWaQNxnaglvkIcM4nePPM4IpiAAQJuq4msmu_77p7Duepbcono3l303A=="
+  },
+  {
+   "id": "E08",
+   "fact": "U.S. productivity growth averaged 1.4% over the contemporary tech expansion phase, trailing the historical 2.2% post-World War II average despite multi-billion-dollar scale-ups in AI investments.",
+   "as_of": "2026-08-06",
+   "source": "Analytics Insight / Economic Productivity Research",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRqtqUxeGd9Uy2_xtpTlpMH6LF3Z7PFFfrYMR3x0vA-L8_kjx13cMnqN2-h8UQberS-wywl6dPkyKw20eQPP5GKNwunONMi-kV0IDn2Qfbit7CF9tipDAAdbp2ZWlzPxI0WlGu2VW_RYikZBkpRxXGV85vBDPH8-ujUHiNay_PfpCxo3L_VsgFMsg7KV77co9Ot5ipIfFRNoje4LR0IjIgaYVa_CFKXdN6O-bP"
+  }
+ ],
+ "unknowns": [
+  "Exact text and legal codification status of the reported March 2026 draft export regulations concerning the 200,000-unit GB300 threshold.",
+  "Comprehensive metrics on exact compliance rates and illegal chip smuggling volumes circumventing the Chip Security Act enforcement mechanisms.",
+  "The total quantum of matching foreign direct investments committed by allied nations under newly proposed bilateral AI infrastructure compacts."
+ ]
+}

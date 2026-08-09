@@ -1,0 +1,71 @@
+{
+ "F01": {
+  "reasoning": "The 25% tariff imposed in January 2026 (E03) on advanced AI chips provides a direct mechanism for revenue collection. Estimating the total value of imported advanced AI chips by the end of 2027 is key. Assuming a significant but plausible volume of imports, the tariff revenue can be calculated. For example, if $1.2 billion worth of these chips are imported by the end of 2027, this would generate $300 million in tariff revenue. A significant increase or decrease in import volumes, or a change in the tariff rate or scope, would alter this forecast. The probability of 0.3 reflects uncertainty in exact import volumes and enforcement effectiveness.",
+  "evidence": [
+   "E03"
+  ]
+ },
+ "F02": {
+  "reasoning": "The export control regulations described in E05, which require host-country matching investments in American AI for cluster builds exceeding 200,000 units, are designed to incentivize foreign direct investment. The success of this policy hinges on how broadly allied nations adopt similar investment strategies and the perceived strategic advantage of aligning with U.S. AI infrastructure. If these regulations are perceived as burdensome or if alternative AI development hubs emerge, FDI could be lower. The probability of 0.4 reflects this uncertainty about the global response and the actual investment commitments spurred by these specific controls.",
+  "evidence": [
+   "E05",
+   "E03"
+  ]
+ },
+ "F03": {
+  "reasoning": "Government policies aimed at fostering domestic production, as implied by the context of export controls and tariffs (E03, E05), are expected to spur investment and expansion in the U.S. AI chip industry. A 15% increase in domestic production capacity by 2029 is an ambitious but achievable target given sufficient incentives and market demand. This forecast assumes sustained government support and successful implementation of policies encouraging new fabs and R&D. A significant shift away from domestic production incentives or unforeseen geopolitical disruptions would lower this probability. The 0.6 probability indicates a moderate to high likelihood of this outcome.",
+  "evidence": [
+   "E03",
+   "E05"
+  ]
+ },
+ "F04": {
+  "reasoning": "OpenAI's offer of significant API credits (up to $1 million) as part of its 'Industrial Policy for the Intelligence Age' framework (E02), coupled with broad interest indicated by over 400 policy submission responses, suggests strong potential for uptake. By the end of 2027, it is plausible that 50 research institutions globally could utilize these credits, especially if the framework is well-promoted and the credits offer substantial value for AI development. The 0.7 probability reflects the high interest shown and the significant value of the offered credits. A lower uptake would occur if the credits are difficult to use, the research scope is too narrow, or competing programs emerge.",
+  "evidence": [
+   "E02",
+   "E01"
+  ]
+ },
+ "F05": {
+  "reasoning": "Lobbying expenditures by major players like AMD and KLA Corp. on AI trade and export controls are already substantial, with AMD spending over $2 million (E06) and KLA over $1 million (E07) on related issues. The ongoing nature of AI trade policy evolution and the critical importance of these issues to their business models suggest continued and potentially increased spending. Cumulatively exceeding $10 million by the end of 2027 is highly probable given the scope of the issues and the financial capacity of these companies. A lower expenditure would imply a resolution or significant de-escalation of these policy debates. The 0.75 probability reflects the strong current trend and likely continued focus.",
+  "evidence": [
+   "E06",
+   "E07"
+  ]
+ },
+ "F06": {
+  "reasoning": "The forecast of 1.8% annual U.S. productivity growth between 2027 and 2030, influenced by targeted AI industrial policy, is higher than the recent 1.4% average (E08) but within the realm of possibility if AI significantly boosts efficiency. The success of AI industrial policy in driving this growth is uncertain, as productivity gains often lag initial investments. If AI adoption proves slower than anticipated or its impact on broad economic productivity is less pronounced, this growth rate may not be achieved. The 0.3 probability highlights this considerable uncertainty regarding the precise impact of AI on macro-level productivity.",
+  "evidence": [
+   "E08",
+   "E01"
+  ]
+ },
+ "F07": {
+  "reasoning": "The U.S. Department of Commerce's adjustment of license review policies in January 2026 (E04) for specific high-end chips, moving from 'presumption of denial' to case-by-case review, indicates a dynamic approach to export controls. The ongoing strategic competition in AI (E03, E05) suggests that further refinements to these policies will be necessary to maintain strategic selectivity. Adjusting these policies at least three more times by the end of 2029 is a plausible scenario, reflecting a continuous effort to adapt to technological advancements and geopolitical shifts. A less dynamic approach or a stabilization of the geopolitical landscape would reduce the likelihood of multiple adjustments. The 0.75 probability reflects the current trend of policy evolution.",
+  "evidence": [
+   "E04",
+   "E03"
+  ]
+ },
+ "F08": {
+  "reasoning": "The tiered export control regulations in E05, requiring host-country matching investments in American AI for large cluster builds, create a framework for international cooperation and potentially reciprocal investment. If key allies view this as a positive-sum strategy for AI development and security, committing to matching investments in U.S. AI infrastructure by five countries by the end of 2028 is a reasonable expectation. This would depend on the perceived benefits of alignment with U.S. AI ecosystem and the strength of bilateral relationships. A lack of perceived benefit or increased skepticism towards U.S. AI dominance could reduce this number. The 0.35 probability reflects the conditional nature of such commitments.",
+  "evidence": [
+   "E05",
+   "E03"
+  ]
+ },
+ "F09": {
+  "reasoning": "Global venture investment in AI has seen explosive growth (E01), and the continuation of state-led industrial policies and AI development (E03, E05) are strong drivers for future investment. A 50% growth from the 2026 level by 2031 is ambitious but plausible, building upon the already massive scale of AI investment. This forecast assumes continued technological breakthroughs, ongoing strategic competition fueling R&D, and sustained government support for AI. A significant global economic downturn, a plateau in AI innovation, or a shift away from state-led investment could limit this growth. The 0.7 probability reflects the strong historical trend and current policy momentum.",
+  "evidence": [
+   "E01",
+   "E03"
+  ]
+ },
+ "F10": {
+  "reasoning": "The context of strategic competition in the AI age (E03, E05) naturally leads to efforts to secure supply chains. The U.S. actively pursuing bilateral agreements with key allies to reinforce AI supply chain security by the end of 2028 is a logical extension of these trends. Securing at least two such agreements is a moderate but achievable goal, contingent on the willingness of allies to deepen cooperation on AI infrastructure and security matters. The success of these negotiations depends on mutual strategic interests and trust. A lack of perceived threat or differing strategic priorities among allies could hinder this. The 0.7 probability reflects the strong geopolitical incentives for such agreements.",
+  "evidence": [
+   "E03",
+   "E05"
+  ]
+ }
+}
