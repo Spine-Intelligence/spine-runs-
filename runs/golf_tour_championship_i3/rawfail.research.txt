@@ -1,0 +1,42 @@
+The provided data is pre-tournament information for the Wyndham Championship, not the 2026 Tour Championship at East Lake. To fulfill the request, I need to find information specifically about the 2026 Tour Championship. Since the current date is August 9, 2026, the Tour Championship should be imminent or recently concluded.
+
+I will search for the 2026 Tour Championship dates, the field, and round-level scoring details, focusing on low rounds, field averages, and rounds under 65.
+
+It appears there was a misunderstanding in the initial search. The current date is August 9, 2026, which means the 2026 Tour Championship has not yet concluded, and in fact, it is scheduled to take place from August 27-30, 2026. The search results primarily contain information about previous Tour Championships, schedules for other 2026 PGA Tour events, and general course information for East Lake Golf Club.
+
+Therefore, I cannot provide round-level scoring, field averages, or rounds under 65 for the 2026 Tour Championship at this time.
+
+Here's what can be gathered regarding the event's context:
+
+*   **Event Dates:** August 27-30, 2026
+*   **Location:** East Lake Golf Club, Atlanta, Georgia
+*   **Field:** Composed of the top 30 players in the FedExCup standings
+*   **Course:** East Lake Golf Club plays as a par-70, approximately 7,440 yards.
+*   **Format:** The tournament is the final event of the FedExCup Playoffs, and the format changed in 2025 to a traditional, 72-hole, stroke-play event, with all players starting at even par.
+
+Since the event has not occurred, the requested detailed scoring information is unavailable. The information about the Wyndham Championship and other tournaments is not relevant to the specific focus of the 2026 Tour Championship.
+
+Unknowns:
+*   Actual round-level scoring for the 2026 Tour Championship.
+*   Field averages for the 2026 Tour Championship.
+*   Number of rounds under 65 for the 2026 Tour Championship.
+*   Specific player performances in the 2026 Tour Championship.
+
+Since the event has not occurred, no distinct entities (players/companies/instruments) can be profiled with evidence related to round-level scoring, field averages, or rounds under 65 for the 2026 Tour Championship.
+{"evidence": [], "unknowns": ["Round-level scoring data for the 2026 Tour Championship at East Lake.", "Field average scores for the 2026 Tour Championship at East Lake.", "Number of rounds under 65 for the 2026 Tour Championship at East Lake.", "Specific player performances and scores during the 2026 Tour Championship at East Lake."]}
+The 2026 Tour Championship is scheduled to take place from August 27-30, 2026, at East Lake Golf Club in Atlanta, Georgia. As of the current date, August 9, 2026, the tournament has not yet occurred. Therefore, information regarding round-level scoring, field averages, and rounds under 65 for the 2026 event is not yet available.
+
+The tournament will feature the top 30 players in the FedExCup standings, and it serves as the culminating event of the FedExCup Playoffs. East Lake Golf Club is set up as a par-70 course, playing approximately 7,440 yards for the championship. The tournament format, as of 2025, is a traditional 72-hole stroke-play event where all 30 players begin at even par.
+
+Given that the event has not yet taken place, specific details on low rounds, field averages, and rounds under 65 cannot be provided. Information from other tournaments, such as the Wyndham Championship, is not applicable to the 2026 Tour Championship.
+
+Unknowns:
+*   Round-level scoring data for the 2026 Tour Championship at East Lake.
+*   Field average scores for the 2026 Tour Championship at East Lake.
+*   Number of rounds under 65 for the 2026 Tour Championship at East Lake.
+*   Specific player performances and scores during the 2026 Tour Championship at East Lake.
+*   Final field list for the 2026 Tour Championship.
+*   Course conditions and setup details for the 2026 Tour Championship at East Lake.
+
+Given the current date, no specific player performances or scoring data related to the 2026 Tour Championship can be provided. Therefore, no distinct entities can be profiled with evidence entries related to the requested focus.
+{"evidence": [], "unknowns": ["Round-level scoring data for the 2026 Tour Championship at East Lake.", "Field average scores for the 2026 Tour Championship at East Lake.", "Number of rounds under 65 for the 2026 Tour Championship at East Lake.", "Specific player performances and scores during the 2026 Tour Championship at East Lake.", "Final field list for the 2026 Tour Championship.", "Course conditions and setup details for the 2026 Tour Championship at East Lake."]}
