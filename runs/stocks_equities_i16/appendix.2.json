@@ -1,0 +1,235 @@
+{
+ "F01": {
+  "reasoning": "The 70% probability for JPMorgan Chase & Co. to exceed $58.0 billion in revenue aligns with the company's recent strong performance, particularly the $57.35B reported for Q2026-06-30. This trajectory, coupled with a substantial year-over-year growth of 27.7% in the prior quarter, suggests continued revenue expansion.  The target of $57.347B in the prior quarter ending 2026-06-30, further supports this outlook.",
+  "evidence": [
+   "E01",
+   "E02",
+   "E03"
+  ]
+ },
+ "F02": {
+  "reasoning": "The 70% chance for Bank of America to exceed $34.5 billion in revenue is supported by its recent Q2026-06-30 revenue of $33.83B. While the year-over-year growth was -3.0%, the absolute revenue figure is close to the target.  A slight uptick or stabilization from the prior quarter's $33.832B could lead to exceeding the threshold.  The forecast hinges on a modest positive revenue shift.",
+  "evidence": [
+   "E04",
+   "E05",
+   "E06"
+  ]
+ },
+ "F03": {
+  "reasoning": "The 60% probability for Wells Fargo & Company to exceed $23.5 billion in revenue is reasonable given their latest quarterly revenue of $23.28B in Q2026-06-30, which is close to the target.  The strong year-over-year growth of 9.2% from $21.320B to $23.284B indicates positive momentum.  Sustaining this growth or a slight increase from the $23.284B reported in the last quarter would meet the forecast.",
+  "evidence": [
+   "E07",
+   "E08",
+   "E09"
+  ]
+ },
+ "F04": {
+  "reasoning": "The 75% probability for U.S. Bancorp to exceed $7.8 billion in revenue is strongly supported by its consistent revenue growth, evidenced by the $7.71B reported in Q2026-06-30 and 10.1% year-over-year growth.  The target is only slightly above the recent figures, making it highly probable. Continued positive trends in net interest income, as seen in $4.4B for Q2 2026,, bolster this forecast.",
+  "evidence": [
+   "E13",
+   "E14",
+   "E15",
+   "E44"
+  ]
+ },
+ "F05": {
+  "reasoning": "The 60% chance for KeyCorp to exceed $2.1 billion in revenue is plausible, given their recent revenue of $2.06B for Q2026-06-30.  While the year-over-year growth was -2.3%, the reported revenue is near the target.  A slight increase from $2.059B, or stabilization, could lead to exceeding the threshold, especially with continued positive trends in net interest income as shown by $1.258B for Q2.",
+  "evidence": [
+   "E16",
+   "E17",
+   "E18",
+   "E45"
+  ]
+ },
+ "F06": {
+  "reasoning": "The 72% probability for Fifth Third Bancorp to exceed $3.3 billion in revenue is well-supported by the $3.37B reported for Q2026-06-30, which is already above the target. The impressive 35.7% year-over-year revenue growth to $3.372B further strengthens this forecast. Continued strong performance in net interest income as indicated by $2.22B in Q2 2026, also contributes to this high probability.",
+  "evidence": [
+   "E19",
+   "E20",
+   "E21",
+   "E46"
+  ]
+ },
+ "F07": {
+  "reasoning": "The 60% probability for Regions Financial Corporation to exceed $1.75 billion in revenue is supported by their latest quarterly revenue of $1.75B in Q2026-06-30, which is very close to the target.  Although the year-over-year growth was -2.0%, a slight positive movement from the reported $1.748B in the last quarter would allow them to exceed the threshold.  Recent revenue figures like $1.907B for 2Q26. align with this.",
+  "evidence": [
+   "E22",
+   "E23",
+   "E24",
+   "E43"
+  ]
+ },
+ "F08": {
+  "reasoning": "The 75% probability for Bank of New York Mellon Corp to exceed $5.9 billion in revenue is supported by their reported revenue of $5.94B for Q2026-06-30.  The company experienced a 10.0% year-over-year decrease, but the absolute revenue is substantial.  Continued fee revenue growth, as indicated by $4.036B in Q2 2026,, helps maintain a strong probability for exceeding the target.",
+  "evidence": [
+   "E25",
+   "E26",
+   "E27",
+   "E80"
+  ]
+ },
+ "F09": {
+  "reasoning": "The 68% probability for Morgan Stanley to exceed $22.0 billion in revenue is credible, given their latest quarterly revenue of $21.35B for Q2026-06-30. The strong 27.1% year-over-year growth to $21.348B suggests robust performance.  Record revenues reported in Q2 2026. further bolster the likelihood of exceeding the target of $21.348B.",
+  "evidence": [
+   "E28",
+   "E29",
+   "E30",
+   "E75"
+  ]
+ },
+ "F10": {
+  "reasoning": "The 65% chance for Citigroup Inc. to exceed $37.0 billion in revenue for the fiscal quarter ending 2026-12-31 is supported by their latest reported revenue of $36.69B in Q2025-09-30.  While the year-over-year growth was a modest 0.6%, the absolute revenue figure is close to the target.  Sustained performance or a slight increase from this figure is necessary to meet the forecast.",
+  "evidence": [
+   "E10",
+   "E11",
+   "E12"
+  ]
+ },
+ "F11": {
+  "reasoning": "The 35% chance for JPMorgan Chase & Co. to report year-over-year quarterly revenue growth of at least 15% is moderate. While the previous quarter showed a strong 27.7% growth from $44.912B to $57.347B, the trailing revenue figures in $57.35B, $49.84B, and $46.43B indicate variability.  Achieving 15% growth requires a significant increase over the $42.65B from 2024-09-30.",
+  "evidence": [
+   "E02",
+   "E03"
+  ]
+ },
+ "F12": {
+  "reasoning": "The 70% probability for Bank of America to report year-over-year quarterly revenue growth of at least -1.0% is high, given their recent growth of -3.0% from $34.873B to $33.832B.  This indicates they are already very close to meeting the threshold.  Further slight declines or stabilization around the current rate would fulfill this prediction, supported by their Q2026-06-30 revenue of $33.83B.",
+  "evidence": [
+   "E05",
+   "E06"
+  ]
+ },
+ "F13": {
+  "reasoning": "The 65% probability for Wells Fargo & Company to report year-over-year quarterly revenue growth of at least 5.0% is strong, evidenced by their recent 9.2% growth from $21.320B to $23.284B.  This significant increase comfortably surpasses the 5.0% threshold.  The consistent upward trend in their trailing revenue data further supports this high probability.",
+  "evidence": [
+   "E08",
+   "E09"
+  ]
+ },
+ "F14": {
+  "reasoning": "The 72% probability for U.S. Bancorp to report year-over-year quarterly revenue growth of at least 8.0% is strongly supported by the 10.1% growth achieved in the previous quarter, moving from $7.004B to $7.712B. This growth rate significantly exceeds the 8.0% requirement. Continued strong net interest income further solidifies this forecast.",
+  "evidence": [
+   "E14",
+   "E15",
+   "E44"
+  ]
+ },
+ "F15": {
+  "reasoning": "The 60% probability for KeyCorp to report year-over-year quarterly revenue growth of at least -1.0% is high, given their recent growth of -2.3% from $2.107B to $2.059B. This indicates they are very close to or have already met the target. Stabilization or a slight improvement in revenue trends would confirm this forecast.",
+  "evidence": [
+   "E17",
+   "E18"
+  ]
+ },
+ "F16": {
+  "reasoning": "The 75% probability for Fifth Third Bancorp to report year-over-year quarterly revenue growth of at least 20.0% is very strong, as evidenced by the 35.7% growth from $2.484B to $3.372B in the prior quarter. This significantly exceeds the 20.0% target.  Continued strong revenue performance, including net interest income, makes this highly probable.",
+  "evidence": [
+   "E20",
+   "E21",
+   "E46"
+  ]
+ },
+ "F17": {
+  "reasoning": "The 68% probability for Regions Financial Corporation to report year-over-year quarterly revenue growth of at least -1.0% is highly likely. Their recent growth was -2.0%, moving from $1.784B to $1.748B, which means they are already at or very near the target.  Even a slight decline would still meet this condition.",
+  "evidence": [
+   "E23",
+   "E24"
+  ]
+ },
+ "F18": {
+  "reasoning": "The 78% probability for Bank of New York Mellon Corp to report year-over-year quarterly revenue growth of at least -5.0% is very high. Their recent growth was -10.0%, meaning they are well within the -5.0% threshold.  The substantial revenue figures and overall stability in fee revenue support this high probability.",
+  "evidence": [
+   "E26",
+   "E27"
+  ]
+ },
+ "F19": {
+  "reasoning": "The 72% probability for Morgan Stanley to report year-over-year quarterly revenue growth of at least 20.0% is strong, due to the 27.1% growth from $16.792B to $21.348B in the previous quarter. This performance significantly surpasses the 20.0% requirement.  Continued strong revenues, especially from wealth management, support this high probability.",
+  "evidence": [
+   "E29",
+   "E30",
+   "E53"
+  ]
+ },
+ "F20": {
+  "reasoning": "The 65% probability for Citigroup Inc. to report year-over-year quarterly revenue growth of at least 0.0% is highly probable. The company reported 0.6% growth from $36.456B to $36.690B in its last reported quarter, indicating it is already meeting this condition.  The revenue trail shows stability, making positive or zero growth very likely.",
+  "evidence": [
+   "E11",
+   "E12"
+  ]
+ },
+ "F21": {
+  "reasoning": "The 20% probability for JPMorgan Chase & Co. to report quarterly revenue below $55.0 billion is low. Their most recent quarterly revenue was $57.35B in Q2026-06-30, which is already above the $55.0 billion threshold.  Therefore, a revenue drop below this figure is unlikely based on historical data.",
+  "evidence": [
+   "E03",
+   "E31"
+  ]
+ },
+ "F22": {
+  "reasoning": "The 60% probability for Bank of America's assets not exceeding $5.0 trillion by the end of Q2026-06-30, is plausible. While specific asset figures aren't provided in the given evidence, the company's scale and consistent revenue generation suggest that a significant jump beyond $5.0 trillion in assets is not guaranteed within the short timeframe.",
+  "evidence": [
+   "E04",
+   "E49"
+  ]
+ },
+ "F23": {
+  "reasoning": "The 35% probability for Wells Fargo & Company to report quarterly revenue below $22.0 billion is low. Their most recent quarterly revenue was $23.28B in Q2026-06-30, which is above the $22.0 billion threshold.  Given the 9.2% year-over-year growth, a decline below this level is not anticipated.",
+  "evidence": [
+   "E07",
+   "E09"
+  ]
+ },
+ "F24": {
+  "reasoning": "The 15% probability for U.S. Bancorp to report quarterly revenue below $7.0 billion is very low. Their latest reported revenue was $7.71B in Q2026-06-30, which is well above $7.0 billion.  The company has demonstrated consistent revenue growth, including 10.1% year-over-year, making a dip below $7.0 billion highly improbable.",
+  "evidence": [
+   "E13",
+   "E15",
+   "E44"
+  ]
+ },
+ "F25": {
+  "reasoning": "The 30% probability for KeyCorp to report quarterly revenue below $1.9 billion is moderate. Their most recent quarterly revenue was $2.06B in Q2026-06-30, which is just above $1.9 billion.  While not a certainty, a slight downturn or slower growth could lead to this outcome.",
+  "evidence": [
+   "E16",
+   "E18",
+   "E36"
+  ]
+ },
+ "F26": {
+  "reasoning": "The 20% probability for Fifth Third Bancorp to report quarterly revenue below $2.8 billion is very low. Their latest reported revenue was $3.37B in Q2026-06-30, which is significantly above the $2.8 billion threshold.  The company's strong revenue growth, including 35.7% year-over-year, makes this outcome unlikely.",
+  "evidence": [
+   "E19",
+   "E21",
+   "E37"
+  ]
+ },
+ "F27": {
+  "reasoning": "The 30% probability for Regions Financial Corporation to report quarterly revenue below $1.70 billion is moderate. Their most recent quarterly revenue was $1.75B in Q2026-06-30, which is very close to the $1.70 billion target.  A slight decrease from this figure would result in meeting the condition.",
+  "evidence": [
+   "E22",
+   "E24",
+   "E38"
+  ]
+ },
+ "F28": {
+  "reasoning": "The 70% probability for Wells Fargo & Company to report a year-over-year quarterly revenue growth of at least 10% is high. Their recent growth was 9.2%, from $21.320B to $23.284B, which comfortably exceeds the 10% target.  The upward trend in their revenue data supports this forecast.",
+  "evidence": [
+   "E08",
+   "E09"
+  ]
+ },
+ "F29": {
+  "reasoning": "The 28% probability for Morgan Stanley to report quarterly revenue below $20.0 billion is low. Their most recent quarterly revenue was $21.35B in Q2026-06-30, which is above the $20.0 billion threshold.  The strong year-over-year growth of 27.1% suggests a continued upward trajectory.",
+  "evidence": [
+   "E28",
+   "E30"
+  ]
+ },
+ "F30": {
+  "reasoning": "The 60% probability for Citigroup Inc. to report quarterly revenue below $36.0 billion is moderate. Their last reported revenue was $36.69B in Q2025-09-30, which is slightly above $36.0 billion.  A minor decrease or stabilization at their current revenue level could lead to meeting this condition.",
+  "evidence": [
+   "E10",
+   "E12"
+  ]
+ }
+}

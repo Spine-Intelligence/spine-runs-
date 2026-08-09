@@ -1,0 +1,43 @@
+[P3_NUM_UNGROUNDED] F01: a number (mantissa 2.770) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F03: a number (mantissa 2.132) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F06: a number (mantissa 3.570) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F07: a number (mantissa 2.600) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F09: a number (mantissa 2.710) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F11: a number (mantissa 4.265) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F12: a number (mantissa 3.383) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F13: a number (mantissa 2.132) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F19: a number (mantissa 1.679) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F20: a number (mantissa 3.646) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F26: a number (mantissa 3.570) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F28: a number (mantissa 2.132) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F29: a number (mantissa 2.710) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_RAW_NUMERIC] F01: raw numeric '70%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F02: raw numeric '70%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F03: raw numeric '60%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F04: raw numeric '75%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F05: raw numeric '60%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F06: raw numeric '72%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F07: raw numeric '60%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F08: raw numeric '75%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F09: raw numeric '68%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F10: raw numeric '65%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F11: raw numeric '35%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F12: raw numeric '70%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F13: raw numeric '65%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F14: raw numeric '72%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F15: raw numeric '60%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F16: raw numeric '75%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F17: raw numeric '68%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F18: raw numeric '78%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F19: raw numeric '72%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F20: raw numeric '65%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F21: raw numeric '20%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F22: raw numeric '60%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F23: raw numeric '35%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F24: raw numeric '15%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F25: raw numeric '30%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F26: raw numeric '20%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F27: raw numeric '30%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F28: raw numeric '70%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F29: raw numeric '28%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F30: raw numeric '60%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead

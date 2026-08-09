@@ -1,0 +1,1 @@
+[no text captured: Gemini returned no text (finishReason=STOP) -- known flaky mode of grounded lite models on large prompts; the harness re-asks, then falls back (gemini-3.5-flash-lite), then goes seed-only]

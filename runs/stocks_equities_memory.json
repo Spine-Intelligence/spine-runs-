@@ -1,53 +1,23 @@
 {
  "topic": "stocks_equities",
- "runs": 14,
+ "runs": 15,
  "passed": 1,
  "violation_history": {
-  "P3_NUM_UNGROUNDED": 54,
+  "P3_NUM_UNGROUNDED": 57,
+  "P1_COINFLIP": 6,
   "P1_SENTENCE": 5,
   "P1_EVID_CONC": 5,
-  "P1_COINFLIP": 4,
   "P1_CUTOFF": 4,
   "P3_EVIDENCE": 4,
-  "P1_HORIZON": 2,
+  "P1_HORIZON": 3,
+  "P1_EVID_THIN": 3,
   "P1_LONG": 2,
   "P1_SPREAD": 2,
   "P1_REGISTRY": 1,
-  "P1_CONTRARIAN": 1,
-  "P1_EVID_THIN": 1
+  "P1_CONTRARIAN": 1
  },
- "coinflip_median_incidents": 4,
+ "coinflip_median_incidents": 6,
  "claimed_statements": [
-  "There is a 45% chance that Bank of America Corporation will report quarterly revenue exceeding $34.0 billion for the quarter ending 2026-09-30.",
-  "There is a 65% chance that Wells Fargo & Company will report year-over-year quarterly revenue growth below 8.0% for the quarter ending 2026-09-30.",
-  "There is a 70% chance that U.S. Bancorp will report year-over-year quarterly revenue growth below 9.0% for the quarter ending 2026-09-30.",
-  "There is a 65% chance that Fifth Third Bancorp will report year-over-year quarterly revenue growth below 30% for the quarter ending 2026-09-30.",
-  "There is a 65% chance that Regions Financial Corporation will report quarterly revenue below $1.73 billion for the quarter ending 2026-09-30.",
-  "There is a 68% chance that The Bank of New York Mellon Corporation will report year-over-year quarterly revenue growth exceeding -8% for the quarter e",
-  "There is a 30% chance that Citigroup Inc. will report quarterly revenue exceeding $37.0 billion for the quarter ending 2026-09-30.",
-  "There is a 28% chance that Citigroup Inc. will report year-over-year quarterly revenue growth below 1.0% for the quarter ending 2026-09-30.",
-  "There is a 30% chance that Morgan Stanley will report quarterly revenue below $20.0 billion for the quarter ending 2026-09-30.",
-  "There is a 72% chance that JPMorgan Chase & Co. will report sequential quarterly revenue growth below 10% for the quarter ending 2026-09-30.",
-  "There is a 52% chance that Bank of America Corporation will report quarterly revenue below $33.5 billion for the quarter ending 2026-09-30.",
-  "There is a 70% chance that Wells Fargo & Company will report quarterly revenue below $22.0 billion for the quarter ending 2026-09-30.",
-  "There is a 68% chance that U.S. Bancorp will report quarterly revenue below $7.2 billion for the quarter ending 2026-09-30.",
-  "There is a 70% chance that KeyCorp will report quarterly revenue below $2.0 billion for the quarter ending 2026-09-30.",
-  "There is a 65% chance that Fifth Third Bancorp will report quarterly revenue below $3.0 billion for the quarter ending 2026-09-30.",
-  "There is a 70% chance that Regions Financial Corporation will report quarterly revenue below $1.70 billion for the quarter ending 2026-09-30.",
-  "There is a 68% chance that The Bank of New York Mellon Corporation will report quarterly revenue exceeding $6.0 billion for the quarter ending 2026-09",
-  "There is a 70% chance that Morgan Stanley will report year-over-year quarterly revenue growth below 25% for the quarter ending 2026-09-30.",
-  "There is a 30% chance that JPMorgan Chase & Co. will report total net revenue below $55.0 billion for the quarter ending 2027-03-31.",
-  "There is a 25% chance that Bank of America Corporation will report year-over-year quarterly revenue growth below -5% for the quarter ending 2027-03-31",
-  "There is a 65% chance that JPMorgan Chase & Co. will report quarterly revenue exceeding $58.0 billion for the fiscal quarter ending 2026-09-30.",
-  "There is a 68% chance that Morgan Stanley will report quarterly revenue exceeding $22.0 billion for the fiscal quarter ending 2026-09-30.",
-  "There is a 70% chance that Fifth Third Bancorp will report year-over-year quarterly revenue growth of at least +20.0% for the fiscal quarter ending 20",
-  "There is a 65% chance that Bank of America Corp will report quarterly revenue below $34.0 billion for the fiscal quarter ending 2026-10-01.",
-  "There is a 70% chance that Regions Financial Corporation will report quarterly revenue below $1.70 billion for the fiscal quarter ending 2026-09-30.",
-  "There is a 60% chance that KeyCorp will report year-over-year quarterly revenue growth of at least -5.0% for the fiscal quarter ending 2026-09-30.",
-  "There is a 60% chance that Bank of New York Mellon Corp will report quarterly revenue below $6.0 billion for the fiscal quarter ending 2026-10-01.",
-  "There is a 58% chance that U.S. Bancorp will report quarterly revenue exceeding $7.5 billion for the fiscal quarter ending 2026-09-30.",
-  "There is a 40% chance that Citigroup Inc. will report quarterly revenue exceeding $37.0 billion for the fiscal quarter ending 2026-09-30.",
-  "There is a 70% chance that Wells Fargo & Company will report quarterly revenue exceeding $23.5 billion for the fiscal quarter ending 2026-09-30.",
   "There is a 35% chance that JPMorgan Chase & Co. will report year-over-year quarterly revenue growth below +20.0% for the fiscal quarter ending 2026-09",
   "There is a 40% chance that Morgan Stanley will report year-over-year quarterly revenue growth below +20.0% for the fiscal quarter ending 2026-09-30.",
   "There is a 42% chance that Fifth Third Bancorp will report year-over-year quarterly revenue growth below +25.0% for the fiscal quarter ending 2026-09-",
@@ -97,112 +67,40 @@
   "There is a 35% chance that Regions Financial Corporation will report year-over-year quarterly revenue growth below -5.0% for the quarter ending 2026-0",
   "There is a 30% chance that Bank of New York Mellon Corp will report year-over-year quarterly revenue growth below -15.0% for the quarter ending 2026-0",
   "There is a 30% chance that Morgan Stanley will report quarterly revenue below $20.0 billion for the quarter ending 2026-09-30.",
-  "There is a 70% chance that JPMorgan Chase & Co. will report sequential quarterly revenue growth of at least 5.0% for the quarter ending 2026-09-30."
+  "There is a 70% chance that JPMorgan Chase & Co. will report sequential quarterly revenue growth of at least 5.0% for the quarter ending 2026-09-30.",
+  "JPMorgan Chase & Co. will report quarterly revenue below $57.5 billion for the fiscal quarter ending 2026-09-30.",
+  "Bank of America Corporation will report year-over-year quarterly revenue growth above -2.0% for the fiscal quarter ending 2026-09-30.",
+  "Wells Fargo & Company will report quarterly revenue above $23.5 billion for the fiscal quarter ending 2026-09-30.",
+  "U.S. Bancorp will report year-over-year quarterly revenue growth below 9.0% for the fiscal quarter ending 2026-09-30.",
+  "KeyCorp will report year-over-year quarterly revenue growth above -1.5% for the fiscal quarter ending 2026-09-30.",
+  "Fifth Third Bancorp will report quarterly revenue below $3.3 billion for the fiscal quarter ending 2026-09-30.",
+  "Regions Financial Corporation will report year-over-year quarterly revenue growth above -1.0% for the fiscal quarter ending 2026-09-30.",
+  "Bank of New York Mellon Corp will report year-over-year quarterly revenue growth below -8.0% for the fiscal quarter ending 2026-09-30.",
+  "Morgan Stanley will report quarterly revenue above $21.5 billion for the fiscal quarter ending 2026-09-30.",
+  "JPMorgan Chase & Co. will report year-over-year quarterly revenue growth below 25.0% for the fiscal quarter ending 2026-09-30.",
+  "Bank of America Corporation will report quarterly revenue below $33.5 billion for the fiscal quarter ending 2026-09-30.",
+  "Wells Fargo & Company will report year-over-year quarterly revenue growth below 8.0% for the fiscal quarter ending 2026-09-30.",
+  "U.S. Bancorp will report quarterly revenue below $7.6 billion for the fiscal quarter ending 2026-09-30.",
+  "KeyCorp will report quarterly revenue below $2.0 billion for the fiscal quarter ending 2026-09-30.",
+  "Fifth Third Bancorp will report year-over-year quarterly revenue growth below 25.0% for the fiscal quarter ending 2026-09-30.",
+  "Regions Financial Corporation will report quarterly revenue below $1.70 billion for the fiscal quarter ending 2026-09-30.",
+  "Bank of New York Mellon Corp will report quarterly revenue below $5.8 billion for the fiscal quarter ending 2026-09-30.",
+  "Morgan Stanley will report year-over-year quarterly revenue growth below 25.0% for the fiscal quarter ending 2026-09-30.",
+  "JPMorgan Chase & Co. will report net income below $20 billion for the fiscal quarter ending 2026-09-30.",
+  "Bank of America Corporation will report year-over-year quarterly revenue growth above 0% for the fiscal quarter ending 2027-03-31.",
+  "Wells Fargo & Company will report net income below $6 billion for the fiscal quarter ending 2026-09-30.",
+  "U.S. Bancorp will report year-over-year quarterly revenue growth below 5.0% for the fiscal quarter ending 2027-03-31.",
+  "KeyCorp will report year-over-year quarterly revenue growth above -3.0% for the fiscal quarter ending 2027-03-31.",
+  "Fifth Third Bancorp will report quarterly revenue above $3.0 billion for the fiscal quarter ending 2027-03-31.",
+  "Regions Financial Corporation will report year-over-year quarterly revenue growth above -3.0% for the fiscal quarter ending 2027-03-31.",
+  "Bank of New York Mellon Corp will report year-over-year quarterly revenue growth above -5.0% for the fiscal quarter ending 2027-03-31.",
+  "Morgan Stanley will report quarterly revenue above $20 billion for the fiscal quarter ending 2027-03-31.",
+  "Wells Fargo & Company will report year-over-year quarterly revenue growth above 5.0% for the fiscal quarter ending 2027-03-31.",
+  "Morgan Stanley will report quarterly revenue above $23 billion for the fiscal quarter ending 2027-03-31.",
+  "JPMorgan Chase & Co. will report quarterly revenue above $65 billion for the fiscal quarter ending 2028-06-30."
  ],
  "lessons": [],
  "runs_detail": [
-  {
-   "run": "stocks_equities_i9",
-   "verdict": "refused",
-   "violations": [
-    "P1_SENTENCE",
-    "P1_SENTENCE",
-    "P3_NUM_UNGROUNDED"
-   ],
-   "claims": [
-    {
-     "stmt": "JPMorgan Chase & Co. will report a year-over-year quarterly revenue growth greater than 20% for the quarter ending 2026-09-30.",
-     "p": 0.75,
-     "metric": "Year-over-year quarterly revenue growth",
-     "resolves": "2026-11-06",
-     "panel_spread": 0.13,
-     "shadow_gap": 0.1,
-     "outcome": null
-    },
-    {
-     "stmt": "Bank of America Corp. will report a year-over-year quarterly revenue growth of at least -2.0% for the quarter ending 2026-09-30.",
-     "p": 0.3,
-     "metric": "Year-over-year quarterly revenue growth",
-     "resolves": "2026-11-06",
-     "panel_spread": 0.18,
-     "shadow_gap": 0.0,
-     "outcome": null
-    },
-    {
-     "stmt": "Wells Fargo & Company will report noninterest income exceeding $10.2 billion for the quarter ending 2026-09-30.",
-     "p": 0.7,
-     "metric": "Noninterest income",
-     "resolves": "2026-10-28",
-     "panel_spread": 0.2,
-     "shadow_gap": -0.55,
-     "outcome": null
-    },
-    {
-     "stmt": "Citigroup Inc. will report a year-over-year quarterly revenue growth of at least 10% for the quarter ending 2026-09-30.",
-     "p": 0.7,
-     "metric": "Year-over-year quarterly revenue growth",
-     "resolves": "2026-11-06",
-     "panel_spread": 0.13,
-     "shadow_gap": -0.5,
-     "outcome": null
-    },
-    {
-     "stmt": "U.S. Bancorp will report fee revenue constituting at least 44.5% of its total revenue for the quarter ending 2026-09-30.",
-     "p": 0.7,
-     "metric": "Fee revenue as percentage of total revenue",
-     "resolves": "2026-11-06",
-     "panel_spread": 0.2,
-     "shadow_gap": -0.3,
-     "outcome": null
-    },
-    {
-     "stmt": "Fifth Third Bancorp will report a year-over-year quarterly revenue growth of at least 30% for the quarter ending 2026-09-30.",
-     "p": 0.65,
-     "metric": "Year-over-year quarterly revenue growth",
-     "resolves": "2026-11-04",
-     "panel_spread": 0.35,
-     "shadow_gap": 0.3,
-     "outcome": null
-    },
-    {
-     "stmt": "KeyCorp will report a year-over-year quarterly revenue growth of less than -1.0% for the quarter ending 2026-09-30.",
-     "p": 0.6,
-     "metric": "Year-over-year quarterly revenue growth",
-     "resolves": "2026-11-04",
-     "panel_spread": 0.55,
-     "shadow_gap": 0.2,
-     "outcome": null
-    },
-    {
-     "stmt": "Regions Financial Corporation will report a year-over-year quarterly revenue growth of less than -1.0% for the quarter ending 2026-09-30.",
-     "p": 0.6,
-     "metric": "Year-over-year quarterly revenue growth",
-     "resolves": "2026-11-06",
-     "panel_spread": 0.55,
-     "shadow_gap": 0.2,
-     "outcome": null
-    },
-    {
-     "stmt": "Bank of New York Mellon Corp. will report a year-over-year quarterly revenue growth greater than -8.0% for the quarter ending 2026-09-30.",
-     "p": 0.3,
-     "metric": "Year-over-year quarterly revenue growth",
-     "resolves": "2026-11-05",
-     "panel_spread": 0.4,
-     "shadow_gap": -0.2,
-     "outcome": null
-    },
-    {
-     "stmt": "Morgan Stanley will report a year-over-year quarterly revenue growth exceeding 25% for the quarter ending 2026-09-30.",
-     "p": 0.72,
-     "metric": "Year-over-year quarterly revenue growth",
-     "resolves": "2026-11-04",
-     "panel_spread": 0.4,
-     "shadow_gap": 0.18,
-     "outcome": null
-    }
-   ],
-   "review": []
-  },
   {
    "run": "stocks_equities_i10",
    "verdict": "refused",
@@ -1384,6 +1282,293 @@
      "resolves": "2026-11-06",
      "panel_spread": 0.2,
      "shadow_gap": 0.0,
+     "outcome": null
+    }
+   ],
+   "review": []
+  },
+  {
+   "run": "stocks_equities_i15",
+   "verdict": "refused",
+   "violations": [
+    "P1_COINFLIP",
+    "P1_COINFLIP",
+    "P1_HORIZON",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P3_NUM_UNGROUNDED",
+    "P1_EVID_THIN",
+    "P1_EVID_THIN"
+   ],
+   "claims": [
+    {
+     "stmt": "JPMorgan Chase & Co. will report quarterly revenue below $57.5 billion for the fiscal quarter ending 2026-09-30.",
+     "p": 0.65,
+     "metric": "RevenuesNetOfInterestExpense",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.35,
+     "shadow_gap": -0.2,
+     "outcome": null
+    },
+    {
+     "stmt": "Bank of America Corporation will report year-over-year quarterly revenue growth above -2.0% for the fiscal quarter ending 2026-09-30.",
+     "p": 0.7,
+     "metric": "year-over-year quarterly revenue growth",
+     "resolves": "2026-10-30",
+     "panel_spread": 0.2,
+     "shadow_gap": -0.05,
+     "outcome": null
+    },
+    {
+     "stmt": "Wells Fargo & Company will report quarterly revenue above $23.5 billion for the fiscal quarter ending 2026-09-30.",
+     "p": 0.7,
+     "metric": "Revenues",
+     "resolves": "2026-10-27",
+     "panel_spread": 0.1,
+     "shadow_gap": -0.1,
+     "outcome": null
+    },
+    {
+     "stmt": "U.S. Bancorp will report year-over-year quarterly revenue growth below 9.0% for the fiscal quarter ending 2026-09-30.",
+     "p": 0.7,
+     "metric": "year-over-year quarterly revenue growth",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.1,
+     "shadow_gap": 0.0,
+     "outcome": null
+    },
+    {
+     "stmt": "KeyCorp will report year-over-year quarterly revenue growth above -1.5% for the fiscal quarter ending 2026-09-30.",
+     "p": 0.65,
+     "metric": "year-over-year quarterly revenue growth",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.2,
+     "shadow_gap": -0.05,
+     "outcome": null
+    },
+    {
+     "stmt": "Fifth Third Bancorp will report quarterly revenue below $3.3 billion for the fiscal quarter ending 2026-09-30.",
+     "p": 0.65,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.35,
+     "shadow_gap": 0.0,
+     "outcome": null
+    },
+    {
+     "stmt": "Regions Financial Corporation will report year-over-year quarterly revenue growth above -1.0% for the fiscal quarter ending 2026-09-30.",
+     "p": 0.65,
+     "metric": "year-over-year quarterly revenue growth",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.15,
+     "shadow_gap": -0.05,
+     "outcome": null
+    },
+    {
+     "stmt": "Bank of New York Mellon Corp will report year-over-year quarterly revenue growth below -8.0% for the fiscal quarter ending 2026-09-30.",
+     "p": 0.3,
+     "metric": "year-over-year quarterly revenue growth",
+     "resolves": "2026-10-30",
+     "panel_spread": 0.55,
+     "shadow_gap": 0.25,
+     "outcome": null
+    },
+    {
+     "stmt": "Morgan Stanley will report quarterly revenue above $21.5 billion for the fiscal quarter ending 2026-09-30.",
+     "p": 0.6,
+     "metric": "RevenuesNetOfInterestExpense",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.25,
+     "shadow_gap": -0.05,
+     "outcome": null
+    },
+    {
+     "stmt": "JPMorgan Chase & Co. will report year-over-year quarterly revenue growth below 25.0% for the fiscal quarter ending 2026-09-30.",
+     "p": 0.7,
+     "metric": "year-over-year quarterly revenue growth",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.25,
+     "shadow_gap": 0.0,
+     "outcome": null
+    },
+    {
+     "stmt": "Bank of America Corporation will report quarterly revenue below $33.5 billion for the fiscal quarter ending 2026-09-30.",
+     "p": 0.6,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-10-30",
+     "panel_spread": 0.6,
+     "shadow_gap": -0.2,
+     "outcome": null
+    },
+    {
+     "stmt": "Wells Fargo & Company will report year-over-year quarterly revenue growth below 8.0% for the fiscal quarter ending 2026-09-30.",
+     "p": 0.7,
+     "metric": "year-over-year quarterly revenue growth",
+     "resolves": "2026-10-27",
+     "panel_spread": 0.15,
+     "shadow_gap": 0.05,
+     "outcome": null
+    },
+    {
+     "stmt": "U.S. Bancorp will report quarterly revenue below $7.6 billion for the fiscal quarter ending 2026-09-30.",
+     "p": 0.6,
+     "metric": "Revenues",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.2,
+     "shadow_gap": 0.05,
+     "outcome": null
+    },
+    {
+     "stmt": "KeyCorp will report quarterly revenue below $2.0 billion for the fiscal quarter ending 2026-09-30.",
+     "p": 0.7,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.2,
+     "shadow_gap": -0.1,
+     "outcome": null
+    },
+    {
+     "stmt": "Fifth Third Bancorp will report year-over-year quarterly revenue growth below 25.0% for the fiscal quarter ending 2026-09-30.",
+     "p": 0.7,
+     "metric": "year-over-year quarterly revenue growth",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.25,
+     "shadow_gap": 0.05,
+     "outcome": null
+    },
+    {
+     "stmt": "Regions Financial Corporation will report quarterly revenue below $1.70 billion for the fiscal quarter ending 2026-09-30.",
+     "p": 0.65,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.3,
+     "shadow_gap": -0.1,
+     "outcome": null
+    },
+    {
+     "stmt": "Bank of New York Mellon Corp will report quarterly revenue below $5.8 billion for the fiscal quarter ending 2026-09-30.",
+     "p": 0.3,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2026-10-30",
+     "panel_spread": 0.55,
+     "shadow_gap": 0.2,
+     "outcome": null
+    },
+    {
+     "stmt": "Morgan Stanley will report year-over-year quarterly revenue growth below 25.0% for the fiscal quarter ending 2026-09-30.",
+     "p": 0.7,
+     "metric": "year-over-year quarterly revenue growth",
+     "resolves": "2026-11-04",
+     "panel_spread": 0.2,
+     "shadow_gap": -0.1,
+     "outcome": null
+    },
+    {
+     "stmt": "JPMorgan Chase & Co. will report net income below $20 billion for the fiscal quarter ending 2026-09-30.",
+     "p": 0.75,
+     "metric": "net income",
+     "resolves": "2026-11-06",
+     "panel_spread": 0.3,
+     "shadow_gap": -0.2,
+     "outcome": null
+    },
+    {
+     "stmt": "Bank of America Corporation will report year-over-year quarterly revenue growth above 0% for the fiscal quarter ending 2027-03-31.",
+     "p": 0.6,
+     "metric": "year-over-year quarterly revenue growth",
+     "resolves": "2027-04-30",
+     "panel_spread": 0.15,
+     "shadow_gap": -0.1,
+     "outcome": null
+    },
+    {
+     "stmt": "Wells Fargo & Company will report net income below $6 billion for the fiscal quarter ending 2026-09-30.",
+     "p": 0.7,
+     "metric": "net income",
+     "resolves": "2026-10-27",
+     "panel_spread": 0.15,
+     "shadow_gap": -0.15,
+     "outcome": null
+    },
+    {
+     "stmt": "U.S. Bancorp will report year-over-year quarterly revenue growth below 5.0% for the fiscal quarter ending 2027-03-31.",
+     "p": 0.35,
+     "metric": "year-over-year quarterly revenue growth",
+     "resolves": "2027-05-06",
+     "panel_spread": 0.4,
+     "shadow_gap": 0.25,
+     "outcome": null
+    },
+    {
+     "stmt": "KeyCorp will report year-over-year quarterly revenue growth above -3.0% for the fiscal quarter ending 2027-03-31.",
+     "p": 0.35,
+     "metric": "year-over-year quarterly revenue growth",
+     "resolves": "2027-05-04",
+     "panel_spread": 0.25,
+     "shadow_gap": 0.35,
+     "outcome": null
+    },
+    {
+     "stmt": "Fifth Third Bancorp will report quarterly revenue above $3.0 billion for the fiscal quarter ending 2027-03-31.",
+     "p": 0.35,
+     "metric": "InterestAndDividendIncomeOperating",
+     "resolves": "2027-05-04",
+     "panel_spread": 0.4,
+     "shadow_gap": 0.15,
+     "outcome": null
+    },
+    {
+     "stmt": "Regions Financial Corporation will report year-over-year quarterly revenue growth above -3.0% for the fiscal quarter ending 2027-03-31.",
+     "p": 0.35,
+     "metric": "year-over-year quarterly revenue growth",
+     "resolves": "2027-05-06",
+     "panel_spread": 0.3,
+     "shadow_gap": 0.2,
+     "outcome": null
+    },
+    {
+     "stmt": "Bank of New York Mellon Corp will report year-over-year quarterly revenue growth above -5.0% for the fiscal quarter ending 2027-03-31.",
+     "p": 0.35,
+     "metric": "year-over-year quarterly revenue growth",
+     "resolves": "2027-04-30",
+     "panel_spread": 0.35,
+     "shadow_gap": 0.2,
+     "outcome": null
+    },
+    {
+     "stmt": "Morgan Stanley will report quarterly revenue above $20 billion for the fiscal quarter ending 2027-03-31.",
+     "p": 0.35,
+     "metric": "RevenuesNetOfInterestExpense",
+     "resolves": "2027-05-04",
+     "panel_spread": 0.4,
+     "shadow_gap": 0.05,
+     "outcome": null
+    },
+    {
+     "stmt": "Wells Fargo & Company will report year-over-year quarterly revenue growth above 5.0% for the fiscal quarter ending 2027-03-31.",
+     "p": 0.6,
+     "metric": "year-over-year quarterly revenue growth",
+     "resolves": "2027-04-27",
+     "panel_spread": 0.3,
+     "shadow_gap": 0.0,
+     "outcome": null
+    },
+    {
+     "stmt": "Morgan Stanley will report quarterly revenue above $23 billion for the fiscal quarter ending 2027-03-31.",
+     "p": 0.55,
+     "metric": "RevenuesNetOfInterestExpense",
+     "resolves": "2027-04-30",
+     "panel_spread": 0.2,
+     "shadow_gap": 0.1,
+     "outcome": null
+    },
+    {
+     "stmt": "JPMorgan Chase & Co. will report quarterly revenue above $65 billion for the fiscal quarter ending 2028-06-30.",
+     "p": 0.45,
+     "metric": "RevenuesNetOfInterestExpense",
+     "resolves": "2028-08-07",
+     "panel_spread": 0.2,
+     "shadow_gap": 0.25,
      "outcome": null
     }
    ],
