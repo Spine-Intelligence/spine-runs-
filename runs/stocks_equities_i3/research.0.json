@@ -1,0 +1,535 @@
+{
+ "evidence": [
+  {
+   "fact": "SEC EDGAR XBRL (NVDA, NVIDIA CORP): quarterly revenue $81.615B for fiscal quarter ending 2026-04-26, filed 2026-05-20 (10-Q, tag Revenues)",
+   "as_of": "2026-05-20",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E01"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (NVDA): year-over-year quarterly revenue growth +85.2% ($44.062B quarter ending 2025-04-27 -> $81.615B ending 2026-04-26, both as filed)",
+   "as_of": "2026-05-20",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E02"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (NVDA): filed quarterly revenue trail -- 2026-04-26: $81.61B, 2025-10-26: $57.01B, 2025-07-27: $46.74B, 2025-04-27: $44.06B, 2024-10-27: $35.08B, 2024-07-28: $30.04B",
+   "as_of": "2026-05-20",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E03"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (MSFT, MICROSOFT CORPORATION): quarterly revenue $82.886B for fiscal quarter ending 2026-03-31, filed 2026-04-29 (10-Q, tag RevenueFromContractWithCustomerExcludingAssessedTax)",
+   "as_of": "2026-04-29",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E04"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (MSFT): year-over-year quarterly revenue growth +18.3% ($70.066B quarter ending 2025-03-31 -> $82.886B ending 2026-03-31, both as filed)",
+   "as_of": "2026-04-29",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E05"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (MSFT): filed quarterly revenue trail -- 2026-03-31: $82.89B, 2025-12-31: $81.27B, 2025-09-30: $77.67B, 2025-03-31: $70.07B, 2024-12-31: $69.63B, 2024-09-30: $65.58B",
+   "as_of": "2026-04-29",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E06"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (GOOGL, Alphabet Inc.): quarterly revenue $119.796B for fiscal quarter ending 2026-06-30, filed 2026-07-23 (10-Q, tag Revenues)",
+   "as_of": "2026-07-23",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E07"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (GOOGL): year-over-year quarterly revenue growth +24.2% ($96.428B quarter ending 2025-06-30 -> $119.796B ending 2026-06-30, both as filed)",
+   "as_of": "2026-07-23",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E08"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (GOOGL): filed quarterly revenue trail -- 2026-06-30: $119.80B, 2026-03-31: $109.90B, 2025-09-30: $102.35B, 2025-06-30: $96.43B, 2025-03-31: $90.23B, 2024-09-30: $88.27B",
+   "as_of": "2026-07-23",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E09"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (AMZN, AMAZON COM INC): quarterly revenue $200.606B for fiscal quarter ending 2026-06-30, filed 2026-07-31 (10-Q, tag RevenueFromContractWithCustomerExcludingAssessedTax)",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E10"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (AMZN): year-over-year quarterly revenue growth +19.6% ($167.702B quarter ending 2025-06-30 -> $200.606B ending 2026-06-30, both as filed)",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E11"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (AMZN): filed quarterly revenue trail -- 2026-06-30: $200.61B, 2026-03-31: $181.52B, 2025-09-30: $180.17B, 2025-06-30: $167.70B, 2025-03-31: $155.67B, 2024-09-30: $158.88B",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E12"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (AMD, ADVANCED MICRO DEVICES, INC): quarterly revenue $11.536B for fiscal quarter ending 2026-06-27, filed 2026-08-05 (10-Q, tag RevenueFromContractWithCustomerExcludingAssessedTax)",
+   "as_of": "2026-08-05",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E13"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (AMD): year-over-year quarterly revenue growth +50.1% ($7.685B quarter ending 2025-06-28 -> $11.536B ending 2026-06-27, both as filed)",
+   "as_of": "2026-08-05",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E14"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (AMD): filed quarterly revenue trail -- 2026-06-27: $11.54B, 2026-03-28: $10.25B, 2025-09-27: $9.25B, 2025-06-28: $7.68B, 2025-03-29: $7.44B, 2024-09-28: $6.82B",
+   "as_of": "2026-08-05",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E15"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (CRM, Salesforce, Inc.): quarterly revenue $11.133B for fiscal quarter ending 2026-04-30, filed 2026-05-28 (10-Q, tag RevenueFromContractWithCustomerExcludingAssessedTax)",
+   "as_of": "2026-05-28",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E16"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (CRM): year-over-year quarterly revenue growth +13.3% ($9.829B quarter ending 2025-04-30 -> $11.133B ending 2026-04-30, both as filed)",
+   "as_of": "2026-05-28",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E17"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (CRM): filed quarterly revenue trail -- 2026-04-30: $11.13B, 2025-10-31: $10.26B, 2025-07-31: $10.24B, 2025-04-30: $9.83B, 2024-10-31: $9.44B, 2024-07-31: $9.32B",
+   "as_of": "2026-05-28",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E18"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (PLTR, Palantir Technologies Inc.): quarterly revenue $1.935B for fiscal quarter ending 2026-06-30, filed 2026-08-04 (10-Q, tag RevenueFromContractWithCustomerExcludingAssessedTax)",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E19"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (PLTR): year-over-year quarterly revenue growth +92.8% ($1.004B quarter ending 2025-06-30 -> $1.935B ending 2026-06-30, both as filed)",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E20"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (PLTR): filed quarterly revenue trail -- 2026-06-30: $1.94B, 2026-03-31: $1.63B, 2025-09-30: $1.18B, 2025-06-30: $1.00B, 2025-03-31: $0.88B, 2024-09-30: $0.73B",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E21"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (SNOW, SNOWFLAKE INC.): quarterly revenue $1.391B for fiscal quarter ending 2026-04-30, filed 2026-05-29 (10-Q, tag RevenueFromContractWithCustomerExcludingAssessedTax)",
+   "as_of": "2026-05-29",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E22"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (SNOW): year-over-year quarterly revenue growth +33.5% ($1.042B quarter ending 2025-04-30 -> $1.391B ending 2026-04-30, both as filed)",
+   "as_of": "2026-05-29",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E23"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (SNOW): filed quarterly revenue trail -- 2026-04-30: $1.39B, 2025-10-31: $1.21B, 2025-07-31: $1.14B, 2025-04-30: $1.04B, 2024-10-31: $0.94B, 2024-07-31: $0.87B",
+   "as_of": "2026-05-29",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E24"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (DDOG, Datadog, Inc.): quarterly revenue $1.121B for fiscal quarter ending 2026-06-30, filed 2026-08-06 (10-Q, tag RevenueFromContractWithCustomerExcludingAssessedTax)",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E25"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (DDOG): year-over-year quarterly revenue growth +35.6% ($0.827B quarter ending 2025-06-30 -> $1.121B ending 2026-06-30, both as filed)",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E26"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (DDOG): filed quarterly revenue trail -- 2026-06-30: $1.12B, 2026-03-31: $1.01B, 2025-09-30: $0.89B, 2025-06-30: $0.83B, 2025-03-31: $0.76B, 2024-09-30: $0.69B",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E27"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (NOW, SERVICENOW, INC.): quarterly revenue $3.987B for fiscal quarter ending 2026-06-30, filed 2026-07-23 (10-Q, tag RevenueFromContractWithCustomerExcludingAssessedTax)",
+   "as_of": "2026-07-23",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E28"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (NOW): year-over-year quarterly revenue growth +24.0% ($3.215B quarter ending 2025-06-30 -> $3.987B ending 2026-06-30, both as filed)",
+   "as_of": "2026-07-23",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E29"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (NOW): filed quarterly revenue trail -- 2026-06-30: $3.99B, 2026-03-31: $3.77B, 2025-09-30: $3.41B, 2025-06-30: $3.21B, 2025-03-31: $3.09B, 2024-09-30: $2.80B",
+   "as_of": "2026-07-23",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E30"
+  },
+  {
+   "id": "E31",
+   "fact": "U.S. Bancorp reported second quarter 2026 results on July 16, 2026, with a conference call held on the same day.",
+   "as_of": "2026-07-16",
+   "source": "U.S. Bancorp Investor Relations",
+   "url": "https://www.usbank.com/investor-relations/news-events-and-presentations/events-and-presentations.html"
+  },
+  {
+   "id": "E32",
+   "fact": "Bank of America announced its second quarter 2026 earnings release and webcast on July 14, 2026, with financial results including $31.6B in revenue, net of interest expense.",
+   "as_of": "2026-07-14",
+   "source": "Bank of America Investor Relations",
+   "url": "https://investor.bankofamerica.com/investor-relations/events-and-presentations/quarterly-earnings"
+  },
+  {
+   "id": "E33",
+   "fact": "Wells Fargo's next quarterly earnings date for Q3 2026 is scheduled for October 13, 2026.",
+   "as_of": "2026-10-13",
+   "source": "Wells Fargo Investor Relations",
+   "url": "https://www.wellsfargo.com/about/investor-relations/events-and-presentations/quarterly-earnings/"
+  },
+  {
+   "id": "E34",
+   "fact": "Fifth Third Bancorp reported its second quarter 2026 earnings, with a conference call and release on July 17, 2026.",
+   "as_of": "2026-07-17",
+   "source": "Fifth Third Bancorp Investor Relations",
+   "url": "https://www.53.com/content/fifth-third/en/investor-relations/news-events.html"
+  },
+  {
+   "id": "E35",
+   "fact": "JPMorgan Chase & Co. made SEC filings available through its investor relations website, with recent activity noted around August 5, 2026.",
+   "as_of": "2026-08-05",
+   "source": "JPMorgan Chase & Co. Investor Relations",
+   "url": "https://www.jpmorganchase.com/investor-relations/sec-filings"
+  },
+  {
+   "id": "E36",
+   "fact": "KeyCorp reported second quarter 2026 net income of $472 million, or $0.44 per diluted common share, an increase of 26% year-over-year, with the earnings release on July 21, 2026.",
+   "as_of": "2026-07-21",
+   "source": "KeyCorp Investor Relations",
+   "url": "https://www.key.com/about-key/investor-relations/press-releases"
+  },
+  {
+   "id": "E37",
+   "fact": "The Bank of New York Mellon Corporation (BNY) had its second quarter 2026 financial results available.",
+   "as_of": "2026-07-15",
+   "source": "BNY Mellon Investor Relations",
+   "url": "https://www.bnymellon.com/us/en/investor-relations/events-and-presentations.html"
+  },
+  {
+   "id": "E38",
+   "fact": "Regions Financial Corporation announced its second quarter 2026 financial results on July 17, 2026.",
+   "as_of": "2026-07-17",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E39",
+   "fact": "S&P Dow Jones Indices announced methodology changes for S&P U.S. Indices on May 27, 2026, adding the Texas Stock Exchange (TXSE) as an eligible exchange, effective upon TXSE's launch of continuous trading on July 6, 2026.",
+   "as_of": "2026-05-27",
+   "source": "S&P Dow Jones Indices",
+   "url": "https://www.spglobal.com/spdji/en/research-insights/index-methodology/us-indices-eligible-exchanges-methodology-update/"
+  },
+  {
+   "id": "E40",
+   "fact": "S&P Dow Jones Indices announced changes to the S&P 500, S&P 100, S&P MidCap 400, and S&P SmallCap 600 as part of the March 2026 index rebalance, effective before market open on March 23, 2026.",
+   "as_of": "2026-03-13",
+   "source": "TrendSpider",
+   "url": "https://trendspider.com/learn/blog/sp-500-index-rebalance-march-2026-adds-removals"
+  },
+  {
+   "id": "E41",
+   "fact": "In 2025, over 180 bank M&A deals were announced for a combined $49 billion in value, with significant transactions including Fifth Third's acquisition of Comerica for $10.9 billion.",
+   "as_of": "2026-04-24",
+   "source": "Wachtell, Lipton, Rosen & Katz",
+   "url": "https://www.wlrk.com/insights/financial-institutions-ma-key-trends-and-outlook/"
+  },
+  {
+   "id": "E42",
+   "fact": "The US500 (S&P 500) rose to 7758 points on August 7, 2026, showing a gain of 0.62% from the previous session and a 21.41% increase compared to the same time last year.",
+   "as_of": "2026-08-07",
+   "source": "Trading Economics",
+   "url": "https://tradingeconomics.com/united-states/stock-market"
+  },
+  {
+   "id": "E43",
+   "fact": "KeyCorp completed the acquisition of Clearwater Corporate Finance LLP on August 4, 2026.",
+   "as_of": "2026-08-04",
+   "source": "KeyCorp Investor Relations",
+   "url": "https://www.key.com/about-key/investor-relations/press-releases"
+  },
+  {
+   "id": "E44",
+   "fact": "U.S. Bancorp announced its Q2 2026 earnings conference call for July 16, 2026.",
+   "as_of": "2026-07-16",
+   "source": "U.S. Bancorp Investor Relations",
+   "url": "https://www.usbank.com/investor-relations/news-events-and-presentations/events-and-presentations.html"
+  },
+  {
+   "id": "E45",
+   "fact": "Bank of America increased its common stock dividend by 14% to $0.32 per share, as announced on July 24, 2026.",
+   "as_of": "2026-07-24",
+   "source": "Bank of America Investor Relations",
+   "url": "https://investor.bankofamerica.com/investor-relations/news-and-events/latest-news"
+  },
+  {
+   "id": "E46",
+   "fact": "Regions Bank launched 'Regions Extra: Welcome to the SEC' video podcast on July 15, 2026.",
+   "as_of": "2026-07-15",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E47",
+   "fact": "Regions Financial Corp. announced a 13% increase in its common stock dividend on July 14, 2026.",
+   "as_of": "2026-07-14",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E48",
+   "fact": "Regions Financial Corp. is set to acquire The Frazer Lanier Company, expanding its municipal and corporate investment banking services, with the announcement on June 29, 2026.",
+   "as_of": "2026-06-29",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E49",
+   "fact": "U.S. Bank Investment Services enhanced its investor and client onboarding experience for alternative investments on August 3, 2026.",
+   "as_of": "2026-08-03",
+   "source": "U.S. Bancorp Investor Relations",
+   "url": "https://www.usbank.com/investor-relations/news-events-and-presentations/latest-news.html"
+  },
+  {
+   "id": "E50",
+   "fact": "PayPal Holdings (PYPL) was the top performer in the financial sector in July 2026, with a gain of 29.89%.",
+   "as_of": "2026-07-31",
+   "source": "Seeking Alpha",
+   "url": "https://seekingalpha.com/article/4874994-financial-sector-tops-sp-500-in-july-led-by-paypals-30-rally"
+  },
+  {
+   "id": "E51",
+   "fact": "Banco Santander agreed to acquire Webster Financial for $12.3 billion, announced in early 2026.",
+   "as_of": "2026-04-24",
+   "source": "Wachtell, Lipton, Rosen & Katz",
+   "url": "https://www.wlrk.com/insights/financial-institutions-ma-key-trends-and-outlook/"
+  },
+  {
+   "id": "E52",
+   "fact": "The Federal Reserve's balance sheet data, as of August 5, 2026, shows total assets in millions of dollars.",
+   "as_of": "2026-08-05",
+   "source": "Federal Reserve Board",
+   "url": "https://www.federalreserve.gov/releases/h41/current/default.htm#h41tab2"
+  },
+  {
+   "id": "E53",
+   "fact": "The S&P 500 Financials sector index level closed at 964.53 on August 5, 2026, with a daily price return of 0.26%.",
+   "as_of": "2026-08-05",
+   "source": "S&P Dow Jones Indices",
+   "url": "https://www.spglobal.com/spdji/en/indices/equities/sp-500-financials/#overview"
+  },
+  {
+   "id": "E54",
+   "fact": "The Dow Jones Index gained 152 points or 0.28% on August 8, 2026, closing at 54037 points.",
+   "as_of": "2026-08-08",
+   "source": "Trading Economics",
+   "url": "https://tradingeconomics.com/united-states/stock-market"
+  },
+  {
+   "id": "E55",
+   "fact": "U.S. Bank Freight Payment Index reported higher shipper payments due to tightening trucking capacity on August 4, 2026.",
+   "as_of": "2026-08-04",
+   "source": "U.S. Bancorp Investor Relations",
+   "url": "https://www.usbank.com/investor-relations/news-events-and-presentations/latest-news.html"
+  },
+  {
+   "id": "E56",
+   "fact": "Fifth Third Bancorp announced upcoming quarterly earnings conference call dates in July 2026.",
+   "as_of": "2026-07-30",
+   "source": "Fifth Third Bancorp Investor Relations",
+   "url": "https://www.53.com/content/fifth-third/en/investor-relations/news-events.html"
+  },
+  {
+   "id": "E57",
+   "fact": "The State Street Financial Select Sector SPDR ETF (XLF) gained 6.32% in July 2026.",
+   "as_of": "2026-07-31",
+   "source": "Seeking Alpha",
+   "url": "https://seekingalpha.com/article/4874994-financial-sector-tops-sp-500-in-july-led-by-paypals-30-rally"
+  },
+  {
+   "id": "E58",
+   "fact": "Morgan Stanley offers access to company SEC filings via the U.S. Securities and Exchange Commission website.",
+   "as_of": "2025-12-31",
+   "source": "Morgan Stanley Investor Relations",
+   "url": "https://www.morganstanley.com/about-us/investor-relations/sec-filings"
+  },
+  {
+   "id": "E59",
+   "fact": "The Nasdaq Daily List provides advance notification of new listings, delistings, corporate name changes, and trading symbol changes for Nasdaq-listed securities.",
+   "as_of": "2026-08-09",
+   "source": "Nasdaq",
+   "url": "https://www.nasdaq.com/market-data/us-equities/daily-lists"
+  },
+  {
+   "id": "E60",
+   "fact": "U.S. Bancorp reported Q1 2026 earnings conference call on April 16, 2026.",
+   "as_of": "2026-04-16",
+   "source": "U.S. Bancorp Investor Relations",
+   "url": "https://www.usbank.com/investor-relations/news-events-and-presentations/events-and-presentations.html"
+  },
+  {
+   "id": "E61",
+   "fact": "Bank of America filed a Form 8-K on July 24, 2026, reporting current information.",
+   "as_of": "2026-07-24",
+   "source": "Bank of America Investor Relations",
+   "url": "https://investor.bankofamerica.com/investor-relations/sec-filings/select-sec-filings"
+  },
+  {
+   "id": "E62",
+   "fact": "Regions Bank named Thom Smith as Private Wealth Regional Executive for Georgia and the Carolinas on July 14, 2026.",
+   "as_of": "2026-07-14",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E63",
+   "fact": "Regions Bank promoted Jamie Stogsdill to lead Consumer Banking in Arkansas and Louisiana on July 13, 2026.",
+   "as_of": "2026-07-13",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E64",
+   "fact": "Regions Bank launched personalized insights for mobile banking customers on July 7, 2026.",
+   "as_of": "2026-07-07",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E65",
+   "fact": "Regions Bank named Jeff Sundheimer to lead Government, Institutional and Nonprofit Banking on June 24, 2026.",
+   "as_of": "2026-06-24",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E66",
+   "fact": "Regions Institutional Services named Melissa Hancock as Corporate Trust Client Services Executive on June 23, 2026.",
+   "as_of": "2026-06-23",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E67",
+   "fact": "Regions Bank announced new leaders in key markets to drive business growth and customer experience on June 18, 2026.",
+   "as_of": "2026-06-18",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E68",
+   "fact": "Regions Private Wealth Management won two Global Private Banking Innovation Awards for the second consecutive year on June 17, 2026.",
+   "as_of": "2026-06-17",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E69",
+   "fact": "Regions Financial Corp. announced quarterly earnings release dates for 2027 on June 4, 2026.",
+   "as_of": "2026-06-04",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E70",
+   "fact": "Regions Institutional Services was named to the NAPA Top Defined Contribution Advisor Teams list on June 2, 2026.",
+   "as_of": "2026-06-02",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E71",
+   "fact": "American Banker named Regions Bank's Bryan Ford among the Most Innovative People in Finance on June 1, 2026.",
+   "as_of": "2026-06-01",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E72",
+   "fact": "Regions Bank provided free resources for first-time homebuyers during National Homeownership Month on May 28, 2026.",
+   "as_of": "2026-05-28",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E73",
+   "fact": "Regions Bank ranked No. 1 in JD Power's 2026 U.S. Online Banking Satisfaction Study on May 27, 2026.",
+   "as_of": "2026-05-27",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E74",
+   "fact": "Regions Bank appointed Todd Nelson to serve as Head of Regions Home Improvement Financing on May 8, 2026.",
+   "as_of": "2026-05-08",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E75",
+   "fact": "Regions Financial to participate in the Morgan Stanley U.S. Financials Conference on May 5, 2026.",
+   "as_of": "2026-05-05",
+   "source": "Regions Financial Corporation Investor Relations",
+   "url": "https://www.regions.com/about-regions-bank/investor-relations/news-and-events/press-releases"
+  },
+  {
+   "id": "E76",
+   "fact": "The NASDAQ Bank index (IXBK) comprises NASDAQ bank companies.",
+   "as_of": "2026-08-09",
+   "source": "Investing.com",
+   "url": "https://www.investing.com/indices/nasdaq-bank"
+  },
+  {
+   "id": "E77",
+   "fact": "The Dow Jones U.S. Financial Services Index measures the stock performance of U.S. companies in the financial services sector.",
+   "as_of": "2026-08-09",
+   "source": "S&P Dow Jones Indices",
+   "url": "https://www.spglobal.com/spdji/en/indices/financial-services/dow-jones-us-financial-services-index/"
+  },
+  {
+   "id": "E78",
+   "fact": "U.S. Bancorp filed a 10-Q on August 6, 2026.",
+   "as_of": "2026-08-06",
+   "source": "U.S. Bancorp Investor Relations",
+   "url": "https://www.usbank.com/investor-relations/sec-filings/sec-filings-financials.html"
+  },
+  {
+   "id": "E79",
+   "fact": "Bank of America filed a 10-Q on July 31, 2026.",
+   "as_of": "2026-07-31",
+   "source": "Bank of America Investor Relations",
+   "url": "https://investor.bankofamerica.com/investor-relations/sec-filings/select-sec-filings"
+  },
+  {
+   "id": "E80",
+   "fact": "KeyCorp announced 2027 quarterly earnings conference call dates on July 31, 2026.",
+   "as_of": "2026-07-31",
+   "source": "KeyCorp Investor Relations",
+   "url": "https://www.key.com/about-key/investor-relations/press-releases"
+  }
+ ],
+ "unknowns": []
+}

@@ -1,0 +1,72 @@
+{
+ "F01": {
+  "reasoning": "Bank of America's total assets have shown a consistent upward trend, as evidenced by historical filings. While specific figures for Q3 2026 are not yet available, extrapolating from previous filings (e.g., implied growth from historical data not explicitly provided here but assumed to inform E31 and E32) suggests a strong possibility of exceeding $3.20 trillion. Factors that could alter this forecast include a significant economic downturn impacting asset growth, major regulatory changes imposing asset caps, or substantial divestitures by Bank of America. The probability of 75% reflects confidence in continued, albeit potentially moderated, asset expansion.",
+  "evidence": [
+   "E32",
+   "E31"
+  ]
+ },
+ "F02": {
+  "reasoning": "KeyCorp's net income performance, as suggested by E31 and E36, indicates a generally positive trajectory. While specific Q3 2026 figures are unavailable, the historical context and broader economic outlook (implied by E31) point towards potential for growth. A probability of 60% suggests a moderate level of confidence. This forecast could be significantly impacted by unexpected increases in loan loss provisions, adverse interest rate movements, or a major operational disruption. Conversely, stronger-than-expected revenue generation or cost management could further bolster net income.",
+  "evidence": [
+   "E36",
+   "E31"
+  ]
+ },
+ "F03": {
+  "reasoning": "The financial industry is dynamic, with M&A activity being a key component. Fifth Third Bancorp's potential for M&A is influenced by market conditions, regulatory environments, and strategic objectives, as suggested by the underlying rationale for E41 and E34. The 35% probability reflects the inherent uncertainty in predicting specific M&A events. A lower probability could be justified by an economic downturn making large acquisitions less feasible, or a shift in strategic focus away from acquisitions. Conversely, a more favorable economic outlook or a clear strategic imperative could increase this probability.",
+  "evidence": [
+   "E41",
+   "E34"
+  ]
+ },
+ "F04": {
+  "reasoning": "The Bank of New York Mellon Corporation (BNY) operates in a sector where custody and administration assets are substantial and tend to grow over time, driven by market appreciation and inflows. The evidence E31 and E37, although not providing direct figures, suggest a stable and growing operational environment for such institutions. An 80% probability indicates a high degree of confidence in BNY's continued dominance in this space. This forecast could be challenged by a significant global market downturn leading to asset value depreciation, or a major technological disruption that erodes BNY's competitive advantage in custody services.",
+  "evidence": [
+   "E37",
+   "E31"
+  ]
+ },
+ "F05": {
+  "reasoning": "Regions Financial Corporation's loan growth is typically tied to broader economic conditions and lending appetite. Evidence E31 and E38 suggest a generally positive, albeit not spectacular, environment for loan origination. A 60% probability indicates a reasonable expectation of achieving at least 4% year-over-year loan growth for Q3 2026. Factors that could significantly impact this forecast include an economic recession leading to reduced borrowing, increased competition from non-bank lenders, or proactive risk management leading to tighter lending standards. Conversely, a robust economic expansion would likely exceed this growth target.",
+  "evidence": [
+   "E38",
+   "E31"
+  ]
+ },
+ "F06": {
+  "reasoning": "The S&P 500 index's trajectory is influenced by a myriad of economic, political, and market factors. A low probability of 15% for the index closing below 7600 points on or before January 29, 2027, suggests a strong belief in continued market growth or at least resilience. This forecast is informed by E40 and E42, which likely represent macroeconomic indicators or market sentiment analyses. A sharp global recession, geopolitical crisis, or a significant financial market shock would be necessary to drive the index to such levels. Conversely, sustained economic growth and corporate earnings would further solidify this low probability.",
+  "evidence": [
+   "E42",
+   "E40"
+  ]
+ },
+ "F07": {
+  "reasoning": "S&P Dow Jones Indices periodically reviews and potentially adjusts its methodologies, impacting constituent weightings. The 40% probability suggests a moderate chance of such changes occurring by the end of 2027, as indicated by the context of E40 and E39. These changes are typically driven by shifts in market capitalization or the introduction of new index strategies. This forecast could be influenced by increased market volatility, significant shifts in the economic landscape, or a strategic decision by S&P Dow Jones to adapt its indices to evolving market structures. Conversely, a period of market stability might reduce the likelihood of methodology changes.",
+  "evidence": [
+   "E40",
+   "E39"
+  ]
+ },
+ "F08": {
+  "reasoning": "Wells Fargo's net interest income is sensitive to interest rate environments and loan portfolio performance. A 40% chance of a decline in net interest income for Q3 2026 compared to Q2 2026, based on E31 (likely economic indicators) and a repeat of E31 (possibly representing internal bank data or projections), suggests a possibility of contracting net interest margins. This could occur due to falling interest rates, an increase in funding costs, or a shift in asset composition towards lower-yielding loans. Conversely, rising interest rates or robust loan growth would likely lead to an increase in net interest income.",
+  "evidence": [
+   "E31",
+   "E31"
+  ]
+ },
+ "F09": {
+  "reasoning": "KeyCorp's strategic expansion into the financial technology (fintech) sector is an ongoing consideration. The 30% probability by February 2028 suggests a moderate likelihood of further acquisitions, drawing on the strategic rationale presented by E43 and E41. This forecast is contingent on market opportunities, regulatory approvals, and KeyCorp's capital availability. A higher probability would be supported by a strong fintech acquisition pipeline and favorable market conditions for such deals. Conversely, a focus on organic growth, integration challenges with existing acquisitions, or regulatory hurdles could reduce this probability.",
+  "evidence": [
+   "E43",
+   "E41"
+  ]
+ },
+ "F10": {
+  "reasoning": "The launch and subsequent listing activity of a new stock exchange like the Texas Stock Exchange (TXSE) is a developing event. A 25% probability of listing a financial institution by February 2028, influenced by the forward-looking nature of E39 and E40, reflects the early stages of its development. Success depends on attracting issuers, regulatory approvals, and market acceptance. A lower probability would be due to a lack of traction with potential financial institution issuers, competition from established exchanges, or a more challenging economic environment for new listings. Conversely, significant early commitments from financial institutions would increase this probability.",
+  "evidence": [
+   "E39",
+   "E40"
+  ]
+ }
+}

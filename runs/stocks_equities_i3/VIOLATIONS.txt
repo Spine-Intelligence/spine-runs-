@@ -1,0 +1,2 @@
+[P1_CUTOFF] evidence E33: as_of 2026-10-13 is after the retrieval cutoff 2026-08-09 -- outcome leakage into the input
+[P1_EVID_CONC] evidence E31 underwrites 6 forecasts -- one source carrying the book is a correlated failure mode (max 3)
