@@ -1,0 +1,214 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "There is a 60% chance that JPMorgan Chase & Co. will report sequential quarterly revenue growth of at least 5% in its fiscal Q3 2026 earnings filing.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "RevenuesNetOfInterestExpense (or equivalent)",
+    "threshold": ">= 5.0%",
+    "resolution_date": "2026-11-07",
+    "baseline": {
+     "value": "49.84B",
+     "as_of": "2026-03-31"
+    },
+    "counting_convention": "unit: sequential quarterly revenue increase; status: in-force only; window: fiscal Q3 2026 vs Q2 2026; excludes: N/A"
+   },
+   "horizon_years": 0.14,
+   "dynamic": "D1",
+   "evidence": [
+    "E03"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "There is a 30% chance that Bank of America Corporation will report year-over-year quarterly revenue growth of at least -1.0% in its fiscal Q3 2026 earnings filing.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "RevenuesNetOfInterestExpense (or equivalent)",
+    "threshold": ">=- 1.0%",
+    "resolution_date": "2026-10-29",
+    "baseline": {
+     "value": "33.36B",
+     "as_of": "2026-03-31"
+    },
+    "counting_convention": "unit: year-over-year quarterly revenue change; status: in-force only; window: fiscal Q3 2026 vs Q3 2025; excludes: N/A"
+   },
+   "horizon_years": 0.12,
+   "dynamic": "D2",
+   "evidence": [
+    "E06"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "There is a 55% chance that Wells Fargo & Company will report year-over-year quarterly revenue growth above 8.0% in its fiscal Q3 2026 earnings filing.",
+   "probability": 0.55,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "RevenuesNetOfInterestExpense (or equivalent)",
+    "threshold": "> 8.0%",
+    "resolution_date": "2026-10-26",
+    "baseline": {
+     "value": "22.45B",
+     "as_of": "2026-03-31"
+    },
+    "counting_convention": "unit: year-over-year quarterly revenue change; status: in-force only; window: fiscal Q3 2026 vs Q3 2025; excludes: N/A"
+   },
+   "horizon_years": 0.11,
+   "dynamic": "D1",
+   "evidence": [
+    "E09"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "There is a 70% chance that US Bancorp will report sequential quarterly revenue growth of at least 3.0% in its fiscal Q3 2026 earnings filing.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Revenues",
+    "threshold": ">= 3.0%",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "7.29B",
+     "as_of": "2026-03-31"
+    },
+    "counting_convention": "unit: sequential quarterly revenue increase; status: in-force only; window: fiscal Q3 2026 vs Q2 2026; excludes: N/A"
+   },
+   "horizon_years": 0.14,
+   "dynamic": "D1",
+   "evidence": [
+    "E15"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "There is a 40% chance that Fifth Third Bancorp will report year-over-year quarterly revenue growth below 20.0% in its fiscal Q3 2026 earnings filing.",
+   "probability": 0.4,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "< 20.0%",
+    "resolution_date": "2026-11-04",
+    "baseline": {
+     "value": "2.97B",
+     "as_of": "2026-03-31"
+    },
+    "counting_convention": "unit: year-over-year quarterly revenue change; status: in-force only; window: fiscal Q3 2026 vs Q3 2025; excludes: N/A"
+   },
+   "horizon_years": 0.13,
+   "dynamic": "D3",
+   "evidence": [
+    "E21"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "There is a 25% chance that Morgan Stanley will report year-over-year quarterly revenue growth above 30.0% in its fiscal Q3 2026 earnings filing.",
+   "probability": 0.25,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "RevenuesNetOfInterestExpense",
+    "threshold": "> 30.0%",
+    "resolution_date": "2026-11-04",
+    "baseline": {
+     "value": "20.58B",
+     "as_of": "2026-03-31"
+    },
+    "counting_convention": "unit: year-over-year quarterly revenue change; status: in-force only; window: fiscal Q3 2026 vs Q3 2025; excludes: N/A"
+   },
+   "horizon_years": 0.13,
+   "dynamic": "D1",
+   "evidence": [
+    "E30"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "There is a 50% chance that Citigroup Inc. will report year-over-year quarterly revenue growth between -1.0% and +2.0% in its fiscal Q4 2025 earnings filing.",
+   "probability": 0.5,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": ">= -1.0% and <= 2.0%",
+    "resolution_date": "2026-01-15",
+    "baseline": {
+     "value": "33.67B",
+     "as_of": "2025-03-31"
+    },
+    "counting_convention": "unit: year-over-year quarterly revenue change; status: in-force only; window: fiscal Q4 2025 vs Q4 2024; excludes: N/A"
+   },
+   "horizon_years": 0.2,
+   "dynamic": "D1",
+   "evidence": [
+    "E12"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "There is a 35% chance that KeyCorp will report year-over-year quarterly revenue growth below -3.0% in its fiscal Q3 2026 earnings filing.",
+   "probability": 0.35,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "< -3.0%",
+    "resolution_date": "2026-11-04",
+    "baseline": {
+     "value": "2.00B",
+     "as_of": "2026-03-31"
+    },
+    "counting_convention": "unit: year-over-year quarterly revenue change; status: in-force only; window: fiscal Q3 2026 vs Q3 2025; excludes: N/A"
+   },
+   "horizon_years": 0.13,
+   "dynamic": "D2",
+   "evidence": [
+    "E18"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "There is a 65% chance that Regions Financial Corporation will report sequential quarterly revenue growth of at least 1.0% in its fiscal Q3 2026 earnings filing.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": ">= 1.0%",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "1.70B",
+     "as_of": "2026-03-31"
+    },
+    "counting_convention": "unit: sequential quarterly revenue increase; status: in-force only; window: fiscal Q3 2026 vs Q2 2026; excludes: N/A"
+   },
+   "horizon_years": 0.14,
+   "dynamic": "D1",
+   "evidence": [
+    "E24"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "There is a 20% chance that Bank of New York Mellon Corp will report year-over-year quarterly revenue growth below -12.0% in its fiscal Q3 2026 earnings filing.",
+   "probability": 0.2,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "InterestAndDividendIncomeOperating",
+    "threshold": "< -12.0%",
+    "resolution_date": "2026-10-31",
+    "baseline": {
+     "value": "5.82B",
+     "as_of": "2026-03-31"
+    },
+    "counting_convention": "unit: year-over-year quarterly revenue change; status: in-force only; window: fiscal Q3 2026 vs Q3 2025; excludes: N/A"
+   },
+   "horizon_years": 0.12,
+   "dynamic": "D4",
+   "evidence": [
+    "E27"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3 @@
+[P1_HORIZON] F07: resolves 2026-01-15 (-0.6y) outside the 0.02-0.3y band
+[P3_EVIDENCE] F06: no evidence citations in appendix
+[P3_EVIDENCE] F10: no evidence citations in appendix
