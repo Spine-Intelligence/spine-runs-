@@ -1,0 +1,224 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "There is a 78% chance that the 2026 Tour Championship winning score will finish at 20 or more strokes under par.",
+   "probability": 0.78,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "72-hole winning score under par total",
+    "threshold": ">= -20",
+    "resolution_date": "2026-08-31",
+    "baseline": {
+     "value": "-18",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: 1 tournament; status: in-force only; window: August 27-30 2026; excludes: playoff extra holes"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D1",
+   "evidence": [
+    "E03",
+    "E05"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "There is a 24% chance that the 2026 Tour Championship winning score will reach or exceed 30 strokes under par.",
+   "probability": 0.24,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "72-hole winning score under par total",
+    "threshold": ">= -30",
+    "resolution_date": "2026-08-31",
+    "baseline": {
+     "value": "-30",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: 1 tournament; status: in-force only; window: August 27-30 2026; excludes: playoff extra holes"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D2",
+   "evidence": [
+    "E04",
+    "E10"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "There is a 22% chance that the 2026 Tour Championship winning margin will exceed 5 strokes.",
+   "probability": 0.22,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "margin of victory in strokes",
+    "threshold": ">= 6",
+    "resolution_date": "2026-08-31",
+    "baseline": {
+     "value": "2",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: 1 tournament; status: in-force only; window: August 27-30 2026; excludes: regular season events"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D3",
+   "evidence": [
+    "E02",
+    "E04"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "There is a 72% chance that the 2026 Tour Championship winner will record a final 72-hole aggregate total under 265.",
+   "probability": 0.72,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "72-hole aggregate total score",
+    "threshold": "< 265",
+    "resolution_date": "2026-08-31",
+    "baseline": {
+     "value": "262",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: 1 tournament; status: in-force only; window: August 27-30 2026; excludes: unofficial rounds"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D1",
+   "evidence": [
+    "E03",
+    "E06"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "There is a 25% chance that the 2026 Tour Championship runner-up finish margin will be exactly 1 stroke.",
+   "probability": 0.25,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "runner-up margin in strokes",
+    "threshold": "== 1",
+    "resolution_date": "2026-08-31",
+    "baseline": {
+     "value": "1",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: 1 tournament; status: in-force only; window: August 27-30 2026; excludes: ties for second resolved by rank"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D3",
+   "evidence": [
+    "E02",
+    "E07"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "There is a 75% chance that the 2026 Tour Championship winner will complete the final round on August 30, 2026.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "tournament completion date",
+    "threshold": "== 2026-08-30",
+    "resolution_date": "2026-08-31",
+    "baseline": {
+     "value": "2026-08-30",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: 1 tournament; status: in-force only; window: August 27-30 2026; excludes: weather delays past buffer"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D3",
+   "evidence": [
+    "E01",
+    "E12"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "There is a 65% chance that the 2026 Tour Championship winning score will be lower than the 2025 winning score of -18.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "72-hole winning score under par total",
+    "threshold": "< -18",
+    "resolution_date": "2026-08-31",
+    "baseline": {
+     "value": "-18",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: 1 tournament; status: in-force only; window: August 27-30 2026; excludes: pre-tournament odds"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D1",
+   "evidence": [
+    "E03",
+    "E09"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "There is a 28% chance that the 2026 Tour Championship will require an extra-hole playoff to determine the winner.",
+   "probability": 0.28,
+   "resolution_criteria": {
+    "source": "ESPN golf event page",
+    "metric": "playoff holes required",
+    "threshold": ">= 1",
+    "resolution_date": "2026-08-31",
+    "baseline": {
+     "value": "0",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: 1 tournament; status: in-force only; window: August 27-30 2026; excludes: regulation ties without playoff"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D3",
+   "evidence": [
+    "E02",
+    "E11"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "There is a 80% chance that the 2026 Tour Championship winner's 72-hole total will be under par.",
+   "probability": 0.8,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "72-hole winning score under par total",
+    "threshold": "< 0",
+    "resolution_date": "2026-08-31",
+    "baseline": {
+     "value": "-18",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: 1 tournament; status: in-force only; window: August 27-30 2026; excludes: over par winners"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D1",
+   "evidence": [
+    "E08",
+    "E10"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "There is a 70% chance that the 2026 Tour Championship field will feature all 30 players finalized on August 23, 2026.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "starting field size count",
+    "threshold": "== 30",
+    "resolution_date": "2026-08-31",
+    "baseline": {
+     "value": "30",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: 1 tournament; status: in-force only; window: August 27-30 2026; excludes: pre-tournament withdrawals before tee off"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D3",
+   "evidence": [
+    "E11",
+    "E12"
+   ]
+  }
+ ]
+}

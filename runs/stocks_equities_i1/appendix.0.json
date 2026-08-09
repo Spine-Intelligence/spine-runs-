@@ -1,0 +1,72 @@
+{
+ "F01": {
+  "reasoning": "Advanced Micro Devices reported strong second-quarter 2026 revenue of $11.5 billion, reflecting a robust 50% year-over-year growth rate driven by expanding AI demand and robust compute solutions (E01). Given this rapid upward trajectory, projected revenue exceeding $12.0 billion for Q3 2026 is highly probable under dynamic D1. My mind would change if supply chain bottlenecks or a severe macroeconomic downturn abruptly curtailed enterprise server deployments.",
+  "evidence": [
+   "E01: Advanced Micro Devices, Inc. announced financial results for the second quarter of 2026 ended June 27, 2026, reporting record quarterly revenue of $11.5 billion, a 50% increase year-over-year, with GAAP net income of $2.3 billion and diluted earnings per share of $1.38.",
+   "E11: Advanced Micro Devices, Inc. announced a definitive agreement to acquire Taalas to advance compute solutions for the AI inference market, with the transaction announced on August 6, 2026."
+  ]
+ },
+ "F02": {
+  "reasoning": "Intel Corporation posted a massive GAAP net loss attributable to Intel of $11.0 billion in Q2 2026, despite non-GAAP net income of $2.2 billion (E03, E04). Under dynamic D2, structural foundry costs and restructuring charges make reporting a positive GAAP net income in Q3 2026 unlikely, though possible. My mind would change if unexpected one-time asset sales or massive non-operating gains completely offset operating headwinds.",
+  "evidence": [
+   "E03: Intel Corporation reported second-quarter 2026 financial results for the period ended June 27, 2026, achieving revenue of $16.1 billion, up 25% year-over-year, alongside a GAAP net loss attributable to Intel of $11.0 billion.",
+   "E04: Intel Corporation reported non-GAAP second-quarter 2026 net income attributable to Intel of $2.2 billion and diluted earnings per share of $0.42, with cash generated from operations totaling $7.0 billion during the quarter."
+  ]
+ },
+ "F03": {
+  "reasoning": "QUALCOMM Incorporated consistently executes substantial capital returns, having completed $1.4 billion in share repurchases during Q3 2026 alone (E07) while guiding fourth-quarter fiscal 2026 revenue between $9.7 billion and $10.5 billion (E12). This supports a high probability of exceeding $1.0 billion in share buybacks for Q4 under dynamic D3. My mind would change if QUALCOMM shifts capital allocation toward large-scale M&A or experiences unexpected liquidity constraints.",
+  "evidence": [
+   "E07: QUALCOMM Incorporated returned $2.3 billion to stockholders during Q3 fiscal 2026, consisting of $973 million in cash dividends ($0.92 per share) and $1.4 billion via share repurchases representing 8 million common shares.",
+   "E12: QUALCOMM Incorporated issued guidance for the fourth quarter of fiscal 2026, expecting revenue in the range of $9.7 billion to $10.5 billion and non-GAAP diluted EPS of $2.05 to $2.25."
+  ]
+ },
+ "F04": {
+  "reasoning": "NVIDIA Corporation demonstrated immense scale, reporting Q1 fiscal 2027 total revenue of $81.6 billion with Data Center revenue alone reaching $75.2 billion (E09). Given the low probability of reporting Data Center revenue below $70.0 billion under dynamic D1, ongoing hyperscaler AI investments heavily support this view. My mind would change if major cloud service providers abruptly slashed AI hardware expenditure or export restrictions heavily impacted shipments.",
+  "evidence": [
+   "E08: NVIDIA Corporation announced that its upcoming conference call and webcast to discuss financial results for the second quarter of fiscal 2027 (ended July 26, 2026) is scheduled for August 26, 2026.",
+   "E09: NVIDIA Corporation reported first-quarter fiscal 2027 financial results for the period ended April 26, 2026, with record revenue of $81.6 billion, up 85% year-over-year, and Data Center revenue of $75.2 billion."
+  ]
+ },
+ "F05": {
+  "reasoning": "QUALCOMM reported QCT Automotive revenue of $1.6 billion in Q3 2026, marking a 61% year-over-year increase (E06). Combined with Q4 guidance signaling robust continuous operations under dynamic D3 (E12), exceeding $1.5 billion in automotive revenue is highly likely. My mind would change if severe automotive supply chain disruptions or sudden OEM production cuts stall adoption rates.",
+  "evidence": [
+   "E06: QUALCOMM Incorporated reported Q3 fiscal 2026 QCT Automotive revenue of $1.6 billion, representing a 61% increase year-over-year, while IoT revenue reached $1.8 billion, up 9% year-over-year.",
+   "E12: QUALCOMM Incorporated issued guidance for the fourth quarter of fiscal 2026, expecting revenue in the range of $9.7 billion to $10.5 billion and non-GAAP diluted EPS of $2.05 to $2.25."
+  ]
+ },
+ "F06": {
+  "reasoning": "Advanced Micro Devices previously reported a strong GAAP diluted EPS of $1.38 in Q2 2026 (E01), with non-GAAP EPS reaching $1.66 (E02). Under dynamic D1, maintaining strong earnings performance makes a GAAP diluted EPS drop below $1.00 relatively unlikely. My mind would change if significant unexpected amortization costs, impairment charges, or gross margin compressions heavily erode bottom-line profitability.",
+  "evidence": [
+   "E01: Advanced Micro Devices, Inc. announced financial results for the second quarter of 2026 ended June 27, 2026, reporting record quarterly revenue of $11.5 billion, a 50% increase year-over-year, with GAAP net income of $2.3 billion and diluted earnings per share of $1.38.",
+   "E02: Advanced Micro Devices, Inc. reported non-GAAP second-quarter 2026 financial results including operating income of $3.1 billion, net income of $2.8 billion, and diluted earnings per share of $1.66."
+  ]
+ },
+ "F07": {
+  "reasoning": "NVIDIA achieved $81.6 billion in total revenue in Q1 fiscal 2027 (E09), and continued expansion in its Data Center segment strongly points toward exceeding $85.0 billion in total quarterly revenue for Q2 fiscal 2027 under dynamic D1. My mind would change if unexpected manufacturing yield issues or sudden macroeconomic shocks severely impair high-end GPU deliveries prior to quarter-end.",
+  "evidence": [
+   "E08: NVIDIA Corporation announced that its upcoming conference call and webcast to discuss financial results for the second quarter of fiscal 2027 (ended July 26, 2026) is scheduled for August 26, 2026.",
+   "E09: NVIDIA Corporation reported first-quarter fiscal 2027 financial results for the period ended April 26, 2026, with record revenue of $81.6 billion, up 85% year-over-year, and Data Center revenue of $75.2 billion."
+  ]
+ },
+ "F08": {
+  "reasoning": "Intel Corporation generated $7.0 billion in operating cash flow during Q2 2026 (E04), demonstrating substantial baseline cash generation despite net losses. Under dynamic D2, falling below $4.0 billion in operating cash flow for Q3 2026 is assigned a low probability of 15%. My mind would change if working capital requirements spike dramatically or gross margins experience an unpredicted catastrophic collapse.",
+  "evidence": [
+   "E03: Intel Corporation reported second-quarter 2026 financial results for the period ended June 27, 2026, achieving revenue of $16.1 billion, up 25% year-over-year, alongside a GAAP net loss attributable to Intel of $11.0 billion.",
+   "E04: Intel Corporation reported non-GAAP second-quarter 2026 net income attributable to Intel of $2.2 billion and diluted earnings per share of $0.42, with cash generated from operations totaling $7.0 billion during the quarter."
+  ]
+ },
+ "F09": {
+  "reasoning": "QUALCOMM Incorporated declared a quarterly cash dividend of $0.92 per share in Q3 2026 (E07) and maintains a dependable shareholder return policy under dynamic D3. Maintaining a dividend of at least $0.90 per share is nearly certain given management's historical commitment. My mind would change if an unprecedented liquidity crisis forces management to implement a sudden and drastic capital preservation strategy.",
+  "evidence": [
+   "E07: QUALCOMM Incorporated returned $2.3 billion to stockholders during Q3 fiscal 2026, consisting of $973 million in cash dividends ($0.92 per share) and $1.4 billion via share repurchases representing 8 million common shares.",
+   "E12: QUALCOMM Incorporated issued guidance for the fourth quarter of fiscal 2026, expecting revenue in the range of $9.7 billion to $10.5 billion and non-GAAP diluted EPS of $2.05 to $2.25."
+  ]
+ },
+ "F10": {
+  "reasoning": "Advanced Micro Devices announced a definitive agreement to acquire Taalas to bolster its AI inference compute solutions (E11), with strong corporate backing and financial resources (E01). Under dynamic D1, completing this transaction prior to the end of fiscal 2027 is highly probable. My mind would change if regulatory antitrust bodies block the acquisition or significant closing conditions fail to be satisfied.",
+  "evidence": [
+   "E01: Advanced Micro Devices, Inc. announced financial results for the second quarter of 2026 ended June 27, 2026, reporting record quarterly revenue of $11.5 billion, a 50% increase year-over-year, with GAAP net income of $2.3 billion and diluted earnings per share of $1.38.",
+   "E11: Advanced Micro Devices, Inc. announced a definitive agreement to acquire Taalas to advance compute solutions for the AI inference market, with the transaction announced on August 6, 2026."
+  ]
+ }
+}

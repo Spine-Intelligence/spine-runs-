@@ -1,0 +1,91 @@
+{
+ "evidence": [
+  {
+   "id": "E01",
+   "fact": "The 2026 Tour Championship at East Lake Golf Club in Atlanta, Georgia is scheduled for August 27-30, 2026.",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour official schedule / NBC Sports",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E02",
+   "fact": "The total purse for the 2026 Tour Championship is $40,000,000.",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour official leaderboard overview / ESPN",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E03",
+   "fact": "The 2025 Tour Championship at East Lake Golf Club was won by Tommy Fleetwood with a 72-hole winning score of -18 (total 262).",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour official past results archive",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E04",
+   "fact": "The 2024 Tour Championship at East Lake Golf Club was won by Scottie Scheffler with a 72-hole winning score of -30 (total 264, factoring starting strokes under the staggered format).",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour official past results archive",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E05",
+   "fact": "The 2022-2023 Tour Championship at East Lake Golf Club was won by Viktor Hovland with a 72-hole winning score of -27 (total 261).",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour official past results archive",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E06",
+   "fact": "The 2021-2022 Tour Championship at East Lake Golf Club was won by Rory McIlroy with a 72-hole winning score of -21 (total 263).",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour official past results archive",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E07",
+   "fact": "The 2020-2021 Tour Championship at East Lake Golf Club was won by Patrick Cantlay with a 72-hole winning score of -21 (total 269).",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour official past results archive",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E08",
+   "fact": "The 2019-2020 Tour Championship at East Lake Golf Club was won by Dustin Johnson with a 72-hole winning score of -21 (total 269).",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour official past results archive",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E09",
+   "fact": "The 2018-2019 Tour Championship at East Lake Golf Club was won by Rory McIlroy with a 72-hole winning score of -18 (total 267).",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour official past results archive",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E10",
+   "fact": "The 2017-2018 Tour Championship at East Lake Golf Club was won by Tiger Woods with a 72-hole winning score of -11 (total 269).",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour official past results archive",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E11",
+   "fact": "The preceding FedExCup Playoffs event, the BMW Championship at Bellerive Country Club, concludes on August 23, 2026, setting the final 30-player field for East Lake.",
+   "as_of": "2026-08-06",
+   "source": "PGA Tour official schedule",
+   "url": "https://www.pgatour.com"
+  },
+  {
+   "id": "E12",
+   "fact": "Tickets for the 2026 Tour Championship practice and championship rounds at East Lake Golf Club span from August 26 through August 30, 2026.",
+   "as_of": "2026-08-06",
+   "source": "Tour Championship official resource announcements / Ticketmaster",
+   "url": "https://www.ticketmaster.com"
+  }
+ ],
+ "unknowns": [
+  "Exact 2026 winning score, runner-up margins, and final leaderboard outcomes (tournament takes place August 27-30, 2026, which is after the current research anchor date of August 9, 2026)."
+ ]
+}

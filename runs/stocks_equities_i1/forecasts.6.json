@@ -1,0 +1,224 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "There is an 85% chance that Advanced Micro Devices will report quarterly revenue exceeding $12.0 billion in its upcoming Form 10-Q filing for the third quarter of 2026.",
+   "probability": 0.85,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "total quarterly revenue",
+    "threshold": ">12,000,000,000",
+    "resolution_date": "2026-10-30",
+    "baseline": {
+     "value": "11500000000",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Q3 2026; excludes: deferred revenue adjustments"
+   },
+   "horizon_years": 0.22,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E11"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "There is a 15% chance that Intel Corporation will report a positive GAAP net income attributable to Intel in its Form 10-Q filing for the third quarter of 2026.",
+   "probability": 0.15,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "GAAP net income attributable to Intel",
+    "threshold": ">0",
+    "resolution_date": "2026-10-29",
+    "baseline": {
+     "value": "-11000000000",
+     "as_of": "2026-07-23"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Q3 2026; excludes: non-controlling interests"
+   },
+   "horizon_years": 0.22,
+   "dynamic": "D2",
+   "evidence": [
+    "E03",
+    "E04"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "There is an 82% chance that QUALCOMM Incorporated will complete share repurchases exceeding $1.0 billion in its fourth fiscal quarter of 2026.",
+   "probability": 0.82,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "cash paid for repurchase of common stock",
+    "threshold": ">1000000000",
+    "resolution_date": "2026-11-05",
+    "baseline": {
+     "value": "1400000000",
+     "as_of": "2026-07-29"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Q4 fiscal 2026; excludes: preferred stock repurchases"
+   },
+   "horizon_years": 0.24,
+   "dynamic": "D3",
+   "evidence": [
+    "E07",
+    "E12"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "There is an 18% chance that NVIDIA Corporation will report Data Center revenue below $70.0 billion in its Form 10-Q filing for the second quarter of fiscal 2027.",
+   "probability": 0.18,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Data Center revenue",
+    "threshold": "<70000000000",
+    "resolution_date": "2026-08-27",
+    "baseline": {
+     "value": "75200000000",
+     "as_of": "2026-05-20"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Q2 fiscal 2027; excludes: Gaming segment revenue"
+   },
+   "horizon_years": 0.05,
+   "dynamic": "D1",
+   "evidence": [
+    "E08",
+    "E09"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "There is a 90% chance that QUALCOMM Incorporated will report QCT Automotive revenue exceeding $1.5 billion in its fourth fiscal quarter of 2026 Form 10-K filing.",
+   "probability": 0.9,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "QCT Automotive revenue",
+    "threshold": ">1500000000",
+    "resolution_date": "2026-11-05",
+    "baseline": {
+     "value": "1600000000",
+     "as_of": "2026-07-29"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Q4 fiscal 2026; excludes: QCT Handsets revenue"
+   },
+   "horizon_years": 0.24,
+   "dynamic": "D3",
+   "evidence": [
+    "E06",
+    "E12"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "There is a 25% chance that Advanced Micro Devices will report a GAAP diluted EPS below $1.00 in its third-quarter 2026 earnings disclosure.",
+   "probability": 0.25,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "GAAP diluted earnings per share",
+    "threshold": "<1.00",
+    "resolution_date": "2026-10-30",
+    "baseline": {
+     "value": "1.38",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: USD per share; status: in-force only; window: Q3 2026; excludes: non-GAAP adjustments"
+   },
+   "horizon_years": 0.22,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E02"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "There is a 92% chance that NVIDIA Corporation will report total quarterly revenue exceeding $85.0 billion in its second-quarter fiscal 2027 earnings release.",
+   "probability": 0.92,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "total quarterly revenue",
+    "threshold": ">85000000000",
+    "resolution_date": "2026-08-27",
+    "baseline": {
+     "value": "81600000000",
+     "as_of": "2026-05-20"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Q2 fiscal 2027; excludes: non-operating gains"
+   },
+   "horizon_years": 0.05,
+   "dynamic": "D1",
+   "evidence": [
+    "E08",
+    "E09"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "There is a 15% chance that Intel Corporation will report cash generated from operating activities below $4.0 billion for the third quarter of 2026.",
+   "probability": 0.15,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "cash generated from operating activities",
+    "threshold": "<4000000000",
+    "resolution_date": "2026-10-29",
+    "baseline": {
+     "value": "7000000000",
+     "as_of": "2026-07-23"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Q3 2026; excludes: financing cash flows"
+   },
+   "horizon_years": 0.22,
+   "dynamic": "D2",
+   "evidence": [
+    "E03",
+    "E04"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "There is a 95% chance that QUALCOMM Incorporated will maintain a quarterly cash dividend of at least $0.90 per share declared in the fourth quarter of fiscal 2026.",
+   "probability": 0.95,
+   "resolution_criteria": {
+    "source": "Company investor relations",
+    "metric": "declared cash dividend per common share",
+    "threshold": ">=0.90",
+    "resolution_date": "2026-11-05",
+    "baseline": {
+     "value": "0.92",
+     "as_of": "2026-07-29"
+    },
+    "counting_convention": "unit: USD per share; status: in-force only; window: Q4 fiscal 2026; excludes: special dividends"
+   },
+   "horizon_years": 0.24,
+   "dynamic": "D3",
+   "evidence": [
+    "E07",
+    "E12"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "There is a 78% chance that Advanced Micro Devices will complete the acquisition of Taalas prior to the end of fiscal year 2027.",
+   "probability": 0.78,
+   "resolution_criteria": {
+    "source": "Company investor relations",
+    "metric": "acquisition closing status",
+    "threshold": "completed",
+    "resolution_date": "2027-12-31",
+    "baseline": {
+     "value": "pending",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: boolean status; status: in-force only; window: up to Q4 2027; excludes: terminated agreements"
+   },
+   "horizon_years": 1.4,
+   "dynamic": "D1",
+   "evidence": [
+    "E11",
+    "E01"
+   ]
+  }
+ ]
+}

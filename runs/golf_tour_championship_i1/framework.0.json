@@ -1,0 +1,22 @@
+{
+ "text": "The Tour Championship at East Lake Golf Club stands as the definitive climax of the FedExCup Playoffs, and analyzing the historical score and margin ladders reveals a stark reality about how the tournament is won. When examining the trajectory of winning scores from the 2017-2018 season through the 2025 event, a clear narrative emerges: East Lake's setup combined with the staggered scoring format produces remarkably deep under-par winning totals, completely dismantling the notion that a traditional, modest sub-par number can secure the trophy. The upcoming 2026 Tour Championship, scheduled for August 27-30, 2026 [E01], will undoubtedly continue this aggressive scoring trend, driven by the immense pressure of a $40,000,000 total purse [E02] and a 30-player field finalized immediately after the BMW Championship on August 23, 2026 [E11].\n\nLooking back at the historical evidence, the scoring landscape at East Lake has undergone a profound shift. In the 2017-2018 event, Tiger Woods claimed victory with a 72-hole winning score of -11 (total 269) [E10]. However, subsequent years demonstrated a massive escalation in offensive scoring proficiency. By the 2018-2019 season, Rory McIlroy captured the title at -18 (total 267) [E09], and Dustin Johnson followed in the 2019-2020 season with a -21 (total 269) [E08]. This baseline of extreme red numbers continued consistently, with Patrick Cantlay winning at -21 (total 269) in 2020-2021 [E07], Rory McIlroy again at -21 (total 263) in 2021-2022 [E06], and Viktor Hovland pushing the bar even higher to -27 (total 261) in the 2022-2023 tournament [E05]. Even more indicative of this relentless scoring environment is Scottie Scheffler\u2019s dominant performance in 2024 at -30 (total 264, factoring starting strokes under the staggered format) [E04], followed closely by Tommy Fleetwood's victory in 2025 at -18 (total 262) [E03]. \n\nThis data destroys any argument that East Lake protects par against the world's elite players. Instead, the framework governing winning score and margin ladders proves that champions must routinely target totals in the vicinity of 20-to-30 strokes under par to secure victory. The margin ladders demonstrate that whoever emerges from the 30-player field set on August 23, 2026 [E11], cannot simply play conservative golf during the championship rounds spanning August 26 through August 30, 2026 [E12]. The sheer magnitude of the $40,000,000 purse [E02] guarantees that the trailing players will aggressively chase birdies, forcing the eventual champion to maintain an unrelenting foot on the gas pedal. Consequently, any predictive model for the 2026 champion must prioritize players who possess elite birdie-conversion rates rather than defensive par-savers, because East Lake's modern incarnation demands a relentless assault on the flagsticks to survive the margin ladder.",
+ "cause_effect_dynamics": [
+  "D1: The introduction and persistence of elite offensive scoring strategies at East Lake lead to winning totals consistently plunging deep into double-digits under par because the modern setup and player proficiency neutralize traditional course defenses (E03, E05).",
+  "D2: The implementation of the staggered starting strokes format drives extreme winning totals such as -30 because it rewards top-seeded players with an immediate head start that they aggressively expand over 72 holes (E04, E10).",
+  "D3: The massive $40,000,000 total purse escalates competitive pressure across the 30-player field, compelling all contenders to adopt hyper-aggressive birdie-seeking tactics that elevate the winning score expectations for the 2026 event (E01, E02, E11)."
+ ],
+ "evidence_used": [
+  "E01",
+  "E02",
+  "E03",
+  "E04",
+  "E05",
+  "E06",
+  "E07",
+  "E08",
+  "E09",
+  "E10",
+  "E11",
+  "E12"
+ ]
+}
