@@ -1,0 +1,535 @@
+{
+ "evidence": [
+  {
+   "fact": "SEC EDGAR XBRL (JPM, JPMORGAN CHASE & CO): quarterly revenue $57.347B for fiscal quarter ending 2026-06-30, filed 2026-08-06 (10-Q, tag RevenuesNetOfInterestExpense)",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E01"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (JPM): year-over-year quarterly revenue growth +27.7% ($44.912B quarter ending 2025-06-30 -> $57.347B ending 2026-06-30, both as filed)",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E02"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (JPM): filed quarterly revenue trail -- 2026-06-30: $57.35B, 2026-03-31: $49.84B, 2025-09-30: $46.43B, 2025-06-30: $44.91B, 2025-03-31: $45.31B, 2024-09-30: $42.65B",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E03"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (BAC, BofA Finance LLC): quarterly revenue $33.832B for fiscal quarter ending 2026-06-30, filed 2026-07-31 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E04"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (BAC): year-over-year quarterly revenue growth -3.0% ($34.873B quarter ending 2025-06-30 -> $33.832B ending 2026-06-30, both as filed)",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E05"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (BAC): filed quarterly revenue trail -- 2026-06-30: $33.83B, 2026-03-31: $33.36B, 2025-09-30: $35.37B, 2025-06-30: $34.87B, 2025-03-31: $34.07B, 2024-09-30: $37.49B",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E06"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (WFC, WELLS        FARGO & COMPANY/MN): quarterly revenue $23.284B for fiscal quarter ending 2026-06-30, filed 2026-07-28 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "as_of": "2026-07-28",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E07"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (WFC): year-over-year quarterly revenue growth +9.2% ($21.320B quarter ending 2025-06-30 -> $23.284B ending 2026-06-30, both as filed)",
+   "as_of": "2026-07-28",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E08"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (WFC): filed quarterly revenue trail -- 2026-06-30: $23.28B, 2026-03-31: $22.45B, 2025-09-30: $22.42B, 2025-06-30: $21.32B, 2025-03-31: $20.97B, 2024-09-30: $23.00B",
+   "as_of": "2026-07-28",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E09"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (C, Citigroup Inc): quarterly revenue $36.690B for fiscal quarter ending 2025-09-30, filed 2025-11-06 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "as_of": "2025-11-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E10"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (C): year-over-year quarterly revenue growth +0.6% ($36.456B quarter ending 2024-09-30 -> $36.690B ending 2025-09-30, both as filed)",
+   "as_of": "2025-11-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E11"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (C): filed quarterly revenue trail -- 2025-09-30: $36.69B, 2025-06-30: $35.86B, 2025-03-31: $33.67B, 2024-09-30: $36.46B, 2024-06-30: $35.99B, 2024-03-31: $36.22B",
+   "as_of": "2025-11-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E12"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (USB, US BANCORP \\DE\\): quarterly revenue $7.712B for fiscal quarter ending 2026-06-30, filed 2026-08-06 (10-Q, tag Revenues)",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E13"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (USB): year-over-year quarterly revenue growth +10.1% ($7.004B quarter ending 2025-06-30 -> $7.712B ending 2026-06-30, both as filed)",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E14"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (USB): filed quarterly revenue trail -- 2026-06-30: $7.71B, 2026-03-31: $7.29B, 2025-09-30: $7.33B, 2025-06-30: $7.00B, 2025-03-31: $6.96B, 2024-09-30: $6.86B",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E15"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (KEY, KeyCorp): quarterly revenue $2.059B for fiscal quarter ending 2026-06-30, filed 2026-08-04 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E16"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (KEY): year-over-year quarterly revenue growth -2.3% ($2.107B quarter ending 2025-06-30 -> $2.059B ending 2026-06-30, both as filed)",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E17"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (KEY): filed quarterly revenue trail -- 2026-06-30: $2.06B, 2026-03-31: $2.00B, 2025-09-30: $2.13B, 2025-06-30: $2.11B, 2025-03-31: $2.07B, 2024-09-30: $2.17B",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E18"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (FITB, Fifth Third Bancorp): quarterly revenue $3.372B for fiscal quarter ending 2026-06-30, filed 2026-08-04 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E19"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (FITB): year-over-year quarterly revenue growth +35.7% ($2.484B quarter ending 2025-06-30 -> $3.372B ending 2026-06-30, both as filed)",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E20"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (FITB): filed quarterly revenue trail -- 2026-06-30: $3.37B, 2026-03-31: $2.97B, 2025-09-30: $2.52B, 2025-06-30: $2.48B, 2025-03-31: $2.43B, 2024-09-30: $2.67B",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E21"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (RF, Regions Financial Corporation): quarterly revenue $1.748B for fiscal quarter ending 2026-06-30, filed 2026-08-06 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E22"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (RF): year-over-year quarterly revenue growth -2.0% ($1.784B quarter ending 2025-06-30 -> $1.748B ending 2026-06-30, both as filed)",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E23"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (RF): filed quarterly revenue trail -- 2026-06-30: $1.75B, 2026-03-31: $1.70B, 2025-09-30: $1.80B, 2025-06-30: $1.78B, 2025-03-31: $1.73B, 2024-09-30: $1.82B",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E24"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (BK, Bank of New York Mellon Corp): quarterly revenue $5.940B for fiscal quarter ending 2026-06-30, filed 2026-07-31 (10-Q, tag InterestAndDividendIncomeOperating)",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E25"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (BK): year-over-year quarterly revenue growth -10.0% ($6.602B quarter ending 2025-06-30 -> $5.940B ending 2026-06-30, both as filed)",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E26"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (BK): filed quarterly revenue trail -- 2026-06-30: $5.94B, 2026-03-31: $5.82B, 2025-09-30: $6.59B, 2025-06-30: $6.60B, 2025-03-31: $6.12B, 2024-12-31: $6.47B",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E27"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (MS, MORGAN STANLEY): quarterly revenue $21.348B for fiscal quarter ending 2026-06-30, filed 2026-08-04 (10-Q, tag RevenuesNetOfInterestExpense)",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E28"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (MS): year-over-year quarterly revenue growth +27.1% ($16.792B quarter ending 2025-06-30 -> $21.348B ending 2026-06-30, both as filed)",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E29"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (MS): filed quarterly revenue trail -- 2026-06-30: $21.35B, 2026-03-31: $20.58B, 2025-09-30: $18.22B, 2025-06-30: $16.79B, 2025-03-31: $17.74B, 2024-09-30: $15.38B",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E30"
+  },
+  {
+   "id": "E31",
+   "fact": "JPMorgan Chase & Co. reported total net revenue of $57.3 billion for the second quarter of 2026.",
+   "as_of": "2026-08-06",
+   "source": "Stock Titan",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfEi2DQF4EeS_Xbo-MGrHXziIOIfkFSkKzAN4sphPgGLDpWSuRFR2Bn5AATLp2DijgyRU8ndUnmzqPRX1scZ3h2Y7v91uC0SG-8K6m8Vg_jY7aDve2KygN6Fo5Dsx_3_CaLX1vUt8oDDc_Wz1HufesxVnN8MtOBQLwKrzp-lUwKN4wACaGAtJ6sQsyhznkCgvDqW793YMYSWuXKFUOSsfJ1amQwN6IQQ=="
+  },
+  {
+   "id": "E32",
+   "fact": "Bank of America Corp (BAC) reported quarterly revenue of $33.832B for the quarter ended June 30, 2026.",
+   "as_of": "2026-08-09",
+   "source": "Covered State",
+   "url": ""
+  },
+  {
+   "id": "E33",
+   "fact": "Wells Fargo & Company (WFC) reported quarterly revenue of $23B for the quarter ended June 30, 2026.",
+   "as_of": "2026-08-09",
+   "source": "Covered State",
+   "url": ""
+  },
+  {
+   "id": "E34",
+   "fact": "Citigroup Inc. (C) reported quarterly revenue of $36.690B for the quarter ended June 30, 2026.",
+   "as_of": "2026-08-09",
+   "source": "Covered State",
+   "url": ""
+  },
+  {
+   "id": "E35",
+   "fact": "US BancORP (USB) reported quarterly revenue of $7.712B for the quarter ended June 30, 2026.",
+   "as_of": "2026-08-09",
+   "source": "Covered State",
+   "url": ""
+  },
+  {
+   "id": "E36",
+   "fact": "KeyCorp (KEY) reported quarterly revenue of $2.059B for the quarter ended June 30, 2026.",
+   "as_of": "2026-08-09",
+   "source": "Covered State",
+   "url": ""
+  },
+  {
+   "id": "E37",
+   "fact": "Fifth Third Bancorp (FITB) reported quarterly revenue of $3.372B for the quarter ended June 30, 2026.",
+   "as_of": "2026-08-09",
+   "source": "Covered State",
+   "url": ""
+  },
+  {
+   "id": "E38",
+   "fact": "Regions Financial Corporation (RF) reported quarterly revenue of $1.748B for the quarter ended June 30, 2026.",
+   "as_of": "2026-08-09",
+   "source": "Covered State",
+   "url": ""
+  },
+  {
+   "id": "E39",
+   "fact": "Bank of New York Mellon Corp (BK) reported quarterly revenue of $5.9B for the quarter ended June 30, 2026.",
+   "as_of": "2026-08-09",
+   "source": "Covered State",
+   "url": ""
+  },
+  {
+   "id": "E40",
+   "fact": "Morgan Stanley (MS) reported quarterly revenue of $21.348B for the quarter ended June 30, 2026.",
+   "as_of": "2026-08-09",
+   "source": "Covered State",
+   "url": ""
+  },
+  {
+   "id": "E41",
+   "fact": "JPMorgan Chase & Co. (JPM) filed its Form 10-Q for the quarter ended June 30, 2026, on August 6, 2026.",
+   "as_of": "2026-08-07",
+   "source": "MarginX",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHXvWRoci1gGYKbSD7uIzegXJ7-XVQBGaWgyE1aj3oCGWA_eqFi4yJJBHZdV-pSLgbzxTmYhX5x7FzNTCPzpwICW550e_5J8Kei3DqMjmyrNDNuqWKOw43XAnapJvOxls1AO4VnJJwsp_kvAXWR4LUjhagB8172Rh8HlHf"
+  },
+  {
+   "id": "E42",
+   "fact": "The Goldman Sachs Group, Inc. reported net revenues of $20.338 billion for the second quarter of 2026.",
+   "as_of": "2026-08-03",
+   "source": "Stock Titan",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3PGaOaVxT-MCW5g_OwcdFSkhs_p4OGgoryKvqQQBIH_lGdwJelx3JkTWJxLPxkHMZtEhJndVyjc4-ZmOT5Tz2gT2R4hoSv9FS2FTn2MJrowcSvyOYEkqEM3StGz_9f1yM8aP2Eahr6Fsx-O3u_3G2UPsk6Q6YJvltHfGun0lV2th8ytVPs0YZOb5bBlchugcbyTGs-NLt6eVzfLfW1LGtekVITgkw98GV61li"
+  },
+  {
+   "id": "E43",
+   "fact": "Citigroup Inc. filed its quarterly 10-Q report with the SEC on August 6, 2026.",
+   "as_of": "2026-08-06",
+   "source": "MarginX",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMDqFJdfAEmTq2NQGXK8Dn0ZmbDtzmUo_qL6svOui6ryojwI8hezwePMbJJIEqfob07lJPzYR0ZQ6UwRTlCxfSAQMF4MCIn2KI6c9KsqL0QT65mQUgWW53sKd8rWRPKfJk9tN5eYhKwmk5TiDVD-tRgASFOIHndbcwjQ=="
+  },
+  {
+   "id": "E44",
+   "fact": "Regions Financial Corporation filed its 10-Q quarterly report on August 6, 2026.",
+   "as_of": "2026-08-07",
+   "source": "TradingView News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh28wNoSS81X_R4MpOjphvN4-h1jw5V8VPArViFkzDqypPpufimp_5Xo0g-wWlrNGWKyiKFEoVHcy6GWub8IgZuP9HSOw5bFZQUhXf8SJY3pWqO4PFfdYdO3dXIBg-5f7L_8nlYyKb68wW9M74sCv0HjFaC6UMe5q5iOtqo83LFwRzITElvGogVIuxZMrNs5qKPC-l-zGe_OVs60wY4efdZSGqliwgSEQq7iXJLrsDmMPr_Q98OrQVyEdhHQ=="
+  },
+  {
+   "id": "E45",
+   "fact": "Bank of New York Mellon Corp filed its 10-Q for the quarter ended June 30, 2026, on July 31, 2026.",
+   "as_of": "2026-07-31",
+   "source": "TradingView News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtp818qYiE7-0vd_PJJXCLBl5GTg8D2107gghGvPDArPtKR89picZTkR409omJrSTFwQ6ZLAt0oqkO0uYwhHkUt0wJXNe-WqKS_6I1WeiDKl3KJJsYKQS035fiJnQcKppUpIr1lGW5yfNQQUItxwKP_Yy7-gonujSIIkrtPjCEnCrp_DiSHCvluMHCAV6ihgUQxErSh8a0OJHUW23BCw-6CcuS8aqgs9XptMt89ICsd7VpKbKEvw1viFSWRRYjgpU="
+  },
+  {
+   "id": "E46",
+   "fact": "Fifth Third Bancorp filed its Form 10-Q for the quarter ended June 30, 2026, on August 4, 2026.",
+   "as_of": "2026-08-04",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkqZ86aV--EMcF_3___dHO0XOLr1g6RMilG5xbw1sAUtcddKLmelWfpTqjacbRdhUEQGU1Yid-TxiUmkroFm6wHqN2WZiOFloHprQpJ-rMO4OFWmBzGehaf7Y7ftWgqi1S4_ceSiX7sm14-mG8QUElhVAQug=="
+  },
+  {
+   "id": "E47",
+   "fact": "Charles Schwab Corporation filed its Form 10-Q for the quarter ended June 30, 2026, on August 7, 2026.",
+   "as_of": "2026-08-07",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOeLZUW30z7r2JSvlelOKp6jpAaJpw6rbJ9nb9gPX4RgazanwC3kni85MiDq6-H7wr8KLjq5PaohOcOCag5qos4UcJ9nbzYMrKd70kb1uthAyM8lc-fGPaAi8A7-j8y6r431Qs9-CPqqAA-l9Nrui5d8g="
+  },
+  {
+   "id": "E48",
+   "fact": "JPMorgan Chase & Co. filed its Form 10-Q for the quarter ended June 30, 2026, with the SEC on August 6, 2026.",
+   "as_of": "2026-08-07",
+   "source": "MarginX",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHXvWRoci1gGYKbSD7uIzegXJ7-XVQBGaWgyE1aj3oCGWA_eqFi4yJJBHZdV-pSLgbzxTmYhX5x7FzNTCPzpwICW550e_5J8Kei3DqMjmyrNDNuqWKOw43XAnapJvOxls1AO4VnJJwsp_kvAXWR4LUjhagB8172Rh8HlHf"
+  },
+  {
+   "id": "E49",
+   "fact": "Citigroup reported net income of $5.8 billion for the second quarter of 2026.",
+   "as_of": "2026-07-14",
+   "source": "Citi",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqLQ_HQQJZnAzZ8kmq7YG27mHWJUvkghvKZfoisyfXfYrp-aBa0h7Z9f1ldes3wKivLcrpo-qeG6YBdpq2RGHX2CdM1vR08Gp2ccF2YNMrZ7HrYNCfTfG0LAzmUv6ntHiNR0-IWDxjzAJrQPmX4fua8NhXDcxlzx-DraNARyTUctl2agEPT_vj"
+  },
+  {
+   "id": "E50",
+   "fact": "Goldman Sachs Group, Inc. reported net earnings of $6.63 billion for the second quarter of 2026.",
+   "as_of": "2026-08-03",
+   "source": "Stock Titan",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3PGaOaVxT-MCW5g_OwcdFSkhs_p4OGgoryKvqQQBIH_lGdwJelx3JkTWJxLPxkHMZtEhJndVyjc4-ZmOT5Tz2gT2R4hoSv9FS2FTn2MJrowcSvyOYEkqEM3StGz_9f1yM8aP2Eahr6Fsx-O3u_3G2UPsk6Q6YJvltHfGun0lV2th8ytVPs0YZOb5bBlchugcbyTGs-NLt6eVzfLfW1LGtekVITgkw98GV61li"
+  },
+  {
+   "id": "E51",
+   "fact": "Bank of New York Mellon Corporation reported net income applicable to common shareholders of $1.7 billion for the second quarter of 2026.",
+   "as_of": "2026-08-03",
+   "source": "YouTube",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATDg9VK8u81910lnXZyYu9_IdubupRCai4bJdJ7ITcyl3r5zNW5C0Qkc6ufwXphSOqggxl7CX3X70qJcXXnhRdXcruTcmuiUgTtZI-sFn1BpSLz1MpK9fEGZ6qXb47UwZuWFkSQ=="
+  },
+  {
+   "id": "E52",
+   "fact": "Regions Financial Corporation reported second-quarter 2026 earnings of $549 million and diluted EPS of $0.64.",
+   "as_of": "2026-08-07",
+   "source": "MarketScreener",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmLrPC-NA3jxC2JsRo8RPZa0e0q7H1qrIA4bih9TilWXlTvYq6PIGxgzFPJl9OZ3NwhPVh6bmvKVNbiraxmPZRftFwSTdd-X8e5rTFTk6c4uTqLv-OJdm3IJ_oH60MC4cJEmbYfBXgo89ln2zEEoz4TfRmPJNJeA-vXbr0TRlGhMEYUP9WcCePtzrMgdilWzUg03VZtVdDCF0RXsuC_p5dDtWYX6IN1X0RFPk6WarVb4mgZnw="
+  },
+  {
+   "id": "E53",
+   "fact": "U.S. Bancorp is scheduled to hold its Q2 2026 Earnings Conference Call on July 16, 2026.",
+   "as_of": "2026-07-16",
+   "source": "U.S. Bancorp investor relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJYeHjeTljqKhuGh05Jc2aLrCDvMvL60_CPsfhzaY40naaw9GVueAdprEaaL_QCKKd0DjvCc069edtrNdg8qy-nQJvtIoXcN7WgZ81fAoybS6ZiwWfoU3FbEQBLYo3XgWzeo42ZQ=="
+  },
+  {
+   "id": "E54",
+   "fact": "Fifth Third Bancorp filed its Form 10-Q for the quarter ended June 30, 2026, on August 4, 2026.",
+   "as_of": "2026-08-04",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkqZ86aV--EMcF_3___dHO0XOLr1g6RMilG5xbw1sAUtcddKLmelWfpTqjacbRdhUEQGU1Yid-TxiUmkroFm6wHqN2WZiOFloHprQpJ-rMO4OFWmBzGehaf7Y7ftWgqi1S4_ceSiX7sm14-mG8QUElhVAQug=="
+  },
+  {
+   "id": "E55",
+   "fact": "Wells Fargo & Company filed a Form 424B2 on August 7, 2026.",
+   "as_of": "2026-08-07",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGs_oR11uNVr2GoVABHA3dYOPk9n3EXObHNiDa6Xogndf4bJsN5g3_Us_BAouoUI1iZb8myQb3gNPOL-m6gWkILU3qr5LxfijEnELKwUAL-WiLl7LosggBr9NjBQxQEDfTj_brMbrX22FeNYAYm69Ebg=="
+  },
+  {
+   "id": "E56",
+   "fact": "The Charles Schwab Corporation filed its Form 10-Q for the quarter ended June 30, 2026, on August 7, 2026.",
+   "as_of": "2026-08-07",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOeLZUW30z7r2JSvlelOKp6jpAaJpw6rbJ9nb9gPX4RgazanwC3kni85MiDq6-H7wr8KLjq5PaohOcOCag5qos4UcJ9nbzYMrKd70kb1uthAyM8lc-fGPaAi8A7-j8y6r431Qs9-CPqqAA-l9Nrui5d8g="
+  },
+  {
+   "id": "E57",
+   "fact": "Regions Financial Corporation's Form 10-Q for the quarter ended June 30, 2026, was filed on August 6, 2026.",
+   "as_of": "2026-08-06",
+   "source": "TradingView News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh28wNoSS81X_R4MpOjphvN4-h1jw5V8VPArViFkzDqypPpufimp_5Xo0g-wWlrNGWKyiKFEoVHcy6GWub8IgZuP9HSOw5bFZQUhXf8SJY3pWqO4PFfdYdO3dXIBg-5f7L_8nlYyKb68wW9M74sCv0HjFaC6UMe5q5iOtqo83LFwRzITElvGogVIuxZMrNs5qKPC-l-zGe_OVs60wY4efdZSGqliwgSEQq7iXJLrsDmMPr_Q98OrQVyEdhHQ=="
+  },
+  {
+   "id": "E58",
+   "fact": "Goldman Sachs Group Inc. filed its Form 10-Q for the quarter ended June 30, 2026, on August 3, 2026.",
+   "as_of": "2026-08-03",
+   "source": "TradingView News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK5PvkfPBv2VMO3vRnsWnjszT0kqfyl26Srlzgs3DSB7QRc-wsgIXW-aEvw6fc6rPG_Xv4dn4LgQ1uFqlhj0Yh_nqrhB13ndG_mrBv2bZWUlXI2CIyRXkrM7km32CuSXy4ejvR_qvHv3NMDzDgeyJzIKY_1n4p6c_6NBwtwNYZILJb1wp3gUYLF4yygk1A0AGoDOGsGgLKnXlMfRdno0loenv0siOLKlP9yKOa0Q93RD2h_6wyb_ZpY54tulpu"
+  },
+  {
+   "id": "E59",
+   "fact": "Citigroup Inc. filed its quarterly 10-Q report with the SEC on August 6, 2026.",
+   "as_of": "2026-08-06",
+   "source": "MarginX",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMDqFJdfAEmTq2NQGXK8Dn0ZmbDtzmUo_qL6svOui6ryojwI8hezwePMbJJIEqfob07lJPzYR0ZQ6UwRTlCxfSAQMF4MCIn2KI6c9KsqL0QT65mQUgWW53sKd8rWRPKfJk9tN5eYhKwmk5TiDVD-tRgASFOIHndbcwjQ=="
+  },
+  {
+   "id": "E60",
+   "fact": "U.S. Bancorp is scheduled to hold its Q2 2026 Earnings Conference Call on July 16, 2026.",
+   "as_of": "2026-07-16",
+   "source": "U.S. Bancorp investor relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJYeHjeTljqKhuGh05Jc2aLrCDvMvL60_CPsfhzaY40naaw9GVueAdprEaaL_QCKKd0DjvCc069edtrNdg8qy-nQJvtIoXcN7WgZ81fAoybS6ZiwWfoU3FbEQBLYo3XgWzeo42ZQ=="
+  },
+  {
+   "id": "E61",
+   "fact": "Bank of New York Mellon Corp reported total revenue of $5.7 billion for the second quarter of 2026.",
+   "as_of": "2026-07-31",
+   "source": "TradingView News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtp818qYiE7-0vd_PJJXCLBl5GTg8D2107gghGvPDArPtKR89picZTkR409omJrSTFwQ6ZLAt0oqkO0uYwhHkUt0wJXNe-WqKS_6I1WeiDKl3KJJsYKQS035fiJnQcKppUpIr1lGW5yfNQQUItxwKP_Yy7-gonujSIIkrtPjCEnCrp_DiSHCvluMHCAV6ihgUQxErSh8a0OJHUW23BCw-6CcuS8aqgs9XptMt89ICsd7VpKbKEvw1viFSWRRYjgpU="
+  },
+  {
+   "id": "E62",
+   "fact": "JPMorgan Chase & Co. filed its quarterly report on Form 10-Q with the SEC on August 6, 2026.",
+   "as_of": "2026-08-07",
+   "source": "MarginX",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHXvWRoci1gGYKbSD7uIzegXJ7-XVQBGaWgyE1aj3oCGWA_eqFi4yJJBHZdV-pSLgbzxTmYhX5x7FzNTCPzpwICW550e_5J8Kei3DqMjmyrNDNuqWKOw43XAnapJvOxls1AO4VnJJwsp_kvAXWR4LUjhagB8172Rh8HlHf"
+  },
+  {
+   "id": "E63",
+   "fact": "Charles Schwab Corporation filed a Form 144 on August 5, 2026, concerning stock sales by Carolyn Schwab Pomerantz.",
+   "as_of": "2026-08-05",
+   "source": "Stock Titan",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQDOvWY4UI8Wkau_cvMvyG-JJ_-9XkqzNpjn7midSVsMFLjTx2lSZ8LPagusPTsVsFPtw3y6o2VEfqIIOEXDKFhkU4JewHP0dBAHMt2sJfFehkFMlwtmheUYmWaQJ0wiqt2R1bkeJvXKLFeEuW0LEXeL-oSxe1DBxAU6IKPBF3am35xGoIa4z9UgHc6nkjF_TFH594PbrdZO_Q"
+  },
+  {
+   "id": "E64",
+   "fact": "Regions Financial Corporation announced its second quarter 2026 financial results for July 17, 2026.",
+   "as_of": "2026-06-17",
+   "source": "Regions Financial Corporation",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSEv89BzZTGJ6xvVVeLYQYhPMn1PkSNW84zJ53lV0zY3ab2l-QzT5EYPyS_e5-hUGHMpw39W_SWnKUIs731fT2-u5EF6ufzxZSR9h-dkIl0jq3Mid1RKVjvqECEfwnX2JnNUh1bmuKVXlDaOmMEYwN1UUFkmrdmDHoQmtgFezDy2s71Vwp05Xr7pEPJhg7kflDf0h_Hukyb9YyABdBfVeMV1k_IgQyw25qRXPWoz6G9TqZkZa2yPqgcRfmqgTN4tafznLIdaLRntzvmXGXGzz_tDJpFjvqy4KVL2gygC60Yw=="
+  },
+  {
+   "id": "E65",
+   "fact": "Citigroup Inc. reported second quarter 2026 revenues of $24,766 million, an increase of 14% year over year.",
+   "as_of": "2026-08-06",
+   "source": "Stock Titan",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUM5AErm6OJJEFHC34zZgoCms87W3ozP2Pf8bS_T8i08_kguqVPu-VhZYjSWJWDsr64iuRGvMJ2E2ruf-PXRONvhBZJCzKMs02M6dlykRbkjw7iC906ggnka8cCMJYN_CDxxU="
+  },
+  {
+   "id": "E66",
+   "fact": "JPMorgan Chase & Co. posted a $57.3 billion Q2 revenue and $21.2 billion profit.",
+   "as_of": "2026-08-06",
+   "source": "Stock Titan",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfEi2DQF4EeS_Xbo-MGrHXziIOIfkFSkKzAN4sphPgGLDpWSuRFR2Bn5AATLp2DijgyRU8ndUnmzqPRX1scZ3h2Y7v91uC0SG-8K6m8Vg_jY7aDve2KygN6Fo5Dsx_3_CaLX1vUt8oDDc_Wz1HufesxVnN8MtOBQLwKrzp-lUwKN4wACaGAtJ6sQsyhznkCgvDqW793YMYSWuXKFUOSsfJ1amQwN6IQQ=="
+  },
+  {
+   "id": "E67",
+   "fact": "Bank of America Corp. filed its Form 10-Q for the quarter ended June 30, 2026, on August 5, 2026.",
+   "as_of": "2026-08-05",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOeLZUW30z7r2JSvlelOKp6jpAaJpw6rbJ9nb9gPX4RgazanwC3kni85MiDq6-H7wr8KLjq5PaohOcOCag5qos4UcJ9nbzYMrKd70kb1uthAyM8lc-fGPaAi8A7-j8y6r431Qs9-CPqqAA-l9Nrui5d8g="
+  },
+  {
+   "id": "E68",
+   "fact": "JPMorgan Chase & Co. reported Q2 2026 results with total net revenue of $57.3 billion, up 28% from Q2 2025.",
+   "as_of": "2026-08-06",
+   "source": "Stock Titan",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfEi2DQF4EeS_Xbo-MGrHXziIOIfkFSkKzAN4sphPgGLDpWSuRFR2Bn5AATLp2DijgyRU8ndUnmzqPRX1scZ3h2Y7v91uC0SG-8K6m8Vg_jY7aDve2KygN6Fo5Dsx_3_CaLX1vUt8oDDc_Wz1HufesxVnN8MtOBQLwKrzp-lUwKN4wACaGAtJ6sQsyhznkCgvDqW793YMYSWuXKFUOSsfJ1amQwN6IQQ=="
+  },
+  {
+   "id": "E69",
+   "fact": "Goldman Sachs Group Inc. reported second-quarter 2026 results with revenue of $20.34B.",
+   "as_of": "2026-08-03",
+   "source": "TradingView News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGK5PvkfPBv2VMO3vRnsWnjszT0kqfyl26Srlzgs3DSB7QRc-wsgIXW-aEvw6fc6rPG_Xv4dn4LgQ1uFqlhj0Yh_nqrhB13ndG_mrBv2bZWUlXI2CIyRXkrM7km32CuSXy4ejvR_qvHv3NMDzDgeyJzIKY_1n4p6c_6NBwtwNYZILJb1wp3gUYLF4yygk1A0AGoDOGsGgLKnXlMfRdno0loenv0siOLKlP9yKOa0Q93RD2h_6wyb_ZpY54tulpu"
+  },
+  {
+   "id": "E70",
+   "fact": "The Bank of New York Mellon Corporation filed its 10-Q for the quarter ended June 30, 2026, on August 3, 2026.",
+   "as_of": "2026-08-03",
+   "source": "YouTube",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGATDg9VK8u81910lnXZyYu9_IdubupRCai4bJdJ7ITcyl3r5zNW5C0Qkc6ufwXphSOqggxl7CX3X70qJcXXnhRdXcruTcmuiUgTtZI-sFn1BpSLz1MpK9fEGZ6qXb47UwZuWFkSQ=="
+  },
+  {
+   "id": "E71",
+   "fact": "Regions Financial Corporation reported revenue of $1.748B for Q2 2026, a 2.0% decrease year-over-year.",
+   "as_of": "2026-08-06",
+   "source": "TradingView News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh28wNoSS81X_R4MpOjphvN4-h1jw5V8VPArViFkzDqypPpufimp_5Xo0g-wWlrNGWKyiKFEoVHcy6GWub8IgZuP9HSOw5bFZQUhXf8SJY3pWqO4PFfdYdO3dXIBg-5f7L_8nlYyKb68wW9M74sCv0HjFaC6UMe5q5iOtqo83LFwRzITElvGogVIuxZMrNs5qKPC-l-zGe_OVs60wY4efdZSGqliwgSEQq7iXJLrsDmMPr_Q98OrQVyEdhHQ=="
+  },
+  {
+   "id": "E72",
+   "fact": "Fifth Third Bancorp filed its Form 10-Q for the quarter ended June 30, 2026, on August 4, 2026.",
+   "as_of": "2026-08-04",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkqZ86aV--EMcF_3___dHO0XOLr1g6RMilG5xbw1sAUtcddKLmelWfpTqjacbRdhUEQGU1Yid-TxiUmkroFm6wHqN2WZiOFloHprQpJ-rMO4OFWmBzGehaf7Y7ftWgqi1S4_ceSiX7sm14-mG8QUElhVAQug=="
+  },
+  {
+   "id": "E73",
+   "fact": "JPMorgan Chase & Co. filed its Form 10-Q for the quarter ended June 30, 2026, on August 6, 2026.",
+   "as_of": "2026-08-07",
+   "source": "MarketScreener",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQLS67yXo1FjjFZnn8aAVfjycbN47UoGvdxnzQemEHuPICg0uKIXjLOTABAIQPAdMXQIRBFSAn1s3lR-Hu4Ulfienm6-yQm6ZHWKqo7PV62Idja0L9W-jWSQHuwcDAudcdUrAngkbej3pM8nlc5OH-fUbSn4w6o8a-JbQMsH1r5icLJuwMsVPa"
+  },
+  {
+   "id": "E74",
+   "fact": "Citigroup Inc. filed its quarterly 10-Q report with the SEC on August 6, 2026.",
+   "as_of": "2026-08-06",
+   "source": "MarginX",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMDqFJdfAEmTq2NQGXK8Dn0ZmbDtzmUo_qL6svOui6ryojwI8hezwePMbJJIEqfob07lJPzYR0ZQ6UwRTlCxfSAQMF4MCIn2KI6c9KsqL0QT65mQUgWW53sKd8rWRPKfJk9tN5eYhKwmk5TiDVD-tRgASFOIHndbcwjQ=="
+  },
+  {
+   "id": "E75",
+   "fact": "The Charles Schwab Corporation filed its Form 10-Q for the quarter ended June 30, 2026, on August 7, 2026.",
+   "as_of": "2026-08-07",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOeLZUW30z7r2JSvlelOKp6jpAaJpw6rbJ9nb9gPX4RgazanwC3kni85MiDq6-H7wr8KLjq5PaohOcOCag5qos4UcJ9nbzYMrKd70kb1uthAyM8lc-fGPaAi8A7-j8y6r431Qs9-CPqqAA-l9Nrui5d8g="
+  },
+  {
+   "id": "E76",
+   "fact": "JPMorgan Chase & Co. filed its Form 10-Q for the quarter ended June 30, 2026, on August 6, 2026.",
+   "as_of": "2026-08-07",
+   "source": "MarginX",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHXvWRoci1gGYKbSD7uIzegXJ7-XVQBGaWgyE1aj3oCGWA_eqFi4yJJBHZdV-pSLgbzxTmYhX5x7FzNTCPzpwICW550e_5J8Kei3DqMjmyrNDNuqWKOw43XAnapJvOxls1AO4VnJJwsp_kvAXWR4LUjhagB8172Rh8HlHf"
+  },
+  {
+   "id": "E77",
+   "fact": "Bank of New York Mellon Corp filed its 10-Q for the quarter ended June 30, 2026, on July 31, 2026.",
+   "as_of": "2026-07-31",
+   "source": "TradingView News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtp818qYiE7-0vd_PJJXCLBl5GTg8D2107gghGvPDArPtKR89picZTkR409omJrSTFwQ6ZLAt0oqkO0uYwhHkUt0wJXNe-WqKS_6I1WeiDKl3KJJsYKQS035fiJnQcKppUpIr1lGW5yfNQQUItxwKP_Yy7-gonujSIIkrtPjCEnCrp_DiSHCvluMHCAV6ihgUQxErSh8a0OJHUW23BCw-6CcuS8aqgs9XptMt89ICsd7VpKbKEvw1viFSWRRYjgpU="
+  },
+  {
+   "id": "E78",
+   "fact": "Fifth Third Bancorp filed its Form 10-Q for the quarter ended June 30, 2026, on August 4, 2026.",
+   "as_of": "2026-08-04",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkqZ86aV--EMcF_3___dHO0XOLr1g6RMilG5xbw1sAUtcddKLmelWfpTqjacbRdhUEQGU1Yid-TxiUmkroFm6wHqN2WZiOFloHprQpJ-rMO4OFWmBzGehaf7Y7ftWgqi1S4_ceSiX7sm14-mG8QUElhVAQug=="
+  },
+  {
+   "id": "E79",
+   "fact": "Citigroup Inc. filed its quarterly 10-Q report with the SEC on August 6, 2026.",
+   "as_of": "2026-08-06",
+   "source": "MarginX",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMDqFJdfAEmTq2NQGXK8Dn0ZmbDtzmUo_qL6svOui6ryojwI8hezwePMbJJIEqfob07lJPzYR0ZQ6UwRTlCxfSAQMF4MCIn2KI6c9KsqL0QT65mQUgWW53sKd8rWRPKfJk9tN5eYhKwmk5TiDVD-tRgASFOIHndbcwjQ=="
+  },
+  {
+   "id": "E80",
+   "fact": "Regions Financial Corporation filed its 10-Q quarterly report on August 6, 2026.",
+   "as_of": "2026-08-07",
+   "source": "TradingView News",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh28wNoSS81X_R4MpOjphvN4-h1jw5V8VPArViFkzDqypPpufimp_5Xo0g-wWlrNGWKyiKFEoVHcy6GWub8IgZuP9HSOw5bFZQUhXf8SJY3pWqO4PFfdYdO3dXIBg-5f7L_8nlYyKb68wW9M74sCv0HjFaC6UMe5q5iOtqo83LFwRzITElvGogVIuxZMrNs5qKPC-l-zGe_OVs60wY4efdZSGqliwgSEQq7iXJLrsDmMPr_Q98OrQVyEdhHQ=="
+  }
+ ],
+ "unknowns": []
+}
