@@ -1,0 +1,5 @@
+[P1_CONVENTION] F03: counting_convention missing/thin -- define the unit, in-force vs announced, the window, and what does NOT count
+[P1_JUDGE] F07: judgment adjective 'distinct' inside resolution criteria -- a stranger cannot count 'distinct'
+[P1_CONVENTION] F08: counting_convention missing/thin -- define the unit, in-force vs announced, the window, and what does NOT count
+[P1_EVID_CONC] evidence E03 underwrites 5 forecasts -- one source carrying the book is a correlated failure mode (max 3)
+[P1_EVID_CONC] evidence E05 underwrites 4 forecasts -- one source carrying the book is a correlated failure mode (max 3)

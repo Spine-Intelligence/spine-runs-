@@ -1,0 +1,310 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "The U.S. Department of Commerce's Bureau of Industry and Security (BIS) will continue to implement case-by-case reviews for certain high-performance chips exported to PRC companies, with an increase in the approval rate of previously restricted transactions to at least 5% by 2027-08-09.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "U.S. Bureau of Industry and Security",
+    "metric": "Percentage of high-performance chip export license applications to PRC companies approved under case-by-case review that were previously under a presumption of denial",
+    "threshold": "5%",
+    "resolution_date": "2027-08-09",
+    "baseline": {
+     "value": "N/A (policy shift implemented Jan 13, 2026; specific approval rate not published)",
+     "as_of": "2026-01-13"
+    },
+    "counting_convention": "cumulative percentage of approved licenses under case-by-case review that were previously denied, measured from 2026-01-13"
+   },
+   "horizon_years": 1.0,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E03"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "A statutory ban on advanced chip sales to China, similar to the AI OVERWATCH Act, will be enacted, impacting at least 3 U.S. chip manufacturers' export capabilities to the PRC by 2028-02-08.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "U.S. Congress",
+    "metric": "Number of U.S. chip manufacturers subject to a statutory ban on advanced chip sales to the PRC",
+    "threshold": "3",
+    "resolution_date": "2028-02-08",
+    "baseline": {
+     "value": "0 (AI OVERWATCH Act advanced Jan 21, 2026, but not enacted)",
+     "as_of": "2026-01-21"
+    },
+    "counting_convention": "count of unique U.S. chip manufacturers subject to an enacted statutory ban"
+   },
+   "horizon_years": 1.5,
+   "dynamic": "D1",
+   "evidence": [
+    "E02",
+    "E05"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "The United States will maintain its dominant position in global AI compute capacity, controlling at least 70% of the market share by 2031-08-09.",
+   "probability": 0.85,
+   "resolution_criteria": {
+    "source": "CES Intelligence",
+    "metric": "Percentage of global AI compute capacity controlled by the United States",
+    "threshold": "70%",
+    "resolution_date": "2031-08-09",
+    "baseline": {
+     "value": "75%",
+     "as_of": "2026-04-19"
+    },
+    "counting_convention": "market share percentage reported annually"
+   },
+   "horizon_years": 5.0,
+   "dynamic": "D1",
+   "evidence": [
+    "E05",
+    "E03"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "The 'GOLD EAGLE' initiative will lead to the identification and remediation of at least 100 software vulnerabilities impacting U.S. national security systems by 2027-08-09.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "U.S. Department of Defense",
+    "metric": "Number of software vulnerabilities identified and remediated",
+    "threshold": "100",
+    "resolution_date": "2027-08-09",
+    "baseline": {
+     "value": "0 (initiative launched July 14, 2026)",
+     "as_of": "2026-07-14"
+    },
+    "counting_convention": "cumulative count of unique software vulnerabilities reported as remediated by the GOLD EAGLE initiative"
+   },
+   "horizon_years": 1.0,
+   "dynamic": "D3",
+   "evidence": [
+    "E07",
+    "E06"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "The MATCH Act will result in a 10% year-over-year reduction in the value of advanced semiconductor manufacturing equipment imported into China by 2028-02-08.",
+   "probability": 0.35,
+   "resolution_criteria": {
+    "source": "U.S. Department of Commerce",
+    "metric": "Year-over-year percentage decrease in the value of advanced semiconductor manufacturing equipment imported into China",
+    "threshold": "10%",
+    "resolution_date": "2028-02-08",
+    "baseline": {
+     "value": "N/A (MATCH Act introduced April 2, 2026; impact data not yet available)",
+     "as_of": "2026-04-02"
+    },
+    "counting_convention": "annual percentage change in import value of specified equipment"
+   },
+   "horizon_years": 1.5,
+   "dynamic": "D2",
+   "evidence": [
+    "E04",
+    "E05"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "The Genesis Mission, expanded through federal commitments, will facilitate at least 5 scientific discoveries demonstrably accelerated by AI by 2029-08-09.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "Office of Science and Technology Policy",
+    "metric": "Number of scientific discoveries demonstrably accelerated by AI",
+    "threshold": "5",
+    "resolution_date": "2029-08-09",
+    "baseline": {
+     "value": "0 (mission expansion announced July 22, 2026)",
+     "as_of": "2026-07-22"
+    },
+    "counting_convention": "cumulative count of peer-reviewed scientific discoveries explicitly citing Genesis Mission AI acceleration"
+   },
+   "horizon_years": 3.0,
+   "dynamic": "D1",
+   "evidence": [
+    "E08",
+    "E03"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "The U.S. government will impose further export controls beyond advanced chips, specifically targeting AI-related software, impacting at least 2 new categories of export by 2028-02-08.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "U.S. Department of Commerce",
+    "metric": "Number of new categories of AI-related software subject to export controls",
+    "threshold": "2",
+    "resolution_date": "2028-02-08",
+    "baseline": {
+     "value": "0 (current focus on hardware and chips)",
+     "as_of": "2026-01-13"
+    },
+    "counting_convention": "count of distinct software categories added to export control lists"
+   },
+   "horizon_years": 1.5,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E02"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "China's share of global advanced chip production will fall by at least 3 percentage points by 2030-08-09 due to U.S. regulations and equipment controls.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "Gartner",
+    "metric": "Percentage point change in China's share of global advanced chip production",
+    "threshold": "-3%",
+    "resolution_date": "2030-08-09",
+    "baseline": {
+     "value": "N/A (specific China production share data not provided in dossier)",
+     "as_of": "2026-04-19"
+    },
+    "counting_convention": "percentage point change in market share"
+   },
+   "horizon_years": 4.0,
+   "dynamic": "D2",
+   "evidence": [
+    "E04",
+    "E05"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "The U.S. federal government will increase direct investment or grant funding for domestic AI semiconductor manufacturing by at least $10 billion by 2027-08-09.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "U.S. Department of Commerce",
+    "metric": "Cumulative increase in federal investment or grant funding for domestic AI semiconductor manufacturing",
+    "threshold": "$10 billion",
+    "resolution_date": "2027-08-09",
+    "baseline": {
+     "value": "N/A (specific total federal investment for AI semiconductors not published)",
+     "as_of": "2026-03-20"
+    },
+    "counting_convention": "dollar amount of new, dedicated federal funding announcements or disbursements"
+   },
+   "horizon_years": 1.0,
+   "dynamic": "D1",
+   "evidence": [
+    "E03",
+    "E06"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "International collaboration on AI security standards will result in at least 5 allied nations signing onto U.S.-proposed frameworks by 2029-08-09.",
+   "probability": 0.68,
+   "resolution_criteria": {
+    "source": "U.S. Department of State",
+    "metric": "Number of allied nations signing onto U.S.-proposed AI national security frameworks",
+    "threshold": "5",
+    "resolution_date": "2029-08-09",
+    "baseline": {
+     "value": "0 (frameworks still under development/negotiation)",
+     "as_of": "2026-06-02"
+    },
+    "counting_convention": "count of unique allied nations with an officially signed agreement or endorsement"
+   },
+   "horizon_years": 3.0,
+   "dynamic": "D1",
+   "evidence": [
+    "E06",
+    "E03"
+   ]
+  }
+ ],
+ "part2_framework": {
+  "text": "The current global landscape, particularly concerning advanced artificial intelligence (AI) and its underlying semiconductor infrastructure, is characterized by a resurgence of mercantilist policies. Governments are no longer content with laissez-faire approaches; instead, they are actively intervening to secure national dominance, reshape industrial policy, and project power through the control of critical technologies. This new era of 'modern mercantilism' is driven by the dual recognition of AI's transformative economic potential and its profound implications for national security. The United States, in particular, is at the forefront of this strategic shift, viewing the control of AI compute capacity and its manufacturing tools as paramount to maintaining its global leadership.\n\nThe United States' stance is clearly articulated in its recent policy pronouncements. The White House's release of the National Policy Framework for Artificial Intelligence on March 20, 2026 (E03), signaled a definitive move towards a more interventionist federal strategy. This framework explicitly aims to 'secure U.S. dominance' and counter 'state-level regulatory fragmentation,' indicating a clear prioritization of national interest over unfettered market forces. This is not an isolated event but part of a broader, coordinated effort. President Trump's Executive Order 14409, 'Promoting Advanced Artificial Intelligence Innovation and Security,' signed on June 2, 2026 (E06), further solidifies this approach by establishing directives focused on national security and the development of secure AI. The subsequent launch of the 'GOLD EAGLE' initiative on July 14, 2026 (E07), a public-private clearinghouse for AI vulnerability data, underscores the administration's commitment to leveraging AI for national security objectives, integrating advanced models into critical defense and cybersecurity efforts.\n\nThis strategic focus on AI and semiconductors has direct implications for international trade and industrial policy. The U.S. government is actively deploying export controls and legislative measures to restrict the flow of advanced AI technologies to perceived adversaries. For instance, the U.S. House Foreign Affairs Committee advanced the AI OVERWATCH Act on January 21, 2026 (E02), which proposes a statutory ban on the sale of advanced chips to countries like China, Iran, North Korea, Russia, and Venezuela. This legislative push reflects a deep-seated concern about the proliferation of AI capabilities that could undermine U.S. interests. Complementing these legislative efforts, the U.S. Department of Commerce's Bureau of Industry and Security (BIS) has adjusted its license review posture for certain high-performance chips (E01), shifting from a 'presumption of denial' to a 'case-by-case review' for specific NVIDIA and AMD-equivalent chips exported to PRC companies. While seemingly a slight easing, this change is still within a framework of strict oversight and national security considerations.\n\nFurthermore, the U.S. is not only regulating exports but also targeting the very enablers of semiconductor production. The introduction of the MATCH Act on April 2, 2026 (E04), with bipartisan support, aims to regulate semiconductor manufacturing equipment flowing to Chinese fabrication facilities. This move directly attacks China's ability to produce its own advanced chips, a key component of its AI ambitions.\n\nThe data underscores the strategic importance of this technological race. As of April 2026, the United States commands approximately 75% of global AI compute capacity, while China holds a distant 15% (E05). This significant disparity is precisely what the U.S. seeks to maintain, viewing AI compute capacity as a critical asset akin to strategic resources in historical mercantilist eras. The government's actions are designed to widen this gap and prevent competitors from closing it.\n\nThe underlying dynamic is a clear manifestation of modern mercantilism: governments are actively managing trade and industrial output to enhance national power. The focus is not on maximizing aggregate global welfare, but on securing a dominant position in a strategically vital sector. The actions taken by the U.S. government, from export controls and legislative proposals to executive orders and interagency initiatives, are all aimed at consolidating its technological advantage and limiting the gains of rivals. This approach is characterized by a zero-sum mentality, where perceived gains by one nation are seen as losses by another. The AI OVERWATCH Act, the MATCH Act, and the ongoing regulatory adjustments by BIS are not merely trade regulations; they are instruments of statecraft designed to shape the global balance of power in the 21st century.",
+  "cause_effect_dynamics": [
+   "D1: Increased U.S. government intervention in AI and semiconductor trade (E03, E06) -> Secured U.S. dominance in AI compute capacity and limited foreign access to advanced chips (E05, E02, E01)",
+   "D2: The introduction of the MATCH Act (E04) -> Regulation of semiconductor manufacturing equipment flowing to Chinese fabrication facilities, hindering China's domestic chip production capabilities.",
+   "D3: The \"GOLD EAGLE\" initiative (E07) -> Application of frontier AI models to vulnerability data and software threat remediation, bolstering national security defenses and leveraging AI for strategic advantage."
+  ],
+  "referenced_forecast_ids": [
+   "F01",
+   "F02",
+   "F03"
+  ]
+ },
+ "part3_appendix": {
+  "F01": {
+   "reasoning": "The forecast states that BIS will continue case-by-case reviews with an increased approval rate. Evidence E01 confirms BIS has shifted to case-by-case reviews for certain chips from a presumption of denial. The National Policy Framework for AI (E03) aims to secure U.S. dominance, implying continued regulatory oversight. However, an increase to *at least* 5% approval rate by August 2027 is a specific target not directly supported, but the trend from E01 suggests a willingness to adjust. My confidence would decrease if BIS reverted to a presumption of denial or if broader statutory bans (like F02) were enacted, making case-by-case reviews less relevant. Conversely, continued diplomatic efforts focusing on targeted controls rather than broad bans would support this forecast.",
+   "evidence": [
+    "E01",
+    "E03"
+   ]
+  },
+  "F02": {
+   "reasoning": "This forecast predicts a statutory ban similar to the AI OVERWATCH Act. Evidence E02 explicitly mentions the advancement of the AI OVERWATCH Act, which proposes a two-year statutory restriction on advanced chip sales to 'foreign entities of concern,' including China. This directly supports the possibility of such a ban. The probability is moderate (0.3) because while the Act advanced, its final enactment and specific impact on *at least 3 U.S. chip manufacturers' export capabilities* remain uncertain. My confidence would increase if the Act were signed into law with its current scope and if specific company impacts were detailed. Confidence would decrease if the Act stalled or its scope was significantly narrowed.",
+   "evidence": [
+    "E02"
+   ]
+  },
+  "F03": {
+   "reasoning": "The forecast predicts the U.S. will maintain at least 70% of global AI compute capacity by 2031. Evidence E05 states that as of April 2026, the U.S. controls approximately 75% of global AI compute capacity, while China holds 15%. The National Policy Framework for AI (E03) aims to secure U.S. dominance. This existing strong position and stated policy intent strongly support the forecast. The timeframe to 2031 provides ample room for continued U.S. leadership. My confidence would decrease if significant technological breakthroughs or policy shifts enabled other nations to rapidly close the gap, or if U.S. domestic investment in AI compute faltered.",
+   "evidence": [
+    "E05",
+    "E03"
+   ]
+  },
+  "F04": {
+   "reasoning": "The forecast predicts the 'GOLD EAGLE' initiative will identify and remediate at least 100 software vulnerabilities by August 2027. Evidence E07 confirms the launch of the 'GOLD EAGLE' initiative on July 14, 2026, as a joint public-private clearinghouse to apply AI to vulnerability data and software threat remediation, pursuant to EO 14409. Evidence E06 establishes EO 14409. This directly supports the existence and purpose of the initiative. The specific target of '100 vulnerabilities' is an ambitious goal but plausible given the initiative's scope and the application of AI. My confidence would decrease if the initiative proved ineffective or was scaled back, or if its reporting metrics did not align with this target.",
+   "evidence": [
+    "E07",
+    "E06"
+   ]
+  },
+  "F05": {
+   "reasoning": "This forecast predicts the MATCH Act will lead to a 10% year-over-year reduction in advanced semiconductor manufacturing equipment imported into China by February 2028. Evidence E04 states the MATCH Act was introduced to further regulate semiconductor manufacturing equipment flowing to Chinese fabrication facilities. This directly supports the mechanism of the forecast. However, the precise quantitative impact of a 10% reduction year-over-year is speculative without detailed analysis of the Act's provisions and China's import patterns. Evidence E05, showing U.S. dominance in AI compute, implies a broader strategy to limit China's access to advanced tech, which would include equipment. My confidence would increase if the Act's text and supporting analyses projected such a reduction.",
+   "evidence": [
+    "E04",
+    "E05"
+   ]
+  },
+  "F06": {
+   "reasoning": "The forecast posits that the Genesis Mission, expanded via federal commitments, will facilitate at least 5 AI-accelerated scientific discoveries by August 2029. Evidence E08 confirms federal commitments exceeding $5 billion to expand the Genesis Mission to accelerate AI-driven scientific discovery. This directly supports the expansion and core objective of the mission. The probability of achieving 'at least 5 scientific discoveries' is moderate, as scientific discovery is inherently unpredictable, but the substantial federal investment (E08) and the overall U.S. push for AI dominance (E03) create a conducive environment. My confidence would decrease if federal funding was significantly reduced or if the scientific community reported minimal impact from the mission.",
+   "evidence": [
+    "E08",
+    "E03"
+   ]
+  },
+  "F07": {
+   "reasoning": "This forecast predicts further U.S. export controls targeting AI-related software, impacting at least two new categories by February 2028. Evidence E01 details controls on hardware, and E02 discusses the AI OVERWATCH Act (hardware focus). However, the broader context from E03 (National Policy Framework for AI) and E06 (Executive Order 14409) indicates a comprehensive approach to AI security and dominance, which logically extends beyond hardware to software. The U.S. government's stated intention to maintain AI leadership (E03) would necessitate addressing software vulnerabilities and capabilities. My confidence would increase if specific U.S. government statements or reports outlined software export control plans. Confidence would decrease if policy focused exclusively on hardware.",
+   "evidence": [
+    "E01",
+    "E02",
+    "E03"
+   ]
+  },
+  "F08": {
+   "reasoning": "The forecast predicts a 3-percentage-point fall in China's global advanced chip production share by 2030 due to U.S. regulations and equipment controls. Evidence E04 (MATCH Act) and E05 (U.S. compute capacity dominance) suggest U.S. efforts to limit China's access to advanced manufacturing equipment and technology. These actions are designed to curb China's production capabilities. However, predicting a precise percentage drop in China's *production share* is difficult without granular data on the efficacy of these controls and China's own domestic innovation efforts. The probability is moderate (0.3) due to this uncertainty. My confidence would increase if reports quantified the impact of such controls on Chinese production capacity.",
+   "evidence": [
+    "E04",
+    "E05"
+   ]
+  },
+  "F09": {
+   "reasoning": "This forecast predicts a direct U.S. government investment or grant funding increase of at least $10 billion for domestic AI semiconductor manufacturing by August 2027. Evidence E03 (National Policy Framework for AI) and E06 (Executive Order 14409) highlight the administration's focus on securing U.S. dominance and innovation in AI, which inherently includes manufacturing capabilities. Evidence E08 shows substantial federal commitments ($5 billion) to the Genesis Mission. While E08 is for scientific discovery, it indicates a willingness for large federal outlays in AI-related areas. The forecast of $10 billion specifically for manufacturing is a plausible expansion of this commitment given the strategic importance. My confidence would increase if specific legislative proposals or budget allocations for semiconductor manufacturing were announced.",
+   "evidence": [
+    "E03",
+    "E06",
+    "E08"
+   ]
+  },
+  "F10": {
+   "reasoning": "The forecast predicts at least 5 allied nations signing onto U.S.-proposed AI security standards by August 2029. Evidence E06 (EO 14409) focuses on U.S. national security and innovation, implying a desire for international alignment. Evidence E03 (National Policy Framework for AI) aims to secure U.S. dominance, which often involves setting international standards. The U.S. government's emphasis on secure frontier models (E06) suggests a basis for such standards. Achieving alignment with 'at least 5 allied nations' by 2029 is a reasonable objective given the global implications of AI and the U.S. role. My confidence would decrease if diplomatic efforts stalled or if key allies pursued independent AI security frameworks.",
+   "evidence": [
+    "E06",
+    "E03"
+   ]
+  }
+ }
+}

@@ -1,0 +1,224 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "The U.S. Department of Commerce's Bureau of Industry and Security (BIS) will continue to implement case-by-case reviews for certain high-performance chips exported to PRC companies, with a policy shift from a 'presumption of denial' to a more permissive stance for at least 5% of previously restricted transactions by 2027-08-09.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "U.S. Bureau of Industry and Security",
+    "metric": "Percentage of high-performance chip export license applications to PRC companies approved under case-by-case review that were previously under a presumption of denial",
+    "threshold": "5%",
+    "resolution_date": "2027-08-09",
+    "baseline": {
+     "value": "N/A (policy shift implemented Jan 13, 2026; specific approval rate not published)",
+     "as_of": "2026-01-13"
+    },
+    "counting_convention": "cumulative percentage of approved licenses"
+   },
+   "horizon_years": 1.0,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E03"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "The AI OVERWATCH Act, or similar legislative measures, will lead to a formal ban on advanced chip sales to China, impacting at least 3 major U.S. chip manufacturers' ability to export to the PRC by 2028-02-08.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "U.S. House Foreign Affairs Committee",
+    "metric": "Number of major U.S. chip manufacturers with formal statutory bans on advanced chip sales to the PRC",
+    "threshold": "3",
+    "resolution_date": "2028-02-08",
+    "baseline": {
+     "value": "0 (AI OVERWATCH Act advanced Jan 21, 2026, but not enacted)",
+     "as_of": "2026-01-21"
+    },
+    "counting_convention": "count of unique manufacturers subject to a statutory ban"
+   },
+   "horizon_years": 1.5,
+   "dynamic": "D1",
+   "evidence": [
+    "E02",
+    "E05"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "The United States will maintain its dominant position in global AI compute capacity, holding at least 70% of the market share by 2031-08-09.",
+   "probability": 0.85,
+   "resolution_criteria": {
+    "source": "CES Intelligence",
+    "metric": "Percentage of global AI compute capacity controlled by the United States",
+    "threshold": "70%",
+    "resolution_date": "2031-08-09",
+    "baseline": {
+     "value": "75%",
+     "as_of": "2026-04-19"
+    },
+    "counting_convention": "market share percentage"
+   },
+   "horizon_years": 5.0,
+   "dynamic": "D1",
+   "evidence": [
+    "E05",
+    "E03"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "The 'GOLD EAGLE' initiative will lead to the successful identification and remediation of at least 100 significant software vulnerabilities impacting U.S. national security systems by 2027-08-09.",
+   "probability": 0.55,
+   "resolution_criteria": {
+    "source": "U.S. Department of Defense",
+    "metric": "Number of significant software vulnerabilities identified and remediated",
+    "threshold": "100",
+    "resolution_date": "2027-08-09",
+    "baseline": {
+     "value": "0 (initiative launched July 14, 2026)",
+     "as_of": "2026-07-14"
+    },
+    "counting_convention": "cumulative count of unique vulnerabilities"
+   },
+   "horizon_years": 1.0,
+   "dynamic": "D3",
+   "evidence": [
+    "E07",
+    "E06"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "The MATCH Act will result in a measurable decline in the import of advanced semiconductor manufacturing equipment to Chinese fabrication facilities, with a 10% reduction in value reported by 2028-02-08.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "U.S. Department of Commerce",
+    "metric": "Year-over-year percentage decrease in the value of advanced semiconductor manufacturing equipment imported into China",
+    "threshold": "10%",
+    "resolution_date": "2028-02-08",
+    "baseline": {
+     "value": "N/A (MATCH Act introduced April 2, 2026; impact data not yet available)",
+     "as_of": "2026-04-02"
+    },
+    "counting_convention": "annual percentage change"
+   },
+   "horizon_years": 1.5,
+   "dynamic": "D2",
+   "evidence": [
+    "E04",
+    "E05"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "The Genesis Mission, expanded through federal commitments, will facilitate at least 5 significant AI-driven scientific discoveries in areas like drug development or materials science by 2029-08-09.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "Office of Science and Technology Policy",
+    "metric": "Number of significant AI-driven scientific discoveries",
+    "threshold": "5",
+    "resolution_date": "2029-08-09",
+    "baseline": {
+     "value": "0 (mission expansion announced July 22, 2026)",
+     "as_of": "2026-07-22"
+    },
+    "counting_convention": "cumulative count of recognized discoveries"
+   },
+   "horizon_years": 3.0,
+   "dynamic": "D1",
+   "evidence": [
+    "E08",
+    "E03"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "The U.S. government will impose further export controls beyond those related to advanced chips, specifically targeting AI-related software and algorithms, impacting at least 2 new categories of export by 2028-02-08.",
+   "probability": 0.45,
+   "resolution_criteria": {
+    "source": "U.S. Department of Commerce",
+    "metric": "Number of new categories of AI-related software and algorithms subject to export controls",
+    "threshold": "2",
+    "resolution_date": "2028-02-08",
+    "baseline": {
+     "value": "0 (current focus on hardware and chips)",
+     "as_of": "2026-01-13"
+    },
+    "counting_convention": "count of distinct software/algorithm categories"
+   },
+   "horizon_years": 1.5,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E02"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "China's domestic AI chip production capacity will see a stagnation or marginal decline in its growth rate due to U.S. regulations and equipment controls, with its share of global advanced chip production falling by at least 3 percentage points by 2030-08-09.",
+   "probability": 0.4,
+   "resolution_criteria": {
+    "source": "Gartner",
+    "metric": "Percentage point change in China's share of global advanced chip production",
+    "threshold": "-3%",
+    "resolution_date": "2030-08-09",
+    "baseline": {
+     "value": "N/A (specific China production share data not provided in dossier)",
+     "as_of": "2026-04-19"
+    },
+    "counting_convention": "percentage point change"
+   },
+   "horizon_years": 4.0,
+   "dynamic": "D2",
+   "evidence": [
+    "E04",
+    "E05"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "The U.S. federal government will increase its direct investment or grant funding for domestic AI semiconductor manufacturing by at least $10 billion by 2027-08-09, as part of its strategy to secure national dominance.",
+   "probability": 0.5,
+   "resolution_criteria": {
+    "source": "U.S. Department of Commerce",
+    "metric": "Cumulative increase in federal investment or grant funding for domestic AI semiconductor manufacturing",
+    "threshold": "$10 billion",
+    "resolution_date": "2027-08-09",
+    "baseline": {
+     "value": "N/A (specific total federal investment for AI semiconductors not published)",
+     "as_of": "2026-03-20"
+    },
+    "counting_convention": "dollar amount"
+   },
+   "horizon_years": 1.0,
+   "dynamic": "D1",
+   "evidence": [
+    "E03",
+    "E06"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "International collaboration on AI security standards will be characterized by a U.S.-led bloc, with at least 5 allied nations signing onto U.S.-proposed frameworks for AI national security by 2029-08-09.",
+   "probability": 0.68,
+   "resolution_criteria": {
+    "source": "U.S. Department of State",
+    "metric": "Number of allied nations signing onto U.S.-proposed AI national security frameworks",
+    "threshold": "5",
+    "resolution_date": "2029-08-09",
+    "baseline": {
+     "value": "0 (frameworks still under development/negotiation)",
+     "as_of": "2026-06-02"
+    },
+    "counting_convention": "count of unique allied nations"
+   },
+   "horizon_years": 3.0,
+   "dynamic": "D1",
+   "evidence": [
+    "E06",
+    "E03"
+   ]
+  }
+ ]
+}

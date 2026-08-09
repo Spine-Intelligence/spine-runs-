@@ -1,0 +1,65 @@
+{
+ "evidence": [
+  {
+   "id": "E01",
+   "fact": "On January 13, 2026, the U.S. Department of Commerce's Bureau of Industry and Security (BIS) released a final rule revising the license review posture for NVIDIA H200- and AMD MI325X-equivalent chips and lesser-performance variants exported to PRC companies from a 'presumption of denial' to 'case-by-case review'.",
+   "as_of": "2026-01-13",
+   "source": "Mayer Brown / U.S. Bureau of Industry and Security",
+   "url": "https://www.mayerbrown.com/en/insights/publications/2026/01/administration-policies-on-advanced-ai-chips-codified-with-repercussions-across-ai-ecosystem"
+  },
+  {
+   "id": "E02",
+   "fact": "On January 21, 2026, the U.S. House Foreign Affairs Committee advanced the AI OVERWATCH Act (42\u20132), which proposes a two-year statutory restriction prohibiting the sale of advanced chips like Nvidia's Blackwell architecture to foreign entities of concern including China, Iran, North Korea, Russia, and Venezuela.",
+   "as_of": "2026-01-21",
+   "source": "ML Strategies / House Foreign Affairs Committee",
+   "url": "https://www.mlstrategies.com/2026/02/04/2026-ai-policy-and-semiconductor-outlook-how-federal-preemption-state-ai-laws-and-chip-export-controls-will-shape-us-policy/"
+  },
+  {
+   "id": "E03",
+   "fact": "On March 20, 2026, the White House released the National Policy Framework for Artificial Intelligence, outlining legislative recommendations and a federal strategy intended to secure U.S. dominance and check state-level regulatory fragmentation.",
+   "as_of": "2026-03-20",
+   "source": "Maynard Nexsen / White House",
+   "url": "https://www.maynardnexsen.com/publication-white-house-unveils-executive-order-promoting-artificial-intelligence-innovation-and-security"
+  },
+  {
+   "id": "E04",
+   "fact": "On April 2, 2026, the MATCH Act was introduced in the U.S. Congress with bipartisan cosponsors to further regulate semiconductor manufacturing equipment flowing to Chinese fabrication facilities.",
+   "as_of": "2026-04-02",
+   "source": "CES Intelligence",
+   "url": "https://www.cesintelligence.com/post/ai-sovereignty-2026-export-controls-eu-ai-rules-corporate-risk"
+  },
+  {
+   "id": "E05",
+   "fact": "Data published in April 2026 indicates that the United States controls approximately 75% of global AI compute capacity, while China holds 15%.",
+   "as_of": "2026-04-19",
+   "source": "CES Intelligence",
+   "url": "https://www.cesintelligence.com/post/ai-sovereignty-2026-export-controls-eu-ai-rules-corporate-risk"
+  },
+  {
+   "id": "E06",
+   "fact": "On June 2, 2026, President Trump signed Executive Order 14409, titled 'Promoting Advanced Artificial Intelligence Innovation and Security,' establishing new cybersecurity and national security directives focused on public-private defenses and secure frontier model benchmarks.",
+   "as_of": "2026-06-02",
+   "source": "The White House / McDermott Will & Schulte",
+   "url": "https://www.mcdermott.com/insights/intellectual-property/new-executive-order-shifts-us-ai-policy-toward-national-security/"
+  },
+  {
+   "id": "E07",
+   "fact": "On July 14, 2026, the Trump administration launched the 'GOLD EAGLE' initiative\u2014a joint public-private clearinghouse implemented by the Treasury, Homeland Security, and Defense departments pursuant to EO 14409\u2014to apply frontier AI models to vulnerability data and software threat remediation.",
+   "as_of": "2026-07-14",
+   "source": "Mintz / White House",
+   "url": "https://www.mintz.com/insights-center/viewpoints/2231/2026-august-ai-washington-report"
+  },
+  {
+   "id": "E08",
+   "fact": "On July 22, 2026, the White House Office of Science and Technology Policy (OSTP) announced more than $5 billion in federal commitments expanding the Genesis Mission to accelerate AI-driven scientific discovery.",
+   "as_of": "2026-07-22",
+   "source": "Mintz / Office of Science and Technology Policy",
+   "url": "https://www.mintz.com/insights-center/viewpoints/2231/2026-august-ai-washington-report"
+  }
+ ],
+ "unknowns": [
+  "Precise text and final parameters of unreleased, internal draft trade and export control regulations reportedly circulated by the administration in early March 2026 regarding tiered GB300 GPU restrictions.",
+  "Exact bilateral or plurilateral diplomatic agreements reached between the U.S. and key allied semiconductor-producing nations (such as the Netherlands and Japan) regarding matching manufacturing tool controls in 2026.",
+  "Comprehensive metrics on enforcement success rates and revenue diversion details concerning the indictment of former Super Micro executives in March 2026 for allegedly funneling $2.5 billion in AI servers to China."
+ ]
+}
