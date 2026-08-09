@@ -1,0 +1,93 @@
+{
+ "evidence": [
+  {
+   "id": "E01",
+   "fact": "On June 12, 2026, the US Commerce Department issued an Is-Informed Letter export control directive to Anthropic, requiring a license before exporting or transferring frontier models such as Mythos and Fable to foreign persons worldwide.",
+   "as_of": "2026-06-12",
+   "source": "Mayer Brown / US Commerce Department",
+   "url": "https://www.mayerbrown.com/en/insights/publications/2026/06/commerce-department-extends-export-controls-to-advanced-ai-models"
+  },
+  {
+   "id": "E02",
+   "fact": "On June 26, 2026, U.S. Commerce Secretary Howard Lutnick issued a follow-up directive exempting certain trusted partners and foreign national employees from the license requirements applicable to the Mythos 5 model.",
+   "as_of": "2026-06-26",
+   "source": "Mayer Brown Insights",
+   "url": "https://www.mayerbrown.com/en/insights/publications/2026/06/commerce-department-extends-export-controls-to-advanced-ai-models"
+  },
+  {
+   "id": "E03",
+   "fact": "Draft U.S. export control regulations for AI chips reported in March 2026 indicated that shipments exceeding 200,000 GB300 GPUs would require host country government involvement and matching investments in American AI.",
+   "as_of": "2026-03-05",
+   "source": "Global Trade & Sanctions Law Analysis",
+   "url": "https://www.globaltradelawblog.com/2026/03/13/reported-draft-rules-signal-new-semiconductor-export-controls-framework/"
+  },
+  {
+   "id": "E04",
+   "fact": "The U.S. Commerce Department's Bureau of Industry and Security (BIS) issued a final rule in January 2026 shifting H200 chip export licensing policy to a case-by-case review policy requiring extensive certifications.",
+   "as_of": "2026-01-15",
+   "source": "Global Trade & Sanctions Law",
+   "url": "https://www.globaltradelawblog.com/2026/03/13/reported-draft-rules-signal-new-semiconductor-export-controls-framework/"
+  },
+  {
+   "id": "E05",
+   "fact": "European technology spending is projected to exceed \u20ac1.5 trillion in 2026, growing 6.3% year-on-year, with nineteen operational EuroHPC AI Factories driving sovereign localization.",
+   "as_of": "2026-04-19",
+   "source": "CES Intelligence / Gartner Projections",
+   "url": "https://ces-intelligence.com/ai-sovereignty-2026-export-controls-eu-ai-act-corporate-risk"
+  },
+  {
+   "id": "E06",
+   "fact": "U.S. private AI investment runs approximately 24 times higher than European levels ($109 billion annually in the U.S. versus $4 to $8 billion in Europe).",
+   "as_of": "2026-04-19",
+   "source": "CES Intelligence Market Analysis",
+   "url": "https://ces-intelligence.com/ai-sovereignty-2026-export-controls-eu-ai-act-corporate-risk"
+  },
+  {
+   "id": "E07",
+   "fact": "On August 6, 2026, the White House issued a proclamation on adjusting imports of polysilicon and its derivatives under Section 232, finding that foreign imports threaten to impair U.S. national security.",
+   "as_of": "2026-08-06",
+   "source": "The White House Press Releases",
+   "url": "https://www.whitehouse.gov/briefings-statements/2026/08/proclamation-polysilicon-derivatives/"
+  },
+  {
+   "id": "E08",
+   "fact": "By April 2026, IC designers not approved under the BIS framework lost their authorized status following an interim final rule deadline affecting semiconductor supply chains.",
+   "as_of": "2026-04-13",
+   "source": "CES Intelligence Regulatory Brief",
+   "url": "https://ces-intelligence.com/ai-sovereignty-2026-export-controls-eu-ai-act-corporate-risk"
+  },
+  {
+   "id": "E09",
+   "fact": "In a presidential Proclamation on January 14, 2026, the U.S. administration instituted frameworks adjusting imports of semiconductors, semiconductor manufacturing equipment, and derivative products.",
+   "as_of": "2026-01-14",
+   "source": "The White House / Small Business & Entrepreneurship Council",
+   "url": "https://www.sbecouncil.org/2026/05/21/coalition-letter-on-section-232-semiconductors/"
+  },
+  {
+   "id": "E10",
+   "fact": "Meta chose regulatory decoupling from the European Union market by withholding advanced multimodal Llama models due to regulatory compliance costs.",
+   "as_of": "2026-04-19",
+   "source": "CES Intelligence Corporate Risk Report",
+   "url": "https://ces-intelligence.com/ai-sovereignty-2026-export-controls-eu-ai-act-corporate-risk"
+  },
+  {
+   "id": "E11",
+   "fact": "NVIDIA tripled its European AI infrastructure investments in late 2025 and early 2026 to position operations inside the emerging European Sovereign AI envelope.",
+   "as_of": "2026-04-19",
+   "source": "CES Intelligence Strategic Insights",
+   "url": "https://ces-intelligence.com/ai-sovereignty-2026-export-controls-eu-ai-act-corporate-risk"
+  },
+  {
+   "id": "E12",
+   "fact": "On May 21, 2026, a multi-sector industry coalition petitioned the U.S. Commerce Department and USTR warning that prospective Section 232 tariffs on semiconductors risk undermining domestic innovation ecosystems.",
+   "as_of": "2026-05-21",
+   "source": "Small Business & Entrepreneurship Council Coalition Letter",
+   "url": "https://www.sbecouncil.org/2026/05/21/coalition-letter-on-section-232-semiconductors/"
+  }
+ ],
+ "unknowns": [
+  "Exact final wording and text of the comprehensive AI chip export control rules drafted in early 2026 following interagency review.",
+  "The full scope of country-specific exemptions or confidential bilateral trade concessions negotiated under the January 2026 semiconductor Proclamation framework.",
+  "Precise compliance tracking data on how many foreign cloud providers have successfully completed the BIS Affiliates Rule audit requirements ahead of the November 2026 suspension deadline."
+ ]
+}

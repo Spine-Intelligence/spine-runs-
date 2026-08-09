@@ -1,0 +1,224 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "There is a 20% chance that the U.S. Commerce Department will officially enact mandatory host country matching investments for shipments exceeding 200,000 GB300 GPUs by the end of 2027.",
+   "probability": 0.2,
+   "resolution_criteria": {
+    "source": "U.S. Bureau of Industry and Security",
+    "metric": "Final rule publications regarding GPU shipment thresholds",
+    "threshold": "enactment of matching investment mandate for 200,000+ GB300 shipments",
+    "resolution_date": "2027-12-31",
+    "baseline": {
+     "value": "Draft regulations reported",
+     "as_of": "2026-03-05"
+    },
+    "counting_convention": "unit: rule; status: in-force only; window: cumulative; excludes: draft notices"
+   },
+   "horizon_years": 1.4,
+   "dynamic": "D1",
+   "evidence": [
+    "E03",
+    "E04"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "There is a 30% chance that the European Commission will disburse more than \u20ac1.5 trillion in total technology spending by the close of 2027.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "Eurostat",
+    "metric": "Annual European technology spending",
+    "threshold": "greater than 1.5 trillion euros",
+    "resolution_date": "2027-12-31",
+    "baseline": {
+     "value": "1.5 trillion euros projected",
+     "as_of": "2026-04-19"
+    },
+    "counting_convention": "unit: euro; status: in-force only; window: annual; excludes: non-European spending"
+   },
+   "horizon_years": 1.4,
+   "dynamic": "D2",
+   "evidence": [
+    "E05",
+    "E06"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "There is a 25% chance that Meta will commercially re-release advanced multimodal Llama models in the European Union market prior to February 2028.",
+   "probability": 0.25,
+   "resolution_criteria": {
+    "source": "Meta Platforms Newsroom",
+    "metric": "European availability status of advanced multimodal Llama models",
+    "threshold": "commercial availability restored",
+    "resolution_date": "2028-02-01",
+    "baseline": {
+     "value": "Withheld from EU market",
+     "as_of": "2026-04-19"
+    },
+    "counting_convention": "unit: model series; status: in-force only; window: cumulative; excludes: legacy versions"
+   },
+   "horizon_years": 1.5,
+   "dynamic": "D3",
+   "evidence": [
+    "E05",
+    "E10"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "There is a 75% chance that the U.S. Department of Commerce will maintain export license requirements for Anthropic frontier models through June 2028.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "U.S. Federal Register",
+    "metric": "Active Is-Informed Letter restrictions on Anthropic models",
+    "threshold": "license requirement active",
+    "resolution_date": "2028-06-12",
+    "baseline": {
+     "value": "Mandated license requirement active",
+     "as_of": "2026-06-12"
+    },
+    "counting_convention": "unit: directive; status: in-force only; window: cumulative; excludes: exemptions granted for specific versions"
+   },
+   "horizon_years": 1.8,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E02"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "There is a 65% chance that the U.S. government will keep the Section 232 polysilicon and derivatives import proclamation in active enforcement through August 2028.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "The White House Press Office",
+    "metric": "Active Section 232 import adjustment orders for polysilicon",
+    "threshold": "proclamation remains in effect",
+    "resolution_date": "2028-08-06",
+    "baseline": {
+     "value": "Proclamation issued",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: proclamation; status: in-force only; window: cumulative; excludes: suspended orders"
+   },
+   "horizon_years": 2.0,
+   "dynamic": "D1",
+   "evidence": [
+    "E07",
+    "E12"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "There is a 60% chance that the number of operational EuroHPC AI Factories will exceed nineteen units by December 2028.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "EuroHPC Joint Undertaking",
+    "metric": "Operational EuroHPC AI Factories count",
+    "threshold": "greater than 19",
+    "resolution_date": "2028-12-31",
+    "baseline": {
+     "value": "19 operational facilities",
+     "as_of": "2026-04-19"
+    },
+    "counting_convention": "unit: facility; status: in-force only; window: cumulative; excludes: planned or unbuilt facilities"
+   },
+   "horizon_years": 2.4,
+   "dynamic": "D2",
+   "evidence": [
+    "E05",
+    "E11"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "There is a 40% chance that NVIDIA will reduce its total European AI infrastructure investment volume below baseline levels by the end of 2029.",
+   "probability": 0.4,
+   "resolution_criteria": {
+    "source": "NVIDIA Financial Reports",
+    "metric": "European AI infrastructure investment volume relative to late 2025 baseline",
+    "threshold": "reduction below tripled investment level",
+    "resolution_date": "2029-12-31",
+    "baseline": {
+     "value": "Tripled investment volume",
+     "as_of": "2026-04-19"
+    },
+    "counting_convention": "unit: dollar; status: in-force only; window: annual; excludes: North American investments"
+   },
+   "horizon_years": 3.4,
+   "dynamic": "D2",
+   "evidence": [
+    "E06",
+    "E11"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "There is a 70% chance that the U.S. Bureau of Industry and Security will retain case-by-case export licensing policies for H200 chips through January 2030.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "U.S. Bureau of Industry and Security",
+    "metric": "Export licensing policy status for H200 chips",
+    "threshold": "case-by-case review policy active",
+    "resolution_date": "2030-01-15",
+    "baseline": {
+     "value": "Case-by-case review policy",
+     "as_of": "2026-01-15"
+    },
+    "counting_convention": "unit: policy framework; status: in-force only; window: cumulative; excludes: generalized exemptions"
+   },
+   "horizon_years": 3.4,
+   "dynamic": "D1",
+   "evidence": [
+    "E04",
+    "E08"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "There is a 35% chance that the U.S. administration will formally repeal the January 2026 Section 232 semiconductor manufacturing equipment proclamation before January 2031.",
+   "probability": 0.35,
+   "resolution_criteria": {
+    "source": "The White House Press Office",
+    "metric": "Active status of January 2026 semiconductor equipment proclamation",
+    "threshold": "formal repeal enacted",
+    "resolution_date": "2031-01-14",
+    "baseline": {
+     "value": "Instituted framework",
+     "as_of": "2026-01-14"
+    },
+    "counting_convention": "unit: presidential proclamation; status: in-force only; window: cumulative; excludes: amended sub-clauses"
+   },
+   "horizon_years": 4.4,
+   "dynamic": "D1",
+   "evidence": [
+    "E09",
+    "E12"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "There is a 30% chance that European private AI investment will surpass twenty billion dollars annually by August 2031.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "CES Intelligence Market Analysis",
+    "metric": "Annual European private AI investment volume",
+    "threshold": "greater than 20 billion dollars",
+    "resolution_date": "2031-08-09",
+    "baseline": {
+     "value": "4 to 8 billion dollars annually",
+     "as_of": "2026-04-19"
+    },
+    "counting_convention": "unit: dollar; status: in-force only; window: annual; excludes: public sector funding"
+   },
+   "horizon_years": 5.0,
+   "dynamic": "D2",
+   "evidence": [
+    "E05",
+    "E06"
+   ]
+  }
+ ]
+}

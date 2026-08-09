@@ -1,0 +1,72 @@
+[
+ {
+  "id": "F01",
+  "family": "BW_CHALLENGE",
+  "grain": "CLAIM",
+  "p": 0.22,
+  "sha256": "60e0515d5ad242d08933129543f6d2b6fe973d8aa44f6761993e042bc6f8028e"
+ },
+ {
+  "id": "F02",
+  "family": "BW_CHALLENGE",
+  "grain": "CLAIM",
+  "p": 0.78,
+  "sha256": "21518e7d3b6b09b080b0edcc775b8d537ec949a41307be26d823f6ada9ef904e"
+ },
+ {
+  "id": "F03",
+  "family": "BW_CHALLENGE",
+  "grain": "CLAIM",
+  "p": 0.25,
+  "sha256": "bfbdbf21c90ecee0353bc64ff132fdc7787a144974600a7330552af613f0bb5e"
+ },
+ {
+  "id": "F04",
+  "family": "BW_CHALLENGE",
+  "grain": "CLAIM",
+  "p": 0.8,
+  "sha256": "90830951e2edbca5bf9806a3009662fe14f9c491b8a0f1369874b14c283411a5"
+ },
+ {
+  "id": "F05",
+  "family": "BW_CHALLENGE",
+  "grain": "CLAIM",
+  "p": 0.7,
+  "sha256": "ba4895c789f68d8dfd6801fd1aa18383e9c39292b47f45da28038bb3f693c7ca"
+ },
+ {
+  "id": "F06",
+  "family": "BW_CHALLENGE",
+  "grain": "CLAIM",
+  "p": 0.65,
+  "sha256": "5ce7199e0e9b137f1988c7da5b7fc9a3712d2de3b249e5771af48a7622e7a54a"
+ },
+ {
+  "id": "F07",
+  "family": "BW_CHALLENGE",
+  "grain": "CLAIM",
+  "p": 0.38,
+  "sha256": "2cabbe1374facdc13736700936bda7955410865f3ee24c754a7dd74521d4770b"
+ },
+ {
+  "id": "F08",
+  "family": "BW_CHALLENGE",
+  "grain": "CLAIM",
+  "p": 0.75,
+  "sha256": "230bc44b4040d7b998c891db74216fecb4eb1dd5be6b901b077408631a487e74"
+ },
+ {
+  "id": "F09",
+  "family": "BW_CHALLENGE",
+  "grain": "CLAIM",
+  "p": 0.32,
+  "sha256": "037cacfc8e3fa3a50aec5f5e51b3e26b75db00185355c4f05db089001e37774a"
+ },
+ {
+  "id": "F10",
+  "family": "BW_CHALLENGE",
+  "grain": "CLAIM",
+  "p": 0.28,
+  "sha256": "cc7596b13bb6ce98a3c1c67d96208cc2e8a4195bcbe727234ad1e3e749b7e1b8"
+ }
+]

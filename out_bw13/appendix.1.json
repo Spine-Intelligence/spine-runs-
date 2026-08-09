@@ -1,0 +1,71 @@
+{
+ "F01": {
+  "reasoning": "Evidence E03 highlights draft rules from March 2026 proposing host country matching investments for shipments exceeding 200,000 GB300 GPUs, but draft status does not guarantee formal enactment by late 2027 under dynamic D1. Political pushback and industry coalition warnings (E12) against restrictive semiconductor policies suggest moderate friction, keeping the probability at 22%. Formal adoption of binding matching investment mandates or aggressive interagency harmonization would increase this probability, whereas outright withdrawal of the draft provisions would drive it down.",
+  "evidence": [
+   "E03: Draft U.S. export control regulations for AI chips reported in March 2026 indicated that shipments exceeding 200,000 GB300 GPUs would require host country government involvement and matching investments in American AI.",
+   "E12: On May 21, 2026, a multi-sector industry coalition petitioned the U.S. Commerce Department and USTR warning that prospective Section 232 tariffs on semiconductors risk undermining domestic innovation ecosystems."
+  ]
+ },
+ "F02": {
+  "reasoning": "Evidence E05 notes that European technology spending is already projected to exceed \u20ac1.5 trillion in 2026 alone, driven by steady 6.3% year-on-year growth and nineteen operational EuroHPC AI Factories. Given this baseline trajectory under dynamic D2, cumulative technology spending across the entire multi-year period up to the close of 2027 easily supports a 78% probability. An unexpected economic contraction or severe fiscal retrenchment across member states would alter this outlook, while accelerated digital sovereignty programs would reinforce the forecast.",
+  "evidence": [
+   "E05: European technology spending is projected to exceed \u20ac1.5 trillion in 2026, growing 6.3% year-on-year, with nineteen operational EuroHPC AI Factories driving sovereign localization."
+  ]
+ },
+ "F03": {
+  "reasoning": "Evidence E10 confirms that Meta has intentionally chosen regulatory decoupling from the European Union by withholding advanced multimodal Llama models to avoid excessive compliance costs under regional laws (E05). This structural divergence under dynamic D3 makes a commercial re-release prior to February 2028 unlikely, set at a 25% probability. A sudden and comprehensive overhaul of European artificial intelligence regulations or unexpected concessions by Meta regarding compliance liabilities would be necessary to alter this assessment.",
+  "evidence": [
+   "E05: European technology spending is projected to exceed \u20ac1.5 trillion in 2026, growing 6.3% year-on-year, with nineteen operational EuroHPC AI Factories driving sovereign localization.",
+   "E10: Meta chose regulatory decoupling from the European Union market by withholding advanced multimodal Llama models due to regulatory compliance costs."
+  ]
+ },
+ "F04": {
+  "reasoning": "Evidence E01 and E02 establish that the U.S. Commerce Department aggressively extended export controls to advanced AI frontier models such as Mythos and Fable, establishing a firm precedent under dynamic D1. Although targeted exemptions exist for trusted partners, the fundamental licensing requirement remains firmly in place, supporting an 80% probability that these rules continue through June 2028. A drastic shift in national security priorities or a broad judicial injunction against executive export authorities would be required to change this view.",
+  "evidence": [
+   "E01: On June 12, 2026, the US Commerce Department issued an Is-Informed Letter export control directive to Anthropic, requiring a license before exporting or transferring frontier models such as Mythos and Fable to foreign persons worldwide.",
+   "E02: On June 26, 2026, U.S. Commerce Secretary Howard Lutnick issued a follow-up directive exempting certain trusted partners and foreign national employees from the license requirements applicable to the Mythos 5 model."
+  ]
+ },
+ "F05": {
+  "reasoning": "Evidence E07 demonstrates that the White House issued a Section 232 proclamation finding foreign polysilicon and derivative imports to be a direct threat to U.S. national security. Under dynamic D1, national security trade restrictions of this nature typically remain protected and active for extended periods, justifying a 70% probability through August 2028. This probability would decrease if bilateral trade negotiations successfully resolve supply chain dependencies, or increase if additional secondary restrictions are appended.",
+  "evidence": [
+   "E07: On August 6, 2026, the White House issued a proclamation on adjusting imports of polysilicon and its derivatives under Section 232, finding that foreign imports threaten to impair U.S. national security.",
+   "E12: On May 21, 2026, a multi-sector industry coalition petitioned the U.S. Commerce Department and USTR warning that prospective Section 232 tariffs on semiconductors risk undermining domestic innovation ecosystems."
+  ]
+ },
+ "F06": {
+  "reasoning": "Evidence E05 notes that nineteen EuroHPC AI Factories are already operational as of early 2026, serving as the cornerstone of European sovereign localization initiatives. Under dynamic D2, scaling past nineteen operational units by December 2028 is highly probable at 65% as funding continues to disburse. Budgetary shortfalls across participating member states could stall deployment and threaten this milestone, whereas increased grant allocations would push the likelihood even higher.",
+  "evidence": [
+   "E05: European technology spending is projected to exceed \u20ac1.5 trillion in 2026, growing 6.3% year-on-year, with nineteen operational EuroHPC AI Factories driving sovereign localization.",
+   "E11: NVIDIA tripled its European AI infrastructure investments in late 2025 and early 2026 to position operations inside the emerging European Sovereign AI envelope."
+  ]
+ },
+ "F07": {
+  "reasoning": "Evidence E11 shows that NVIDIA tripled its European AI infrastructure investments in late 2025 and early 2026 to firmly establish itself within the European Sovereign AI framework, complemented by broader technology spending (E06). This strong strategic entrenchment under dynamic D2 makes a reduction below baseline levels by 2029 relatively unlikely, yielding a 38% probability. A severe regulatory backlash or trade schism forcing major semiconductor firms to withdraw from the European market would reverse this dynamic.",
+  "evidence": [
+   "E06: U.S. private AI investment runs approximately 24 times higher than European levels ($109 billion annually in the U.S. versus $4 to $8 billion in Europe).",
+   "E11: NVIDIA tripled its European AI infrastructure investments in late 2025 and early 2026 to position operations inside the emerging European Sovereign AI envelope."
+  ]
+ },
+ "F08": {
+  "reasoning": "Evidence E04 establishes that the Bureau of Industry and Security instituted a stringent final rule moving H200 chip exports to a case-by-case review framework requiring extensive vetting, which was further solidified by supply chain deadlines (E08). Governed by dynamic D1, these rigorous controls are expected to persist, supporting a 75% probability of retention through January 2030. The forecast would change if diplomatic breakthroughs lead to a generalized relaxation of high-end processor controls or multilateral trade harmonization.",
+  "evidence": [
+   "E04: The U.S. Commerce Department's Bureau of Industry and Security (BIS) issued a final rule in January 2026 shifting H200 chip export licensing policy to a case-by-case review policy requiring extensive certifications.",
+   "E08: By April 2026, IC designers not approved under the BIS framework lost their authorized status following an interim final rule deadline affecting semiconductor supply chains."
+  ]
+ },
+ "F09": {
+  "reasoning": "Evidence E09 shows the administration instituted the Section 232 semiconductor manufacturing equipment proclamation in January 2026, though it faces fierce industry coalition pushback (E12). Because Section 232 measures are treated as core national security instruments under dynamic D1, formal repeal before January 2031 remains a minority outcome at 32%. A dramatic shift in executive branch leadership or a decisive WTO ruling against U.S. trade measures would be necessary to drive an earlier repeal.",
+  "evidence": [
+   "E09: In a presidential Proclamation on January 14, 2026, the U.S. administration instituted frameworks adjusting imports of semiconductors, semiconductor manufacturing equipment, and derivative products.",
+   "E12: On May 21, 2026, a multi-sector industry coalition petitioned the U.S. Commerce Department and USTR warning that prospective Section 232 tariffs on semiconductors risk undermining domestic innovation ecosystems."
+  ]
+ },
+ "F10": {
+  "reasoning": "Evidence E06 highlights a massive disparity where European private AI investment lags significantly behind the United States ($4 to $8 billion annually versus $109 billion), compounded by regulatory friction (E10). Achieving a surge past twenty billion dollars annually by August 2031 under dynamic D2 represents a substantial departure from current baseline trends, resulting in a cautious 28% probability. This projection would rise significantly if the European Union enacts massive structural subsidies or regulatory waivers to unlock venture capital.",
+  "evidence": [
+   "E06: U.S. private AI investment runs approximately 24 times higher than European levels ($109 billion annually in the U.S. versus $4 to $8 billion in Europe).",
+   "E10: Meta chose regulatory decoupling from the European Union market by withholding advanced multimodal Llama models due to regulatory compliance costs."
+  ]
+ }
+}
