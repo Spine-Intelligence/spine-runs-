@@ -1,0 +1,320 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "There is a 75% chance that JPMorgan Chase & Co. (JPM) will report Q3 2026 revenue exceeding $58.5 billion.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly revenue (XBRL tag RevenuesNetOfInterestExpense)",
+    "threshold": "58.5 billion",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "57.347B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: fiscal quarter ending 2026-09-30; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E03"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "There is a 65% chance that Bank of America Corporation (BAC) will report Q3 2026 revenue below $35.0 billion.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly revenue (XBRL tag InterestAndDividendIncomeOperating)",
+    "threshold": "35.0 billion",
+    "resolution_date": "2026-10-30",
+    "baseline": {
+     "value": "33.832B",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: fiscal quarter ending 2026-09-30; excludes: N/A"
+   },
+   "horizon_years": 0.23,
+   "dynamic": "D2",
+   "evidence": [
+    "E04",
+    "E06"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "There is a 28% chance that Morgan Stanley (MS) will report Q3 2026 year-over-year quarterly revenue growth of less than 20%.",
+   "probability": 0.28,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth",
+    "threshold": "20.0%",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "+27.1%",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: percent; status: in-force only; window: fiscal quarter ending 2026-09-30 vs fiscal quarter ending 2025-09-30; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D3",
+   "evidence": [
+    "E29",
+    "E30"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "There is a 60% chance that Fifth Third Bancorp (FITB) will report Q3 2026 revenue exceeding $3.5 billion.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly revenue (XBRL tag InterestAndDividendIncomeOperating)",
+    "threshold": "3.5 billion",
+    "resolution_date": "2026-11-04",
+    "baseline": {
+     "value": "3.372B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: fiscal quarter ending 2026-09-30; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D4",
+   "evidence": [
+    "E19",
+    "E21"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "There is a 70% chance that Bank of New York Mellon Corp (BK) will report Q3 2026 year-over-year quarterly revenue growth of greater than -5%.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth",
+    "threshold": "-5.0%",
+    "resolution_date": "2026-10-30",
+    "baseline": {
+     "value": "-10.0%",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: percent; status: in-force only; window: fiscal quarter ending 2026-09-30 vs fiscal quarter ending 2025-09-30; excludes: N/A"
+   },
+   "horizon_years": 0.23,
+   "dynamic": "D5",
+   "evidence": [
+    "E25",
+    "E27"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "There is a 63% chance that U.S. Bancorp (USB) will report Q3 2026 revenue exceeding $7.8 billion.",
+   "probability": 0.63,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly revenue (XBRL tag Revenues)",
+    "threshold": "7.8 billion",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "7.712B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: fiscal quarter ending 2026-09-30; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D6",
+   "evidence": [
+    "E13",
+    "E15"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "There is a 25% chance that Citigroup Inc. (C) will report Q1 2027 revenue below $26.0 billion.",
+   "probability": 0.25,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly revenue (XBRL tag InterestAndDividendIncomeOperating)",
+    "threshold": "26.0 billion",
+    "resolution_date": "2027-01-29",
+    "baseline": {
+     "value": "24.77 billion",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: fiscal quarter ending 2027-03-31; excludes: N/A"
+   },
+   "horizon_years": 0.41,
+   "dynamic": "D7",
+   "evidence": [
+    "E12",
+    "E34"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "There is a 40% chance that Wells Fargo & Company (WFC) will report Q3 2026 year-over-year quarterly revenue growth between 5% and 12%.",
+   "probability": 0.4,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth",
+    "threshold": "5.0% to 12.0%",
+    "resolution_date": "2026-10-28",
+    "baseline": {
+     "value": "+9.2%",
+     "as_of": "2026-07-28"
+    },
+    "counting_convention": "unit: percent; status: in-force only; window: fiscal quarter ending 2026-09-30 vs fiscal quarter ending 2025-09-30; excludes: N/A"
+   },
+   "horizon_years": 0.23,
+   "dynamic": "D8",
+   "evidence": [
+    "E08",
+    "E09"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "There is a 60% chance that KeyCorp (KEY) will report Q4 2026 revenue below $2.0 billion.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly revenue (XBRL tag InterestAndDividendIncomeOperating)",
+    "threshold": "2.0 billion",
+    "resolution_date": "2027-01-29",
+    "baseline": {
+     "value": "2.059B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: fiscal quarter ending 2026-12-31; excludes: N/A"
+   },
+   "horizon_years": 0.39,
+   "dynamic": "D9",
+   "evidence": [
+    "E16",
+    "E18"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "There is a 65% chance that Regions Financial Corporation (RF) will report Q4 2026 year-over-year quarterly revenue growth greater than 0%.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Year-over-year quarterly revenue growth",
+    "threshold": "0.0%",
+    "resolution_date": "2027-01-29",
+    "baseline": {
+     "value": "-2.0%",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: percent; status: in-force only; window: fiscal quarter ending 2026-12-31 vs fiscal quarter ending 2025-12-31; excludes: N/A"
+   },
+   "horizon_years": 0.39,
+   "dynamic": "D10",
+   "evidence": [
+    "E22",
+    "E24"
+   ]
+  }
+ ],
+ "part2_framework": {
+  "text": "The landscape of U.S. listed financial institutions in Q2 2026 reveals a bifurcated market. While behemoths like JPMorgan Chase & Co. (JPM) and Morgan Stanley (MS) are experiencing robust revenue growth, driven by what appears to be sustained market demand and operational expansion, other large players such as Bank of America Corporation (BAC) and Citigroup Inc. (C) are grappling with revenue declines and volatility. This divergence suggests a shifting competitive environment where scale and strategic focus are paramount for top-line success.\n\nJPMorgan Chase & Co. stands out with an impressive +27.7% year-over-year quarterly revenue growth (E02), reaching $57.347B for Q2 2026 (E01). This performance, echoed by a Stock Titan report of $57.3 billion (E31), is supported by a strong sequential increase from $49.84B in Q1 2026 (E03). The bank's substantial asset base of $5.0 trillion and stockholders' equity of $375 billion (E51) provide a stable foundation for this upward trajectory. The sustained high growth points to effective execution across its various business segments, possibly capitalizing on favorable market conditions or expanding its client services.\n\nSimilarly, Morgan Stanley (MS) is demonstrating exceptional growth, with a +27.1% year-over-year revenue increase (E29) to $21.348B in Q2 2026 (E28), a figure corroborated by MarketBeat at $21.35 billion (E40). The company's revenue trail shows a clear upward trend (E30), with a significant sequential jump from $20.58B in Q1 2026. This performance suggests a strong positioning in market-sensitive areas like investment banking and wealth management, where strategic advantages are likely driving this expansion.\n\nIn stark contrast, Bank of America Corporation (BAC) exhibits a concerning -3.0% year-over-year quarterly revenue decline (E05), with Q2 2026 revenue at $33.832B (E04). While their Investor Relations reported $31.6 billion net of interest expense (E32), the overall trend indicated by their revenue trail shows a general downward movement since Q4 2024 (E06). Despite a sequential increase from Q1 2026 ($33.36B), this contraction points to challenges in core revenue-generating activities. Their strong return on tangible common equity of 17.0% (E52) suggests profitability is being managed, but the top-line pressure is undeniable.\n\nCitigroup Inc. (C) presents a complex picture. While their Q3 2025 XBRL filing showed revenue of $36.690B (E10) with a modest +0.6% year-over-year growth (E11), their Q2 2026 reported revenue by MarketBeat was a significantly lower $24.77 billion (E34). This substantial drop from previous periods, coupled with a fluctuating revenue trail (E12), indicates considerable volatility. However, a strong Q2 2026 EPS of $3.15 (E54) suggests that the company is adept at managing costs and improving operational efficiency, even if its top-line performance is inconsistent.\n\nAmong the mid-sized institutions, U.S. Bancorp (USB) is showing consistent positive momentum. With a +10.1% year-over-year revenue growth (E14) to $7.712B for Q2 2026 (E13), and a MarketBeat report of $7.69 billion (E35), USB demonstrates sustained operational strength. The sequential revenue increase from $7.29B in Q1 2026 (E15), coupled with a Q2 2026 EPS of $1.35 that beat consensus (E55), indicates effective management and profitability within a growing segment of the market.\n\nWells Fargo & Company (WFC) presents a more stable, albeit less explosive, growth story. A +9.2% year-over-year revenue increase (E08) to $23.284B for Q2 2026 (E07), with MarketBeat reporting $22.62 billion (E33), shows positive momentum. The sequential growth from $22.45B in Q1 2026 (E09) is encouraging. While their revenue is still below the Q4 2024 figure ($23.00B), the upward trend suggests a recovery and expansion, supported by a substantial asset base of approximately $2.3 trillion (E53).\n\nRegional banks present a mixed bag. Fifth Third Bancorp (FITB) stands out with a remarkable +35.7% year-over-year revenue growth (E20) to $3.372B in Q2 2026 (E19). This explosive growth, combined with strong sequential increases from $2.97B in Q1 2026 (E21), positions FITB as a significant upward performer. In contrast, KeyCorp (KEY) experienced a -2.3% year-over-year revenue decline (E17) to $2.059B for Q2 2026 (E16), with revenue trending slightly downward sequentially (E18). Regions Financial Corporation (RF) also saw a slight -2.0% year-over-year revenue decrease (E23) to $1.748B in Q2 2026 (E22), with a generally flat revenue trend (E24).\n\nBank of New York Mellon Corp (BK), a custody bank, shows a notable -10.0% year-over-year revenue decline (E26) to $5.940B for Q2 2026 (E25). This reduction, coupled with a sequential increase from $5.82B in Q1 2026 (E27), suggests that while operational continuity exists, the core revenue-generating capacity has been impacted, likely due to shifts in asset management fees or interest income dynamics. This downward trend contrasts sharply with the growth seen in some of the larger investment and commercial banking entities.\n\nThe framework for the financial sector in Q2 2026 is clear: a widening gap exists between institutions that are effectively leveraging market conditions and expanding their operations versus those struggling with revenue contraction or stagnation. The leading firms, JPM and MS, are benefiting from what appears to be a robust financial market environment that favors their core businesses. Their significant year-over-year growth signifies not just recovery, but genuine expansion. Conversely, BAC's persistent year-over-year decline, despite sequential improvements, signals underlying challenges that need to be addressed strategically. Citigroup's situation is particularly complex, showing operational efficiency in earnings but significant revenue volatility. Mid-sized and regional players like USB and FITB demonstrate strong growth potential, indicating that market share gains are achievable beyond the largest institutions. WFC's steady, positive growth represents a healthy, if less spectacular, recovery. The clear takeaway is that while the financial sector is not uniformly performing, the leaders are pulling away, driven by scale, strategic investments, and an ability to capture opportunities in a dynamic economic landscape. The divergence is a testament to varying business models and execution capabilities within the sector.\n",
+  "cause_effect_dynamics": [
+   "D1: JPM's strong year-over-year revenue growth (+27.7%) is driven by expanding business operations or favorable market conditions in its segments (E02, E03).",
+   "D2: BAC's year-over-year revenue decline (-3.0%) indicates a contraction in core revenue-generating activities compared to the previous year (E05).",
+   "D3: MS's exceptional year-over-year revenue growth (+27.1%) reflects significant expansion or favorable market conditions in its investment banking and wealth management segments (E29).",
+   "D4: FITB's strong year-over-year revenue growth (+35.7%) signifies successful market penetration and operational expansion (E20).",
+   "D5: BK's year-over-year revenue decline (-10.0%) suggests impacted core revenue-generating capacity, likely due to shifts in asset management fees or interest income (E26).",
+   "D6: USB's consistent year-over-year revenue growth (+10.1%) demonstrates expanding business operations or effective market penetration (E14)."
+  ],
+  "referenced_forecast_ids": [
+   "F01",
+   "F02",
+   "F03"
+  ]
+ },
+ "part3_appendix": {
+  "F01": {
+   "reasoning": "JPMorgan Chase & Co. (JPM) reported $57.35 billion in revenue for Q2 2026 (E01, E03). The historical trend shows consistent growth, with Q2 2026 revenue already close to the $58.5 billion threshold (E03).  Given the strong upward trajectory (E02) and current figures, exceeding $58.5 billion in Q3 2026 appears probable. A significant economic downturn or unforeseen regulatory changes would challenge this forecast.",
+   "evidence": [
+    "E01",
+    "E03"
+   ]
+  },
+  "F02": {
+   "reasoning": "Bank of America Corporation (BAC) reported $33.83 billion in revenue for Q2 2026 (E04, E06). This is already below the $35.0 billion threshold. The year-over-year growth was negative (-3.0%) (E05), and the historical trend shows some fluctuation but generally remains in this range (E06).  A substantial unexpected revenue surge would be needed to surpass $35.0 billion, making the stated probability reasonable.",
+   "evidence": [
+    "E04",
+    "E06"
+   ]
+  },
+  "F03": {
+   "reasoning": "Morgan Stanley (MS) has not provided recent revenue data in the dossier, making a precise calculation challenging. However, forecasts often consider broader industry trends and prior performance. Without specific data points, assessing a 28% chance of less than 20% year-over-year growth is difficult.  If recent filings showed substantial positive growth, this probability would decrease.",
+   "evidence": []
+  },
+  "F04": {
+   "reasoning": "Fifth Third Bancorp (FITB) reported $3.37 billion in revenue for Q2 2026, with a strong year-over-year growth of +35.7% (E19, E20, E21). This performance places them close to the $3.5 billion target.  Continued strong performance and the momentum from the recent quarter support the likelihood of exceeding this figure in Q3 2026. A significant deceleration in growth would be required to miss this target.",
+   "evidence": [
+    "E19",
+    "E21"
+   ]
+  },
+  "F05": {
+   "reasoning": "Bank of New York Mellon Corp (BK) data is absent from the dossier, preventing a direct analysis of the 70% probability for year-over-year quarterly revenue growth greater than -5%. Without specific revenue figures or growth rates, it's impossible to validate this forecast.  The presence of recent SEC filings would be necessary to assess the likelihood.",
+   "evidence": []
+  },
+  "F06": {
+   "reasoning": "U.S. Bancorp (USB) reported $7.71 billion in revenue for Q2 2026 (E13, E15), which is already below the $7.8 billion target. While year-over-year growth was positive at +10.1% (E14), the current quarter's revenue is slightly under the threshold.  Sustained sequential growth from Q2 to Q3 2026 would be necessary to meet this forecast. A minor dip in revenue would cause the probability to shift.",
+   "evidence": [
+    "E13",
+    "E15"
+   ]
+  },
+  "F07": {
+   "reasoning": "Citigroup Inc. (C) reported $36.69 billion in revenue for Q3 2025 (E10, E12). The dossier lacks Q1 2027 data, making this forecast difficult to assess. The historical data shows revenue hovering around the $33-$36 billion range (E12). A 25% chance of falling below $26.0 billion implies a significant, unexpected downturn.  More recent filings for 2026 would be crucial.",
+   "evidence": [
+    "E12"
+   ]
+  },
+  "F08": {
+   "reasoning": "Wells Fargo & Company (WFC) reported Q2 2026 revenue of $23.28 billion with a year-over-year growth of +9.2% (E07, E08, E09). This growth rate falls within the predicted range of 5% to 12%.  The consistent performance and current growth trajectory make this probability plausible.  A significant deviation from the recent growth trend would be needed to invalidate this forecast.",
+   "evidence": [
+    "E08",
+    "E09"
+   ]
+  },
+  "F09": {
+   "reasoning": "KeyCorp (KEY) reported $2.06 billion in revenue for Q2 2026 (E16, E18), which is above the $2.0 billion threshold. While year-over-year growth was negative (-2.3%) (E17), the current revenue figure is already close to the target.  A modest sequential decline from Q2 to Q4 2026 could result in revenue falling below $2.0 billion, supporting the 60% probability.  Stronger than expected Q3 and Q4 would change this.",
+   "evidence": [
+    "E16",
+    "E18"
+   ]
+  },
+  "F10": {
+   "reasoning": "Regions Financial Corporation (RF) reported $1.75 billion in revenue for Q2 2026, with a slight year-over-year decrease of -2.0% (E22, E23, E24). The forecast is for year-over-year growth greater than 0% in Q4 2026.  Given the recent negative growth, a turnaround to positive growth in the subsequent quarters would be required.  The 65% probability suggests an expectation of recovery.  Continued negative growth would challenge this.",
+   "evidence": [
+    "E22",
+    "E24"
+   ]
+  }
+ },
+ "shadow": {
+  "dossier_only_prices": {
+   "F01": 0.3,
+   "F02": 0.6,
+   "F03": 0.3,
+   "F04": 0.4,
+   "F05": 0.85,
+   "F06": 0.55,
+   "F07": 0.45,
+   "F08": 0.5,
+   "F09": 0.7,
+   "F10": 0.65
+  },
+  "purpose": "analysis-layer value measurement -- never sealed, never scored as ours"
+ }
+}

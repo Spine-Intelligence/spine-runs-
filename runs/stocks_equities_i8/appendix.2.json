@@ -1,0 +1,65 @@
+{
+ "F01": {
+  "reasoning": "JPMorgan Chase & Co. (JPM) reported $57.35 billion in revenue for Q2 2026 (E01, E03). The historical trend shows consistent growth, with Q2 2026 revenue already close to the $58.5 billion threshold (E03).  Given the strong upward trajectory (E02) and current figures, exceeding $58.5 billion in Q3 2026 appears probable. A significant economic downturn or unforeseen regulatory changes would challenge this forecast.",
+  "evidence": [
+   "E01",
+   "E03"
+  ]
+ },
+ "F02": {
+  "reasoning": "Bank of America Corporation (BAC) reported $33.83 billion in revenue for Q2 2026 (E04, E06). This is already below the $35.0 billion threshold. The year-over-year growth was negative (-3.0%) (E05), and the historical trend shows some fluctuation but generally remains in this range (E06).  A substantial unexpected revenue surge would be needed to surpass $35.0 billion, making the stated probability reasonable.",
+  "evidence": [
+   "E04",
+   "E06"
+  ]
+ },
+ "F03": {
+  "reasoning": "Morgan Stanley (MS) has not provided recent revenue data in the dossier, making a precise calculation challenging. However, forecasts often consider broader industry trends and prior performance. Without specific data points, assessing a 28% chance of less than 20% year-over-year growth is difficult.  If recent filings showed substantial positive growth, this probability would decrease.",
+  "evidence": []
+ },
+ "F04": {
+  "reasoning": "Fifth Third Bancorp (FITB) reported $3.37 billion in revenue for Q2 2026, with a strong year-over-year growth of +35.7% (E19, E20, E21). This performance places them close to the $3.5 billion target.  Continued strong performance and the momentum from the recent quarter support the likelihood of exceeding this figure in Q3 2026. A significant deceleration in growth would be required to miss this target.",
+  "evidence": [
+   "E19",
+   "E21"
+  ]
+ },
+ "F05": {
+  "reasoning": "Bank of New York Mellon Corp (BK) data is absent from the dossier, preventing a direct analysis of the 70% probability for year-over-year quarterly revenue growth greater than -5%. Without specific revenue figures or growth rates, it's impossible to validate this forecast.  The presence of recent SEC filings would be necessary to assess the likelihood.",
+  "evidence": []
+ },
+ "F06": {
+  "reasoning": "U.S. Bancorp (USB) reported $7.71 billion in revenue for Q2 2026 (E13, E15), which is already below the $7.8 billion target. While year-over-year growth was positive at +10.1% (E14), the current quarter's revenue is slightly under the threshold.  Sustained sequential growth from Q2 to Q3 2026 would be necessary to meet this forecast. A minor dip in revenue would cause the probability to shift.",
+  "evidence": [
+   "E13",
+   "E15"
+  ]
+ },
+ "F07": {
+  "reasoning": "Citigroup Inc. (C) reported $36.69 billion in revenue for Q3 2025 (E10, E12). The dossier lacks Q1 2027 data, making this forecast difficult to assess. The historical data shows revenue hovering around the $33-$36 billion range (E12). A 25% chance of falling below $26.0 billion implies a significant, unexpected downturn.  More recent filings for 2026 would be crucial.",
+  "evidence": [
+   "E12"
+  ]
+ },
+ "F08": {
+  "reasoning": "Wells Fargo & Company (WFC) reported Q2 2026 revenue of $23.28 billion with a year-over-year growth of +9.2% (E07, E08, E09). This growth rate falls within the predicted range of 5% to 12%.  The consistent performance and current growth trajectory make this probability plausible.  A significant deviation from the recent growth trend would be needed to invalidate this forecast.",
+  "evidence": [
+   "E08",
+   "E09"
+  ]
+ },
+ "F09": {
+  "reasoning": "KeyCorp (KEY) reported $2.06 billion in revenue for Q2 2026 (E16, E18), which is above the $2.0 billion threshold. While year-over-year growth was negative (-2.3%) (E17), the current revenue figure is already close to the target.  A modest sequential decline from Q2 to Q4 2026 could result in revenue falling below $2.0 billion, supporting the 60% probability.  Stronger than expected Q3 and Q4 would change this.",
+  "evidence": [
+   "E16",
+   "E18"
+  ]
+ },
+ "F10": {
+  "reasoning": "Regions Financial Corporation (RF) reported $1.75 billion in revenue for Q2 2026, with a slight year-over-year decrease of -2.0% (E22, E23, E24). The forecast is for year-over-year growth greater than 0% in Q4 2026.  Given the recent negative growth, a turnaround to positive growth in the subsequent quarters would be required.  The 65% probability suggests an expectation of recovery.  Continued negative growth would challenge this.",
+  "evidence": [
+   "E22",
+   "E24"
+  ]
+ }
+}

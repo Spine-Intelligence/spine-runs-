@@ -1,0 +1,281 @@
+{
+ "analyses": [
+  {
+   "entity": "JPMorgan Chase & Co. (JPM)",
+   "current_state": {
+    "Q2 2026 Revenue (XBRL)": "57.347B (E01)",
+    "Q2 2026 Revenue (Stock Titan)": "57.3 billion (E31)",
+    "Assets (as of 2026-06-30)": "5.0 trillion (E51)",
+    "Stockholders' Equity (as of 2026-06-30)": "375 billion (E51)"
+   },
+   "reference_class": {
+    "YoY Quarterly Revenue Growth (Q2 2025 vs Q2 2026)": "+27.7% (E02)",
+    "Quarterly Revenue Trail": "2026-06-30: $57.35B, 2026-03-31: $49.84B, 2025-09-30: $46.43B, 2025-06-30: $44.91B, 2025-03-31: $45.31B, 2024-09-30: $42.65B (E03)"
+   },
+   "mechanisms": {
+    "Upward": [
+     "Strong year-over-year revenue growth indicates expanding business operations or favorable market conditions within its segments. (E02)",
+     "Significant revenue increase from prior quarter ($49.84B in 2026-03-31 to $57.35B in 2026-06-30) suggests continued positive momentum. (E03)",
+     "Large asset and equity base provides a stable foundation and capacity for further growth. (E51)"
+    ],
+    "Downward": [
+     "Dependence on interest income and expense may expose it to shifts in interest rate environments. (Implied by XBRL tag in E01)"
+    ]
+   },
+   "scenarios": [
+    {
+     "name": "Sustained High Growth",
+     "description": "JPM continues its robust revenue growth trajectory, driven by strong performance across its banking and financial services divisions. This scenario would be supported by continued favorable economic conditions and market demand for its products and services."
+    },
+    {
+     "name": "Growth Deceleration",
+     "description": "While still growing, the rate of revenue increase moderates due to increased competition, saturation in certain markets, or a slight cooling of the economic environment. The year-over-year growth rate, though positive, might be less pronounced than the recent 27.7%."
+    }
+   ],
+   "key_uncertainty": "The specific drivers behind the exceptionally strong year-over-year revenue growth and whether these are sustainable or cyclical.",
+   "evidence": [
+    "E01",
+    "E02",
+    "E03",
+    "E31",
+    "E51"
+   ]
+  },
+  {
+   "entity": "Bank of America Corporation (BAC)",
+   "current_state": {
+    "Q2 2026 Revenue (XBRL)": "33.832B (E04)",
+    "Q2 2026 Revenue (Investor Relations)": "31.6 billion (net of interest expense) (E32)"
+   },
+   "reference_class": {
+    "YoY Quarterly Revenue Growth (Q2 2025 vs Q2 2026)": "-3.0% (E05)",
+    "Quarterly Revenue Trail": "2026-06-30: $33.83B, 2026-03-31: $33.36B, 2025-09-30: $35.37B, 2025-06-30: $34.87B, 2025-03-31: $34.07B, 2024-09-30: $37.49B (E06)"
+   },
+   "mechanisms": {
+    "Upward": [
+     "Recent sequential revenue growth from Q1 2026 ($33.36B) to Q2 2026 ($33.83B) suggests stabilization after a period of decline. (E06)",
+     "Return on tangible common equity of 17.0% indicates strong profitability relative to its tangible equity base. (E52)"
+    ],
+    "Downward": [
+     "Year-over-year revenue decline of 3.0% indicates a contraction in core revenue-generating activities compared to the previous year. (E05)",
+     "The revenue trail shows a general downward trend from Q4 2024. (E06)"
+    ]
+   },
+   "scenarios": [
+    {
+     "name": "Revenue Rebound",
+     "description": "Bank of America's revenue begins to recover, reversing the recent year-over-year decline. This scenario would involve a significant improvement in its net interest income and/or fee-based revenues, possibly driven by favorable macroeconomic shifts or strategic initiatives."
+    },
+    {
+     "name": "Stabilization and Flat Performance",
+     "description": "Revenue remains largely flat, with sequential increases offsetting year-over-year declines. The company might be in a holding pattern, with efforts focused on cost management and improving efficiency rather than top-line growth."
+    }
+   ],
+   "key_uncertainty": "The sustainability of the recent sequential revenue increase and whether it signals a true turnaround or a temporary blip before further declines.",
+   "evidence": [
+    "E04",
+    "E05",
+    "E06",
+    "E32",
+    "E52"
+   ]
+  },
+  {
+   "entity": "Wells Fargo & Company (WFC)",
+   "current_state": {
+    "Q2 2026 Revenue (XBRL)": "23.284B (E07)",
+    "Q2 2026 Revenue (MarketBeat)": "22.62 billion (E33)",
+    "Assets (as of 2026-07-14)": "Approximately 2.3 trillion (E53)"
+   },
+   "reference_class": {
+    "YoY Quarterly Revenue Growth (Q2 2025 vs Q2 2026)": "+9.2% (E08)",
+    "Quarterly Revenue Trail": "2026-06-30: $23.28B, 2026-03-31: $22.45B, 2025-09-30: $22.42B, 2025-06-30: $21.32B, 2025-03-31: $20.97B, 2024-09-30: $23.00B (E09)"
+   },
+   "mechanisms": {
+    "Upward": [
+     "Positive year-over-year revenue growth demonstrates an improvement in revenue generation compared to the prior year. (E08)",
+     "Sequential revenue growth from Q1 2026 ($22.45B) to Q2 2026 ($23.28B) shows continued upward momentum. (E09)",
+     "Substantial asset base indicates operational scale. (E53)"
+    ],
+    "Downward": [
+     "Revenue in Q2 2026 is still below the revenue reported in Q4 2024 ($23.00B). (E09)"
+    ]
+   },
+   "scenarios": [
+    {
+     "name": "Continued Moderate Growth",
+     "description": "Wells Fargo maintains its positive year-over-year revenue growth trend, benefiting from stable or improving market conditions. The company's revenue trajectory continues its upward path, building on recent quarterly gains."
+    },
+    {
+     "name": "Revenue Plateau",
+     "description": "Revenue growth stabilizes or shows only minor sequential increases, reflecting a mature market or increased operational costs that offset revenue gains. The year-over-year growth may slow down."
+    }
+   ],
+   "key_uncertainty": "Whether the recent positive growth trend can be sustained or if it represents a temporary recovery from a prior weaker period.",
+   "evidence": [
+    "E07",
+    "E08",
+    "E09",
+    "E33",
+    "E53"
+   ]
+  },
+  {
+   "entity": "Citigroup Inc. (C)",
+   "current_state": {
+    "Q3 2025 Revenue (XBRL)": "36.690B (E10)",
+    "Q2 2026 Revenue (MarketBeat)": "24.77 billion (E34)",
+    "Q2 2026 EPS": "3.15 (E54)"
+   },
+   "reference_class": {
+    "YoY Quarterly Revenue Growth (Q3 2024 vs Q3 2025)": "+0.6% (E11)",
+    "Quarterly Revenue Trail": "2025-09-30: $36.69B, 2025-06-30: $35.86B, 2025-03-31: $33.67B, 2024-09-30: $36.46B, 2024-06-30: $35.99B, 2024-03-31: $36.22B (E12)"
+   },
+   "mechanisms": {
+    "Upward": [
+     "Strong Q2 2026 EPS of $3.15 beat expectations, suggesting improved operational efficiency and profitability despite revenue figures. (E54)"
+    ],
+    "Downward": [
+     "Significant drop in reported Q2 2026 revenue ($24.77B) compared to Q3 2025 ($36.69B) and the overall trend in the revenue trail which shows revenue fluctuating and not showing strong sustained growth. (E10, E12, E34)",
+     "Very modest year-over-year growth of +0.6% for Q3 2025 indicates limited top-line expansion. (E11)"
+    ]
+   },
+   "scenarios": [
+    {
+     "name": "Profitability Focus Amidst Revenue Challenges",
+     "description": "Citigroup continues to demonstrate strong earnings per share (EPS), indicating successful cost management and operational improvements, even as its reported revenues face downward pressure or volatility. This scenario would highlight a strategic shift towards profitability over aggressive revenue expansion."
+    },
+    {
+     "name": "Revenue Recovery and Integration of Operations",
+     "description": "Citigroup's revenue begins to recover, potentially driven by the integration of new business lines or a rebound in key financial markets. The gap between the reported Q2 2026 revenue and previous periods narrows, indicating a positive shift in its top-line performance."
+    }
+   ],
+   "key_uncertainty": "The precise reasons for the sharp decline in reported Q2 2026 revenue compared to prior periods and whether this reflects a one-time event or a fundamental shift in business performance.",
+   "evidence": [
+    "E10",
+    "E11",
+    "E12",
+    "E34",
+    "E54"
+   ]
+  },
+  {
+   "entity": "U.S. Bancorp (USB)",
+   "current_state": {
+    "Q2 2026 Revenue (XBRL)": "7.712B (E13)",
+    "Q2 2026 Revenue (MarketBeat)": "7.69 billion (E35)",
+    "Q2 2026 EPS": "1.35 (E55)"
+   },
+   "reference_class": {
+    "YoY Quarterly Revenue Growth (Q2 2025 vs Q2 2026)": "+10.1% (E14)",
+    "Quarterly Revenue Trail": "2026-06-30: $7.71B, 2026-03-31: $7.29B, 2025-09-30: $7.33B, 2025-06-30: $7.00B, 2025-03-31: $6.96B, 2024-09-30: $6.86B (E15)"
+   },
+   "mechanisms": {
+    "Upward": [
+     "Consistent year-over-year revenue growth demonstrates expanding business operations or effective market penetration. (E14)",
+     "Sequential revenue growth from Q1 2026 ($7.29B) to Q2 2026 ($7.71B) indicates continued positive momentum. (E15)",
+     "Q2 2026 EPS of $1.35 beat consensus, suggesting effective management and profitability. (E55)"
+    ],
+    "Downward": [
+     "Revenue in Q2 2026 ($7.71B) is only slightly higher than Q3 2025 ($7.33B), suggesting a potential moderation in the rate of growth. (E15)"
+    ]
+   },
+   "scenarios": [
+    {
+     "name": "Sustained Growth Trajectory",
+     "description": "U.S. Bancorp continues its pattern of consistent year-over-year revenue growth, further solidifying its market position. The sequential increases in revenue are maintained, indicating ongoing operational strength and favorable market conditions."
+    },
+    {
+     "name": "Growth Deceleration with Profitability",
+     "description": "While revenue growth continues, the year-over-year percentage increase may slow down from the recent 10.1%. The company's strong EPS performance suggests that profitability is being maintained or even improved through efficient operations, even if top-line expansion moderates."
+    }
+   ],
+   "key_uncertainty": "Whether the recent strong year-over-year growth can be sustained or if it's approaching a plateau given the historical quarterly figures.",
+   "evidence": [
+    "E13",
+    "E14",
+    "E15",
+    "E35",
+    "E55"
+   ]
+  },
+  {
+   "entity": "Morgan Stanley (MS)",
+   "current_state": {
+    "Q2 2026 Revenue (XBRL)": "21.348B (E28)",
+    "Q2 2026 Revenue (MarketBeat)": "21.35 billion (E40)"
+   },
+   "reference_class": {
+    "YoY Quarterly Revenue Growth (Q2 2025 vs Q2 2026)": "+27.1% (E29)",
+    "Quarterly Revenue Trail": "2026-06-30: $21.35B, 2026-03-31: $20.58B, 2025-09-30: $18.22B, 2025-06-30: $16.79B, 2025-03-31: $17.74B, 2024-09-30: $15.38B (E30)"
+   },
+   "mechanisms": {
+    "Upward": [
+     "Exceptional year-over-year revenue growth indicates significant expansion or favorable market conditions in its investment banking and wealth management segments. (E29)",
+     "Strong sequential revenue growth from Q1 2026 ($20.58B) to Q2 2026 ($21.35B) demonstrates continued upward momentum. (E30)",
+     "The revenue trail shows a clear upward trend over the past year. (E30)"
+    ],
+    "Downward": [
+     "Reliance on market-sensitive businesses like investment banking and trading can lead to volatility. (Implied by its business model and typical SEC filings)"
+    ]
+   },
+   "scenarios": [
+    {
+     "name": "Continued Strong Performance",
+     "description": "Morgan Stanley maintains its high revenue growth rate, driven by robust performance in its key business segments. The upward trajectory of its quarterly revenues continues, fueled by favorable market conditions and strong client activity."
+    },
+    {
+     "name": "Growth Normalization",
+     "description": "While still growing, the year-over-year revenue growth rate may decelerate from the current high levels, reflecting a normalization of market conditions or increasing competition. However, the revenue trend remains positive."
+    }
+   ],
+   "key_uncertainty": "The primary drivers behind the substantial year-over-year revenue acceleration and whether these are sustainable or cyclical.",
+   "evidence": [
+    "E28",
+    "E29",
+    "E30",
+    "E40",
+    "E50"
+   ]
+  },
+  {
+   "entity": "Fifth Third Bancorp (FITB)",
+   "current_state": {
+    "Q2 2026 Revenue (XBRL)": "3.372B (E19)",
+    "Q2 2026 Revenue (MarketBeat)": "3.26 billion (E37)"
+   },
+   "reference_class": {
+    "YoY Quarterly Revenue Growth (Q2 2025 vs Q2 2026)": "+35.7% (E20)",
+    "Quarterly Revenue Trail": "2026-06-30: $3.37B, 2026-03-31: $2.97B, 2025-09-30: $2.52B, 2025-06-30: $2.48B, 2025-03-31: $2.43B, 2024-09-30: $2.67B (E21)"
+   },
+   "mechanisms": {
+    "Upward": [
+     "Extraordinary year-over-year revenue growth indicates a significant positive shift in its business operations or market position. (E20)",
+     "Strong sequential revenue growth from Q1 2026 ($2.97B) to Q2 2026 ($3.37B) shows substantial recent expansion. (E21)",
+     "The revenue trail shows a significant upward trend in the last three quarters. (E21)"
+    ],
+    "Downward": [
+     "The revenue in Q2 2026 ($3.37B) is still below the Q4 2024 figure ($2.67B). (E21)"
+    ]
+   },
+   "scenarios": [
+    {
+     "name": "Continued High Growth Momentum",
+     "description": "Fifth Third Bancorp sustains its exceptionally high revenue growth rate, driven by successful strategic initiatives or favorable market dynamics. The upward trend in quarterly revenues continues, indicating strong ongoing operational performance."
+    },
+    {
+     "name": "Growth Moderation Post-Surge",
+     "description": "The rate of revenue growth moderates from the current high levels, as some of the exceptional drivers may be cyclical or one-time. However, the company's revenues remain at a significantly elevated level compared to previous periods."
+    }
+   ],
+   "key_uncertainty": "The sustainability of the recent 35.7% year-over-year revenue growth and the specific factors contributing to this surge.",
+   "evidence": [
+    "E19",
+    "E20",
+    "E21",
+    "E37",
+    "E47"
+   ]
+  }
+ ]
+}
