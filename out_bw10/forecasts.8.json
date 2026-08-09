@@ -1,0 +1,224 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "There is a 70% chance that the U.S. Department of Commerce will disburse an additional $7.8 billion in CHIPS and Science Act R&D funding by 2027-08-09, reallocating previously cancelled awards.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "U.S. Government Accountability Office (GAO)",
+    "metric": "Total CHIPS Act R&D funding disbursed",
+    "threshold": "7.8 billion USD",
+    "resolution_date": "2027-08-09",
+    "baseline": {
+     "value": "13.1 billion USD",
+     "as_of": "2026-07-15"
+    },
+    "counting_convention": "cumulative value disbursed; status: in-force; window: to resolution_date; excludes: funding from initial cancelled awards"
+   },
+   "horizon_years": 1.0,
+   "dynamic": "D2",
+   "evidence": [
+    "E04",
+    "E03"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "There is a 75% chance that the U.S. Department of Commerce will authorize at least 10 proposals under the 'American AI Exports Program' for full-stack AI technology packages by 2027-01-14.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "U.S. Department of Commerce International Trade Administration",
+    "metric": "Number of approved AI export proposals",
+    "threshold": "10",
+    "resolution_date": "2027-01-14",
+    "baseline": {
+     "value": "0",
+     "as_of": "2026-03-16"
+    },
+    "counting_convention": "count of proposals; status: authorized; window: to resolution_date; excludes: proposals under review"
+   },
+   "horizon_years": 0.4,
+   "dynamic": "D2",
+   "evidence": [
+    "E05",
+    "E12"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "There is a 60% chance that at least 5 U.S. states will establish mandatory annual third-party auditing requirements for large-scale AI models by 2028-08-09.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "Brookings Institution Analysis",
+    "metric": "Number of U.S. states with mandatory AI model auditing",
+    "threshold": "5",
+    "resolution_date": "2028-08-09",
+    "baseline": {
+     "value": "3",
+     "as_of": "2026-07-01"
+    },
+    "counting_convention": "count of states; status: enacted legislation; window: to resolution_date; excludes: proposed legislation"
+   },
+   "horizon_years": 2.0,
+   "dynamic": "D2",
+   "evidence": [
+    "E10",
+    "E01"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "There is a 65% chance that the European Union's 'Chips Act 2.0' initiative will lead to a 20% increase in European semiconductor market share by 2030-08-09.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "European Commission",
+    "metric": "EU semiconductor market share percentage",
+    "threshold": "20% increase",
+    "resolution_date": "2030-08-09",
+    "baseline": {
+     "value": "10%",
+     "as_of": "2026-06-03"
+    },
+    "counting_convention": "percentage point increase; status: actual market share; window: to resolution_date; excludes: projected market share"
+   },
+   "horizon_years": 4.4,
+   "dynamic": "D3",
+   "evidence": [
+    "E06",
+    "E11"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "There is a 70% chance that U.S. hyperscalers will invest over $1.5 trillion cumulatively in AI infrastructure by the end of 2027.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "Institute for Progress (IFP)",
+    "metric": "Cumulative U.S. hyperscaler AI infrastructure investment",
+    "threshold": "1.5 trillion USD",
+    "resolution_date": "2027-12-31",
+    "baseline": {
+     "value": "650 billion USD",
+     "as_of": "2026-03-02"
+    },
+    "counting_convention": "cumulative value invested; status: actual investment; window: to resolution_date; excludes: capital expenditure outside AI infrastructure"
+   },
+   "horizon_years": 1.4,
+   "dynamic": "D1",
+   "evidence": [
+    "E12",
+    "E03"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "There is a 20% chance that the U.S. Commerce Department's licensing policy for Nvidia H200 chip exports to China will revert to a presumption of denial by 2027-08-09.",
+   "probability": 0.2,
+   "resolution_criteria": {
+    "source": "Global Trade & Sanctions Law Analysis",
+    "metric": "Licensing policy for Nvidia H200 chip exports to China",
+    "threshold": "Presumption of denial",
+    "resolution_date": "2027-08-09",
+    "baseline": {
+     "value": "Case-by-case review requiring extensive certifications",
+     "as_of": "2026-01-01"
+    },
+    "counting_convention": "policy status; status: officially published policy; window: to resolution_date; excludes: informal practice changes"
+   },
+   "horizon_years": 1.0,
+   "dynamic": "D1",
+   "evidence": [
+    "E09",
+    "E01"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "There is a 35% chance that OpenAI will launch an 'AI Governance Framework Initiative' with at least 50 international policy proposals by 2027-01-14.",
+   "probability": 0.35,
+   "resolution_criteria": {
+    "source": "OpenAI Global Affairs",
+    "metric": "Number of policy proposals in an AI Governance Framework Initiative",
+    "threshold": "50",
+    "resolution_date": "2027-01-14",
+    "baseline": {
+     "value": "400+",
+     "as_of": "2026-06-09"
+    },
+    "counting_convention": "count of published policy proposals; status: published; window: to resolution_date; excludes: internal working documents"
+   },
+   "horizon_years": 0.4,
+   "dynamic": "D2",
+   "evidence": [
+    "E07",
+    "E05"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "There is a 25% chance that the U.S. will impose tariffs on semiconductors beyond the current 25% on specific imports by 2028-02-08.",
+   "probability": 0.25,
+   "resolution_criteria": {
+    "source": "The White House Proclamations",
+    "metric": "Tariff rate on imported semiconductors",
+    "threshold": ">25%",
+    "resolution_date": "2028-02-08",
+    "baseline": {
+     "value": "25%",
+     "as_of": "2026-01-14"
+    },
+    "counting_convention": "highest tariff rate applied; status: active tariff; window: to resolution_date; excludes: tariffs on components other than semiconductors"
+   },
+   "horizon_years": 1.5,
+   "dynamic": "D4",
+   "evidence": [
+    "E08",
+    "E03"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "There is a 40% chance that the U.S. Commerce Department will designate at least 10 'trusted partners' as fully exempt from export license requirements for advanced AI models by 2027-08-09.",
+   "probability": 0.4,
+   "resolution_criteria": {
+    "source": "Mayer Brown Legal Insights",
+    "metric": "Number of entities designated as 'trusted partners' for AI model export exemptions",
+    "threshold": "10",
+    "resolution_date": "2027-08-09",
+    "baseline": {
+     "value": "0",
+     "as_of": "2026-06-26"
+    },
+    "counting_convention": "count of unique entities designated; status: official designation; window: to resolution_date; excludes: foreign national employees"
+   },
+   "horizon_years": 1.0,
+   "dynamic": "D2",
+   "evidence": [
+    "E02",
+    "E01"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "There is a 30% chance that the U.S. Department of Commerce will announce the second phase of the 'American AI Exports Program' by 2028-08-09.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "U.S. Department of Commerce International Trade Administration",
+    "metric": "Announcement of phase 2 for American AI Exports Program",
+    "threshold": "Phase 2 announced",
+    "resolution_date": "2028-08-09",
+    "baseline": {
+     "value": "Phase 1 announced",
+     "as_of": "2026-03-16"
+    },
+    "counting_convention": "program phase announcement; status: officially announced; window: to resolution_date; excludes: internal planning documents"
+   },
+   "horizon_years": 2.0,
+   "dynamic": "D2",
+   "evidence": [
+    "E05",
+    "E03"
+   ]
+  }
+ ]
+}

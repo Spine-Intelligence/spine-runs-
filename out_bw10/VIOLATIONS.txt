@@ -1,0 +1,5 @@
+[P1_SENTENCE] F01: statement must be exactly one sentence (<=420 chars)
+[P1_HORIZON] F02: resolves 2027-01-14 (0.4y) outside the 1-5y band
+[P1_SENTENCE] F04: statement must be exactly one sentence (<=420 chars)
+[P1_SENTENCE] F05: statement must be exactly one sentence (<=420 chars)
+[P1_HORIZON] F07: resolves 2027-01-14 (0.4y) outside the 1-5y band

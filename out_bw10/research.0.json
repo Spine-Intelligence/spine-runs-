@@ -1,0 +1,93 @@
+{
+ "evidence": [
+  {
+   "id": "E01",
+   "fact": "On June 12, 2026, the U.S. Commerce Department issued an Is-Informed Letter export control directive to Anthropic, requiring a license before any export, reexport, or transfer of its Mythos and Fable models to any foreign person worldwide.",
+   "as_of": "2026-06-30",
+   "source": "Mayer Brown Legal Insights",
+   "url": "https://www.mayerbrown.com/en/insights/publications/2026/06/commerce-department-extends-export-controls-to-advanced-ai-models"
+  },
+  {
+   "id": "E02",
+   "fact": "On June 26, 2026, U.S. Commerce Secretary Howard Lutnick issued a follow-up letter exempting certain trusted partners and their foreign national employees, alongside Anthropic's own foreign national employees, from the license requirement applicable to Mythos models.",
+   "as_of": "2026-06-30",
+   "source": "Mayer Brown Legal Insights",
+   "url": "https://www.mayerbrown.com/en/insights/publications/2026/06/commerce-department-extends-export-controls-to-advanced-ai-models"
+  },
+  {
+   "id": "E03",
+   "fact": "On July 29, 2026, the U.S. Department of Commerce announced 7 letters of intent providing $874 million in federal incentives under the CHIPS and Science Act to advance R&D for compute supply chains and AI systems.",
+   "as_of": "2026-07-29",
+   "source": "National Institute of Standards and Technology (NIST)",
+   "url": "https://www.nist.gov/news-events/news/2026/07/department-commerce-announces-letters-intent-7-companies-874-million"
+  },
+  {
+   "id": "E04",
+   "fact": "As of July 15, 2026, the U.S. Department of Commerce had funded 49 semiconductor projects across 24 companies, with $13.1 billion disbursed (approximately 42 percent of total direct funding), while canceling $7.8 billion in initial R&D awards to realign with administration priorities.",
+   "as_of": "2026-08-06",
+   "source": "U.S. Government Accountability Office (GAO)",
+   "url": "https://www.gao.gov/products/gao-26-107952"
+  },
+  {
+   "id": "E05",
+   "fact": "On March 16, 2026, the U.S. Department of Commerce opened a 90-day call for proposals from industry-led consortia to export full-stack AI technology packages (hardware, storage, models, cybersecurity) under the American AI Exports Program.",
+   "as_of": "2026-03-16",
+   "source": "U.S. Department of Commerce International Trade Administration",
+   "url": "https://www.trade.gov/press-release/department-commerce-announces-new-american-ai-exports-program-phase"
+  },
+  {
+   "id": "E06",
+   "fact": "On June 3, 2026, the European Union outlined its 'Chips Act 2.0' initiative to strengthen technological sovereignty and capture a larger share of a semiconductor market projected to reach \u20ac1.37 trillion by 2030, where AI-related components drive roughly 70% of growth.",
+   "as_of": "2026-06-03",
+   "source": "European Commission",
+   "url": "https://digital-strategy.ec.europa.eu/en/policies/chips-act"
+  },
+  {
+   "id": "E07",
+   "fact": "On June 9, 2026, OpenAI closed submissions for its 'Industrial Policy for the Intelligence Age' program after receiving more than 400 policy responses regarding governance, institutional structures, and public-private cooperation.",
+   "as_of": "2026-06-09",
+   "source": "OpenAI Global Affairs",
+   "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age/"
+  },
+  {
+   "id": "E08",
+   "fact": "On January 14, 2026, U.S. President Donald J. Trump received a Section 232 investigation report finding that imports of semiconductors and manufacturing equipment threaten national security, leading to a presidential proclamation imposing a narrow 25% tariff on specific semiconductors.",
+   "as_of": "2026-01-14",
+   "source": "The White House Proclamations",
+   "url": "https://www.whitehouse.gov/presidential-actions/2026/01/proclamation-adjusting-imports-of-semiconductors"
+  },
+  {
+   "id": "E09",
+   "fact": "In January 2026, the U.S. Commerce Department's Bureau of Industry and Security (BIS) issued a final rule changing licensing policy for Nvidia H200 chip exports to China from a presumption of denial to a case-by-case review policy requiring extensive certifications.",
+   "as_of": "2026-03-05",
+   "source": "Global Trade & Sanctions Law Analysis",
+   "url": "https://www.globaltrademag.com"
+  },
+  {
+   "id": "E10",
+   "fact": "Illinois enacted mandatory annual third-party auditing requirements for large-scale AI models, following legislative frameworks set by states like California and New York to establish state-level model licensing regimes.",
+   "as_of": "2026-07-01",
+   "source": "Brookings Institution Analysis",
+   "url": "https://www.brookings.edu/articles/congress-must-pass-a-new-federal-law-on-ai-governance/"
+  },
+  {
+   "id": "E11",
+   "fact": "According to Bridgewater Associates economic research updates released in April and May 2026, global markets are being reshaped by dual resource grabs driven by the convergence of state-orchestrated mercantilism and extreme capital demands for physical AI infrastructure.",
+   "as_of": "2026-04-27",
+   "source": "Bridgewater Associates Insights",
+   "url": "https://www.bridgewater.com/research-and-insights/two-resource-grabs-reshaping-markets-modern-mercantilism-and-ai"
+  },
+  {
+   "id": "E12",
+   "fact": "U.S. hyperscalers are projected to invest approximately $650 billion into artificial intelligence infrastructure and capital expenditure in the year 2026 alone.",
+   "as_of": "2026-03-02",
+   "source": "Institute for Progress (IFP)",
+   "url": "https://ifp.org/americas-ai-exports-program/"
+  }
+ ],
+ "unknowns": [
+  "The complete classified text and specific enforcement thresholds of the reported March 2026 draft semiconductor export regulations concerning cluster sizes over 200,000 GB300 GPUs.",
+  "The exact allocation breakdown of cancelled versus redirected funds across all components of the CHIPS and Science Act R&D programs following the 2026 administrative restructuring.",
+  "The specific operational terms and qualifying criteria agreed upon between the U.S. Commerce Department and 'trusted partners' exempted from model export control restrictions under the June 2026 licensing updates."
+ ]
+}

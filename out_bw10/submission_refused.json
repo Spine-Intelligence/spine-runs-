@@ -1,0 +1,310 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "There is a 70% chance that the U.S. Department of Commerce will disburse an additional $7.8 billion in CHIPS and Science Act R&D funding by 2027-08-09, reallocating previously cancelled awards.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "U.S. Government Accountability Office (GAO)",
+    "metric": "Total CHIPS Act R&D funding disbursed",
+    "threshold": "7.8 billion USD",
+    "resolution_date": "2027-08-09",
+    "baseline": {
+     "value": "13.1 billion USD",
+     "as_of": "2026-07-15"
+    },
+    "counting_convention": "cumulative value disbursed; status: in-force; window: to resolution_date; excludes: funding from initial cancelled awards"
+   },
+   "horizon_years": 1.0,
+   "dynamic": "D2",
+   "evidence": [
+    "E04",
+    "E03"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "There is a 75% chance that the U.S. Department of Commerce will authorize at least 10 proposals under the 'American AI Exports Program' for full-stack AI technology packages by 2027-01-14.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "U.S. Department of Commerce International Trade Administration",
+    "metric": "Number of approved AI export proposals",
+    "threshold": "10",
+    "resolution_date": "2027-01-14",
+    "baseline": {
+     "value": "0",
+     "as_of": "2026-03-16"
+    },
+    "counting_convention": "count of proposals; status: authorized; window: to resolution_date; excludes: proposals under review"
+   },
+   "horizon_years": 0.4,
+   "dynamic": "D2",
+   "evidence": [
+    "E05",
+    "E12"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "There is a 60% chance that at least 5 U.S. states will establish mandatory annual third-party auditing requirements for large-scale AI models by 2028-08-09.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "Brookings Institution Analysis",
+    "metric": "Number of U.S. states with mandatory AI model auditing",
+    "threshold": "5",
+    "resolution_date": "2028-08-09",
+    "baseline": {
+     "value": "3",
+     "as_of": "2026-07-01"
+    },
+    "counting_convention": "count of states; status: enacted legislation; window: to resolution_date; excludes: proposed legislation"
+   },
+   "horizon_years": 2.0,
+   "dynamic": "D2",
+   "evidence": [
+    "E10",
+    "E01"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "There is a 65% chance that the European Union's 'Chips Act 2.0' initiative will lead to a 20% increase in European semiconductor market share by 2030-08-09.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "European Commission",
+    "metric": "EU semiconductor market share percentage",
+    "threshold": "20% increase",
+    "resolution_date": "2030-08-09",
+    "baseline": {
+     "value": "10%",
+     "as_of": "2026-06-03"
+    },
+    "counting_convention": "percentage point increase; status: actual market share; window: to resolution_date; excludes: projected market share"
+   },
+   "horizon_years": 4.4,
+   "dynamic": "D3",
+   "evidence": [
+    "E06",
+    "E11"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "There is a 70% chance that U.S. hyperscalers will invest over $1.5 trillion cumulatively in AI infrastructure by the end of 2027.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "Institute for Progress (IFP)",
+    "metric": "Cumulative U.S. hyperscaler AI infrastructure investment",
+    "threshold": "1.5 trillion USD",
+    "resolution_date": "2027-12-31",
+    "baseline": {
+     "value": "650 billion USD",
+     "as_of": "2026-03-02"
+    },
+    "counting_convention": "cumulative value invested; status: actual investment; window: to resolution_date; excludes: capital expenditure outside AI infrastructure"
+   },
+   "horizon_years": 1.4,
+   "dynamic": "D1",
+   "evidence": [
+    "E12",
+    "E03"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "There is a 20% chance that the U.S. Commerce Department's licensing policy for Nvidia H200 chip exports to China will revert to a presumption of denial by 2027-08-09.",
+   "probability": 0.2,
+   "resolution_criteria": {
+    "source": "Global Trade & Sanctions Law Analysis",
+    "metric": "Licensing policy for Nvidia H200 chip exports to China",
+    "threshold": "Presumption of denial",
+    "resolution_date": "2027-08-09",
+    "baseline": {
+     "value": "Case-by-case review requiring extensive certifications",
+     "as_of": "2026-01-01"
+    },
+    "counting_convention": "policy status; status: officially published policy; window: to resolution_date; excludes: informal practice changes"
+   },
+   "horizon_years": 1.0,
+   "dynamic": "D1",
+   "evidence": [
+    "E09",
+    "E01"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "There is a 35% chance that OpenAI will launch an 'AI Governance Framework Initiative' with at least 50 international policy proposals by 2027-01-14.",
+   "probability": 0.35,
+   "resolution_criteria": {
+    "source": "OpenAI Global Affairs",
+    "metric": "Number of policy proposals in an AI Governance Framework Initiative",
+    "threshold": "50",
+    "resolution_date": "2027-01-14",
+    "baseline": {
+     "value": "400+",
+     "as_of": "2026-06-09"
+    },
+    "counting_convention": "count of published policy proposals; status: published; window: to resolution_date; excludes: internal working documents"
+   },
+   "horizon_years": 0.4,
+   "dynamic": "D2",
+   "evidence": [
+    "E07",
+    "E05"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "There is a 25% chance that the U.S. will impose tariffs on semiconductors beyond the current 25% on specific imports by 2028-02-08.",
+   "probability": 0.25,
+   "resolution_criteria": {
+    "source": "The White House Proclamations",
+    "metric": "Tariff rate on imported semiconductors",
+    "threshold": ">25%",
+    "resolution_date": "2028-02-08",
+    "baseline": {
+     "value": "25%",
+     "as_of": "2026-01-14"
+    },
+    "counting_convention": "highest tariff rate applied; status: active tariff; window: to resolution_date; excludes: tariffs on components other than semiconductors"
+   },
+   "horizon_years": 1.5,
+   "dynamic": "D4",
+   "evidence": [
+    "E08",
+    "E03"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "There is a 40% chance that the U.S. Commerce Department will designate at least 10 'trusted partners' as fully exempt from export license requirements for advanced AI models by 2027-08-09.",
+   "probability": 0.4,
+   "resolution_criteria": {
+    "source": "Mayer Brown Legal Insights",
+    "metric": "Number of entities designated as 'trusted partners' for AI model export exemptions",
+    "threshold": "10",
+    "resolution_date": "2027-08-09",
+    "baseline": {
+     "value": "0",
+     "as_of": "2026-06-26"
+    },
+    "counting_convention": "count of unique entities designated; status: official designation; window: to resolution_date; excludes: foreign national employees"
+   },
+   "horizon_years": 1.0,
+   "dynamic": "D2",
+   "evidence": [
+    "E02",
+    "E01"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "There is a 30% chance that the U.S. Department of Commerce will announce the second phase of the 'American AI Exports Program' by 2028-08-09.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "U.S. Department of Commerce International Trade Administration",
+    "metric": "Announcement of phase 2 for American AI Exports Program",
+    "threshold": "Phase 2 announced",
+    "resolution_date": "2028-08-09",
+    "baseline": {
+     "value": "Phase 1 announced",
+     "as_of": "2026-03-16"
+    },
+    "counting_convention": "program phase announcement; status: officially announced; window: to resolution_date; excludes: internal planning documents"
+   },
+   "horizon_years": 2.0,
+   "dynamic": "D2",
+   "evidence": [
+    "E05",
+    "E10"
+   ]
+  }
+ ],
+ "part2_framework": {
+  "text": "The contemporary global landscape is defined by a potent confluence of \"modern mercantilism\" and the accelerating advancement of Artificial Intelligence, creating a volatile and dynamic environment where governments are aggressively reshaping trade, industrial policy, and national power. This is not a passive evolution but an active, state-orchestrated \"resource grab\" driven by the immense capital demands of physical AI infrastructure and the strategic imperative to control key technological nodes (E11). The United States, in particular, is demonstrating a decisive shift towards industrial policy, leveraging federal incentives and export controls to secure its position in the AI race. This framework argues that the current trajectory indicates a deliberate and increasingly protectionist approach by the U.S. government, prioritizing domestic AI development and control over free-market principles, with significant implications for global trade and technological competition. The \"American AI Exports Program,\" launched in March 2026, exemplifies this, calling for proposals to export comprehensive AI technology packages (E05), signaling an intent to shape international AI adoption on U.S. terms. This mirrors broader trends seen in semiconductor policy, where tariffs have been imposed to protect national security interests (E08) and significant federal funding is channeled into R&D for compute supply chains and AI systems (E03). The sheer scale of projected U.S. hyperscaler investment in AI infrastructure in 2026, estimated at $650 billion, underscores the economic and strategic stakes involved (E12). This massive domestic investment, coupled with government directives, suggests a clear prioritization of national AI capability, potentially at the expense of unfettered global market access for foreign entities. The export control directives issued to Anthropic, requiring licenses for its advanced models (E01) and subsequently offering limited exemptions for trusted partners (E02), illustrate a tangible mechanism for managing the flow of critical AI technology and preventing its proliferation to perceived strategic rivals. These actions are not isolated incidents but part of a larger, evolving framework of state intervention designed to capture a dominant share of the burgeoning AI market, much like the European Union's \"Chips Act 2.0\" aims to bolster technological sovereignty in the semiconductor sector (E06). The intersection of these policies highlights a global trend towards strategic competition, where AI is the new frontier for economic and geopolitical power. The U.S. government's proactive stance, from CHIPS Act funding to export controls, points to a conscious effort to weaponize industrial policy in the AI era. The cancellation and realignment of R&D awards under the CHIPS Act (E04) further suggest a targeted and strategic allocation of resources, ensuring that federal investments align with evolving administration priorities in the AI domain. While the full extent of these priorities remains partially opaque, the consistent theme is one of strategic control and domestic advantage. The emergence of state-level AI governance frameworks, such as mandatory third-party auditing in Illinois, mirroring earlier initiatives in California and New York (E10), further reinforces the narrative of increasing regulatory intervention and control over AI development and deployment, indicating a national sentiment towards managing AI's societal and economic impact through direct oversight. The U.S. Commerce Department's shift in licensing policy for Nvidia H200 chip exports to China, moving from a presumption of denial to a case-by-case review requiring extensive certifications (E09), demonstrates a nuanced but still controlled approach to technology transfer, prioritizing national security and economic competitiveness.",
+  "cause_effect_dynamics": [
+   "D1: Increasing capital demands for physical AI infrastructure and the convergence of state-orchestrated mercantilism -> Global markets being reshaped by dual resource grabs (E11) because these factors necessitate government intervention to secure resources and technological dominance.",
+   "D2: U.S. government's strategic priorities for AI development and national security -> Issuance of export control directives and funding incentives for AI R&D (E01, E03) because these are direct tools to shape the domestic AI industry and control technology proliferation.",
+   "D3: Recognition of AI's growing economic and strategic importance by governments worldwide -> Implementation of industrial policies like the EU's 'Chips Act 2.0' and the U.S. 'American AI Exports Program' (E06, E05) because nations are actively seeking to bolster their technological sovereignty and capture market share in the AI-driven economy.",
+   "D4: Section 232 investigation report finding that semiconductor imports threaten national security -> Presidential proclamation imposing tariffs on specific semiconductors (E08) because a perceived national security threat triggers protective trade measures."
+  ],
+  "referenced_forecast_ids": [
+   "F01",
+   "F02",
+   "F03"
+  ]
+ },
+ "part3_appendix": {
+  "F01": {
+   "reasoning": "The forecast has a 70% chance of the U.S. Department of Commerce disbursing an additional $7.8 billion in CHIPS and Science Act R&D funding by 2027-08-09, reallocating previously cancelled awards. Evidence E04 states that $7.8 billion in initial R&D awards were canceled as of July 15, 2026, to realign with administration priorities. This indicates a specific amount that could potentially be reallocated. Evidence E03 shows that the Department of Commerce announced $874 million in federal incentives under the CHIPS and Science Act for R&D, demonstrating ongoing investment. The dynamic 'D2' suggests this is tied to ongoing policy implementation and potential future funding rounds. My confidence would decrease if there were clear indications of a permanent cancellation of these funds, or if the Department of Commerce shifted its priorities away from R&D funding as a whole, making reallocation unlikely. Conversely, further announcements of funding rounds or reconfirmations of R&D as a priority would increase my confidence.",
+   "evidence": [
+    "E04",
+    "E03"
+   ]
+  },
+  "F02": {
+   "reasoning": "There is a 75% chance that the U.S. Department of Commerce will authorize at least 10 proposals under the 'American AI Exports Program' for full-stack AI technology packages by 2027-01-14. Evidence E05 indicates the program opened a call for proposals in March 2026, suggesting an active initiative. The program's aim is to export full-stack AI technology packages, aligning with the forecast's focus. Evidence E12 highlights significant investment by U.S. hyperscalers in AI infrastructure, implying a demand for such packages. The dynamic 'D2' implies that this forecast is dependent on the ongoing implementation and success of the program. My confidence would decrease if the program were to be scaled back, receive insufficient proposals, or if there were no further announcements regarding its progress after the initial call for proposals. Increased communication from the Department of Commerce about the program's progress and successful applicant numbers would bolster confidence.",
+   "evidence": [
+    "E05",
+    "E12"
+   ]
+  },
+  "F03": {
+   "reasoning": "The forecast predicts a 60% chance that at least 5 U.S. states will establish mandatory annual third-party auditing requirements for large-scale AI models by 2028-08-09. Evidence E10 explicitly states that Illinois enacted such requirements, following legislative frameworks set by California and New York. This directly supports the notion that states are indeed implementing such regulations. The dynamic 'D2' suggests this is driven by ongoing legislative and regulatory developments. My confidence would decrease if there were a significant reversal of these state-level initiatives, or if federal preemption of AI regulation became a dominant trend, hindering state action. Conversely, more states adopting similar legislation or the federal government encouraging state-level action would increase my confidence.",
+   "evidence": [
+    "E10",
+    "E01"
+   ]
+  },
+  "F04": {
+   "reasoning": "This forecast assigns a 65% chance that the European Union's 'Chips Act 2.0' initiative will lead to a 20% increase in European semiconductor market share by 2030-08-09. Evidence E06 details the EU's 'Chips Act 2.0' initiative, aimed at strengthening technological sovereignty and capturing a larger market share, projecting a market of \u20ac1.37 trillion by 2030 with AI components driving growth. This directly supports the premise of the forecast. Evidence E11 notes global markets being reshaped by state-orchestrated mercantilism and AI infrastructure demands, suggesting a competitive landscape where such initiatives can have an impact. The dynamic 'D3' implies that this forecast is influenced by external market forces and strategic economic policies. My confidence would decrease if the EU's initiative faced significant funding shortfalls, implementation challenges, or if global semiconductor demand unexpectedly declined. Conversely, evidence of substantial EU investment in semiconductor manufacturing and successful market penetration would increase confidence.",
+   "evidence": [
+    "E06",
+    "E11"
+   ]
+  },
+  "F05": {
+   "reasoning": "The forecast suggests a 70% chance that U.S. hyperscalers will invest over $1.5 trillion cumulatively in AI infrastructure by the end of 2027. Evidence E12 projects U.S. hyperscalers investing approximately $650 billion in AI infrastructure and capital expenditure in 2026 alone. This single-year projection, when extrapolated and considering that 2027 is still in the future, makes the $1.5 trillion cumulative target by end of 2027 a plausible projection. Evidence E03 also shows ongoing government incentives for AI R&D, which could further stimulate private investment. The dynamic 'D1' indicates this is driven by ongoing market trends and investment patterns. My confidence would decrease if there were reports of significant hyperscaler pullbacks from AI investments, major economic downturns affecting capital expenditure, or if the projected AI growth trajectory faltered. Increased reporting on continued or accelerated hyperscaler AI spending would boost confidence.",
+   "evidence": [
+    "E12",
+    "E03"
+   ]
+  },
+  "F06": {
+   "reasoning": "This forecast has a 20% chance that the U.S. Commerce Department's licensing policy for Nvidia H200 chip exports to China will revert to a presumption of denial by 2027-08-09. Evidence E09 states that in January 2026, the policy changed from a presumption of denial to a case-by-case review requiring extensive certifications. This indicates a recent easing of restrictions. For the policy to revert to a presumption of denial, there would need to be a significant geopolitical shift or evidence that the current policy is not effectively limiting China's access to advanced chips. The dynamic 'D1' suggests this is tied to the continuation of current export control policies and geopolitical conditions. My confidence would decrease if the geopolitical relationship with China significantly improved or if the U.S. government explicitly decided to maintain the current export controls. Conversely, increased tensions or intelligence indicating China's significant advancement in AI capabilities through these chips would increase my confidence in a policy reversion.",
+   "evidence": [
+    "E09",
+    "E01"
+   ]
+  },
+  "F07": {
+   "reasoning": "The forecast predicts a 35% chance that OpenAI will launch an 'AI Governance Framework Initiative' with at least 50 international policy proposals by 2027-01-14. Evidence E07 shows that OpenAI closed submissions for its 'Industrial Policy for the Intelligence Age' program after receiving over 400 policy responses regarding governance, institutional structures, and public-private cooperation. This indicates OpenAI's active engagement in policy discussions and a substantial pool of generated ideas. The dynamic 'D2' suggests this is linked to ongoing policy development and potential future initiatives. My confidence would decrease if OpenAI shifted its focus away from policy development or if the existing policy responses were deemed insufficient for a formal initiative. Conversely, official announcements from OpenAI detailing such an initiative with a significant number of proposals would significantly increase my confidence.",
+   "evidence": [
+    "E07",
+    "E05"
+   ]
+  },
+  "F08": {
+   "reasoning": "There is a 25% chance that the U.S. will impose tariffs on semiconductors beyond the current 25% on specific imports by 2028-02-08. Evidence E08 states that a Section 232 investigation report led to a presidential proclamation imposing a 25% tariff on specific semiconductors in January 2026. This establishes a precedent for tariffs on semiconductors. The forecast suggests an expansion beyond this existing tariff. The dynamic 'D4' implies this is subject to broader trade policy shifts and national security assessments. My confidence would decrease if the U.S. government signaled a move away from protectionist trade policies for semiconductors or if the national security justification for further tariffs diminished. Conversely, further investigations into semiconductor imports or escalating trade disputes could increase my confidence.",
+   "evidence": [
+    "E08",
+    "E03"
+   ]
+  },
+  "F09": {
+   "reasoning": "This forecast assesses a 40% chance that the U.S. Commerce Department will designate at least 10 'trusted partners' as fully exempt from export license requirements for advanced AI models by 2027-08-09. Evidence E02 describes the exemption of certain trusted partners and their employees from license requirements for Mythos models, following a directive on June 26, 2026. This directly supports the concept of 'trusted partners' being exempted. The forecast's probability reflects the potential for this program to expand beyond the initial scope. The dynamic 'D2' suggests this is dependent on the continued refinement and application of export control policies. My confidence would decrease if the criteria for 'trusted partners' became overly stringent, if the existing exemptions were rolled back, or if the Commerce Department decided against further expanding such exemptions. Conversely, broader announcements detailing additional trusted partners and expanded exemption categories would increase my confidence.",
+   "evidence": [
+    "E02",
+    "E01"
+   ]
+  },
+  "F10": {
+   "reasoning": "The forecast predicts a 30% chance that the U.S. Department of Commerce will announce the second phase of the 'American AI Exports Program' by 2028-08-09. Evidence E05 describes the opening of the first phase of this program in March 2026. The existence of a first phase makes the announcement of a second phase a plausible development, assuming the program is successful and continues to be a priority. Evidence E10, mentioning state-level AI governance, suggests a broader trend of AI regulation and support initiatives. The dynamic 'D2' implies that the continuation of this program is tied to its perceived success and ongoing government support. My confidence would decrease if the 'American AI Exports Program' were to be discontinued or receive insufficient funding, thus precluding a second phase. Conversely, positive reports on the first phase's outcomes or announcements regarding program expansion would increase my confidence.",
+   "evidence": [
+    "E05",
+    "E10"
+   ]
+  }
+ }
+}
