@@ -1,0 +1,237 @@
+{
+ "F01": {
+  "reasoning": "The forecast for JPMorgan Chase & Co. revenue exceeding $59.0 billion for the fiscal quarter ending September 30, 2026, is assigned a probability of 0.85. This is supported by its historical revenue trend, with a reported $57.35B for Q2 2026 (2026-30), and a consistent upward trajectory. The forecast aligns with the $59.0B target, making it highly probable. A significant economic downturn or a major regulatory penalty could alter this outlook.",
+  "evidence": [
+   "E03: SEC EDGAR XBRL (JPM): filed quarterly revenue trail -- 2026-06-30: $57.35B, 2026-03-31: $49.84B, 2025-09-30: $",
+   "E01: SEC EDGAR XBRL (JPM, JPMORGAN CHASE & CO): quarterly revenue $57.347B for fiscal quarter ending 2026-06-30, fi",
+   "E31: JPMorgan Chase & Co. reported total net revenue of $57.347 billion for the fiscal quarter ending June 30, 2026"
+  ]
+ },
+ "F02": {
+  "reasoning": "Bank of America Corporation's year-over-year quarterly revenue growth of at least -1.0% for the fiscal quarter ending September 30, 2026, is rated at 0.75 probability. The historical data shows a -3.0% YoY growth in Q2 2026 (3.0%), and a slight decline in Q1 2026 (33.36) compared to Q1 2025 (34.87). The forecast is plausible given the recent trend, and a significant positive economic shift or new revenue streams could increase this probability.",
+  "evidence": [
+   "E05: SEC EDGAR XBRL (BAC): year-over-year quarterly revenue growth -3.0% ($34.873B quarter ending 2025-06-30 -> $33",
+   "E06: SEC EDGAR XBRL (BAC): filed quarterly revenue trail -- 2026-06-30: $33.83B, 2026-03-31: $33.36B, 2025-09-30: $"
+  ]
+ },
+ "F03": {
+  "reasoning": "Wells Fargo & Company's forecast of quarterly revenue of at least $23.5 billion for the fiscal quarter ending September 30, 2026, has a 0.7 probability. Their latest reported revenue was $23.28B for Q2 2026 (23.284), indicating they are close to the target. Historical growth, such as the +9.2% YoY in Q2 2026 (9.2%), supports this. A significant economic slowdown or unexpected large one-time expenses could reduce this probability.",
+  "evidence": [
+   "E07: SEC EDGAR XBRL (WFC, WELLS        FARGO & COMPANY/MN): quarterly revenue $23.284B for fiscal quarter ending 20",
+   "E08: SEC EDGAR XBRL (WFC): year-over-year quarterly revenue growth +9.2% ($21.320B quarter ending 2025-06-30 -> $23",
+   "E09: SEC EDGAR XBRL (WFC): filed quarterly revenue trail -- 2026-06-30: $23.28B, 2026-03-31: $22.45B, 2025-09-30: $"
+  ]
+ },
+ "F04": {
+  "reasoning": "The forecast for US Bancorp to report quarterly revenue of at least $7.8 billion for the fiscal quarter ending September 30, 2026, is given a 0.7 probability. Their most recent reported revenue was $7.71B for Q2 2026 (7.712), very close to the target. The consistent year-over-year growth, including +10.1% in Q2 2026 (10.1%), supports this projection. A substantial dip in customer lending or a significant increase in non-interest expenses could lower this probability.",
+  "evidence": [
+   "E13: SEC EDGAR XBRL (USB, US BANCORP \\DE\\): quarterly revenue $7.712B for fiscal quarter ending 2026-06-30, filed 2",
+   "E14: SEC EDGAR XBRL (USB): year-over-year quarterly revenue growth +10.1% ($7.004B quarter ending 2025-06-30 -> $7.",
+   "E15: SEC EDGAR XBRL (USB): filed quarterly revenue trail -- 2026-06-30: $7.71B, 2026-03-31: $7.29B, 2025-09-30: $7."
+  ]
+ },
+ "F05": {
+  "reasoning": "Fifth Third Bancorp's year-over-year quarterly revenue growth of at least 20.0% for the fiscal quarter ending September 30, 2026, is assigned a low probability of 0.25. While they reported a strong +35.7% YoY growth in Q2 2026 (35.7%), achieving over 20% growth consistently requires sustained robust economic conditions and lending activity. A significant economic contraction or increased competition could make this difficult to achieve.",
+  "evidence": [
+   "E19: SEC EDGAR XBRL (FITB, Fifth Third Bancorp): quarterly revenue $3.372B for fiscal quarter ending 2026-06-30, fi",
+   "E20: SEC EDGAR XBRL (FITB): year-over-year quarterly revenue growth +35.7% ($2.484B quarter ending 2025-06-30 -> $3",
+   "E21: SEC EDGAR XBRL (FITB): filed quarterly revenue trail -- 2026-06-30: $3.37B, 2026-03-31: $2.97B, 2025-09-30: $2"
+  ]
+ },
+ "F06": {
+  "reasoning": "The Bank of New York Mellon Corporation's year-over-year quarterly revenue growth of at least -5.0% for the fiscal quarter ending September 30, 2026, has a high probability of 0.85. Historical data shows a -0.8% YoY growth in Q2 2026 (10.0%) and a -3.5% YoY growth in Q1 2026 (5.82). These figures are comfortably above the -5.0% threshold, indicating resilience. A severe market downturn impacting asset management fees could lower this probability.",
+  "evidence": [
+   "E25: SEC EDGAR XBRL (BK, Bank of New York Mellon Corp): quarterly revenue $5.940B for fiscal quarter ending 2026-06",
+   "E26: SEC EDGAR XBRL (BK): year-over-year quarterly revenue growth -10.0% ($6.602B quarter ending 2025-06-30 -> $5.9",
+   "E27: SEC EDGAR XBRL (BK): filed quarterly revenue trail -- 2026-06-30: $5.94B, 2026-03-31: $5.82B, 2025-09-30: $6.5"
+  ]
+ },
+ "F07": {
+  "reasoning": "Morgan Stanley's forecast of quarterly revenue exceeding $22.0 billion for the fiscal quarter ending September 30, 2026, is rated at 0.75 probability. Their most recent reported revenue was $21.15B for Q2 2026 (21.348), just below the target. However, their YoY growth in Q2 2026 was +15.7% (27.1%), suggesting upward momentum. A significant drop in investment banking or trading revenues could decrease this probability.",
+  "evidence": [
+   "E28: SEC EDGAR XBRL (MS, MORGAN STANLEY): quarterly revenue $21.348B for fiscal quarter ending 2026-06-30, filed 20",
+   "E30: SEC EDGAR XBRL (MS): filed quarterly revenue trail -- 2026-06-30: $21.35B, 2026-03-31: $20.58B, 2025-09-30: $1",
+   "E49: Morgan Stanley reported total net revenue of $21.348 billion for the fiscal quarter ending June 30, 2026."
+  ]
+ },
+ "F08": {
+  "reasoning": "KeyCorp's year-over-year quarterly revenue growth of at least -1.0% for the fiscal quarter ending September 30, 2026, is given a 0.75 probability. Recent performance shows a -2.3% YoY growth in Q2 2026 (2.3%) and a -3.0% YoY in Q1 2026 (2.00). These figures are within the forecast range, indicating a stable, albeit slightly negative, revenue trend. A substantial increase in credit losses could lower this probability.",
+  "evidence": [
+   "E16: SEC EDGAR XBRL (KEY, KeyCorp): quarterly revenue $2.059B for fiscal quarter ending 2026-06-30, filed 2026-08-0",
+   "E17: SEC EDGAR XBRL (KEY): year-over-year quarterly revenue growth -2.3% ($2.107B quarter ending 2025-06-30 -> $2.0",
+   "E18: SEC EDGAR XBRL (KEY): filed quarterly revenue trail -- 2026-06-30: $2.06B, 2026-03-31: $2.00B, 2025-09-30: $2."
+  ]
+ },
+ "F09": {
+  "reasoning": "Regions Financial Corporation's year-over-year quarterly revenue growth of at least -1.0% for the fiscal quarter ending September 30, 2026, is assigned a 0.7 probability. Their latest reported revenue shows a -2.0% YoY growth in Q2 2026 (2.0%). This performance aligns with the forecast, suggesting stability in their revenue streams. A significant decline in net interest margin or a sharp increase in loan loss provisions could reduce this probability.",
+  "evidence": [
+   "E22: SEC EDGAR XBRL (RF, Regions Financial Corporation): quarterly revenue $1.748B for fiscal quarter ending 2026-0",
+   "E23: SEC EDGAR XBRL (RF): year-over-year quarterly revenue growth -2.0% ($1.784B quarter ending 2025-06-30 -> $1.74",
+   "E24: SEC EDGAR XBRL (RF): filed quarterly revenue trail -- 2026-06-30: $1.75B, 2026-03-31: $1.70B, 2025-09-30: $1.8"
+  ]
+ },
+ "F10": {
+  "reasoning": "JPMorgan Chase & Co.'s year-over-year quarterly revenue growth of at least 15.0% for the fiscal quarter ending December 31, 2026, has a 0.6 probability. The company has demonstrated strong growth, with a +27.7% YoY in Q2 2026 (27.7%) and a consistent historical trend showing high growth rates ({{E03}}). This forecast appears achievable. However, a significant slowdown in the economy or increased competition could temper this growth.",
+  "evidence": [
+   "E02: SEC EDGAR XBRL (JPM): year-over-year quarterly revenue growth +27.7% ($44.912B quarter ending 2025-06-30 -> $5",
+   "E03: SEC EDGAR XBRL (JPM): filed quarterly revenue trail -- 2026-06-30: $57.35B, 2026-03-31: $49.84B, 2025-09-30: $",
+   "E32: JPMorgan Chase & Co.'s total net revenue for the quarter ended June 30, 2026, represented a year-over-year inc"
+  ]
+ },
+ "F11": {
+  "reasoning": "Bank of America Corporation's year-over-year quarterly revenue growth of at least 0.0% for the fiscal quarter ending December 31, 2026, is rated at 0.65 probability. Their recent YoY performance has been negative (-3.0% in Q2 2026, 3.0%), and Q1 2026 showed a slight decrease compared to prior years ({{E06}}). Achieving 0% growth would represent a stabilization or slight improvement from recent trends. A continued economic slowdown would lower this probability.",
+  "evidence": [
+   "E04: SEC EDGAR XBRL (BAC, BofA Finance LLC): quarterly revenue $33.832B for fiscal quarter ending 2026-06-30, filed",
+   "E06: SEC EDGAR XBRL (BAC): filed quarterly revenue trail -- 2026-06-30: $33.83B, 2026-03-31: $33.36B, 2025-09-30: $",
+   "E33: Bank of America Corporation reported total net revenue of $33.832 billion for the fiscal quarter ending June 3"
+  ]
+ },
+ "F12": {
+  "reasoning": "Wells Fargo & Company's year-over-year quarterly revenue growth of at least 5.0% for the fiscal quarter ending December 31, 2026, is assigned a 0.65 probability. Their recent YoY growth was positive at +9.2% in Q2 2026 (9.2%), and Q2 2025 also showed positive growth (21.32). This indicates a positive trajectory. A significant rise in interest rates impacting lending or a decrease in fee-based income could lower this probability.",
+  "evidence": [
+   "E07: SEC EDGAR XBRL (WFC, WELLS        FARGO & COMPANY/MN): quarterly revenue $23.284B for fiscal quarter ending 20",
+   "E09: SEC EDGAR XBRL (WFC): filed quarterly revenue trail -- 2026-06-30: $23.28B, 2026-03-31: $22.45B, 2025-09-30: $",
+   "E36: Wells Fargo & Company's total net revenue for the quarter ended June 30, 2026, increased by 9.2% compared to t"
+  ]
+ },
+ "F13": {
+  "reasoning": "US Bancorp's year-over-year quarterly revenue growth of at least 7.0% for the fiscal quarter ending December 31, 2026, is given a 0.6 probability. The company has shown strong growth, with +10.1% YoY in Q2 2026 (10.1%), and a consistently growing revenue trail ({{E15}}). This forecast is supported by their historical performance. A major economic downturn affecting consumer spending and business investment could reduce this probability.",
+  "evidence": [
+   "E13: SEC EDGAR XBRL (USB, US BANCORP \\DE\\): quarterly revenue $7.712B for fiscal quarter ending 2026-06-30, filed 2",
+   "E15: SEC EDGAR XBRL (USB): filed quarterly revenue trail -- 2026-06-30: $7.71B, 2026-03-31: $7.29B, 2025-09-30: $7.",
+   "E40: US Bancorp's total net revenue for the quarter ended June 30, 2026, increased by 10.1% year-over-year."
+  ]
+ },
+ "F14": {
+  "reasoning": "Fifth Third Bancorp's year-over-year quarterly revenue growth of at least 15.0% for the fiscal quarter ending December 31, 2026, has a 0.3 probability. While they achieved a very strong +35.7% YoY in Q2 2026 (35.7%), maintaining such high growth rates consistently is challenging. A normalization of economic conditions or increased competition could lead to slower growth. The forecast is optimistic given the historical volatility.",
+  "evidence": [
+   "E19: SEC EDGAR XBRL (FITB, Fifth Third Bancorp): quarterly revenue $3.372B for fiscal quarter ending 2026-06-30, fi",
+   "E21: SEC EDGAR XBRL (FITB): filed quarterly revenue trail -- 2026-06-30: $3.37B, 2026-03-31: $2.97B, 2025-09-30: $2",
+   "E44: Fifth Third Bancorp's total net revenue for the quarter ended June 30, 2026, saw a year-over-year increase of "
+  ]
+ },
+ "F15": {
+  "reasoning": "The Bank of New York Mellon Corporation's forecast of quarterly revenue of at least $6.0 billion for the fiscal quarter ending December 31, 2026, is rated at 0.75 probability. Their latest reported revenue was $5.56B for Q2 2026 (5.940). While they have shown YoY revenue declines ({{E26}}), they have maintained revenues above $5.5 billion recently ({{E27}}). Achieving $6.0 billion would require a reversal of recent trends. A substantial increase in market volatility or a decline in assets under management could lower this probability.",
+  "evidence": [
+   "E25: SEC EDGAR XBRL (BK, Bank of New York Mellon Corp): quarterly revenue $5.940B for fiscal quarter ending 2026-06",
+   "E27: SEC EDGAR XBRL (BK): filed quarterly revenue trail -- 2026-06-30: $5.94B, 2026-03-31: $5.82B, 2025-09-30: $6.5",
+   "E47: The Bank of New York Mellon Corporation reported total net revenue of $5.909 billion for the fiscal quarter en"
+  ]
+ },
+ "F16": {
+  "reasoning": "Morgan Stanley's year-over-year quarterly revenue growth of at least 15.0% for the fiscal quarter ending December 31, 2026, has a 0.7 probability. Their Q2 2026 YoY growth was +15.7% (27.1%), and Q2 2025 also showed strong growth (17.74). This indicates they are on track to meet or exceed this target. A significant contraction in capital markets or a regulatory crackdown on trading activities could lower this probability.",
+  "evidence": [
+   "E28: SEC EDGAR XBRL (MS, MORGAN STANLEY): quarterly revenue $21.348B for fiscal quarter ending 2026-06-30, filed 20",
+   "E30: SEC EDGAR XBRL (MS): filed quarterly revenue trail -- 2026-06-30: $21.35B, 2026-03-31: $20.58B, 2025-09-30: $1",
+   "E50: Morgan Stanley's total net revenue for the quarter ended June 30, 2026, increased by 27.1% compared to the sam"
+  ]
+ },
+ "F17": {
+  "reasoning": "KeyCorp's year-over-year quarterly revenue growth of at least -0.5% for the fiscal quarter ending December 31, 2026, is given a 0.7 probability. Recent performance shows a -2.3% YoY growth in Q2 2026 (2.3%), and a -3.0% YoY in Q1 2026 (2.00). These figures are slightly below the -0.5% target but indicate a generally stable revenue trend. A significant increase in loan delinquencies or a sharp drop in net interest income could lower this probability.",
+  "evidence": [
+   "E16: SEC EDGAR XBRL (KEY, KeyCorp): quarterly revenue $2.059B for fiscal quarter ending 2026-06-30, filed 2026-08-0",
+   "E18: SEC EDGAR XBRL (KEY): filed quarterly revenue trail -- 2026-06-30: $2.06B, 2026-03-31: $2.00B, 2025-09-30: $2."
+  ]
+ },
+ "F18": {
+  "reasoning": "Regions Financial Corporation's year-over-year quarterly revenue growth of at least 0.0% for the fiscal quarter ending December 31, 2026, is assigned a 0.6 probability. Their recent performance indicates a slight decline, with -2.0% YoY in Q2 2026 (2.0%). Achieving 0.0% growth would imply a stabilization of their revenue compared to the recent trend. A significant rise in deposit costs or a contraction in loan demand could lower this probability.",
+  "evidence": [
+   "E22: SEC EDGAR XBRL (RF, Regions Financial Corporation): quarterly revenue $1.748B for fiscal quarter ending 2026-0",
+   "E24: SEC EDGAR XBRL (RF): filed quarterly revenue trail -- 2026-06-30: $1.75B, 2026-03-31: $1.70B, 2025-09-30: $1.8"
+  ]
+ },
+ "F19": {
+  "reasoning": "Citigroup Inc.'s year-over-year quarterly revenue growth of at least 1.0% for the fiscal quarter ending December 31, 2026, is rated at 0.6 probability. Historical data shows a +0.6% YoY growth in Q3 2025 (0.6%) and a slight decrease in Q2 2025 (36.69). The company is showing modest growth. A sustained increase in global economic activity or successful implementation of strategic initiatives could increase this probability.",
+  "evidence": [
+   "E10: SEC EDGAR XBRL (C, Citigroup Inc): quarterly revenue $36.690B for fiscal quarter ending 2025-09-30, filed 2025",
+   "E11: SEC EDGAR XBRL (C): year-over-year quarterly revenue growth +0.6% ($36.456B quarter ending 2024-09-30 -> $36.6",
+   "E12: SEC EDGAR XBRL (C): filed quarterly revenue trail -- 2025-09-30: $36.69B, 2025-06-30: $35.86B, 2025-03-31: $33"
+  ]
+ },
+ "F20": {
+  "reasoning": "JPMorgan Chase & Co.'s forecast of quarterly revenue exceeding $60.0 billion for the fiscal quarter ending March 31, 2027, has a high probability of 0.8. Their historical trend shows increasing revenues, with Q2 2026 at $57.35B (57.35) and a strong YoY growth of +27.7% (27.7%). This target is within reach given their performance. A severe economic recession or unexpected large fines could lower this probability.",
+  "evidence": [
+   "E01: SEC EDGAR XBRL (JPM, JPMORGAN CHASE & CO): quarterly revenue $57.347B for fiscal quarter ending 2026-06-30, fi",
+   "E03: SEC EDGAR XBRL (JPM): filed quarterly revenue trail -- 2026-06-30: $57.35B, 2026-03-31: $49.84B, 2025-09-30: $",
+   "E31: JPMorgan Chase & Co. reported total net revenue of $57.347 billion for the fiscal quarter ending June 30, 2026"
+  ]
+ },
+ "F21": {
+  "reasoning": "Bank of America Corporation's year-over-year quarterly revenue growth of at least 1.0% for the fiscal quarter ending March 31, 2027, is given a 0.6 probability. Recent YoY performance has been negative ({{E05}}, {{E06}}), and achieving 1.0% growth would represent a significant turnaround from the recent trend. A robust economic recovery and improved lending conditions would be necessary. A continued economic downturn would make this target unlikely.",
+  "evidence": [
+   "E04: SEC EDGAR XBRL (BAC, BofA Finance LLC): quarterly revenue $33.832B for fiscal quarter ending 2026-06-30, filed",
+   "E06: SEC EDGAR XBRL (BAC): filed quarterly revenue trail -- 2026-06-30: $33.83B, 2026-03-31: $33.36B, 2025-09-30: $",
+   "E34: Bank of America Corporation's total net revenue for the quarter ended June 30, 2026, decreased by 3.0% compare"
+  ]
+ },
+ "F22": {
+  "reasoning": "Wells Fargo & Company's year-over-year quarterly revenue growth of at least 6.0% for the fiscal quarter ending March 31, 2027, has a 0.6 probability. Their recent YoY growth was positive at +9.2% in Q2 2026 (9.2%), indicating a strong upward trend. This forecast is plausible based on their recent performance. A tightening monetary policy or increased regulatory scrutiny could moderate this growth.",
+  "evidence": [
+   "E07: SEC EDGAR XBRL (WFC, WELLS        FARGO & COMPANY/MN): quarterly revenue $23.284B for fiscal quarter ending 20",
+   "E09: SEC EDGAR XBRL (WFC): filed quarterly revenue trail -- 2026-06-30: $23.28B, 2026-03-31: $22.45B, 2025-09-30: $",
+   "E35: Wells Fargo & Company reported total net revenue of $23.010 billion for the fiscal quarter ending June 30, 202"
+  ]
+ },
+ "F23": {
+  "reasoning": "US Bancorp's year-over-year quarterly revenue growth of at least 8.0% for the fiscal quarter ending March 31, 2027, is rated at 0.55 probability. Their strong historical growth, including +10.1% YoY in Q2 2026 (10.1%), supports this forecast. The company has demonstrated consistent revenue increases. A significant slowdown in the economy or increased competition in the banking sector could reduce this probability.",
+  "evidence": [
+   "E13: SEC EDGAR XBRL (USB, US BANCORP \\DE\\): quarterly revenue $7.712B for fiscal quarter ending 2026-06-30, filed 2",
+   "E15: SEC EDGAR XBRL (USB): filed quarterly revenue trail -- 2026-06-30: $7.71B, 2026-03-31: $7.29B, 2025-09-30: $7.",
+   "E39: US Bancorp reported total net revenue of $7.712 billion for the fiscal quarter ending June 30, 2026."
+  ]
+ },
+ "F24": {
+  "reasoning": "Fifth Third Bancorp's year-over-year quarterly revenue growth of at least 10.0% for the fiscal quarter ending March 31, 2027, has a 0.3 probability. While they achieved a high +35.7% YoY in Q2 2026 (35.7%), sustaining double-digit growth consistently over several quarters is challenging. Economic normalization and increased competition could moderate their growth. This forecast is ambitious.",
+  "evidence": [
+   "E19: SEC EDGAR XBRL (FITB, Fifth Third Bancorp): quarterly revenue $3.372B for fiscal quarter ending 2026-06-30, fi",
+   "E21: SEC EDGAR XBRL (FITB): filed quarterly revenue trail -- 2026-06-30: $3.37B, 2026-03-31: $2.97B, 2025-09-30: $2",
+   "E43: Fifth Third Bancorp reported total net revenue of $3.372 billion for the fiscal quarter ending June 30, 2026."
+  ]
+ },
+ "F25": {
+  "reasoning": "The Bank of New York Mellon Corporation's year-over-year quarterly revenue growth of at least -2.0% for the fiscal quarter ending March 31, 2027, is assigned a 0.7 probability. Their recent YoY performance has shown declines (10.0% at -0.8%), and historical data indicates some variability ({{E27}}). This forecast suggests a slight improvement or stabilization from recent declines. A significant decrease in assets under management or a prolonged low-interest-rate environment could lower this probability.",
+  "evidence": [
+   "E25: SEC EDGAR XBRL (BK, Bank of New York Mellon Corp): quarterly revenue $5.940B for fiscal quarter ending 2026-06",
+   "E26: SEC EDGAR XBRL (BK): year-over-year quarterly revenue growth -10.0% ($6.602B quarter ending 2025-06-30 -> $5.9",
+   "E48: The Bank of New York Mellon Corporation's total net revenue for the quarter ended June 30, 2026, decreased by "
+  ]
+ },
+ "F26": {
+  "reasoning": "Morgan Stanley's year-over-year quarterly revenue growth of at least 10.0% for the fiscal quarter ending March 31, 2027, is rated at 0.65 probability. Their recent YoY growth has been strong, with +15.7% in Q2 2026 (27.1%). This forecast is well within their recent performance capabilities. A significant downturn in capital markets activity or a shift in market sentiment towards less volatile investments could moderate this growth.",
+  "evidence": [
+   "E28: SEC EDGAR XBRL (MS, MORGAN STANLEY): quarterly revenue $21.348B for fiscal quarter ending 2026-06-30, filed 20",
+   "E30: SEC EDGAR XBRL (MS): filed quarterly revenue trail -- 2026-06-30: $21.35B, 2026-03-31: $20.58B, 2025-09-30: $1",
+   "E50: Morgan Stanley's total net revenue for the quarter ended June 30, 2026, increased by 27.1% compared to the sam"
+  ]
+ },
+ "F27": {
+  "reasoning": "KeyCorp's year-over-year quarterly revenue growth of at least 1.0% for the fiscal quarter ending March 31, 2027, is given a 0.55 probability. Recent performance has shown slight year-over-year declines (2.3% at -2.3%). Achieving 1.0% growth would signify a significant turnaround. A strong economic expansion and increased lending activity would be crucial for this to materialize. A stagnant or contracting economy would lower this probability.",
+  "evidence": [
+   "E16: SEC EDGAR XBRL (KEY, KeyCorp): quarterly revenue $2.059B for fiscal quarter ending 2026-06-30, filed 2026-08-0",
+   "E18: SEC EDGAR XBRL (KEY): filed quarterly revenue trail -- 2026-06-30: $2.06B, 2026-03-31: $2.00B, 2025-09-30: $2."
+  ]
+ },
+ "F28": {
+  "reasoning": "Regions Financial Corporation's year-over-year quarterly revenue growth of at least 1.0% for the fiscal quarter ending March 31, 2027, is assigned a 0.5 probability. Their recent performance indicates slight declines (2.0% at -2.0%), suggesting that achieving 1.0% growth would require a notable improvement in their revenue streams. A rebound in net interest margins and increased loan origination would be necessary. A persistent low-interest-rate environment could hinder this growth.",
+  "evidence": [
+   "E22: SEC EDGAR XBRL (RF, Regions Financial Corporation): quarterly revenue $1.748B for fiscal quarter ending 2026-0",
+   "E24: SEC EDGAR XBRL (RF): filed quarterly revenue trail -- 2026-06-30: $1.75B, 2026-03-31: $1.70B, 2025-09-30: $1.8"
+  ]
+ },
+ "F29": {
+  "reasoning": "JPMorgan Chase & Co.'s forecast of quarterly revenue exceeding $62.0 billion for the fiscal quarter ending June 30, 2027, has a probability of 0.75. Their historical revenues show consistent growth, reaching $57.35B in Q2 2026 (57.35) with a strong YoY increase (27.7%). This target is ambitious but achievable with continued positive momentum. A significant economic shock or increased competition could temper this growth. Any major litigation or regulatory action would also impact this.",
+  "evidence": [
+   "E01: SEC EDGAR XBRL (JPM, JPMORGAN CHASE & CO): quarterly revenue $57.347B for fiscal quarter ending 2026-06-30, fi",
+   "E03: SEC EDGAR XBRL (JPM): filed quarterly revenue trail -- 2026-06-30: $57.35B, 2026-03-31: $49.84B, 2025-09-30: $",
+   "E31: JPMorgan Chase & Co. reported total net revenue of $57.347 billion for the fiscal quarter ending June 30, 2026"
+  ]
+ },
+ "F30": {
+  "reasoning": "Bank of America Corporation's year-over-year quarterly revenue growth of at least 2.0% for the fiscal quarter ending June 30, 2027, is rated at 0.55 probability. Recent YoY performance has been negative ({{E05}}, {{E06}}), indicating that achieving 2.0% growth would represent a substantial improvement. A strong economic recovery and increased consumer and business spending would be essential. A prolonged period of economic sluggishness would make this target difficult.",
+  "evidence": [
+   "E04: SEC EDGAR XBRL (BAC, BofA Finance LLC): quarterly revenue $33.832B for fiscal quarter ending 2026-06-30, filed",
+   "E06: SEC EDGAR XBRL (BAC): filed quarterly revenue trail -- 2026-06-30: $33.83B, 2026-03-31: $33.36B, 2025-09-30: $",
+   "E34: Bank of America Corporation's total net revenue for the quarter ended June 30, 2026, decreased by 3.0% compare"
+  ]
+ }
+}

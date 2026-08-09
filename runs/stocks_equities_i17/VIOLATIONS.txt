@@ -1,0 +1,25 @@
+[P1_BASELINE_BIND] F01: baseline 57.347B traces only to evidence about a DIFFERENT entity than 'JPMorgan Chase & Co.' -- a borrowed baseline is a cross-entity transplant
+[P1_BASELINE_BIND] F10: baseline 27.7% traces only to evidence about a DIFFERENT entity than 'JPMorgan Chase & Co.' -- a borrowed baseline is a cross-entity transplant
+[P1_BASELINE_BIND] F19: baseline 0.6% traces only to evidence about a DIFFERENT entity than 'Citigroup Inc.' -- a borrowed baseline is a cross-entity transplant
+[P1_BASELINE_BIND] F20: baseline 57.347B traces only to evidence about a DIFFERENT entity than 'JPMorgan Chase & Co.' -- a borrowed baseline is a cross-entity transplant
+[P1_COINFLIP] F23: p=0.55 is a sealed coin flip -- zero information by construction; take a side or drop it
+[P1_COINFLIP] F27: p=0.55 is a sealed coin flip -- zero information by construction; take a side or drop it
+[P1_COINFLIP] F28: p=0.5 is a sealed coin flip -- zero information by construction; take a side or drop it
+[P1_BASELINE_BIND] F29: baseline 57.347B traces only to evidence about a DIFFERENT entity than 'JPMorgan Chase & Co.' -- a borrowed baseline is a cross-entity transplant
+[P1_HORIZON] F29: resolves 2027-08-06 (1.0y) outside the 0.02-0.3y band
+[P1_COINFLIP] F30: p=0.55 is a sealed coin flip -- zero information by construction; take a side or drop it
+[P1_HORIZON] F30: resolves 2027-08-06 (1.0y) outside the 0.02-0.3y band
+[P1_CONTRARIAN] only 3 forecasts at p<=0.35 -- an all-momentum book has ONE correlated failure mode; take >=6 contrarian positions
+[P3_NUM_UNGROUNDED] F01: a number (mantissa 3.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F15: a number (mantissa 2.600) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_RAW_NUMERIC] F01: raw numeric '57.35' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F03: raw numeric '23.28' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F05: raw numeric '20%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F07: raw numeric '21.15' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F13: raw numeric '15' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F15: raw numeric '26' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F16: raw numeric '15.7%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F20: raw numeric '57.35' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F25: raw numeric '27' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F26: raw numeric '15.7%' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
+[P3_RAW_NUMERIC] F29: raw numeric '57.35' written despite the witness-closed contract -- values enter prose ONLY through slots; copy the {{Eid#k}} token instead
