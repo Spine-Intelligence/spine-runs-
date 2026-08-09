@@ -1,0 +1,224 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "There is a 20% chance Matt Fitzpatrick will secure a higher final finishing position than Rory McIlroy at the 2026 Tour Championship.",
+   "probability": 0.2,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "final finishing position rank number",
+    "threshold": "less than or equal to Rory McIlroy's rank number",
+    "resolution_date": "2026-08-30",
+    "baseline": {
+     "value": "2",
+     "as_of": "2026-08-07"
+    },
+    "counting_convention": "unit: numerical finishing position rank; status: in-force only; window: 2026 Tour Championship four rounds; excludes: regular season events"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D1",
+   "evidence": [
+    "E03",
+    "E05"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "There is a 25% chance Chris Gotterup will record a lower 72-hole cumulative score than Matt Fitzpatrick at East Lake Golf Club.",
+   "probability": 0.25,
+   "resolution_criteria": {
+    "source": "ESPN golf event page",
+    "metric": "72-hole total stroke count",
+    "threshold": "less than or equal to Matt Fitzpatrick's total stroke count",
+    "resolution_date": "2026-08-30",
+    "baseline": {
+     "value": "5",
+     "as_of": "2026-08-07"
+    },
+    "counting_convention": "unit: total strokes taken over 72 holes; status: in-force only; window: August 27-30 2026; excludes: playoff legs prior to East Lake"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D3",
+   "evidence": [
+    "E03",
+    "E04"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "There is a 30% chance Rory McIlroy will achieve a better round-four score than Chris Gotterup during the final round at East Lake.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "round 4 stroke score",
+    "threshold": "less than or equal to Chris Gotterup's round 4 score",
+    "resolution_date": "2026-08-30",
+    "baseline": {
+     "value": "11",
+     "as_of": "2026-08-07"
+    },
+    "counting_convention": "unit: single round score; status: in-force only; window: August 30 2026; excludes: rounds 1 through 3"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D2",
+   "evidence": [
+    "E04",
+    "E05"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "There is a 65% chance Matt Fitzpatrick will finish inside the top five players on the final leaderboard.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "ESPN golf event page",
+    "metric": "final tournament rank position",
+    "threshold": "less than or equal to 5",
+    "resolution_date": "2026-08-30",
+    "baseline": {
+     "value": "2",
+     "as_of": "2026-08-07"
+    },
+    "counting_convention": "unit: official tournament rank; status: in-force only; window: August 27-30 2026; excludes: missed cuts or non-finishers"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E03"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "There is a 70% chance Rory McIlroy will complete all four rounds with a cumulative score under par.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "72-hole relative to par total score",
+    "threshold": "less than 0",
+    "resolution_date": "2026-08-30",
+    "baseline": {
+     "value": "11",
+     "as_of": "2026-08-07"
+    },
+    "counting_convention": "unit: score relative to par; status: in-force only; window: August 27-30 2026; excludes: practice rounds"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D2",
+   "evidence": [
+    "E01",
+    "E05"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "There is a 60% chance Chris Gotterup will card an individual round score of 67 or lower during the tournament.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "ESPN golf event page",
+    "metric": "lowest single round score",
+    "threshold": "less than or equal to 67",
+    "resolution_date": "2026-08-30",
+    "baseline": {
+     "value": "5",
+     "as_of": "2026-08-07"
+    },
+    "counting_convention": "unit: single round stroke count; status: in-force only; window: August 27-30 2026; excludes: pre-tournament rounds"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D3",
+   "evidence": [
+    "E02",
+    "E04"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "There is a 40% chance Cameron Young will outperform Matt Fitzpatrick in head-to-head earnings distribution for the event.",
+   "probability": 0.4,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "official payout amount in USD",
+    "threshold": "greater than Matt Fitzpatrick's payout amount",
+    "resolution_date": "2026-08-30",
+    "baseline": {
+     "value": "3",
+     "as_of": "2026-08-05"
+    },
+    "counting_convention": "unit: US dollars distributed; status: in-force only; window: August 27-30 2026; excludes: bonus pools from previous events"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D1",
+   "evidence": [
+    "E03",
+    "E06"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "There is a 75% chance Tommy Fleetwood will finish ahead of Chris Gotterup in the final tournament standings.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "ESPN golf event page",
+    "metric": "final tournament rank position",
+    "threshold": "less than Chris Gotterup's rank position",
+    "resolution_date": "2026-08-30",
+    "baseline": {
+     "value": "18",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "unit: numerical ranking position; status: in-force only; window: August 27-30 2026; excludes: withdrawal status"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D3",
+   "evidence": [
+    "E04",
+    "E08"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "There is a 55% chance Rory McIlroy will record a higher number of total birdies across four rounds than Matt Fitzpatrick.",
+   "probability": 0.55,
+   "resolution_criteria": {
+    "source": "PGA Tour official leaderboard",
+    "metric": "total birdie count over 72 holes",
+    "threshold": "greater than Matt Fitzpatrick's birdie count",
+    "resolution_date": "2026-08-30",
+    "baseline": {
+     "value": "11",
+     "as_of": "2026-08-07"
+    },
+    "counting_convention": "unit: individual birdie; status: in-force only; window: August 27-30 2026; excludes: pars bogeys and eagles"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D2",
+   "evidence": [
+    "E03",
+    "E05"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "There is a 80% chance the winning score of the 2026 Tour Championship will be better than -15 relative to par.",
+   "probability": 0.8,
+   "resolution_criteria": {
+    "source": "ESPN golf event page",
+    "metric": "winning score relative to par",
+    "threshold": "less than -15",
+    "resolution_date": "2026-08-30",
+    "baseline": {
+     "value": "18",
+     "as_of": "2026-08-09"
+    },
+    "counting_convention": "unit: total score relative to par for winner; status: in-force only; window: August 27-30 2026; excludes: runner-up scores"
+   },
+   "horizon_years": 0.06,
+   "dynamic": "D1",
+   "evidence": [
+    "E01",
+    "E08"
+   ]
+  }
+ ]
+}
