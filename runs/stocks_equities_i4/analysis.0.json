@@ -1,0 +1,160 @@
+{
+ "analyses": [
+  {
+   "entity": "Bank of America Corporation (BAC)",
+   "current_state": "quarterly revenue $31.558B for fiscal quarter ending 2026-06-30, filed 2026-07-31 (10-Q, tag Revenues) (E04); quarterly revenue trail -- 2026-06-30: $31.56B, 2026-03-31: $30.27B, 2025-09-30: $28.09B, 2025-06-30: $26.46B, 2025-03-31: $27.37B, 2024-09-30: $25.34B (E06)",
+   "reference_class": "year-over-year quarterly revenue growth +19.3% ($26.463B quarter ending 2025-06-30 -> $31.558B ending 2026-06-30, both as filed) (E05); revenue trail shows an increasing trend from Q4 2024 to Q2 2026, with a slight dip in Q1 2026 compared to Q4 2025. (E06)",
+   "mechanisms": [
+    "Increasing revenue trajectory may be driven by broader economic conditions impacting financial services demand.",
+    "Potential for continued growth if market demand for financial products and services remains strong."
+   ],
+   "scenarios": [
+    "Continued upward trend in quarterly revenues, exceeding previous periods.",
+    "Stabilization of quarterly revenues at current elevated levels.",
+    "A minor retracement in quarterly revenues from the most recent peak."
+   ],
+   "key_uncertainty": "The sustained drivers behind the recent significant year-over-year revenue increase.",
+   "evidence": [
+    "E04",
+    "E05",
+    "E06"
+   ]
+  },
+  {
+   "entity": "US Bancorp (USB)",
+   "current_state": "quarterly revenue $7.712B for fiscal quarter ending 2026-06-30, filed 2026-08-06 (10-Q, tag Revenues) (E13); quarterly revenue trail -- 2026-06-30: $7.71B, 2026-03-31: $7.29B, 2025-09-30: $7.33B, 2025-06-30: $7.00B, 2025-03-31: $6.96B, 2024-09-30: $6.86B (E15)",
+   "reference_class": "year-over-year quarterly revenue growth +10.1% ($7.004B quarter ending 2025-06-30 -> $7.712B ending 2026-06-30, both as filed) (E14); revenue trail shows a generally upward trend from Q4 2024 to Q2 2026, with a slight dip in Q1 2026. (E15)",
+   "mechanisms": [
+    "Positive year-over-year growth suggests an expanding business or favorable market conditions for the company's services.",
+    "The recent upward trend could be influenced by interest rate environments and loan demand."
+   ],
+   "scenarios": [
+    "Continued sequential growth in quarterly revenues.",
+    "Revenues stabilizing at the current reported level.",
+    "A minor dip in quarterly revenues in the next reporting period."
+   ],
+   "key_uncertainty": "The sustainability of the recent positive revenue growth trajectory.",
+   "evidence": [
+    "E13",
+    "E14",
+    "E15"
+   ]
+  },
+  {
+   "entity": "Citigroup Inc (C)",
+   "current_state": "quarterly revenue $22.090B for fiscal quarter ending 2025-09-30, filed 2025-11-06 (10-Q, tag Revenues) (E10); quarterly revenue trail -- 2025-09-30: $22.09B, 2025-06-30: $21.67B, 2025-03-31: $21.60B, 2024-09-30: $20.32B, 2024-06-30: $20.14B, 2024-03-31: $21.10B (E12)",
+   "reference_class": "year-over-year quarterly revenue growth +8.7% ($20.315B quarter ending 2024-09-30 -> $22.090B ending 2025-09-30, both as filed) (E11); revenue trail shows a general upward trend from Q1 2024 to Q3 2025, with a slight decline in Q1 2025 compared to Q4 2024. (E12)",
+   "mechanisms": [
+    "Positive year-over-year growth indicates an expansion in the company's business segments or improved market performance.",
+    "Factors such as global economic conditions and regulatory changes could impact revenue."
+   ],
+   "scenarios": [
+    "Continued incremental revenue growth in subsequent quarters.",
+    "Revenue levels holding steady at the most recent reported figures.",
+    "A slight decrease in revenue from the peak observed in Q3 2025."
+   ],
+   "key_uncertainty": "The long-term impact of ongoing strategic initiatives on revenue generation.",
+   "evidence": [
+    "E10",
+    "E11",
+    "E12"
+   ]
+  },
+  {
+   "entity": "Duke Energy (DUK)",
+   "current_state": "Q2 2026 financial results to be posted on August 4, 2026 (E23); Q2 2026 earnings reported on August 4, 2026, posting an EPS of $1.43 (E30).",
+   "reference_class": "Earnings release dates are scheduled at regular intervals, typically quarterly. The specific date of the earnings call for Q2 2026 is July 31, 2026 (E21).",
+   "mechanisms": [
+    "Scheduled quarterly earnings releases are a standard corporate event.",
+    "The EPS figure provides a snapshot of profitability for the period."
+   ],
+   "scenarios": [
+    "The earnings release on August 4, 2026, will provide specific financial performance data for Q2 2026.",
+    "The EPS of $1.43 reported on August 4, 2026, will serve as a benchmark for future performance analysis.",
+    "Subsequent earnings reports will continue to follow a quarterly schedule."
+   ],
+   "key_uncertainty": "The specific financial metrics and operational highlights that will be disclosed during the Q2 2026 earnings release.",
+   "evidence": [
+    "E23",
+    "E30"
+   ]
+  },
+  {
+   "entity": "DTE Energy (DTE)",
+   "current_state": "First quarter 2026 earnings to be released before market open on April 30, 2026 (E22); Q2 2026 earnings reported on July 28, 2026, posting an EPS of $1.32 (E29).",
+   "reference_class": "Earnings releases occur on a quarterly basis, with specific dates announced in advance. Q1 2026 earnings were scheduled for April 30, 2026 (E22).",
+   "mechanisms": [
+    "Regularly scheduled quarterly earnings announcements are a fundamental corporate activity.",
+    "The reported EPS provides a key indicator of financial performance for the quarter."
+   ],
+   "scenarios": [
+    "The Q1 2026 earnings release on April 30, 2026, will provide an overview of the company's performance at the start of the year.",
+    "The Q2 2026 EPS of $1.32 serves as a data point for evaluating recent operational results.",
+    "Future earnings reports will continue to adhere to a quarterly reporting cycle."
+   ],
+   "key_uncertainty": "The factors contributing to the reported EPS of $1.32 for Q2 2026 and their implications for future quarters.",
+   "evidence": [
+    "E22",
+    "E29"
+   ]
+  },
+  {
+   "entity": "NextEra Energy (NEE)",
+   "current_state": "Q2 2026 earnings reported on July 23, 2026, posting an EPS of $1.15 (E27); Q2 2026 earnings issued on July 24, 2026, reporting an EPS of $1.15 (E39); first-quarter 2026 financial results announced before market opening on April 23, 2026 (E38).",
+   "reference_class": "Earnings are reported on a quarterly basis, with multiple releases for the same quarter in close proximity (e.g., E27 and E39 for Q2 2026). Q1 2026 earnings were announced on April 23, 2026 (E38).",
+   "mechanisms": [
+    "The repetition of the Q2 2026 EPS figure across different sources suggests consistency in reporting.",
+    "Scheduled quarterly earnings releases are a standard practice for public companies."
+   ],
+   "scenarios": [
+    "The EPS of $1.15 for Q2 2026 reflects a specific level of profitability for the period.",
+    "The Q1 2026 earnings announcement on April 23, 2026, will have provided earlier financial performance data.",
+    "Future earnings reports will continue to follow the established quarterly schedule."
+   ],
+   "key_uncertainty": "The underlying operational or financial factors that led to the specific EPS of $1.15 for Q2 2026.",
+   "evidence": [
+    "E27",
+    "E39",
+    "E38"
+   ]
+  },
+  {
+   "entity": "American Electric Power (AEP)",
+   "current_state": "Next earnings date estimated for October 22, 2026 (E28); reported second-quarter 2026 GAAP earnings of $1.31 per share on July 30, 2026 (E35).",
+   "reference_class": "The company has an estimated earnings date in October 2026 (E28), and has already reported Q2 2026 earnings (E35). This indicates a regular quarterly reporting cycle.",
+   "mechanisms": [
+    "Scheduled earnings releases are a predictable corporate event.",
+    "The reported EPS of $1.31 provides a measure of profitability for the second quarter of 2026."
+   ],
+   "scenarios": [
+    "The Q2 2026 earnings report on July 30, 2026, will provide specific financial performance details.",
+    "The EPS of $1.31 for Q2 2026 will serve as a baseline for future performance comparisons.",
+    "The estimated earnings date of October 22, 2026, indicates the upcoming reporting for the subsequent quarter."
+   ],
+   "key_uncertainty": "The specific operational drivers and market conditions that influenced the Q2 2026 EPS of $1.31.",
+   "evidence": [
+    "E28",
+    "E35"
+   ]
+  },
+  {
+   "entity": "Consolidated Edison, Inc. (Con Edison)",
+   "current_state": "Plans to report 1st Quarter 2026 earnings on May 7, 2026, after market closes (E24); announced Q2 2026 earnings on August 6, 2026, reporting an EPS of $0.83 (E34).",
+   "reference_class": "Quarterly earnings are reported on scheduled dates. Q1 2026 earnings were planned for May 7, 2026 (E24), and Q2 2026 earnings were announced on August 6, 2026 (E34).",
+   "mechanisms": [
+    "The company adheres to a regular quarterly earnings reporting schedule.",
+    "The reported EPS of $0.83 provides a specific financial outcome for the second quarter of 2026."
+   ],
+   "scenarios": [
+    "The Q1 2026 earnings release on May 7, 2026, will have provided performance data for the first three months of the year.",
+    "The EPS of $0.83 for Q2 2026 represents the company's profitability for that period.",
+    "Future earnings reports will continue to follow the established quarterly pattern."
+   ],
+   "key_uncertainty": "The specific factors that contributed to the Q2 2026 EPS of $0.83 and their implications for the rest of the year.",
+   "evidence": [
+    "E24",
+    "E34"
+   ]
+  }
+ ]
+}

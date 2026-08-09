@@ -1,0 +1,5 @@
+[P1_LONG] no long-horizon forecast (>= 0.75y)
+[P1_SPREAD] all forecasts resolve at nearly the same date; spread the timeframes
+[P1_CUTOFF] evidence E55: as_of 2026-11-09 is after the retrieval cutoff 2026-08-09 -- outcome leakage into the input
+[P1_CUTOFF] evidence E56: as_of 2026-10-30 is after the retrieval cutoff 2026-08-09 -- outcome leakage into the input
+[P1_CUTOFF] evidence E70: as_of 2026-10-29 is after the retrieval cutoff 2026-08-09 -- outcome leakage into the input

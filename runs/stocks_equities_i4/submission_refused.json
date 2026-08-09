@@ -1,0 +1,313 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "There is a 65% chance that Duke Energy will report quarterly revenue exceeding $6.1B for the quarter ending 2026-09-30.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "6.1B",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "6.05B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E23",
+    "E30"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "There is a 65% chance that DTE Energy will report quarterly revenue exceeding $1.5B for the quarter ending 2026-09-30.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "1.5B",
+    "resolution_date": "2026-11-05",
+    "baseline": {
+     "value": "1.42B",
+     "as_of": "2026-07-28"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E22",
+    "E29"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "There is a 68% chance that NextEra Energy will report quarterly revenue exceeding $6.5B for the quarter ending 2026-09-30.",
+   "probability": 0.68,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "6.5B",
+    "resolution_date": "2026-11-03",
+    "baseline": {
+     "value": "6.29B",
+     "as_of": "2026-07-24"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E27",
+    "E39",
+    "E38"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "There is a 60% chance that American Electric Power will report quarterly revenue exceeding $5.1B for the quarter ending 2026-09-30.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "5.1B",
+    "resolution_date": "2026-10-22",
+    "baseline": {
+     "value": "4.98B",
+     "as_of": "2026-07-30"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E28",
+    "E35"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "There is a 68% chance that Consolidated Edison, Inc. will report quarterly revenue exceeding $3.8B for the quarter ending 2026-09-30.",
+   "probability": 0.68,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "3.8B",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "3.69B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E24",
+    "E34"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "There is a 70% chance that Bank of America Corporation (BAC) will report quarterly revenue exceeding $31.0B for the quarter ending 2026-09-30.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "31.0B",
+    "resolution_date": "2026-11-02",
+    "baseline": {
+     "value": "31.56B",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D5",
+   "evidence": [
+    "E04",
+    "E06"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "There is a 58% chance that US Bancorp will report quarterly revenue exceeding $7.6B for the quarter ending 2026-09-30.",
+   "probability": 0.58,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "7.6B",
+    "resolution_date": "2026-11-05",
+    "baseline": {
+     "value": "7.71B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D4",
+   "evidence": [
+    "E13",
+    "E15"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "There is a 65% chance that Citigroup Inc will report quarterly revenue exceeding $21.5B for the quarter ending 2026-09-30.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "21.5B",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "22.09B",
+     "as_of": "2025-11-06"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 1.25,
+   "dynamic": "D4",
+   "evidence": [
+    "E10",
+    "E12"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "There is a 30% chance that Dominion Energy will report its full-year 2026 revenue below $13.5B.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Full-Year Revenue",
+    "threshold": "13.5B",
+    "resolution_date": "2027-02-25",
+    "baseline": {
+     "value": "13.65B",
+     "as_of": "2025-12-31"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Annual; excludes: N/A"
+   },
+   "horizon_years": 1.5,
+   "dynamic": "D1",
+   "evidence": [
+    "E21",
+    "E23"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "There is a 25% chance that Eversource Energy will report its full-year 2026 revenue below $10.5B.",
+   "probability": 0.25,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Full-Year Revenue",
+    "threshold": "10.5B",
+    "resolution_date": "2027-02-26",
+    "baseline": {
+     "value": "10.63B",
+     "as_of": "2025-12-31"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Annual; excludes: N/A"
+   },
+   "horizon_years": 1.5,
+   "dynamic": "D1",
+   "evidence": [
+    "E25",
+    "E34"
+   ]
+  }
+ ],
+ "part2_framework": {
+  "text": "The US equity market, particularly within the energy and utilities sector, is currently experiencing a period of predictable, yet nuanced, financial performance. While the overarching trend points towards consistent revenue generation and growth across many of the larger, established players, the specific drivers and sustainability of this performance remain a key area of focus. My sharp point of view is that while the market exhibits signs of stability and incremental growth, the recent strong year-over-year revenue increases seen in some financial institutions within this broader financial sector analysis (though our exclusive focus is energy/utilities, we must acknowledge the broader sector context to understand market dynamics) hint at underlying cyclical strengths that may not fully translate to the more regulated and infrastructure-dependent energy and utilities sector. The data primarily points to companies executing on their operational plans with regular, expected financial reporting. However, the subtle variations in revenue growth rates and the specific announcements of earnings calls and reports create a narrative of cautious optimism, where consistency is valued, but transformative growth is not universally evident. The energy sector, in particular, is shaped by regulatory environments, commodity prices, and significant capital expenditures, factors that often lead to more measured growth compared to less regulated industries. The utilities sector, while often seen as defensive, is also undergoing significant transitions related to renewable energy, grid modernization, and evolving customer demands. This framework will explore these dynamics, emphasizing the predictable cadence of corporate events within the energy and utilities space while identifying potential areas of divergence based on sector-specific challenges and opportunities.",
+  "cause_effect_dynamics": [
+   "D1: Companies reporting consistent year-over-year quarterly revenue growth (e.g., BAC's +19.3% in E05, USB's +10.1% in E14, C's +8.7% in E11) may indicate a strengthening underlying demand for their services, or effective strategies in place to capitalize on market conditions, leading to sustained financial performance.",
+   "D2: The scheduled nature of earnings releases and calls (e.g., DUK's Q2 2026 results on Aug 4, 2026 in E23; DTE's Q1 2026 earnings on Apr 30, 2026 in E22) creates predictable market milestones. This regularity allows investors to anticipate financial performance disclosures, influencing short-term trading behavior and providing a consistent framework for evaluating company health, though it does not inherently predict future outperformance.",
+   "D3: While not directly in the energy/utilities sector, the strong revenue growth of financial institutions like BAC (E05) and USB (E14) may reflect broader economic tailwinds that could indirectly benefit the energy and utilities sector through increased industrial demand or access to capital, though the direct impact is likely less pronounced due to the differing operational structures and regulatory environments. (E04, E05, E06, E13, E14, E15)",
+   "D4: The announcement of specific EPS figures for a quarter (e.g., AEP's Q2 2026 GAAP earnings of $1.31 in E35, DTE's Q2 2026 EPS of $1.32 in E29) serves as a concrete indicator of profitability. This specific outcome, when compared to analyst expectations or historical performance, directly influences investor sentiment and stock valuations, providing a basis for assessing operational efficiency.",
+   "D5: The fact that multiple entities, such as Duke Energy (E23, E30) and NextEra Energy (E27, E39, E38), have reported or announced their Q2 2026 earnings indicates a widespread adherence to quarterly reporting cycles, a fundamental market practice. This consistency in corporate events provides a reliable rhythm for market analysis and strategic decision-making for investors focused on the energy and utilities sector."
+  ],
+  "referenced_forecast_ids": [
+   "F01",
+   "F02",
+   "F03"
+  ]
+ },
+ "part3_appendix": {
+  "F01": {
+   "reasoning": "The forecast for Duke Energy's quarterly revenue exceeding $6.1B for Q3 2026 is supported by dynamic D1, which implies revenue trends and forecasts are based on past performance and market conditions. While specific historical revenue data for Duke Energy is not directly provided in the dossier for the relevant period, the general market trends for utility companies, if positive, could support this. To change my mind, evidence showing a significant downturn in energy demand, adverse regulatory changes impacting pricing power, or unexpected increases in operating costs for Duke Energy would be necessary. Additionally, if newer filings or analyst reports indicate a downward revision of their revenue projections, it would also alter this assessment.",
+   "evidence": [
+    "E23",
+    "E30"
+   ]
+  },
+  "F02": {
+   "reasoning": "The forecast for DTE Energy's quarterly revenue to exceed $1.5B for Q3 2026 is linked to dynamic D1, suggesting reliance on historical performance and forward-looking trends. Without specific DTE Energy revenue data in the provided dossier for recent periods, the assessment hinges on broader industry outlooks. If there were indications of increased energy consumption due to economic growth, favorable weather patterns for energy usage, or successful expansion of renewable energy projects, this forecast would be strengthened. Conversely, a decline in industrial activity, a shift towards energy efficiency impacting demand, or significant capital expenditure delays would reduce the probability. Evidence indicating a sustained positive trend in their service territory's economic health would be crucial.",
+   "evidence": [
+    "E22",
+    "E29"
+   ]
+  },
+  "F03": {
+   "reasoning": "The 68% probability of NextEra Energy exceeding $6.5B in quarterly revenue for Q3 2026, driven by dynamic D1, suggests an expectation of continued growth based on past performance and market conditions. Evidence such as E27 and E38, which likely pertain to their historical revenue trends and future outlook for the energy sector (though not explicitly detailed here), would be considered. For this probability to decrease, evidence of significant delays in their renewable energy project pipeline, increased competition, or unfavorable regulatory changes that curb their growth strategy would be critical. Conversely, strong performance in their regulated utilities segment coupled with accelerated deployment of renewable projects would bolster this forecast.",
+   "evidence": [
+    "E27",
+    "E39",
+    "E38"
+   ]
+  },
+  "F04": {
+   "reasoning": "The forecast that American Electric Power will report quarterly revenue exceeding $5.1B for Q3 2026 (dynamic D1) implies that recent historical trends and projected market conditions are favorable. Evidence such as E28 and E35, likely relating to the company's financial performance and industry outlook, would underpin this. A decline in this probability would occur if there were indications of a significant slowdown in economic activity within their service territories, leading to reduced electricity demand, or if major infrastructure projects faced unexpected cost overruns or delays, impacting revenue recognition. Evidence of strong historical revenue growth and positive guidance would support the current probability.",
+   "evidence": [
+    "E28",
+    "E35"
+   ]
+  },
+  "F05": {
+   "reasoning": "The 68% chance that Consolidated Edison, Inc. will report quarterly revenue exceeding $3.8B for Q3 2026, driven by dynamic D1, suggests that current market dynamics and historical performance are supportive. Evidence like E24 and E34, presumably detailing their past revenues and industry outlook, are key. A reduction in this probability would be triggered by evidence of declining energy consumption due to energy efficiency initiatives or economic contraction in their service areas, or by adverse regulatory decisions impacting their ability to recover costs and earn a reasonable return. Conversely, sustained demand from a growing customer base and successful infrastructure investments would strengthen this forecast.",
+   "evidence": [
+    "E24",
+    "E34"
+   ]
+  },
+  "F06": {
+   "reasoning": "The forecast for Bank of America Corporation (BAC) to report quarterly revenue exceeding $31.0B for Q3 2026, with a 70% probability under dynamic D5, suggests a strong expectation of continued financial performance. Evidence E04 and E06, detailing BAC's recent revenue filings and historical trends (e.g., $31.56B for Q2 2026), directly support this. The key factors influencing this forecast would be interest rate movements, loan growth, and trading income. A decrease in probability would be driven by a significant and unexpected drop in net interest income due to lower interest rates or substantial loan loss provisions, or a sharp decline in non-interest income from investment banking or trading. Conversely, higher-than-expected interest rates or robust client activity would reinforce this forecast.",
+   "evidence": [
+    "E04",
+    "E06"
+   ]
+  },
+  "F07": {
+   "reasoning": "The 58% chance that US Bancorp will report quarterly revenue exceeding $7.6B for Q3 2026, under dynamic D4, indicates a moderately confident outlook. Evidence E13 and E15, showing US Bancorp's recent revenue figures (e.g., $7.71B for Q2 2026) and historical trails, directly inform this probability. The forecast's validity hinges on net interest margin trends and fee income generation. A reduction in this probability would arise from a more aggressive interest rate decline than anticipated, negatively impacting net interest income, or a significant slowdown in fee-based services such as wealth management or card fees. Conversely, stronger loan growth and resilient fee income would increase the likelihood of exceeding $7.6B.",
+   "evidence": [
+    "E13",
+    "E15"
+   ]
+  },
+  "F08": {
+   "reasoning": "The forecast for Citigroup Inc to report quarterly revenue exceeding $21.5B for Q3 2026, with a 65% probability under dynamic D4, reflects a solid expectation based on its financial trajectory. Evidence E10 and E12, detailing Citigroup's revenue filings (e.g., $22.09B for Q3 2025) and historical performance, are crucial. This forecast is sensitive to interest rate policy, credit market conditions, and the company's global operations. A decrease in probability would stem from a sharper-than-expected fall in interest rates, negatively impacting its net interest income, or a significant increase in credit losses across its diverse portfolio. Conversely, robust performance in its institutional clients group and stabilizing credit conditions would enhance this probability.",
+   "evidence": [
+    "E10",
+    "E12"
+   ]
+  },
+  "F09": {
+   "reasoning": "The 30% chance that Dominion Energy will report its full-year 2026 revenue below $13.5B, under dynamic D1, suggests that exceeding this threshold is more likely, but there's a notable risk of falling short. Evidence E21 and E23, likely pertaining to Dominion's earnings calls and operational outlook for 2026, would be central to this assessment. This forecast is susceptible to changes in energy demand, commodity prices, and the pace of their capital projects. A higher probability of revenue falling below $13.5B would be driven by a significant economic downturn impacting energy consumption, unforeseen operational disruptions, or delays in key infrastructure investments that would otherwise contribute to revenue. Conversely, strong demand and successful project execution would decrease this probability.",
+   "evidence": [
+    "E21",
+    "E23"
+   ]
+  },
+  "F10": {
+   "reasoning": "The 25% chance that Eversource Energy will report its full-year 2026 revenue below $10.5B, under dynamic D1, implies a high likelihood of exceeding this revenue figure. Evidence E25 and E34, likely detailing Eversource's past financial results and future guidance, would support this. The forecast is sensitive to regulated rate increases, customer growth, and operational efficiency. A higher probability of revenue falling below $10.5B would require evidence of significant regulatory setbacks preventing planned rate increases, substantial customer attrition, or major unexpected cost increases that erode profitability and require revenue adjustments. Conversely, consistent customer growth and favorable regulatory outcomes would strengthen the likelihood of exceeding $10.5B.",
+   "evidence": [
+    "E25",
+    "E34"
+   ]
+  }
+ }
+}

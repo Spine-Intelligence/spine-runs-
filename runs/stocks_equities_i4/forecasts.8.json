@@ -1,0 +1,335 @@
+{
+ "part1_forecasts": [
+  {
+   "id": "F01",
+   "statement": "There is a 65% chance that Duke Energy will report quarterly revenue exceeding $6.1B for the quarter ending 2026-09-30.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "6.1B",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "6.05B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E23",
+    "E30"
+   ]
+  },
+  {
+   "id": "F02",
+   "statement": "There is a 65% chance that DTE Energy will report quarterly revenue exceeding $1.5B for the quarter ending 2026-09-30.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "1.5B",
+    "resolution_date": "2026-11-05",
+    "baseline": {
+     "value": "1.42B",
+     "as_of": "2026-07-28"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E22",
+    "E29"
+   ]
+  },
+  {
+   "id": "F03",
+   "statement": "There is a 68% chance that NextEra Energy will report quarterly revenue exceeding $6.5B for the quarter ending 2026-09-30.",
+   "probability": 0.68,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "6.5B",
+    "resolution_date": "2026-11-03",
+    "baseline": {
+     "value": "6.29B",
+     "as_of": "2026-07-24"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E27",
+    "E39",
+    "E38"
+   ]
+  },
+  {
+   "id": "F04",
+   "statement": "There is a 60% chance that American Electric Power will report quarterly revenue exceeding $5.1B for the quarter ending 2026-09-30.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "5.1B",
+    "resolution_date": "2026-10-22",
+    "baseline": {
+     "value": "4.98B",
+     "as_of": "2026-07-30"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E28",
+    "E35"
+   ]
+  },
+  {
+   "id": "F05",
+   "statement": "There is a 68% chance that Consolidated Edison, Inc. will report quarterly revenue exceeding $3.8B for the quarter ending 2026-09-30.",
+   "probability": 0.68,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "3.8B",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "3.69B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E24",
+    "E34"
+   ]
+  },
+  {
+   "id": "F06",
+   "statement": "There is a 70% chance that Bank of America Corporation (BAC) will report quarterly revenue exceeding $31.0B for the quarter ending 2026-09-30.",
+   "probability": 0.7,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "31.0B",
+    "resolution_date": "2026-11-02",
+    "baseline": {
+     "value": "31.56B",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D5",
+   "evidence": [
+    "E04",
+    "E06"
+   ]
+  },
+  {
+   "id": "F07",
+   "statement": "There is a 58% chance that US Bancorp will report quarterly revenue exceeding $7.6B for the quarter ending 2026-09-30.",
+   "probability": 0.58,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "7.6B",
+    "resolution_date": "2026-11-05",
+    "baseline": {
+     "value": "7.71B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D4",
+   "evidence": [
+    "E13",
+    "E15"
+   ]
+  },
+  {
+   "id": "F08",
+   "statement": "There is a 65% chance that Citigroup Inc will report quarterly revenue exceeding $21.5B for the quarter ending 2026-09-30.",
+   "probability": 0.65,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "21.5B",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "22.09B",
+     "as_of": "2025-11-06"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 1.25,
+   "dynamic": "D4",
+   "evidence": [
+    "E10",
+    "E12"
+   ]
+  },
+  {
+   "id": "F09",
+   "statement": "There is a 30% chance that Dominion Energy will report its full-year 2026 revenue below $13.5B.",
+   "probability": 0.3,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Full-Year Revenue",
+    "threshold": "13.5B",
+    "resolution_date": "2027-02-25",
+    "baseline": {
+     "value": "13.65B",
+     "as_of": "2025-12-31"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Annual; excludes: N/A"
+   },
+   "horizon_years": 1.5,
+   "dynamic": "D1",
+   "evidence": [
+    "E21",
+    "E23"
+   ]
+  },
+  {
+   "id": "F10",
+   "statement": "There is a 25% chance that Eversource Energy will report its full-year 2026 revenue below $10.5B.",
+   "probability": 0.25,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Full-Year Revenue",
+    "threshold": "10.5B",
+    "resolution_date": "2027-02-26",
+    "baseline": {
+     "value": "10.63B",
+     "as_of": "2025-12-31"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Annual; excludes: N/A"
+   },
+   "horizon_years": 1.5,
+   "dynamic": "D1",
+   "evidence": [
+    "E25",
+    "E34"
+   ]
+  },
+  {
+   "id": "F11",
+   "statement": "There is a 75% chance that Bank of America Corporation (BAC) will report quarterly revenue exceeding $32.0B for the quarter ending 2027-03-31.",
+   "probability": 0.75,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "32.0B",
+    "resolution_date": "2027-05-07",
+    "baseline": {
+     "value": "31.56B",
+     "as_of": "2026-07-31"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 1.64,
+   "dynamic": "D5",
+   "evidence": [
+    "E04",
+    "E06"
+   ]
+  },
+  {
+   "id": "F12",
+   "statement": "There is a 20% chance that US Bancorp will report quarterly revenue below $7.5B for the quarter ending 2027-03-31.",
+   "probability": 0.2,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "7.5B",
+    "resolution_date": "2027-04-08",
+    "baseline": {
+     "value": "7.71B",
+     "as_of": "2026-08-06"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 1.6,
+   "dynamic": "D4",
+   "evidence": [
+    "E13",
+    "E15"
+   ]
+  },
+  {
+   "id": "F13",
+   "statement": "There is a 60% chance that Citigroup Inc will report quarterly revenue exceeding $22.5B for the quarter ending 2027-03-31.",
+   "probability": 0.6,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "22.5B",
+    "resolution_date": "2027-04-09",
+    "baseline": {
+     "value": "22.09B",
+     "as_of": "2025-11-06"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 1.6,
+   "dynamic": "D4",
+   "evidence": [
+    "E10",
+    "E12"
+   ]
+  },
+  {
+   "id": "F14",
+   "statement": "There is a 85% chance that Duke Energy will report quarterly revenue exceeding $6.0B for the quarter ending 2026-09-30.",
+   "probability": 0.85,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "6.0B",
+    "resolution_date": "2026-11-06",
+    "baseline": {
+     "value": "6.05B",
+     "as_of": "2026-08-04"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E23",
+    "E30"
+   ]
+  },
+  {
+   "id": "F15",
+   "statement": "There is a 15% chance that DTE Energy will report quarterly revenue below $1.4B for the quarter ending 2026-09-30.",
+   "probability": 0.15,
+   "resolution_criteria": {
+    "source": "SEC EDGAR",
+    "metric": "Quarterly Revenue",
+    "threshold": "1.4B",
+    "resolution_date": "2026-11-05",
+    "baseline": {
+     "value": "1.42B",
+     "as_of": "2026-07-28"
+    },
+    "counting_convention": "unit: USD; status: in-force only; window: Quarterly; excludes: N/A"
+   },
+   "horizon_years": 0.25,
+   "dynamic": "D1",
+   "evidence": [
+    "E22",
+    "E29"
+   ]
+  }
+ ]
+}

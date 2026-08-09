@@ -1,0 +1,475 @@
+{
+ "evidence": [
+  {
+   "fact": "SEC EDGAR XBRL (JPM, JPMORGAN CHASE & CO): quarterly revenue $24.246B for fiscal quarter ending 2014-09-30, filed 2014-11-03 (10-Q, tag Revenues)",
+   "as_of": "2014-11-03",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E01"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (JPM): year-over-year quarterly revenue growth +4.9% ($23.117B quarter ending 2013-09-30 -> $24.246B ending 2014-09-30, both as filed)",
+   "as_of": "2014-11-03",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E02"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (JPM): filed quarterly revenue trail -- 2014-09-30: $24.25B, 2014-06-30: $24.45B, 2014-03-31: $22.99B, 2013-09-30: $23.12B, 2013-06-30: $25.21B, 2013-03-31: $25.12B",
+   "as_of": "2014-11-03",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E03"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (BAC, BofA Finance LLC): quarterly revenue $31.558B for fiscal quarter ending 2026-06-30, filed 2026-07-31 (10-Q, tag Revenues)",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E04"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (BAC): year-over-year quarterly revenue growth +19.3% ($26.463B quarter ending 2025-06-30 -> $31.558B ending 2026-06-30, both as filed)",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E05"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (BAC): filed quarterly revenue trail -- 2026-06-30: $31.56B, 2026-03-31: $30.27B, 2025-09-30: $28.09B, 2025-06-30: $26.46B, 2025-03-31: $27.37B, 2024-09-30: $25.34B",
+   "as_of": "2026-07-31",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E06"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (WFC, WELLS        FARGO & COMPANY/MN): quarterly revenue $18.862B for fiscal quarter ending 2020-09-30, filed 2020-11-02 (10-Q, tag Revenues)",
+   "as_of": "2020-11-02",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E07"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (WFC): year-over-year quarterly revenue growth -14.3% ($22.010B quarter ending 2019-09-30 -> $18.862B ending 2020-09-30, both as filed)",
+   "as_of": "2020-11-02",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E08"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (WFC): filed quarterly revenue trail -- 2020-09-30: $18.86B, 2020-06-30: $17.84B, 2020-03-31: $17.72B, 2019-09-30: $22.01B, 2019-06-30: $21.58B, 2019-03-31: $21.61B",
+   "as_of": "2020-11-02",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E09"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (C, Citigroup Inc): quarterly revenue $22.090B for fiscal quarter ending 2025-09-30, filed 2025-11-06 (10-Q, tag Revenues)",
+   "as_of": "2025-11-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E10"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (C): year-over-year quarterly revenue growth +8.7% ($20.315B quarter ending 2024-09-30 -> $22.090B ending 2025-09-30, both as filed)",
+   "as_of": "2025-11-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E11"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (C): filed quarterly revenue trail -- 2025-09-30: $22.09B, 2025-06-30: $21.67B, 2025-03-31: $21.60B, 2024-09-30: $20.32B, 2024-06-30: $20.14B, 2024-03-31: $21.10B",
+   "as_of": "2025-11-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E12"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (USB, US BANCORP \\DE\\): quarterly revenue $7.712B for fiscal quarter ending 2026-06-30, filed 2026-08-06 (10-Q, tag Revenues)",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E13"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (USB): year-over-year quarterly revenue growth +10.1% ($7.004B quarter ending 2025-06-30 -> $7.712B ending 2026-06-30, both as filed)",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E14"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (USB): filed quarterly revenue trail -- 2026-06-30: $7.71B, 2026-03-31: $7.29B, 2025-09-30: $7.33B, 2025-06-30: $7.00B, 2025-03-31: $6.96B, 2024-09-30: $6.86B",
+   "as_of": "2026-08-06",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E15"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (KEY, KeyCorp): quarterly revenue $0.449B for fiscal quarter ending 2026-06-30, filed 2026-08-04 (10-Q, tag RevenueFromContractWithCustomerExcludingAssessedTax)",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E16"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (KEY): year-over-year quarterly revenue growth +5.6% ($0.425B quarter ending 2025-06-30 -> $0.449B ending 2026-06-30, both as filed)",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E17"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (KEY): filed quarterly revenue trail -- 2026-06-30: $0.45B, 2026-03-31: $0.46B, 2025-09-30: $0.43B, 2025-06-30: $0.42B, 2025-03-31: $0.41B, 2024-09-30: $0.42B",
+   "as_of": "2026-08-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E18"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (MS, MORGAN STANLEY): quarterly revenue $5.910B for fiscal quarter ending 2018-03-31, filed 2018-05-04 (10-Q, tag RevenueFromContractWithCustomerExcludingAssessedTax)",
+   "as_of": "2018-05-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E19"
+  },
+  {
+   "fact": "SEC EDGAR XBRL (MS): filed quarterly revenue trail -- 2018-03-31: $5.91B, 2015-06-30: $9.74B, 2015-03-31: $9.91B, 2014-12-31: $7.76B, 2014-09-30: $8.91B, 2014-06-30: $8.61B",
+   "as_of": "2018-05-04",
+   "source": "SEC EDGAR companyfacts API",
+   "id": "E20"
+  },
+  {
+   "id": "E21",
+   "fact": "Dominion Energy announced its second-quarter 2026 earnings call would be held on July 31, 2026, at 11 a.m. ET.",
+   "as_of": "2026-07-09",
+   "source": "Dominion Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElLN_pnu1rfHhI6smBEetMFG3zSEHjv2lE8gJAl2QbY1zlyWTVgFZhk0-7HdOa6_PgpS-GmavRXVcxB2e1w1x2eYcJaTojbXEE8FmCQ3FfJg6qMxMHcqgWN5mJLJtR_BnjxYmAZF7JxI6ex3ednFwFMophLznUmP6SV2OBijawo7-b_C8st5VDZy0LyqGDpevJtVIuwYbcy5xrE3B2yN1sTbWDyJw2Iydxf5SMv0IWCiEVM2CEpi4jI4Y67ue6nXeL68f2FodS"
+  },
+  {
+   "id": "E22",
+   "fact": "DTE Energy announced its first quarter 2026 earnings would be released before the market opens on April 30, 2026.",
+   "as_of": "2026-04-16",
+   "source": "DTE Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmAlQNnHaKOGIbW5m95b7uEkZc3vkEW-hlm5s0ENB9Ae9YVnZE5_kQVThyE9NZDVOGoffSLeGaMdqB5pRBSid8RgM_2uwcGG0cnOoie483AmC2IrD2BgOcGbb2a2sgptIh3a7dLSKldj423XhVZ6x3yTnkGmibEYi8UN_aCnQtK-NYvpATKQpnMeSKLlsrAeiz33mZizOLsxxeAMeWf6h0ET5Mw1oNVeYqEUIbMF5Mp0YI19DE_7JpqqmyE4WTaflavt44gv4GZyjj"
+  },
+  {
+   "id": "E23",
+   "fact": "Duke Energy will post its second-quarter 2026 financial results on August 4, 2026, at 7 a.m. ET.",
+   "as_of": "2026-07-07",
+   "source": "Duke Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlhC9rWu6iWT5i5TfIdT8Joxdb-vJgk3iczkkQ7cRi2sFjBN4I8YjqL7ANX7B-Pa5UpEl_asAzvDmlaS6rRljtUXdilU8Jl6CUbHyavBt49vIpLT1OYF_aopvlsV6CiF714JLlps0c0nhgxn1U_fjW_UT14Ou5s-0RdAWbhySNvIIKkhm2uIauDjMDJp4T9R2KN44n2ZzSfEXAhGy-HHWHvRURjDOGl2d-eGlUsF9SLneDgux75jvBXXxo93NNxb5CTZ9lqKic4yQ="
+  },
+  {
+   "id": "E24",
+   "fact": "Consolidated Edison, Inc. (Con Edison) plans to report its 1st Quarter 2026 earnings on May 7, 2026, after the market closes.",
+   "as_of": "2026-04-08",
+   "source": "Consolidated Edison Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWxBfrUyu0zPlfoeeTXRlYKhUmRspE8ZiT4tFdquTikctm0NqEa0BzC0DG2RpBGf6yeJZiIIuhTbX7JNu1T3bnFWCQMJd49VAxqDhV5XzPBu9wbB7V2ImLCM8DjP85Xz_zewPoMNCBoNPvEwuwSy5zm9HEdhwM2U7VZc_Gv38b44ea1d0Fab-H7G2ehGt6xyf7M9jOEMuNFsSe"
+  },
+  {
+   "id": "E25",
+   "fact": "Eversource Energy's (ES) next earnings release is expected on November 3, 2026.",
+   "as_of": "2026-08-05",
+   "source": "Zacks Investment Research",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGajwuIiMkF8YDDzYcjrEwfYdeIWR3Q9ETL_BVLQgsT9RGuYSKh1TsxGLSf8QHO_gGUKjvz_ZwajVHK5WOC0YMrGOhUfgMe5E4dbD_R_0PtAYZ4S8OhssRQkOsAMQCkSD7_WxpKdsBq7jbr8N9mm_uHQ0BM4A=="
+  },
+  {
+   "id": "E26",
+   "fact": "Sempra (NYSE: SRE) plans to release its second-quarter 2026 earnings results by 8 a.m. ET on August 6, 2026.",
+   "as_of": "2026-07-20",
+   "source": "Sempra Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJkynpLty8j0C0RYkvLWufVVz4p9I6qRBLA-_1y7EqnZ6spAd5is9XB3Ove6s-USIcyanuupx4nirQ5xujJx2kyO4ZxkXFsgURxCpA54_4w3WgYDh-xBDVNWnwPktBHnJnzS8a6G-Y5iqDLfRyEWfqjXX9L4uBj53bJCxCIE_tdzmBKModG_OxteLEj2sAa1FqMNJayUsJa_S73zEGLJNDs_zi5LTOKxArzvsnrJHkONI="
+  },
+  {
+   "id": "E27",
+   "fact": "NextEra Energy (NEE) reported its Q2 2026 earnings on July 23, 2026, posting an EPS of $1.15.",
+   "as_of": "2026-07-23",
+   "source": "NextEra Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1DI5o0CaOCo9G1_-GqSDUqmAM6MPKO7UMSC_YkoTizwv0gUO2CufCUWu4Doc3LKIMulOIxfKJQvkVBrtZrkLAp-3pMEtzAu4bsFWGs8RrjwUYEAxz50baZ0bSCr-0PH4b"
+  },
+  {
+   "id": "E28",
+   "fact": "American Electric Power's (AEP) next earnings date is estimated for October 22, 2026.",
+   "as_of": "2026-07-30",
+   "source": "TipRanks",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWHjnYu6TvOKpSa8ZtS0M9RHjl8DJ732IlU42ejH_iS2bva_-fPocLquoG3tCYZjELGwC-eQ_ybdXcWNxXT53jFtyLpzX3wo0xh0UAdgR0a3BT2kH8Ry89LeULGQS39he9pFH4YmIY"
+  },
+  {
+   "id": "E29",
+   "fact": "DTE Energy (DTE) reported its Q2 2026 earnings on July 28, 2026, posting an EPS of $1.32.",
+   "as_of": "2026-07-28",
+   "source": "DTE Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE12j7cNE6Ywnuet9smAKmMUwlTd0G3YG5e2cEeUP14gPXJrCtIaLpJIiZRaFMEFpmCSU72PUOBclGIEg89-u43QfQakMLtnx3ziAXcHBfSrh7aZgbw7pftngjjauhfDRWi"
+  },
+  {
+   "id": "E30",
+   "fact": "Duke Energy (NYSE: DUK) reported its Q2 2026 earnings on August 4, 2026, posting an EPS of $1.43.",
+   "as_of": "2026-08-04",
+   "source": "Duke Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOBphywWAawRk62WxhIwEQT1QAC1aZWUIWTQ6XrVyu3yqcT6xhou-YqbkAkBchgYUB0DnbEVkXIeJEAoad0MXuqKgRWBW_OQ0Fqz2MinPmsYbfEgFRZuIGRcmbUstPuKjk"
+  },
+  {
+   "id": "E31",
+   "fact": "Southern Company (SO) reported its Q2 2026 earnings on July 29, 2026, posting an EPS of $1.13.",
+   "as_of": "2026-07-29",
+   "source": "Southern Company Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLq7-oGfkJvTriHqGROxE3a_cGvruJLezC-KYkNW3-JP0x3oCB74Q-3juXx_fuToR5aYAVWtPOHMc-8y-lbqouzIC2urym06hHzKObUG5ISsiFmAUkkksF8vbmnz1-LRM="
+  },
+  {
+   "id": "E32",
+   "fact": "NextEra Energy (NYSE: NEE) announced its Q4 2025 and full-year 2025 financial results on January 27, 2026.",
+   "as_of": "2026-01-13",
+   "source": "NextEra Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDM0TVRm3wWBuwFJkQFvODaeM1JtIl5kPq29Yv4oYiAaAHf0cmevMlNvjh5n2ZpMmgVyY-g5zqDvPi_42nozS4SfmujW8rBd8OrWxiiHT3UR9ePb4_J__AHcYN7Pg6HEDxielft2zpXe6skq5_3JpCsgY4JAE27uOd3u_Mv3BWS6q2Urh60Qmuu8hGxbSUUR22mDkvD2eKOi4M="
+  },
+  {
+   "id": "E33",
+   "fact": "Xcel Energy (NASDAQ: XEL) reported Q1 2026 earnings on April 29, 2026, with an EPS of $0.91.",
+   "as_of": "2026-04-29",
+   "source": "Xcel Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIMUsEj8qX6n8BUJy0EaxMn3Y-UkDIn9NWIPC72G_F2b_HD4WFGoM6ROh0pEIOMdCQUQPq6WiMhhs3ZXEYEvGXaRN1HTVwsh7dF2Ozs8zxwQeS9F85k0c0yCLePJJO6Sa2"
+  },
+  {
+   "id": "E34",
+   "fact": "Consolidated Edison announced Q2 2026 earnings on August 6, 2026, reporting an EPS of $0.83.",
+   "as_of": "2026-08-06",
+   "source": "Consolidated Edison Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf-XZaR4R7BbAYlWc0TMsLn-GSoU-U7rP-v1UjArqtLg7UVhN2xwDg_Mr9JdkyqHlWU-Wc38626qwdTGd2L2PKyP3380rfLAZ6XwOg37UGlg9nr05jqBX7yCAhbbm8v7DBo63QNasC5"
+  },
+  {
+   "id": "E35",
+   "fact": "American Electric Power (Nasdaq: AEP) reported second-quarter 2026 GAAP earnings of $1.31 per share.",
+   "as_of": "2026-07-30",
+   "source": "American Electric Power Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBhrKGEu5KbM-ir5na64Um3taB6HXB4FC61c3uVsZ_Io9CMYxg9pp1Dk-1VMaKcSj8MA6dPLYGUr5SLHLKaqBTtapwWFhhoSh-URkic4XKerpsxs0n3Txyvmi9n8OfPZ4bTwsB_Wj0"
+  },
+  {
+   "id": "E36",
+   "fact": "Xcel Energy will host a conference call to review second quarter 2026 financial results on Thursday, July 30, 2026.",
+   "as_of": "2026-07-08",
+   "source": "Xcel Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbrZ8aBZb3P9_uXvoeCvJg8HB8b86rfqdmD2yJ17vYlNVnWTxj8KQeg7sLOgOJrpisoVhNWKmPEmE6uc5CCEtFfuwrH28cAk0RdtDXlMR401HhGnKIywJEtNWinVUVR2it8h3RxUJO9B6SQKDhcNAUiHNXrdVQtFYuSqI-JfPzNJ-4mjqqrgPg5dC3CDY0rOpglcYADoqaWQP2F0pepQrS50vHERR-XPYli2ZZiSGxFz936xpuu2P-xWrqZkm-_fYVUC45T-Zym6yTobjxWw=="
+  },
+  {
+   "id": "E37",
+   "fact": "Southern Company today reported second-quarter earnings of $1.2 billion, or $1.03 per share, in 2026.",
+   "as_of": "2026-07-30",
+   "source": "Southern Company Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCZMNWuqtbTMfnd1S9zVLy-G0y6Tac96mDDSixMlYhiizVZcD09z_UERUocEeyNy9izqtY3s1qJNh8784ahauY8ywYkDoTBQOqUKTIpvoU0dmgz0inXv3tUM2JJgMsZyP86kylysYndeUytZCZrNPvRZV27mlHK6n4MhbEokn-3XW1y5042UF4L-h7-2X1aOIXW7o-6YKFPsI="
+  },
+  {
+   "id": "E38",
+   "fact": "NextEra Energy announced its first-quarter 2026 financial results before the opening of the New York Stock Exchange on April 23, 2026.",
+   "as_of": "2026-04-09",
+   "source": "NextEra Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSXP7AL_9YKz3tA66rU5aHHL5U9uWknSTq8HggWw_m4F1rEJDN0-zUtaIk7zPUn0DabOrTWm9-UY0dyfczFg2_iQkLxhCpaXJwPftmImoPj5JY0gCeCAqWnwlbWL6L82jR3wisYesU-NJy88C46IPYCKy-MCNFNxUB9AJDWsectUiIfXdPyA-2q1YBAM_o_gZV7k9HEKu6FH8="
+  },
+  {
+   "id": "E39",
+   "fact": "NextEra Energy (NYSE:NEE) issued Q2 2026 earnings on July 24, 2026, reporting an EPS of $1.15.",
+   "as_of": "2026-07-24",
+   "source": "NextEra Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETDPz4EErZRMch0V9eBYZeXx0udiYiq0dZyAwhBBSUU4JpDmG_9R1j1_JqNZzvDLNi-s7bfsGlryujKeqLIzUt2sqAEn3FkNVYHufVxZiwqNtakEtw3eFr2nA8VPtYe48fc-O_EVy6oOQ8wvG9m9GaGzqRCyH5pzZ_z140oWcNRLBdikYJSUE5dm1Ye1DbyXcKLpM7W6JrVkbQ="
+  },
+  {
+   "id": "E40",
+   "fact": "Eversource Energy (NYSE:ES) last reported its quarterly earnings data on Thursday, July 30, 2026.",
+   "as_of": "2026-07-30",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2v8gFf5oAnzsr2ECUfp_xC971hvC2ACztwEocAZtI9x88hPxFFCZcLMUwiBwqyJGdYh9Aeqo1jLKXTvTrqx8cJxZzitQ6NVq4eAr73rgvzjRQGIDkbAmZpAIWPiQwMVEVTav04phh2V0__uv7ZGAXloY6Kx1qDBO1Ac3szD4LRmKwwb9Dnx-mNIobpn5LLjxsEb9ioBvPFAAI2dtDQlkvzZ0-0Od3xonA2LVfPRENi-3gTekQg=="
+  },
+  {
+   "id": "E41",
+   "fact": "Sempra Energy (NYSE:SRE) last reported its earnings results on Thursday, May 7th.",
+   "as_of": "2026-05-07",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwF_LFkaCbg9Sf06Khof8KbiDyhLduzYHysvvy2OhJGzA_B-I5UM7L9lbQ8j3p0_gre1DKXlCuVLSpyeuhS15-B1mOa2kfPRv1b-fOSObej7-Asx174MxGywUb1O2OnU-J-KSsI2BTCu4iKnBY24MRhB6UgamRn-SgSEQqTSRo0BeIY90iycz3G5Au-Qvr02S7zXeIM8XcWaCT-WmBTh7Kaq7qMUHqlWa4"
+  },
+  {
+   "id": "E42",
+   "fact": "Dominion Energy (NYSE: D) announced unaudited net income for the three months ended June 30, 2026, of $340 million ($0.37 per share).",
+   "as_of": "2026-07-31",
+   "source": "Dominion Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElLN_pnu1rfHhI6smBEetMFG3zSEHjv2lE8gJAl2QbY1zlyWTVgFZhk0-7HdOa6_PgpS-GmavRXVcxB2e1w1x2eYcJaTojbXEE8FmCQ3FfJg6qMxMHcqgWN5mJLJtR_BnjxYmAZF7JxI6ex3ednFwFMophLznUmP6SV2OBijawo7-b_C8st5VDZy0LyqGDpevJtVIuwYbcy5xrE3B2yN1sTbWDyJw2Iydxf5SMv0IWCiEVM2CEpi4jI4Y67ue6nXeL68f2FodS"
+  },
+  {
+   "id": "E43",
+   "fact": "Xcel Energy's next earnings report is expected on July 30, 2026.",
+   "as_of": "2026-07-30",
+   "source": "Xcel Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaNWGS8FArALCj4CyRjRv8Bm84kiID6YetVSzaSRGbyCyBAr2W20QDo0JYEI6zkia9-sCi_FaRHcyzKLG2K_nwh7bkkcu_aGCc4AMlxnhZn8EZ6BnxopIOM2BRCX7eyoN4y24LXmnftN9IcVCFoJy5v05tsg2vkSjl8bCt"
+  },
+  {
+   "id": "E44",
+   "fact": "Sempra Energy's (SRE) next earnings report is expected on October 30, 2026.",
+   "as_of": "2026-08-06",
+   "source": "Investing.com",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbN3gHYbpxhcat-Oh1r7pF0_juDvls5u7jfX1kytVL9AAkgOgWay12dlIfjlBnrgCEekMgYo5gzHrkixVqgwsEb8xp28yDazjST3jxt5acwXiUGJku-msHC_otVvG3T6u6-z1lSr4fmN78uBJProCqpZplSw=="
+  },
+  {
+   "id": "E45",
+   "fact": "NextEra Energy (NEE) is expected to announce its next earnings report on October 27, 2026.",
+   "as_of": "2026-07-23",
+   "source": "NextEra Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1DI5o0CaOCo9G1_-GqSDUqmAM6MPKO7UMSC_YkoTizwv0gUO2CufCUWu4Doc3LKIMulOIxfKJQvkVBrtZrkLAp-3pMEtzAu4bsFWGs8RrjwUYEAxz50baZ0bSCr-0PH4b"
+  },
+  {
+   "id": "E46",
+   "fact": "Duke Energy will post its fourth-quarter and year-end 2025 financial results at 7 a.m. ET on February 10, 2026.",
+   "as_of": "2026-01-08",
+   "source": "Duke Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6MzIk9pOBcPoXvmLm8d4Rp-HOxjQfJify2doUXLn6Xw1Qp-9dXOPqwCQ8BhgpoHwc0n6KH67942vMHt3kM2kcZXf-fk_PdKOW207IdxlShPy48bh_dh4Z4ECQ08EbTSqAGoMST-O6xa54BRTCDVW5pZx4Ma7_L34hL8EhubmF8waTdZPgC-thd21leygQdUIjA2yOrWNc3VYzQRrrCuUBHJe5oPPSH9OrdsSpJ-KP-b6O1TtxoPnKP6ohBtn75752EBgI76Jkk01PLx7jnqsgm6YEkUa08Q=="
+  },
+  {
+   "id": "E47",
+   "fact": "Southern Company (SO) is scheduled to report earnings on October 29, 2026.",
+   "as_of": "2026-08-07",
+   "source": "Zacks Investment Research",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1fyxKzaVyHVh56BSoVpXmJDj_XPV6T7YBhhJtNGSiP9Mr1krX1jBGuLpRAaNrRc-qoN-mPwgeJ7TVms9aRQsL2lm1TFlc7GjJgRTs3kf_Osl9CK_YXyjkGdZZURvsg7GmHamkRGT7Nosgi9d0IrA1MSKK-g=="
+  },
+  {
+   "id": "E48",
+   "fact": "Eversource Energy will release its first quarter of 2026 financial results on Wednesday, May 6, 2026, after the market closes.",
+   "as_of": "2026-04-16",
+   "source": "Eversource Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Iq7bu-t_fjVSt3uez3Bx5o-zQy0HAOsC1QVduKGeqqTJzUt2sqAEn3FkNVYHufVxZiwqNtakEtw3eFr2nA8VPtYe48fc-O_EVy6oOQ8wvG9m9GaGzqRCyH5pzZ_z140oWcNRLBdikYJSUE5dm1Ye1DbyXcKLpM7W6JrVkbQ="
+  },
+  {
+   "id": "E49",
+   "fact": "Sempra (NYSE: SRE) plans to release its second-quarter 2026 earnings results by 8 a.m. ET on August 6, 2026.",
+   "as_of": "2026-07-30",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwF_LFkaCbg9Sf06Khof8KbiDyhLduzYHysvvy2OhJGzA_B-I5UM7L9lbQ8j3p0_gre1DKXlCuVLSpyeuhS15-B1mOa2kfPRv1b-fOSObej7-Asx174MxGywUb1O2OnU-J-KSsI2BTCu4iKnBY24MRhB6UgamRn-SgSEQqTSRo0BeIY90iycz3G5Au-Qvr02S7zXeIM8XcWaCT-WmBTh7Kaq7qMUHqlWa4"
+  },
+  {
+   "id": "E50",
+   "fact": "Dominion Energy (NYSE: D) last announced its quarterly earning data on Friday, July 31, 2026.",
+   "as_of": "2026-07-31",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNurjsz3-6zCFMV8WPYzCNwmXwRE6SxXylEBV9-isrsiOoSPSxiiRw5iyKSvbqXueJNbInXoN1DB1iG6lRlGQIW1jd09yJrKaybs9bYx57_ZZd-ONmRy9vUJA5trtQvCIr_CoVLBJ7Ao7oxr_N"
+  },
+  {
+   "id": "E51",
+   "fact": "American Electric Power Company, Inc. (AEP) is scheduled to report earnings on October 22, 2026.",
+   "as_of": "2026-08-04",
+   "source": "TipRanks",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWHjnYu6TvOKpSa8ZtS0M9RHjl8DJ732IlU42ejH_iS2bva_-fPocLquoG3tCYZjELGwC-eQ_ybdXcWNxXT53jFtyLpzX3wo0xh0UAdgR0a3BT2kH8Ry89LeULGQS39he9pFH4YmIY"
+  },
+  {
+   "id": "E52",
+   "fact": "Consolidated Edison, Inc. (ED) is scheduled to report earnings on August 6, 2026, After Close.",
+   "as_of": "2026-08-06",
+   "source": "TipRanks",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3nDyhqMz6ex_N1mfxGcEQzCXK5mRzY5Z8XaTI0t5hrsNRiLnB1EldVgcBaBYheglDV8evcfovF4yr_w85-ALBGhOD8S7qhFtIdhXstZSCZzLXEvZlEbljdVPemxeJOZtusADDQ48="
+  },
+  {
+   "id": "E53",
+   "fact": "Sempra Energy (NYSE:SRE) is scheduled to report earnings on August 6, 2026.",
+   "as_of": "2026-08-06",
+   "source": "TipRanks",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS3D-MCCqgdbKW3CIBzXSEtsMwF8N4MMDn8opcScZQB4DuANEgp3Gm-_kGt8f4jL3gtfT6QX4R17up0-dH6QS4Ct5-DEIMUjh0bfnjXUHcHU6jwgxU4qXyCAhbbm8v7DBo63QNasC5"
+  },
+  {
+   "id": "E54",
+   "fact": "Duke Energy (DUK) is scheduled to report earnings on August 4, 2026.",
+   "as_of": "2026-08-04",
+   "source": "TipRanks",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYW2Z__ziwl1twnVZJlDG64khBdgyBA1bdIqrnHtxqigxvtt-cgFLF-AwI31FOzS_a1t7ggTnwdhnsfIHJDv93lLZufDfEQQ1tsW4BEB3FFbVyzRhJx7BoaSuarZG_9agwrml06L-_"
+  },
+  {
+   "id": "E55",
+   "fact": "Eversource Energy (ES) is scheduled to report earnings on November 9, 2026.",
+   "as_of": "2026-11-09",
+   "source": "TipRanks",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Iq7bu-t_fjVSt3uez3Bx5o-zQy0HAOsC1QVduKGeqqTJzUt2sqAEn3FkNVYHufVxZiwqNtakEtw3eFr2nA8VPtYe48fc-O_EVy6oOQ8wvG9m9GaGzqRCyH5pzZ_z140oWcNRLBdikYJSUE5dm1Ye1DbyXcKLpM7W6JrVkbQ="
+  },
+  {
+   "id": "E56",
+   "fact": "Dominion Energy's next earnings report is scheduled for October 30, 2026.",
+   "as_of": "2026-10-30",
+   "source": "Investing.com",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHc0B1Whm7omC4uYXha0B5n2c-L4SyAstLTeda2EFGyTeex2lryMDby2BlN04KaM6dnWCB_nXck-YZ7Rm2u5vfm60mB_pUBozcvm7aQgA60ct_C0l6eSOqO0M08JJjJq1-ny1ap4TekBpj367U1Y6K4Ydk6"
+  },
+  {
+   "id": "E57",
+   "fact": "Southern Company today reported second-quarter earnings of $1.2 billion, or $1.03 per share, in 2026 compared with earnings of $0.9 billion, or $0.80 per share, in the second quarter of 2025.",
+   "as_of": "2026-07-30",
+   "source": "Southern Company Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCZMNWuqtbTMfnd1S9zVLy-G0y6Tac96mDDSixMlYhiizVZcD09z_UERUocEeyNy9izqtY3s1qJNh8784ahauY8ywYkDoTBQOqUKTIpvoU0dmgz0inXv3tUM2JJgMsZyP86kylysYndeUytZCZrNPvRZV27mlHK6n4MhbEokn-3XW1y5042UF4L-h7-2X1aOIXW7o-6YKFPsI="
+  },
+  {
+   "id": "E58",
+   "fact": "American Electric Power (Nasdaq: AEP) today reported first-quarter 2026 GAAP earnings of $874 million or $1.61 per share.",
+   "as_of": "2026-05-05",
+   "source": "American Electric Power Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR-xi4P9VZX-vGK8GboR94yD6R5uIbbn4zy0e0hC_aLEwUT5IThFa35VrA4_4YhCdmf4E9d_XrH-gCvy0KkND8B5wmOwwsx_uiKwjB7t1BXbi6wlNlj2_eJSlbPfJ62FVjSDcoOqmR"
+  },
+  {
+   "id": "E59",
+   "fact": "Xcel Energy's Q2 2026 earnings were announced on July 30, 2026, reporting an EPS of $0.93.",
+   "as_of": "2026-07-30",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtCHaiHDDN06WMUf44XzoUbiO78Brf4k7mm2Gtbynn_Zgt4RfMqCaSW7gWK5uEuCxsMYRXhwGL69QieXNo1emA80BLBMrv4cQkyR9tYeaitPJXd4S_h2N5LPdPGUeOhW9CBW2a1CFWeXlA8ZNQDiCiqw=="
+  },
+  {
+   "id": "E60",
+   "fact": "DTE Energy (NYSE:DTE) last announced its quarterly earning data on Tuesday, July 28, 2026.",
+   "as_of": "2026-07-28",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyB2dnYm_CeLz4qaZeMmqu2Kvsk5qPHtIqoF06iRa2vX9doLw7oqtHUGgrRL_cOecBo5TJZ1R2zbGhT8TDvJSOnxPcU5YmNbI_E8E_F15A6dC5KoNRLBdikYJSUE5dm1Ye1DbyXcKLpM7W6JrVkbQ="
+  },
+  {
+   "id": "E61",
+   "fact": "Consolidated Edison Inc (ED) has announced they will report their next quarter earnings on August 06, 2026.",
+   "as_of": "2026-07-31",
+   "source": "Zacks Investment Research",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDVyig6UIutKtBxTh6cE3CyPoNmXECKDwB-4qihwfApW7zjxWsUMQVVRDUdOj-nsShf1JOGhEsAWObkEh5ISkAbsms53m50h65dRboj15xIc2iJg-plr5SL9x7Rss3obZj-UWz-0N9z7HEa9EWSPFEek3SsA=="
+  },
+  {
+   "id": "E62",
+   "fact": "American Electric Power Company, Inc. (AEP) has announced they will report their next quarter earnings on November 04, 2026.",
+   "as_of": "2026-08-04",
+   "source": "Zacks Investment Research",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFJSC-5aLL26dXjVveCcrhhFV5vMHBIQspBZeb9suAGMwflYfr6jf9HYNLik6WHxlCTCgRaAxC2xzrIM4De6DqGD1Q41ThMgd428ZsvWTu12JFDR6sVl9FIK6TWYNyEDwP68rXVMUxbgKLMvCzUSAVUMAGKCc="
+  },
+  {
+   "id": "E63",
+   "fact": "Dominion Energy (NYSE: D) reported Q2 2026 earnings on July 31, 2026, posting an EPS of $0.79.",
+   "as_of": "2026-07-31",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNurjsz3-6zCFMV8WPYzCNwmXwRE6SxXylEBV9-isrsiOoSPSxiiRw5iyKSvbqXueJNbInXoN1DB1iG6lRlGQIW1jd09yJrKaybs9bYx57_ZZd-ONmRy9vUJA5trtQvCIr_CoVLBJ7Ao7oxr_N"
+  },
+  {
+   "id": "E64",
+   "fact": "Eversource Energy (ES) last reported its quarterly earnings data on May 6, 2026.",
+   "as_of": "2026-05-06",
+   "source": "Eversource Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Iq7bu-t_fjVSt3uez3Bx5o-zQy0HAOsC1QVduKGeqqTJzUt2sqAEn3FkNVYHufVxZiwqNtakEtw3eFr2nA8VPtYe48fc-O_EVy6oOQ8wvG9m9GaGzqRCyH5pzZ_z140oWcNRLBdikYJSUE5dm1Ye1DbyXcKLpM7W6JrVkbQ="
+  },
+  {
+   "id": "E65",
+   "fact": "Consolidated Edison, Inc. (ED) last announced its quarterly earning data on Thursday, August 6, 2026.",
+   "as_of": "2026-08-06",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf-XZaR4R7BbAYlWc0TMsLn-GSoU-U7rP-v1UjArqtLg7UVhN2xwDg_Mr9JdkyqHlWU-Wc38626qwdTGd2L2PKyP3380rfLAZ6XwOg37UGlg9nr05jqBX7yCAhbbm8v7DBo63QNasC5"
+  },
+  {
+   "id": "E66",
+   "fact": "Southern Company (SO) reported its second-quarter earnings on July 30, 2026.",
+   "as_of": "2026-07-30",
+   "source": "Southern Company Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCZMNWuqtbTMfnd1S9zVLy-G0y6Tac96mDDSixMlYhiizVZcD09z_UERUocEeyNy9izqtY3s1qJNh8784ahauY8ywYkDoTBQOqUKTIpvoU0dmgz0inXv3tUM2JJgMsZyP86kylysYndeUytZCZrNPvRZV27mlHK6n4MhbEokn-3XW1y5042UF4L-h7-2X1aOIXW7o-6YKFPsI="
+  },
+  {
+   "id": "E67",
+   "fact": "Duke Energy (NYSE: DUK) last announced its quarterly earning data on Tuesday, August 4, 2026.",
+   "as_of": "2026-08-04",
+   "source": "MarketBeat",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOBphywWAawRk62WxhIwEQT1QAC1aZWUIWTQ6XrVyu3yqcT6xhou-YqbkAkBchgYUB0DnbEVkXIeJEAoad0MXuqKgRWBW_OQ0Fqz2MinPmsYbfEgFRZuIGRcmbUstPuKjk"
+  },
+  {
+   "id": "E68",
+   "fact": "NextEra Energy (NEE) reported its Q2 2026 earnings on July 24, 2026, exceeding analysts' consensus estimates of $1.11 by $0.04.",
+   "as_of": "2026-07-24",
+   "source": "NextEra Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETDPz4EErZRMch0V9eBYZeXx0udiYiq0dZyAwhBBSUU4JpDmG_9R1j1_JqNZzvDLNi-s7bfsGlryujKeqLIzUt2sqAEn3FkNVYHufVxZiwqNtakEtw3eFr2nA8VPtYe48fc-O_EVy6oOQ8wvG9m9GaGzqRCyH5pzZ_z140oWcNRLBdikYJSUE5dm1Ye1DbyXcKLpM7W6JrVkbQ="
+  },
+  {
+   "id": "E69",
+   "fact": "Sempra Energy (NYSE: SRE) last reported its earnings on August 5, 2026, for Q2 2026, posting an EPS of $1.16.",
+   "as_of": "2026-08-05",
+   "source": "Sempra Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXiJCYZWXYOcN9O1AvR5rie_PojNhGVWP5d_u9wrShmZywmb1Hl8CCRUVtOYUW7xTYf741nJF_t-1KogP7z-hXU_e_jxWxzzF_jE3MEXVdFD730bacanGRPJHyALEmi-1q"
+  },
+  {
+   "id": "E70",
+   "fact": "DTE Energy's next earnings report is scheduled for October 29, 2026.",
+   "as_of": "2026-10-29",
+   "source": "DTE Energy Investor Relations",
+   "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4z5tj2cNzHq76qml7gAZ4kIxLsFgxXp_lYbv5N3mcIfly2-CntKcISTHRllPwWPRAgQSx5dBW8nhxmVCmUsUpjlz7zc95hQW78SLQKrNCce0aqRvOOBlj27bk_Q=="
+  }
+ ],
+ "unknowns": []
+}
