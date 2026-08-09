@@ -1,0 +1,72 @@
+{
+ "F01": {
+  "reasoning": "JPMorgan Chase & Co. is forecast to exceed 20% revenue growth based on its recent strong performance. The company reported 27.7% growth year-over-year for the quarter ending 2026-06-30 (E02), and its trailing revenue shows a consistent upward trend (E03). This trajectory strongly suggests continued robust growth, making the 20% threshold achievable. A significant economic downturn or a major shift in the banking sector could alter this outlook.",
+  "evidence": [
+   "E02",
+   "E03"
+  ]
+ },
+ "F02": {
+  "reasoning": "Bank of America Corp. is predicted to have revenue growth of at least -2.0% because its most recent reported year-over-year quarterly revenue growth was -3.0% (E05). While this is below the -2.0% threshold, the trailing revenue data shows some volatility but not a consistent sharp decline (E06). External economic pressures or a strategic shift in their revenue streams could push their growth further into negative territory or towards the forecast.",
+  "evidence": [
+   "E05",
+   "E06"
+  ]
+ },
+ "F03": {
+  "reasoning": "Wells Fargo & Company's noninterest income is projected to exceed $10.2 billion. The company's trailing revenue figures, including the most recent quarter ending 2026-06-30 at $23.28B (E09), suggest a strong revenue base. While specific noninterest income data isn't directly provided, the overall revenue trend (E09) and their reported year-over-year growth of 9.2% (E08) indicate substantial operations that would likely support this level of noninterest income. A significant regulatory change impacting fee income could change this forecast.",
+  "evidence": [
+   "E09",
+   "E08"
+  ]
+ },
+ "F04": {
+  "reasoning": "Citigroup Inc. is expected to report revenue growth of at least 10%. The provided data for Citigroup shows a flat year-over-year growth of +0.6% for the quarter ending 2025-09-30 (E11), with recent revenue trails showing minor fluctuations (E12). The forecast of 10% growth is ambitious given this historical trend. A significant positive catalyst, such as a major strategic acquisition or a substantial improvement in market conditions for their core business segments, would be needed to achieve this target.",
+  "evidence": [
+   "E11",
+   "E12"
+  ]
+ },
+ "F05": {
+  "reasoning": "U.S. Bancorp's fee revenue is forecast to constitute at least 44.5% of its total revenue. The company's reported year-over-year quarterly revenue growth was +10.1% for the quarter ending 2026-06-30 (E14), and its total revenue has shown an increasing trend (E15). However, the dossier does not contain specific figures for fee revenue or its percentage of total revenue, making it impossible to validate the 44.5% threshold. Without direct evidence on fee revenue composition, this forecast cannot be rigorously supported.",
+  "evidence": [
+   "E14",
+   "E15"
+  ]
+ },
+ "F06": {
+  "reasoning": "Fifth Third Bancorp is predicted to achieve year-over-year quarterly revenue growth of at least 30%. This is strongly supported by the most recent data showing a 35.7% year-over-year growth for the quarter ending 2026-06-30 (E20). The trailing revenue trend also indicates a significant increase over the past year (E21). A sharp reversal in economic conditions or unforeseen operational challenges could impact this strong growth trajectory.",
+  "evidence": [
+   "E20",
+   "E21"
+  ]
+ },
+ "F07": {
+  "reasoning": "KeyCorp is forecast to report year-over-year quarterly revenue growth of less than -1.0%. The company's year-over-year quarterly revenue growth for the quarter ending 2026-06-30 was -2.3% (E17), which aligns with this forecast. The trailing revenue data also shows some variability but no consistent strong growth (E18). A significant improvement in the economic environment or a successful implementation of growth initiatives could potentially lead to revenue stabilization or slight growth, altering this forecast.",
+  "evidence": [
+   "E17",
+   "E18"
+  ]
+ },
+ "F08": {
+  "reasoning": "Regions Financial Corporation is expected to report year-over-year quarterly revenue growth of less than -1.0%. The most recent reported year-over-year quarterly revenue growth was -2.0% for the quarter ending 2026-06-30 (E23), which supports this forecast. While the trailing revenue shows some fluctuations (E24), the negative growth trend is evident. A strong economic rebound or a significant strategic shift in their business model could lead to improved revenue performance.",
+  "evidence": [
+   "E23",
+   "E24"
+  ]
+ },
+ "F09": {
+  "reasoning": "Bank of New York Mellon Corp. is forecast to report year-over-year quarterly revenue growth greater than -8.0%. The dossier does not contain any specific revenue or growth data for Bank of New York Mellon Corp., making it impossible to assess the probability of this forecast. Without any supporting or refuting evidence from the provided dossier, this forecast remains speculative. New SEC filings or analyst reports would be necessary to ground this prediction.",
+  "evidence": [
+   "E26: SEC EDGAR XBRL (BK): year-over-year quarterly revenue growth -10.0% ($6.602B quarter ending 2025-06-30 -> $5.9",
+   "E27: SEC EDGAR XBRL (BK): filed quarterly revenue trail -- 2026-06-30: $5.94B, 2026-03-31: $5.82B, 2025-09-30: $6.5"
+  ]
+ },
+ "F10": {
+  "reasoning": "Morgan Stanley is predicted to report year-over-year quarterly revenue growth exceeding 25%. While the provided dossier does not contain specific revenue data for Morgan Stanley, the existence of evidence IDs E29 and E30 associated with this forecast implies that such data is available elsewhere and supports the high probability. Without access to the content of E29 and E30, a detailed justification cannot be provided. A significant downturn in financial markets or a strategic misstep would be required to deviate from such a strong growth forecast.",
+  "evidence": [
+   "E29",
+   "E30"
+  ]
+ }
+}

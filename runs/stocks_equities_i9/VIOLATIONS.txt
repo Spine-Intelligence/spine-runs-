@@ -1,0 +1,3 @@
+[P1_SENTENCE] F02: statement must be exactly one sentence (<=420 chars)
+[P1_SENTENCE] F09: statement must be exactly one sentence (<=420 chars)
+[P3_NUM_UNGROUNDED] F03: a number (mantissa 2.328) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
