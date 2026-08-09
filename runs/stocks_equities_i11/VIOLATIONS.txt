@@ -1,0 +1,26 @@
+[P3_NUM_UNGROUNDED] F01: a number (mantissa 3.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F03: a number (mantissa 3.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F04: a number (mantissa 3.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F05: a number (mantissa 3.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F06: a number (mantissa 3.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F07: a number (mantissa 3.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F09: a number (mantissa 3.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F10: a number (mantissa 3.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F11: a number (mantissa 3.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F12: a number (mantissa 3.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F13: a number (mantissa 3.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F14: a number (mantissa 3.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F16: a number (mantissa 3.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F17: a number (mantissa 3.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F18: a number (mantissa 2.308) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F19: a number (mantissa 2.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F20: a number (mantissa 2.430) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F21: a number (mantissa 2.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F22: a number (mantissa 2.500) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F24: a number (mantissa 1.700) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F27: a number (mantissa 3.000) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P3_NUM_UNGROUNDED] F30: a number (mantissa 2.430) in the appendix appears NOWHERE in its cited evidence, statement, or criteria -- the fact-checker requires every number to trace to a citation
+[P1_EVID_CONC] evidence E01 underwrites 4 forecasts -- one source carrying the book is a correlated failure mode (max 3)
+[P1_EVID_CONC] evidence E03 underwrites 5 forecasts -- one source carrying the book is a correlated failure mode (max 3)
+[P1_EVID_CONC] evidence E22 underwrites 4 forecasts -- one source carrying the book is a correlated failure mode (max 3)
+[P1_EVID_CONC] evidence E23 underwrites 4 forecasts -- one source carrying the book is a correlated failure mode (max 3)

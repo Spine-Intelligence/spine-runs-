@@ -1,0 +1,184 @@
+{
+ "analyses": [
+  {
+   "entity": "JPMorgan Chase & Co. (JPM)",
+   "current_state": "SEC EDGAR XBRL (JPM, JPMORGAN CHASE & CO): quarterly revenue $57.347B for fiscal quarter ending 2026-06-30, filed 2026-08-06 (10-Q, tag RevenuesNetOfInterestExpense) [E01]; SEC EDGAR XBRL (JPM): year-over-year quarterly revenue growth +27.7% ($44.912B quarter ending 2025-06-30 -> $57.347B ending 2026-06-30, both as filed) [E02]; JPMorgan Chase & Co. reported net income of $21.2 billion, up 41% from Q2 2025 [E32].",
+   "reference_class": "Large-cap diversified global systemically important banks (G-SIBs) undergoing rapid net interest income and non-interest revenue expansion, moving from a 2024-2025 quarterly revenue trail of ~$42.65B\u2013$49.84B to over $57B by mid-2026 [E03].",
+   "mechanisms": "1. Net interest income (NII) driver: Driven by resilient loan yields and asset-liability management structure supporting the $25.5 billion Q2 2026 NII print. 2. Trading and fee cycle driver: Non-interest revenue expansion via robust capital markets and investment banking execution. 3. Credit costs driver: Allowance for credit losses and provisioning levels acting as an offset to top-line gains.",
+   "scenarios": [
+    "Sustained revenue above $55B per quarter driven by steady NII retention and stable capital markets activity.",
+    "A compression in net interest margins due to shifting rate expectations and higher funding costs, pulling quarterly revenues back toward the high-$40B range."
+   ],
+   "key_uncertainty": "The trajectory of net interest margin compression versus sustained loan volume growth in a dynamic macroeconomic rate environment.",
+   "evidence": [
+    "E01",
+    "E02",
+    "E03",
+    "E31",
+    "E32",
+    "E52"
+   ]
+  },
+  {
+   "entity": "Bank of America Corporation (BAC)",
+   "current_state": "SEC EDGAR XBRL (BAC, BofA Finance LLC): quarterly revenue $33.832B for fiscal quarter ending 2026-06-30, filed 2026-07-31 (10-Q, tag InterestAndDividendIncomeOperating) [E04]; SEC EDGAR XBRL (BAC): year-over-year quarterly revenue growth -3.0% ($34.873B quarter ending 2025-06-30 -> $33.832B ending 2026-06-30, both as filed) [E05]; Bank of America's Q2 2026 diluted earnings per share surged to $1.21, a 34% increase year-over-year [E34].",
+   "reference_class": "Money center commercial and retail banking institutions managing trailing quarterly revenues oscillating between $33.36B and $37.49B [E06].",
+   "mechanisms": "1. Product mix driver: Balance between consumer banking deposit betas and commercial lending spreads. 2. Credit costs driver: Provision for credit losses impacting bottom-line EPS growth despite top-line fluctuations. 3. Rate environment driver: Sensitivity of interest and dividend income operating streams to fluctuating benchmark rates.",
+   "scenarios": [
+    "Revenue stabilization in the $33B\u2013$35B range as consumer loan demand matches deposit repricing schedules.",
+    "Further contraction in operating interest income if asset yields decline faster than deposit funding costs."
+   ],
+   "key_uncertainty": "The exact speed at which deposit costs reprice relative to commercial and consumer asset yields.",
+   "evidence": [
+    "E04",
+    "E05",
+    "E06",
+    "E33",
+    "E34"
+   ]
+  },
+  {
+   "entity": "Wells Fargo & Company (WFC)",
+   "current_state": "SEC EDGAR XBRL (WFC, WELLS FARGO & COMPANY/MN): quarterly revenue $23.284B for fiscal quarter ending 2026-06-30, filed 2026-07-28 (10-Q, tag InterestAndDividendIncomeOperating) [E07]; SEC EDGAR XBRL (WFC): year-over-year quarterly revenue growth +9.2% ($21.320B quarter ending 2025-06-30 -> $23.284B ending 2026-06-30, both as filed) [E08]; Wells Fargo reported Q2 2026 net income of $6.4 billion, or $2.00 per diluted share, an increase of 25% from a year ago [E35].",
+   "reference_class": "Large US national banks transitioning out of historical asset-cap and regulatory constraint eras into structured growth, maintaining quarterly revenue trails around $21B\u2013$23B [E09].",
+   "mechanisms": "1. Schedule structure driver: Asset cap constraints and regulatory compliance cost remediation phases impacting efficiency ratios. 2. Rate environment driver: Core earning asset yields driving the +9.2% YoY quarterly revenue growth [E08]. 3. Credit costs driver: Net credit-loss provisioning within retail and commercial real estate portfolios.",
+   "scenarios": [
+    "Continued incremental expansion in operating interest income pushing revenues consistently above the $23B threshold.",
+    "Stagnation in revenue growth should commercial real estate provisioning escalate."
+   ],
+   "key_uncertainty": "The full remediation timeline and financial impact of historical regulatory asset restrictions on operational scaling.",
+   "evidence": [
+    "E07",
+    "E08",
+    "E09",
+    "E35",
+    "E36"
+   ]
+  },
+  {
+   "entity": "Citigroup Inc. (C)",
+   "current_state": "SEC EDGAR XBRL (C, Citigroup Inc): quarterly revenue $36.690B for fiscal quarter ending 2025-09-30, filed 2025-11-06 (10-Q, tag InterestAndDividendIncomeOperating) [E10]; SEC EDGAR XBRL (C): year-over-year quarterly revenue growth +0.6% ($36.456B quarter ending 2024-09-30 -> $36.690B ending 2025-09-30, both as filed) [E11]; Citigroup's Q2 2026 revenues of $24.8 billion represent its best quarterly revenue in a decade, a 14% increase from the prior-year period [E38].",
+   "reference_class": "Global tier-1 banking institutions executing cross-border institutional services, wealth management, and structural organizational simplification.",
+   "mechanisms": "1. Trading and fee cycle driver: Institutional client group fee generation and treasury trade solutions performance. 2. Product mix driver: Ongoing international retail divestitures and refocusing on high-margin fee-based segments. 3. Rate environment driver: Net interest spread capture across global jurisdictions.",
+   "scenarios": [
+    "Sustained quarterly revenue expansion driven by institutional services and fee-based revenue streams hitting multi-year highs.",
+    "Top-line deceleration if global trade volumes and cross-border corporate activity contract."
+   ],
+   "key_uncertainty": "The pace and cost efficiency of organizational restructuring and international footprint reduction.",
+   "evidence": [
+    "E10",
+    "E11",
+    "E12",
+    "E37",
+    "E38"
+   ]
+  },
+  {
+   "entity": "U.S. Bancorp (USB)",
+   "current_state": "SEC EDGAR XBRL (USB, US BANCORP \\DE\\): quarterly revenue $7.712B for fiscal quarter ending 2026-06-30, filed 2026-08-06 (10-Q, tag Revenues) [E13]; SEC EDGAR XBRL (USB): year-over-year quarterly revenue growth +10.1% ($7.004B quarter ending 2025-06-30 -> $7.712B ending 2026-06-30, both as filed) [E14].",
+   "reference_class": "Large regional banking organizations expanding top-line revenue through disciplined loan generation and fee income, showing a trailing revenue progression from $6.86B (Q3 2024) to $7.71B (Q2 2026) [E15].",
+   "mechanisms": "1. Rate environment driver: Fixed-income portfolio positioning and loan yield adjustments. 2. Product mix driver: Payment services and consumer banking fee revenues supporting total top-line growth. 3. Credit costs driver: Provisioning for consumer credit card and auto loan delinquencies.",
+   "scenarios": [
+    "Steady maintenance of revenue above the $7.5B quarterly mark supported by core deposit retention.",
+    "Revenue compression if regional commercial loan demand softens and deposit betas increase."
+   ],
+   "key_uncertainty": "The behavior of core consumer deposit costs in key Midwest and West Coast regional markets.",
+   "evidence": [
+    "E13",
+    "E14",
+    "E15",
+    "E41"
+   ]
+  },
+  {
+   "entity": "KeyCorp (KEY)",
+   "current_state": "SEC EDGAR XBRL (KEY, KeyCorp): quarterly revenue $2.059B for fiscal quarter ending 2026-06-30, filed 2026-08-04 (10-Q, tag InterestAndDividendIncomeOperating) [E16]; SEC EDGAR XBRL (KEY): year-over-year quarterly revenue growth -2.3% ($2.107B quarter ending 2025-06-30 -> $2.059B ending 2026-06-30, both as filed) [E17]; KeyCorp's Q2 2026 revenue was $1.96 billion, up 6.7% year-over-year [E43].",
+   "reference_class": "Mid-cap regional banking institutions managing balance sheet repositioning, capital actions, and floating-rate asset adjustments with quarterly revenue trails between $2.00B and $2.17B [E18].",
+   "mechanisms": "1. Capital structure driver: Balance sheet restructuring and strategic capital injections affecting net interest margin recovery. 2. Rate environment driver: Sensitivity of legacy fixed-rate assets to short-term funding costs. 3. Capex cycle driver: Technology and operational investments impacting non-interest expense structures.",
+   "scenarios": [
+    "Gradual net interest margin expansion as legacy lower-yielding swaps and securities mature.",
+    "Continued top-line volatility if deposit competition in regional markets remains acute."
+   ],
+   "key_uncertainty": "The exact net interest margin inflection timing following balance sheet hedging actions.",
+   "evidence": [
+    "E16",
+    "E17",
+    "E18",
+    "E42",
+    "E43"
+   ]
+  },
+  {
+   "entity": "Fifth Third Bancorp (FITB)",
+   "current_state": "SEC EDGAR XBRL (FITB, Fifth Third Bancorp): quarterly revenue $3.372B for fiscal quarter ending 2026-06-30, filed 2026-08-04 (10-Q, tag InterestAndDividendIncomeOperating) [E19]; SEC EDGAR XBRL (FITB): year-over-year quarterly revenue growth +35.7% ($2.484B quarter ending 2025-06-30 -> $3.372B ending 2026-06-30, both as filed) [E20]; Fifth Third Bancorp's Q2 2026 revenue totaled $3.28 billion, a 46.0% increase from Q2 2025 [E45].",
+   "reference_class": "Regional banking corporations exhibiting high top-scale growth velocity, scaling quarterly revenue trails from $2.43B (Q1 2025) to over $3.37B (Q2 2026) [E21].",
+   "mechanisms": "1. Product mix driver: Expansion of commercial banking services and fee income generating the +35.7% to +46.0% YoY revenue jumps [E20, E45]. 2. Rate environment driver: Asset generation yields outstripping wholesale funding cost increases. 3. Credit costs driver: Credit loss reserves tracking commercial portfolio growth.",
+   "scenarios": [
+    "Consolidation of recent revenue gains above the $3.2B quarterly level as integration of recent portfolio additions matures.",
+    "Pullback in top-line growth if commercial loan origination velocity normalizes from peak expansion rates."
+   ],
+   "key_uncertainty": "The sustainability of high organic and inorganic loan growth rates against macroeconomic credit normalization.",
+   "evidence": [
+    "E19",
+    "E20",
+    "E21",
+    "E44",
+    "E45"
+   ]
+  },
+  {
+   "entity": "Regions Financial Corporation (RF)",
+   "current_state": "SEC EDGAR XBRL (RF, Regions Financial Corporation): quarterly revenue $1.748B for fiscal quarter ending 2026-06-30, filed 2026-08-06 (10-Q, tag InterestAndDividendIncomeOperating) [E22]; SEC EDGAR XBRL (RF): year-over-year quarterly revenue growth -2.0% ($1.784B quarter ending 2025-06-30 -> $1.748B ending 2026-06-30, both as filed) [E23]; Regions Financial's Q2 2026 reported total revenue was $1,907 million [E47].",
+   "reference_class": "Southern and Midwest-focused regional financial institutions maintaining quarterly revenue trails between $1.70B and $1.82B [E24].",
+   "mechanisms": "1. Rate environment driver: Deposit repricing dynamics in Southern US metropolitan expansion corridors affecting net interest income. 2. Credit costs driver: Commercial and consumer loan loss provisions. 3. Product mix driver: Wealth management and mortgage fee income contributing to non-interest revenue offsets.",
+   "scenarios": [
+    "Stable top-line revenue performance within the $1.7B\u2013$1.9B range as regional economic activity remains steady.",
+    "Minor top-line contraction if deposit costs continue to drift upward relative to loan yields."
+   ],
+   "key_uncertainty": "Regional deposit beta stickiness and commercial real estate exposure trends in Southeastern markets.",
+   "evidence": [
+    "E22",
+    "E23",
+    "E24",
+    "E46",
+    "E47"
+   ]
+  },
+  {
+   "entity": "The Bank of New York Mellon Corporation (BK)",
+   "current_state": "SEC EDGAR XBRL (BK, Bank of New York Mellon Corp): quarterly revenue $5.940B for fiscal quarter ending 2026-06-30, filed 2026-07-31 (10-Q, tag InterestAndDividendIncomeOperating) [E25]; SEC EDGAR XBRL (BK): year-over-year quarterly revenue growth -10.0% ($6.602B quarter ending 2025-06-30 -> $5.940B ending 2026-06-30, both as filed) [E26]; Bank of New York Mellon Corporation (BNY) reported Q2 2026 total revenue of $5.7 billion, an increase of 13% year-over-year [E48].",
+   "reference_class": "Global custody, asset servicing, and investment management institutions with fee-dominant revenue models and large securities portfolios, displaying quarterly revenue trails between $5.82B and $6.60B [E27].",
+   "mechanisms": "1. Trading and fee cycle driver: Assets under custody and administration (AUC/A) fee generation driven by global equity and fixed-income market valuations. 2. Rate environment driver: Investment income from interest-bearing deposits placed with central banks and securities portfolios. 3. Schedule structure driver: Servicing fee schedules tied to client transaction volumes.",
+   "scenarios": [
+    "Revenue stabilization in the $5.7B\u2013$6.0B bracket supported by rising global asset valuations boosting fee income.",
+    "Revenue pressure if institutional client custody balances experience outflows or central bank deposit remuneration rates decline."
+   ],
+   "key_uncertainty": "The direction of global assets under custody and administration fee yields versus custody deposit levels.",
+   "evidence": [
+    "E25",
+    "E26",
+    "E27",
+    "E48",
+    "E49"
+   ]
+  },
+  {
+   "entity": "Morgan Stanley (MS)",
+   "current_state": "SEC EDGAR XBRL (MS, MORGAN STANLEY): quarterly revenue $21.348B for fiscal quarter ending 2026-06-30, filed 2026-08-04 (10-Q, tag RevenuesNetOfInterestExpense) [E28]; SEC EDGAR XBRL (MS): year-over-year quarterly revenue growth +27.1% ($16.792B quarter ending 2025-06-30 -> $21.348B ending 2026-06-30, both as filed) [E29]; Morgan Stanley reported Q2 2026 net revenues of $21.3 billion, a significant increase from $16.8 billion in the prior year [E39].",
+   "reference_class": "Tier-1 global investment banking and wealth management enterprises experiencing top-line acceleration, moving from a Q3 2024 trail of $15.38B to over $21.35B by mid-2026 [E30].",
+   "mechanisms": "1. Trading and fee cycle driver: Institutional securities underwriting, advisory, and fixed-income/equity trading revenues driving the +27.1% YoY growth [E29]. 2. Product mix driver: Wealth management net new assets and fee-based asset management revenue scaling. 3. Credit costs driver: Provisions for corporate lending and margin loan exposures.",
+   "scenarios": [
+    "Sustained quarterly revenues above $20B supported by robust capital markets activity and high wealth management fee generation.",
+    "Top-line contraction if global M&A and equity issuance pipelines experience sudden macro-driven freezes."
+   ],
+   "key_uncertainty": "The cyclical durability of investment banking underwriting pipelines and advisory fee realization rates.",
+   "evidence": [
+    "E28",
+    "E29",
+    "E30",
+    "E39",
+    "E40"
+   ]
+  }
+ ]
+}
